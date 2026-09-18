@@ -1,0 +1,14 @@
+{
+    "markdown-pdf.styles": [
+        "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css"
+    ],
+    "markdown-pdf.includeDefaultStyles": true,
+    "markdown-pdf.margin.top": "20mm",
+    "markdown-pdf.margin.bottom": "20mm",
+    "markdown-pdf.margin.left": "20mm",
+    "markdown-pdf.margin.right": "20mm",
+    "markdown-pdf.format": "A4",
+    "markdown-pdf.displayHeaderFooter": true,
+    "markdown-pdf.headerTemplate": "<div></div>",
+    "markdown-pdf.footerTemplate": "<div style='font-size:9px; width:100%; text-align:center;'>Página <span class='pageNumber'></span> de <span class='totalPages'></span></div>"
+}
