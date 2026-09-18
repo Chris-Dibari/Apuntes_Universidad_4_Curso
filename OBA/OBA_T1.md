@@ -10,4 +10,4 @@
 
 ## Índice de la asignatura:
 
-- TEMA 1: Ecosistemas
+- TEMA 1:
