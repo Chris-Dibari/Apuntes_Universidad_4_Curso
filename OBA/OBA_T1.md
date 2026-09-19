@@ -8,7 +8,7 @@
 
 # Ecosistemas Marinos - 4 Curso CC del Mar
 
-## Índice de la asignatura:
+# Índice de la asignatura:
 
 - TEMA 1. Sistemas en océano profundo I: Aguas profundas y fondos abisales.
 - TEMA 2. Sistemas en océano profundo II: Fuentes Hidrotermales.
@@ -18,4 +18,5 @@
 - TEMA 6. Zonas húmedas someras: lagunas hipersalinas y salinas.
 - TEMA 7. Modelado de ecosistemas.
 
-# TEMA 1. Sistemas en océano profundo I: Aguas profundas y fondos abisales.
+
+## TEMA 1. Sistemas en océano profundo I: Aguas profundas y fondos abisales.
