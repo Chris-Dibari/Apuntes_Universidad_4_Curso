@@ -18,4 +18,4 @@
 - TEMA 6. Herramientas de visualización y análisis: NCVIEW, Ferret, CDO, Python, ODV.
 
 
-##  Oceanografía Física Aplicada. TEMA 1. Visualización de datos oceanográficos y atmosféricos.
+##  Oceanografía Física Aplicada - TEMA 1. Visualización de datos oceanográficos y atmosféricos.
