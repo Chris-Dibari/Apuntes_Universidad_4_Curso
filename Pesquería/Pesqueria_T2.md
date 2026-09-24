@@ -6,10 +6,4 @@
   }
 </style>
 
-# Pesquería - 4 Curso CC del Mar
-
-## Índice de la asignatura:
-
-- TEMA 1. 
-- TEMA 2.
 
