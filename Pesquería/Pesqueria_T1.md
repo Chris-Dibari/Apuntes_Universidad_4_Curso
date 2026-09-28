@@ -75,5 +75,5 @@ A partir de los años 70 se estabilizan las capturas (colapso de la anchoveta pe
 
 Zonas con mayor concentración de pesca -> franja del globo de +45º a -45º.
 
-![alt text](<Imagenes-pesqueria/Captura de pantalla 2026-09-28 a las 19.36.49.png>)
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.36.49.png>)
 
