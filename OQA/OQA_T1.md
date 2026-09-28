@@ -10,10 +10,10 @@
 
 ## Índice de la asignatura:
 
-- TEMA 1. 
-- TEMA 2. 
-- TEMA 3. 
-- TEMA 4. 
-- TEMA 5. 
-
+- TEMA 1. Generación de perfiles verticales: reactividad en aguas superficiales y segregación en océano profundo.
+- TEMA 2. Modelos biogeoquímicos básicos.
+- TEMA 3. Ciclo del carbono inorgánico en el medio marino.
+- TEMA 4. Ciclos de nutrientes.
+- TEMA 5. Trazadores químicos en oceanografía.
+- TEMA 6. Acoplamiento biogeoquímico en el Atlántico Norte.
 
