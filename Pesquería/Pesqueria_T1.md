@@ -54,10 +54,9 @@ Los barcos se propulsaban con velas, las redes eran de esparto, los anzuelos no 
 En el siglo XIX hay un cambio importante en las técnicas y en el transporte: declive de menhanden y platija -> se introducen anzuelos de acero y cañones (empieza a aparecer el arpón).
 En 1902 se crea el Consejo Internacional para a Exploración del Mar (CIEM):
 
-
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 12.27.07.png>)
 
 Desarrollo de radares, ecosondas, sistemas de posicionamiento. Se mejoran motores.
 A partir de los años 70 se estabilizan las capturas (colapso de la anchoveta peruana).
 
 Zonas con mayor concentración de pesca -> franja del globo de +45º a -45º.
-
