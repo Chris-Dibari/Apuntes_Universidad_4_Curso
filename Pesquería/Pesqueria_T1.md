@@ -60,3 +60,4 @@ Desarrollo de radares, ecosondas, sistemas de posicionamiento. Se mejoran motore
 A partir de los años 70 se estabilizan las capturas (colapso de la anchoveta peruana).
 
 Zonas con mayor concentración de pesca -> franja del globo de +45º a -45º.
+
