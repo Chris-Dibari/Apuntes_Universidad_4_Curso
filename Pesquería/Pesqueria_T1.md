@@ -77,3 +77,20 @@ Zonas con mayor concentración de pesca -> franja del globo de +45º a -45º.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.36.49.png>)
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.39.33.png>)
+
+La combinación de radar satelital y AIS revela actividad pesquera que no aparece en los sistemas públicos de seguimiento. Asia concentra el 70 % de las detecciones de buques pesqueros del estudio.
+El 72–76 % De los buques pesqueros industriales estimados no figuraban en el seguimiento público. 
+Datos: 2017–2021 Publicado: 2024 Ausencia de señal pública no demuestra ilegalidad.
+
+Pesca en alta mar: En el estudio de 2018, China, España, Taiwán, Japón y Corea del Sur reunían más del 85 % del esfuerzo observado en alta mar.
+Las horas detectadas miden actividad, no capturas. La cobertura depende del uso y la recepción de AIS. Los límites de las ZEE reflejan distintos regímenes de acceso. Sin señal no significa sin pesca.
+
+Variación temporal de la actividad pesquera -> Las vedas y las festividades dejan señales recurrentes en la actividad. El seguimiento por radar también detecta el descenso asociado a la pandemia en 2020.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.42.43.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.43.08.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.43.39.png>)
+
