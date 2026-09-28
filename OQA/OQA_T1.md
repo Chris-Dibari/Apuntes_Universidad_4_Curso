@@ -17,3 +17,4 @@
 - TEMA 5. Trazadores químicos en oceanografía.
 - TEMA 6. Acoplamiento biogeoquímico en el Atlántico Norte.
 
+## Oceanografía Química Aplicada - TEMA 1. Generación de perfiles verticales: reactividad en aguas superficiales y segregación en océano profundo.
