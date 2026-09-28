@@ -107,4 +107,6 @@ Series temporales de capturas mundiales de pesquerías marinas reconstruidas (es
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.52.09.png>)
 
+**Que se pesca:**
+
 
