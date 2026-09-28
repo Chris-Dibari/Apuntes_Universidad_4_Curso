@@ -17,21 +17,35 @@
 - TEMA 3. El sector pesquero.
 - TEMA 4. Caladeros.
 
-**BLOQUE II:**
+**BLOQUE II: Prácticas pesqueras**
 
 - TEMA 5. Artes de pescas.
-- TEMA 6.  
-- TEMA 7
+- TEMA 6. Impactos de la actividad pesquera.
+- TEMA 7. Selectividad de las artes de pescas.
 
-**BLOQUE III:**
+**BLOQUE III: Ecología de las pesquerías**
 
-- TEMA 8.
-- TEMA 9.
-- TEMA 10.
+- TEMA 8. Factores abióticos y pesquerías.
+- TEMA 9. La alimentación.
+- TEMA 10. Interacciones bióticas y redes tróficas.
+
+**BLOQUE IV: Dinámica de poblaciones y modeloización en pesquerías**
+
+- TEMA 11. Introducción a la dinámica de poblaciones.
+- TEMA 12. Los modelos de producción.
+- TEMA 13. Crecimiento.
+- TEMA 14. La reproducción.
+- TEMA 15. Abundancia y mortalidad.
+- TEMA 16. El reclutamiento.
+- TEMA 17. Modelos analíticos.
+- TEMA 18. Las migraciones.
+
+**BLOQUE V: Evaluación y ordenación de recursos pesqueros**
+
+- TEMA 19. La evaluación de los stocks de especies pelágicas.
+- TEMA 20. Ordenación de los recursos pesqueros.
 
 ##  Pesquerías. TEMA 1. Introducción al estudio de las pesquerías.
-
-La actividad pesquera está afectada por varios factores como las interacciones bióticas, (capturas de especies, especies invasoras...), 
 
 Definiciones de pesca: integración de un recurso biológico regida por la ley del ser humano, con una serie de leyes socio-economicas dentro de un contexto geomorfológico y oceanográfico determinado.
 En función de los diferentes lugares, se usan una serie de artes de pescas u otras (pesca a gran escala, técnicas tradicionales...).
@@ -60,3 +74,6 @@ Desarrollo de radares, ecosondas, sistemas de posicionamiento. Se mejoran motore
 A partir de los años 70 se estabilizan las capturas (colapso de la anchoveta peruana).
 
 Zonas con mayor concentración de pesca -> franja del globo de +45º a -45º.
+
+![alt text](<Imagenes-pesqueria/Captura de pantalla 2026-09-28 a las 19.36.49.png>)
+
