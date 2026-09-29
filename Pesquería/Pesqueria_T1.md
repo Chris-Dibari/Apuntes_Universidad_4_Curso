@@ -128,3 +128,8 @@ La anchoveta tiene mas altibajos en las capturas (asociadas con el fenomeno del 
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 9.12.52.png>)
 
+Porcentaje muy pequeño pero muy importante el de los tiburones y rayas -> especies en declino.
+Porcentaje importante de especies no identificada -> no nos podemos fiar realmente de los porcentajes puesto que se ven alterados.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 9.16.20.png>)
+
