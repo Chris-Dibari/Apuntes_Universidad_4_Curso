@@ -104,16 +104,24 @@ La evolución de cuanto se pesca depende de los varios paises: la primera linea 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 8.54.05.png>)
 
 **Realmente, ¿son estables la capturas globales?**
-Series temporales de capturas mundiales de pesquerías marinas reconstruidas (es decir, incluidos los descartes) para 1950-2010 (Pauly y Zeller [5,6]) y estadísticas de desembarques de FishStat de la FAO para 1950-2014. Las líneas de tendencia de regresión presentadas cubren el período de tiempo que comienza en 1996 (año identificado como punto de ruptura en Pauly y Zeller [6]) al final de cada serie temporal respectiva. Ambas series de tiempo muestran una tendencia a la baja, con capturas reconstruidas disminuyendo a una tasa de 1,2 millones de toneladas anuales, mientras que los datos de la FAO disminuyen a una tasa de 0,2 millones de toneladas anuales.
+Series temporales de capturas mundiales de pesquerías marinas reconstruidas (es decir, incluidos los descartes) para 1950-2010 (Pauly y Zeller [5,6]) y estadísticas de desembarques de FishStat de la FAO para 1950-2014. Las líneas de tendencia de regresión presentadas cubren el período de tiempo que comienza en 1996 (año identificado como punto de ruptura en Pauly y Zeller [6]) al final de cada serie temporal respectiva. Ambas series de tiempo muestran una tendencia a la baja, con capturas reconstruidas **disminuyendo a una tasa de 1,2 millones de toneladas** anuales, mientras que los datos de la FAO disminuyen a una tasa de 0,2 millones de toneladas anuales.
+
+Los productos que se desembarcan incluyen los desechos (por normativa de tallas, inutilidad comercial y descartes generales).
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.50.06.png>)
 
+La pesca de pequeña escala constituye aprox. el 40% de la pesca total. Importante tener en cuenta la metodología para saber en todo momento que se está comparando y en que momento.
+
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.50.26.png>)
+
+Nos movemos en 3 capas: lo que los países declaran, los organismos regionales (datos científicos y no dependen de los países), y las reconstrucciones (lo que no nos dan as estadísticas basadas en desembarcos y declaraciones).
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.51.55.png>)
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.52.09.png>)
 
 **Que se pesca:**
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 9.10.16.png>)
 
 
