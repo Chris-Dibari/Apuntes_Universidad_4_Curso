@@ -41,3 +41,4 @@
 ##  Oceanografía Geológica Aplicada - TEMA 1. Introducción al estudio de los recursos minerales y energéticos marinos.
 
 La **reserva** es solamente el recurso que se puede explotar con la herramienta que tenemos hoy en día. El **recurso** es tanto la cantidad de material que tenemos disponible como el potencial presente.
+
