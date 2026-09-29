@@ -137,3 +137,5 @@ Problemática con las especies migratorias -> la legislación de una zona puede 
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 9.26.45.png>)
 
+Una de las pesquerías más vulnerables son las de algunas especies de aguas profunda, por tener muy baja productividad, tienen agregaciones localizadas de biomasa y por tanto fáciles de capturar. Son dificiles de evaluar puesto que hay pocos datos disponibles.
+
