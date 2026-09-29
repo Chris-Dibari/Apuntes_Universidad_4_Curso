@@ -69,3 +69,6 @@ Comportamiento cíclico: son retirados en aguas superficiales y vuelven a aparec
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 11.27.01.png>)
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 11.27.38.png>)
+
+**Los perfiles siempre son más acusados en el Pácifico que en el Atlántico:** 
