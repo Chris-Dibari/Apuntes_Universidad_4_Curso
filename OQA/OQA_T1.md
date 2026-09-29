@@ -57,4 +57,9 @@ Primera diferencia en las aguas oceánicas en los perfiles de elementos regenera
 
 ## 3. Clasificación de elementos según su reactvidad
 
+1. Compuestos biolimitantes. Se retiran de las aguas superficiales practicamente en su totalidad (desaparecen) y se regeneran en aguas profundas (reserva). ->  NO3-, HPO4 2-, SiO2, Fe, Zn, Cd, Co, Ge(OH)4
+
+2. Compuestos no biolimitantes. No tienden a reaccionar, igual proporción en aguas superficiales y profundas. Na, K, Rb, Cs, Mg, B, S, F, Cl, Br (gases nobles, Mo, W, V y U ¿?).
+
+3. Compuestos biointermedios. Solo se retira una parte de los elementos y no su totalidad. C, Ca, Ba, Ra, Sr, Ni, Cu, Se; (Ca – 1 %, C – 13%, Ba – 70%).
 
