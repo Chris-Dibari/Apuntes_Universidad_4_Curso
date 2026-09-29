@@ -1,6 +1,6 @@
 <style>
   img {
-    max-width: 40%; /* Ajusta el porcentaje según prefieras */
+    max-width: 60%; /* Tamaño */
     display: block;
     margin: 0 auto; /* Centra todas las fotos en la página del PDF */
   }
