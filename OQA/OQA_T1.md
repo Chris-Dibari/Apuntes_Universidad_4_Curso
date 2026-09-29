@@ -26,4 +26,9 @@ Minoritarios no reactivos también presentan relaciones constantes (Li, Rb, Cs, 
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 10.48.50.png>)
 
+En el diagrama aparece el bicarbnato puesto que constituye un 90% de las especies del carbónico.
+El ácido bórico participa en equilibrio de disociación en el agua de mar.
+
+Composición no homogénea de la mayor parte de los elementos minoritarios. Importancia en la caracterización de procesos de mezcla, biológicos o sedimentarios (trazadores).
+
 
