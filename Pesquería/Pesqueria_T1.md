@@ -122,6 +122,9 @@ Nos movemos en 3 capas: lo que los países declaran, los organismos regionales (
 
 **Que se pesca:**
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 9.10.16.png>)
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 9.10.16.png>) 
 
+La anchoveta tiene mas altibajos en las capturas (asociadas con el fenomeno del Niño).
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 9.12.52.png>)
 
