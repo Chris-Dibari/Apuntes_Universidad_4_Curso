@@ -96,6 +96,13 @@ Variación temporal de la actividad pesquera -> Las vedas y las festividades dej
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-28 a las 19.44.25.png>)
 
+La acuicultura no puede crecer de forma indefinida puesto que depende de muchos complementos (harina de pescado) que procede de la pesca. Se intentó con harina de insectos, pero lo que más renta en el rendimiento es la de pescado.
+
+El top 10 de los paises con más captura se mantiene bastanteestable, con China liderando con diferencia.
+La evolución de cuanto se pesca depende de los varios paises: la primera linea se corresponde con las no corregidas (puntos vacíos), los circulos negros incluyen las anchovetas y los triangulos incluye las correcciones, intentando ocupar los huecos que no tienen capturas (ej fenomeno del Niño).
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 8.54.05.png>)
+
 **Realmente, ¿son estables la capturas globales?**
 Series temporales de capturas mundiales de pesquerías marinas reconstruidas (es decir, incluidos los descartes) para 1950-2010 (Pauly y Zeller [5,6]) y estadísticas de desembarques de FishStat de la FAO para 1950-2014. Las líneas de tendencia de regresión presentadas cubren el período de tiempo que comienza en 1996 (año identificado como punto de ruptura en Pauly y Zeller [6]) al final de cada serie temporal respectiva. Ambas series de tiempo muestran una tendencia a la baja, con capturas reconstruidas disminuyendo a una tasa de 1,2 millones de toneladas anuales, mientras que los datos de la FAO disminuyen a una tasa de 0,2 millones de toneladas anuales.
 
