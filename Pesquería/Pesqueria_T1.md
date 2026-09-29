@@ -13,7 +13,7 @@
 **BLOQUE I: Introducción a las pesquerías**
 
 - TEMA 1. Introducción al estudio de las pesquerías.
-- TEMA 2. Las especies explotadas.
+- TEMA 2. Las especies de interés comercial.
 - TEMA 3. El sector pesquero.
 - TEMA 4. Caladeros.
 
