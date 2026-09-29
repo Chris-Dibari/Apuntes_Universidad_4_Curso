@@ -42,3 +42,14 @@ Composición no homogénea de la mayor parte de los elementos minoritarios. Impo
 Los elementos retirados son muy escasos (ej. Al, Pb..). La mayor parte de los elementos tiene perfiles de elementos regenerados. Nos centramos en ellos.
 La explicación de estos perfiles se deben a la incorporación al material particulado en aguas superficiales y liberación en aguas profundas (un mecanismo de incorporación pasiva de los elementos al material particulado es la adsorción). También se dan procesos de incorporación activa (ej. zooplancton). 
 
+- La materia orgánica se oxida;
+- Las estructuras duras tienden a la disolución.
+
+**Origen de la materia orgánica:**
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 11.09.30.png>)
+
+Tablas en porcentaje -> las partículas litogénicas es mayor a mayor profundidad:
+
+
+
