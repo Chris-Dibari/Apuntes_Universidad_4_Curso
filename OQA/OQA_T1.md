@@ -102,4 +102,8 @@ Normalmente hay dos especies de Fe -> el Fe2+ es más soluble porque precipita c
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.10.33.png>)
 
-Relación lineal muy clara -> a medida que la MO se va disolviendo se va liberando el Zn que contenía.
+Relación lineal muy clara -> a medida que la MO se va disolviendo se va liberando el Zn que contenía (izq).
+
+La sección en el Pácifico del Zn en **nm** -> elemento biolimitante con concentraciónes nulas en superficies, tiene un máx alrededor de 3000m.
+Realmente el contenido en Zn en las frustulas de las diatomeas es muy bajo (1-3%). Preservación de la materia orgánica en el interior de esqueletos externos de ópalo.
+La baja concentración de Zn en los océanos hace que otros elementos como **Cd y Co** formen parte de cofactores en enzimas y como elementos estructurales en proteínas.
