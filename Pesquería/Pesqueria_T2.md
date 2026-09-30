@@ -82,6 +82,15 @@ Importante recurso marino apto para el consumo humano. Habituales en la dieta: M
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.47.15.png>)
 
+Las poblaciones de cefalópodos muestran amplias fluctuaciones temporales de abundancia, principalmente porque:
+
+- Su crecimiento es rápido.
+- Alcanzan su madurez en 1 o 2 años.
+- Presentan poca superposición de generaciones.
+- Sus patrones de migración, así como el modo de vida de sus paralarvas, los hacen particularmente susceptibles a cambios de las condiciones oceanográficas, son muy sensibles a los cambios de temperatura.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.49.24.png>)
+
 **Cefalópodos:** pesquerías artesanales enfocadas normalmente a un consumo local, familiar o regional. Se utilizan adaptaciones de materiales locales, cambiando asas, redes etc... Suelen ser fruto de la tradición. Poteras -> formadas normalmente por muchos anzuelos unidos (ideal para la captura de los calamares). Conocimiento y registro de estas peqeurías se transmite de generación en generación.
 Pesquerías inddustriales -> son buques que requieren una inversión importante. Grupo atraído por la luz => sistemas de capturas basadas en muchas luces.
 Tema de selectividad del arte -> El arrastre puede capturar distintas especies de peces e invertebrados, incluidos calamares y pulpos. La retención depende de la malla, el diseño del arte y las características de los organismos. En el mercado los que se encuentran como calamares son realmente surimi (masas hechas con pescado que generalmente tiene buena calidad, pero que generalmente no son demandadas por el público). Muchos barcos llevan especialistas en surimi, para garantizar su calidad.
