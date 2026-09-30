@@ -81,3 +81,16 @@ El silicato (Si(OH)4) = SiO2-> Los procesos de disolución de la silice son más
 **Cuestiones:**
 - La concentración en superficie es practicamente cero (condición para que el elemento sea biolimitante). A medida que aumenta la profundidad va aumentando la concentración. Cuando el organismo ha muerto, la MOP empieza a caer y se liberan los compuestos.
 
+**eGEOTRACES** --> seleccionar el grupo de variables (Biogeoquímica por ej.) + seleccionar el trazador (fosfato por ej.) => aparecen los perfiles. En el Pácifico las variaciones son muchos más acusadas que en el Atlántico. Nos centramos en un transecto del Pácifico.
+**eWOCE** --> Elegir océano y visualización de transectos. Información más restringida.
+
+**Oxígeno:** Concentraciónes altas en la zona superficial debido fundamentalmente a dos procesos: masas de aguas en equilibrio con la atmosfera y fotosintesis. A medida que aumenta la profundidad va disminuyendo la concentración de O2 hasta un valor mínimo (máximo de liberación de los nutrientes asociados a la MOP).
+**Nitrato:** Tiene la misma distribución que la concentración de O2. En superficie es practicamente cero y a medida que el organismo muere y la MOP va cayendo y se oxida, el máx de concentración de nitrato coincide con el mínimo de concentración de O2. Proceso de segregación horizontal en el océano profundo.
+**Fosfato:** Concentración cero en superficie (biolimitante) y mismo comportamiento que los otros dos anteriores. Mismos perfiles puesto que está incluido como parte de la MOP.
+**Sílice:** En aguas superficiales hay condición de elemento biolimitante. Conforme vayan muriendose los organismos, los procesos de disolución son más lentos en este caso, por tanto los máximos ocurren a mayor profundidad comparado con los demás elementos.
+
+**Resto de elementos biolimitantes:**
+
+- Fe: nutriente necesario para muchos procesos. Esencial para el desarrollo del fitoplancton. Suele estar asociado a la MOP. Sus perfiles verticales son similares al fosfato tanto en el Atlántico como en el Pácifico. Evidencias experimentales de que está asociado a la MOP. En concreto límita la PP de grandes regiones del océano.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.02.03.png>)
