@@ -94,3 +94,12 @@ El silicato (Si(OH)4) = SiO2-> Los procesos de disolución de la silice son más
 - Fe: nutriente necesario para muchos procesos. Esencial para el desarrollo del fitoplancton. Suele estar asociado a la MOP. Sus perfiles verticales son similares al fosfato tanto en el Atlántico como en el Pácifico. Evidencias experimentales de que está asociado a la MOP. En concreto límita la PP de grandes regiones del océano.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.02.03.png>)
+
+Si el Fe estuviera unido a la MOP se esperaría un esquema como el del fosfato, sin embargo tiene un perfil vertical poco estructurado -> perfil en unidades **nm**.
+Normalmente hay dos especies de Fe -> el Fe2+ es más soluble porque precipita como hidróxido de hierro muy rapidamente. Tiende a oxidarse rapidamente (siempre que las condiciones lo permitan) a Fe3+. Tiene estabilidad en el sw puesto que se une a compuestos orgánico (MOP). Una vez que los organismos incorporan el Fe3+, este se reduce a Fe2+ dentro del fito. 
+
+- Zn: Elemento micronutriente participa en unos 300 sistemas enzimáticos involucrados en la fotosíntesis, adquisición de carbono, síntesis de proteínas y regulación celular. Asociado a la SiO2 biogénica (captación por diatomeas) -> cuando un elemento se incorpora a la MOP a un máx más profundo -> dentro de los esqueletos de diatomeas hay MO -> mientras que el esqueleto no esté disuelto, la MO está conservada dentro de él, al disolverse, los elementos se liberan.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.10.33.png>)
+
+Relación lineal muy clara -> a medida que la MO se va disolviendo se va liberando el Zn que contenía.
