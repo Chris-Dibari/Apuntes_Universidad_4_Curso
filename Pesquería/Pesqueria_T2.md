@@ -11,18 +11,54 @@
 
 La FAO clasifica las especies explotadas en 50 grupos en base a sus características biológicas, ecológicas y económicas. Además, hay 9 divisiones:
 
-- División 1.
-- División 2.
-- División 3.
-- División 4.
-- División 5.
-- División 6.
-- División 7.
-- División 8.
-- División 9.
+- División 1. Peces dulceacícolas.
+- División 2. Peces diádromos.
+- División 3. Peces marinos.
+- División 4. Crustáceos.
+- División 5. Moluscos.
+- División 6. Mamíferos acuáticos.
+- División 7. Miscelánea de animales acuáticos.
+- División 8. Miscelánea de productos animales acuáticos.
+- División 9. Plantas acuáticas.
 
 Deben cumplirse 3 condiciones esenciales para la explotación pesquera: **agrupación** en números, el recurso debe ser lo suficientemente consistente para que haya rentabilidad. **Accesibilidad a loa caladeros** que permitan su explotación. **Demanda** por parte del consumidor, puesto que de lo contrario es inútil. Caso de la corvina americana como especie envasora -> intento de revalorización de la especie para que haya demanda.
 
+Los peces que se capturan en peso representan el 75% del total de los recursos pesqueros. Valor económico del 70%.
+
+### División 1. Peces dulceacuícolas.
+
+- Carpas, barbos...
+- Tilapias y otros cíclidos.
+- Miscelánea de peces dulceacuícolas.
+
+### División 2. Peces diádromos.
+
+- Esturiones y peces espátulas.
+- Anguílas.
+- Salmonidos.
+...
+
+### División 3. Peces marinos.
+
+- LENGUADOS, PLATIJAS, HALIBUT, FLETAN... (PLEURONECTIFORMES).
+- BACALAOS, MERLUZAS, EGLEFINOS... (GADIDAE, MORIDAE...)
+- MISCELÁNEA DE PECES COSTEROS.
+- MISCELÁNEA DE PECES DEMERSALES.
+- ARENQUES, SARDINAS, BOQUERONES.
+- ATUNES, BONITOS, PEZ ESPADA (GRANDES PELÁGICOS MIGRADORES).
+- MISCELÁNEA DE PECES PELÁGICOS.
+- TIBURONES, RAYAS Y QUIMERAS (CONDRICTIOS).
+- PECES MARINOS NO IDENTIFICADOS.
+
+### División 4. Crustáceos.
+
+- CENTOLLOS, CANGREJOS.
+- LANGOSTA, BOGAVANTE.
+- GAMBAS, CAMARONES, LANGOSTINOS.
+- KRILL Y CRUSTACEOS PLANCTÓNICOS.
+- MISCELANEA DE CRUSTÁCEOS MARINOS.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.43.31.png>)
 
 
 
