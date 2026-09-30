@@ -74,7 +74,8 @@ UTILIZACIÓN: como alimento (Urondrosia reniformis), para obtener productos indu
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.07.58.png>)
 
-**Explotación de recursos balleneros:** En muchos casos el consumo de cetáceos se daba relacionadas con los varamientos o de caza activa (normalmente caza costera, relacionada con momentos en los que las ballenas se acercaban a costa para la epóca de cría). Muchas comunidades aprovechaban cetáceos que llegaban a la costa, a menudo ya muertos. Lo más importante que se extraía de las ballenas era el aceite. Utilizaban redes, arpones (desde embarcaciones pequeñas), lanzas con puntas envenenadas con sustancias naturales. En el siglo XI empieza a haber un desarrollo importante en la caza de la ballena vasca (más fácil de remorcar puesto que una vez arponada flotaba en superficie). Las capturas se producían desde embarcaciones distintas (varios tipos). Se pasó de los arpones manuales a los de disparo automático. Ballenas explotadas principalmente:
+## Explotación de recursos balleneros:
+En muchos casos el consumo de cetáceos se daba relacionadas con los varamientos o de caza activa (normalmente caza costera, relacionada con momentos en los que las ballenas se acercaban a costa para la epóca de cría). Muchas comunidades aprovechaban cetáceos que llegaban a la costa, a menudo ya muertos. Lo más importante que se extraía de las ballenas era el aceite. Utilizaban redes, arpones (desde embarcaciones pequeñas), lanzas con puntas envenenadas con sustancias naturales. En el siglo XI empieza a haber un desarrollo importante en la caza de la ballena vasca (más fácil de remorcar puesto que una vez arponada flotaba en superficie). Las capturas se producían desde embarcaciones distintas (varios tipos). Se pasó de los arpones manuales a los de disparo automático. Ballenas explotadas principalmente:
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.15.39.png>)
 
@@ -93,4 +94,8 @@ La ballena no interesaba como recurso medioambiental sino como un mejor balance 
 Equivalencia aproximada que se utilizó durante mucho tiempo en el mercado -> empieza a ver problemas con la legislación (cuota ligada al aceite), las capturas se centraban en las ballenas azules (mayor cantidad de aceite dado el mayor tamaño) => se produce un descenso en el stock. El rendimiento económico pesaba más que la conservación efectiva de cada población.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.24.29.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.26.07.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.27.26.png>)
 
