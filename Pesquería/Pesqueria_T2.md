@@ -78,4 +78,11 @@ UTILIZACIÓN: como alimento (Urondrosia reniformis), para obtener productos indu
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.15.39.png>)
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.16.50.png>)
+
+En el siglo XX la captura pasa de 2000 ballenas a más de 200000 (de 1900 a 1911). La expansión de la caza pelágica estuvo vinculada a la demanda de aceite. Las flotas operaban en mar abierto con dos embarcaciones: una capturaba y otra procesaba el animal. La mecanización y la capacidad de procesamiento ampliaron el alcance de la pesquería.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.19.25.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.20.10.png>)
 
