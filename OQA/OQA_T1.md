@@ -72,3 +72,12 @@ Comportamiento cíclico: son retirados en aguas superficiales y vuelven a aparec
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 11.27.38.png>)
 
 **Los perfiles siempre son más acusados en el Pácifico que en el Atlántico:** 
+
+- **Compuestos biolimitantes:** NO3-, HPO42-, Si(OH)4. La MOP suele oxidarse relativamente rápido (el mínimo de la concentración de O se corresponde con la posición de la termoclina permanente -1000m). Por tanto todos los elementos ligados a la MOP tendrán un máximo alrededor de esa profundidad.
+El silicato (Si(OH)4) = SiO2-> Los procesos de disolución de la silice son más lentos que los de disolución de MOP, por tanto el máximo se encontrará más profundo comparado con los elementos asociados a la MOP.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 10.48.16.png>)
+
+**Cuestiones:**
+- La concentración en superficie es practicamente cero (condición para que el elemento sea biolimitante). A medida que aumenta la profundidad va aumentando la concentración. Cuando el organismo ha muerto, la MOP empieza a caer y se liberan los compuestos.
+
