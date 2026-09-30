@@ -34,3 +34,16 @@ Deben cumplirse 3 condiciones esenciales para la explotación pesquera: **agrupa
 Pesquerías inddustriales -> son buques que requieren una inversión importante. Grupo atraído por la luz => sistemas de capturas basadas en muchas luces.
 Tema de selectividad del arte -> El arrastre puede capturar distintas especies de peces e invertebrados, incluidos calamares y pulpos. La retención depende de la malla, el diseño del arte y las características de los organismos. En el mercado los que se encuentran como calamares son realmente surimi (masas hechas con pescado que generalmente tiene buena calidad, pero que generalmente no son demandadas por el público). Muchos barcos llevan especialistas en surimi, para garantizar su calidad.
 
+En numerosas pesquerías de loligínidos se faena de día, cuando los calamares se concentran cerca del fondo. Sobre fondos accidentados pueden utilizarse redes que trabajan ligeramente por encima del fondo, reduciendo enganches y obstrucciones.
+
+Control de la deriva: Un ancla de capa o paracaídas de deriva reduce el desplazamiento y ayuda a mantener las líneas verticales.
+
+Durante mucho tiempo se usó agua oxígenada para blanquear a los cefalópodos.
+A nivel mundial se habla de casi 4 millones de toneladas, son una especie de gran interés pesquero. COMERCIO Y CONSERVACIÓN --> 7 % del valor.
+Del comercio mundial de productos de animales acuáticos en 2024. Fresco y congelado. La flota de altura y los buques congeladores participan en el suministro.
+
+### Divisón 6. Mamíferos acuáticos.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 12.55.36.png>)
+
+
