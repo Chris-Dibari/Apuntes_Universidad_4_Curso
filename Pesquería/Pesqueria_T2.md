@@ -86,3 +86,11 @@ En el siglo XX la captura pasa de 2000 ballenas a más de 200000 (de 1900 a 1911
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.20.10.png>)
 
+La ballena no interesaba como recurso medioambiental sino como un mejor balance entre la economía del mercado global -> Convención de Ginebra.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.22.40.png>)
+
+Equivalencia aproximada que se utilizó durante mucho tiempo en el mercado -> empieza a ver problemas con la legislación (cuota ligada al aceite), las capturas se centraban en las ballenas azules (mayor cantidad de aceite dado el mayor tamaño) => se produce un descenso en el stock. El rendimiento económico pesaba más que la conservación efectiva de cada población.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.24.29.png>)
+
