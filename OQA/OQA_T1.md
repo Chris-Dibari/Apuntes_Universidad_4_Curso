@@ -122,4 +122,9 @@ A medida que se va disolviendo la MOP de las diatomeas, se libera una cantidad a
 
 ### Compuestos biointermedios:
 
-C y Ca son compuestos mayoritarios -> el C en superficie es más bajo (aunque no cero, por tanto ya no es biolimitante) y la concentración es más baja debido a los procesos (fotosíntesis) 
+C y Ca son compuestos mayoritarios -> el C en superficie es más bajo (aunque no cero, por tanto ya no es biolimitante) y la concentración es más baja debido a los procesos (consumo de C por fotosíntesis) Una vez que la MOP va cayendo, se oxida y alcanza un máx alrededor de 1000m. Disolución de CaCO3 es más profunda.
+La disolución del Ca está asociada a la disolución de partículas de CaCO3 -> variaciones muy pequeñas.
+
+Las variaciones de C son más grandes que las de Ca puesto que el C forma parte de más procesos. La concentración de C es más elevada y por tanto las variaciones expeimentan más peso para el caso de este elemento.
+
+- Ba (Ra): CaCO3 biogénico (foraminíferos). Acumulación como barita en tejidos orgánicos. 
