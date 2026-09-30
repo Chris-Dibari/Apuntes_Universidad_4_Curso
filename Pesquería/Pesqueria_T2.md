@@ -60,3 +60,17 @@ Perlas, madreperlas, conchas, caparazones...
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.01.13.png>)
 
+**Esponjas:** Extracción: Submarinistas con redes de arrastre y horquillas o tridentes, con o sin escafandra, con dragas especies (este sistema arrasa los fondos de esponjas, sin distinción de tamaño, y los productos recogidos se hallan, muchas veces, en mal estado).
+UTILIZACIÓN: como alimento (Urondrosia reniformis), para obtener productos industriales, esponjas baños.
+
+### División 9. Plantas acuáticas.
+
+- Algas pardaas: Principalmente marinas. Gran desarrollo en costas rocosas frías y templadas de ambos hemisferios. Incluyen las algas de mayor tamaño. Especies anuales o perennes; algunas forman bosques submarinos. Desde el intermareal al submareal iluminado. La distribución depende de la luz y de la especie. Alimentación: frescas o procesadas. Extracción de alginatos: espesantes, gelificantes y estabilizantes.
+- Algas rojas: Desde aguas frías hasta tropicales. Muchas especies toleran poca luz y ocupan zonas profundas. Del intermareal al submareal. Las necesidades ambientales y el ritmo de crecimiento varían entre especies.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.07.15.png>)
+
+- Algas verdes: Algas verdes en ambientes marinos, de agua dulce y terrestres. Las macroalgas marinas de este grupo son principalmente bentónicas. Su profundidad depende de la luz y de la especie. 
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.07.58.png>)
+
