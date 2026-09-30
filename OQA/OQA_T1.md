@@ -107,3 +107,19 @@ Relación lineal muy clara -> a medida que la MO se va disolviendo se va liberan
 La sección en el Pácifico del Zn en **nm** -> elemento biolimitante con concentraciónes nulas en superficies, tiene un máx alrededor de 3000m.
 Realmente el contenido en Zn en las frustulas de las diatomeas es muy bajo (1-3%). Preservación de la materia orgánica en el interior de esqueletos externos de ópalo.
 La baja concentración de Zn en los océanos hace que otros elementos como **Cd y Co** formen parte de cofactores en enzimas y como elementos estructurales en proteínas.
+
+- Cd: Elemento micronutriente (cofactor de sistemas enzimaticos: anhidrasa carbónica dependiente del Cd). Incorporación a la MOP. Cuando el fito tiende a buscar fosfato el Cd también viene asimilado puesto que en sw tiende a estabilizarse con dicho elemento. Además hay incorporación al CaCO3 biogénico. A medida que los esqueletos se van disolviendo, también se liberan ciertas cantidades de Cd.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.17.13.png>)
+
+- Co: Elemento micronutriente: formación de vitamina B₁₂ (Síntesis de ADN, metabolismo de aminoácidos, división celular, crecimiento fitoplanctónico). Incorporación a la MOP. Se representa en el transecto en picomolar (pM). Hay un máximo en aguas más superficiales.
+
+- Ge(OH)4: Parece ser que tiene un papel activo en la formación de la sílice biogénica.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.22.27.png>)
+
+A medida que se va disolviendo la MOP de las diatomeas, se libera una cantidad asociada de Ge(OH)4. 
+
+### Compuestos biointermedios:
+
+C y Ca son compuestos mayoritarios -> el C en superficie es más bajo (aunque no cero, por tanto ya no es biolimitante) y la concentración es más baja debido a los procesos (fotosíntesis) 
