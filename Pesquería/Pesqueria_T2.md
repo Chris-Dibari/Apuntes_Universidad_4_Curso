@@ -60,11 +60,27 @@ Los peces que se capturan en peso representan el 75% del total de los recursos p
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.43.31.png>)
 
+### División 5. Moluscos.
 
+GRUPO MÁS EXTENDIDO DESPUÉS DE LOS INSECTOS CON UNAS 200.000 ESPECIES.
 
+- MOLUSCOS DULCEACUICOLAS.
+- OREJAS DE MAR, BÍGAROS.
+- OSTRAS Y OSTIONES.
+- MEJILLONES.
+- VIEIRAS.
+- ALMEJAS, COQUINAS...
+- CALAMARES, CHOCOS, PULPOS.
 
+**Cefalópodos**
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.45.45.png>)
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.46.45.png>)
+
+Importante recurso marino apto para el consumo humano. Habituales en la dieta: Mediterráneo y Lejano Oriente, especialmente Japón.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.47.15.png>)
 
 **Cefalópodos:** pesquerías artesanales enfocadas normalmente a un consumo local, familiar o regional. Se utilizan adaptaciones de materiales locales, cambiando asas, redes etc... Suelen ser fruto de la tradición. Poteras -> formadas normalmente por muchos anzuelos unidos (ideal para la captura de los calamares). Conocimiento y registro de estas peqeurías se transmite de generación en generación.
 Pesquerías inddustriales -> son buques que requieren una inversión importante. Grupo atraído por la luz => sistemas de capturas basadas en muchas luces.
