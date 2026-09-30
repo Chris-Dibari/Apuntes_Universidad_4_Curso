@@ -46,4 +46,17 @@ Del comercio mundial de productos de animales acuáticos en 2024. Fresco y conge
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 12.55.36.png>)
 
+Hay otros grupos que forman parte de esta división -> cachalotes, focas, delfines...
+
+### División 7. Miscelánea de animales acuaticos.
+
+Forman parte cocodrilos, erizos, tortugas, tunicados, arácnidos marinos...
+
+Pesquerías muy localizadas, de extracción principalmente de erizos de mar y en menor medida holoturias (archipiélago Malayo, Australia, Filipinas, Asia Tropical y California) y estrellas. De los erizos se consumen las gónadas (5 dispuestas radialmente) por lo que su extracción se realiza en el periodo de maduración. Viven en las costas rocosas principalmente en el intermareal Se comercializan en fresco y en conserva. La captura mundial ronda las 100.000 T. Extracción: fundamentalmente buzos.
+
+### División 8. Miscelánea de productos de animales acuáticos.
+
+Perlas, madreperlas, conchas, caparazones...
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.01.13.png>)
 
