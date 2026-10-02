@@ -138,4 +138,13 @@ En aguas superficiales, se ha encontrado una relación significativa del Sr con 
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.53.07.png>)
 
-- Ni: 
+Aumento progresivo con la profundidad -> formación de complejos con la MOD y procesos de adsorción. El Cu no queda libre sino que se incorpora a otros compuestos debido a su reactividad -> no posee un perfil típico.
+
+- Ni: Cofactor de enzimas, asociado a la MOP. Tiene perfil tipo nutriente. Analizando las variaciones de Ni tanto con fosfato como con silicatos: la relación con el fosfato es más lineal.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.56.49.png>)
+
+El niquel una vez que se libera participa en distintos procesos.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.57.29.png>)
+
