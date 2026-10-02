@@ -31,3 +31,12 @@ Marea de pesca -> Intervalo de tiempo que transcurre desde que el buque sale de 
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.20.01.png>)
 
+El concepto de metier es una combinación de varios factores (no una sola componente).
+Proporción de embarcaciones con y sin motor: en Europa no están presente barcos sin motor (excluyendo la pesca recreativa) mientras que en Africa la mayoría de las embarcaciones son sin motor. A nivel del tamaño, a partir de los 24 m de eslora se requiere mucha más legislación.
+
+**Importancia de la pesca a pequeña escala:**
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.27.22.png>)
+
+Al tener una pesca a gran escala se habla de barcos tecnificados, no se necesita tanta gente. Los trabajadores empleados en pesquerías a pequeña escala son > 12 millones. La captura por transformación se refiere a peces que se capturan para harina de pescado u otras cosas no relacionadas con consumo humano directo. El consumo de combustible no está en toneladas sino que en barriles.
+Bycatch -> Cantidad de animales que se capturan que no son las principales presas que se querían capturar, son los animales capturados accidentalmente. 
