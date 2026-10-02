@@ -188,4 +188,5 @@ Resultado gráfico:
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.28.28.png>)
 
-A medida que aumenta la profundidad aumentan las partículas litogénicas (resultados en %, no aumentan en sí dichas partículas sino que van disminuyendo las demás componentes dado los procesos de disolución).
+A medida que aumenta la profundidad aumentan las partículas litogénicas (resultados en %, no aumentan en sí dichas partículas sino que van disminuyendo las demás componentes dado los procesos de disolución). Misma cuestión para el CaCO3 en el Pácifico (es la última componente que se disuelve, por tanto aumenta su porcentaje con la profundidad por desaparición de las demás componentes).
+
