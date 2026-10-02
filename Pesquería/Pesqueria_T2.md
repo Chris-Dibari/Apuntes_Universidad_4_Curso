@@ -160,3 +160,11 @@ Equivalencia aproximada que se utilizó durante mucho tiempo en el mercado -> em
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.27.26.png>)
 
+Se llega a una etapa de limitación de la gestión inicial: La Convención combinaba la conservación de las poblaciones con el desarrollo de la industria ballenera. Los intereses de las compañías balleneras dificultaban las medidas de protección. **MAYORÍA DE ¾** --> Las modificaciones del anexo requieren tres cuartas partes de los votos emitidos. Vinculantes para los Estados que no formulan objeción conforme al procedimiento. No vinculantes. Su aplicación depende de la actuación de los Estados.
+
+DÉCADA DE 1960 -> La explotación industrial había reducido gravemente numerosas poblaciones de grandes ballenas.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.47.46.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.48.04.png>)
+
