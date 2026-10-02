@@ -64,9 +64,19 @@ Según su origen -> se estudia si son renovables (E. solar, eólica, biomasa, ge
 
 **No renovables:**
 - **Convencionales** -> Carbón, petróleo (muy poca fuente en España presentes en Canarias), gas natural, nuclear (fisión de uranio);
-El gran problema del petróleo es que se va agotando, todo lo que tenemos está hecho con petróleo y sus derivados.
-El uranio en los procesos de fisión viene bombardeado con neutrones o neutrinos de forma que se "divida" en partes energeticamente iguales. Al llegar a una cantidad de energía que se puede explotar se vuelve un residuo radiactivo, por lo tanto 
-- **No convencionales** -> Arenas asfálticas, lutitas bituminosas, hidratos de gas, nuclear (fisión Th).
+El gran problema del petróleo es que se va agotando, todo lo que tenemos está hecho con petróleo y sus derivados. El petróleo tiene una parte orgánica (bitumen) desde la cual se saca el petróleo y una parte más inorgánica (kerógeno).
+El uranio en los procesos de fisión viene bombardeado con neutrones o neutrinos de forma que se "divida" en partes energeticamente iguales. Al llegar a una cantidad de energía que se puede explotar y lo que sobra se vuelve un residuo radiactivo (problema con el almacenamiento de estos residuos).
+Hoy en día los convencionales ya se están agotando y se necesita buscar otros recursos no convencionales.
+- **No convencionales** -> Arenas asfálticas: son unas arenas que tienen bitumen (pegadas a las arenas, que de hecho son negras). Por tanto pasan por un proceso de destilación y se puede extraer petroléo.
+
+Lutitas bituminosas: concepto parecido al anterior, pero se trata de rocas que, entre sus capas, se concentra una cantidad de bitumen (proceso más caro que en el caso de las arenas).
+
+Hidratos de gas: almacenamientos de materia orgánica -> generación de metano, que por las condiciones a las que está expuesto (T, Hum...) se genera hielo, quedando atrapado en esas estructuras. Generalmente a día de hoy no se explota por la gran reactividad que tiene (está en fase de estudio). Pequeñas explotaciones en Noruega. Gran potencial de futuro recurso energético.
+ 
+Nuclear (fisión Th): Se utiliza el Th que es otro isótopo radiactivo que tiene vida más larga (más energía) y no es tan violento. Presentes mayores cantidades comparadas con las del U.
+
+Fusión del H: problemática asociada con la cantidad explotable en cuestión.
+
 
 
 
