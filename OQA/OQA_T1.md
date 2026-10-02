@@ -127,4 +127,15 @@ La disolución del Ca está asociada a la disolución de partículas de CaCO3 ->
 
 Las variaciones de C son más grandes que las de Ca puesto que el C forma parte de más procesos. La concentración de C es más elevada y por tanto las variaciones expeimentan más peso para el caso de este elemento.
 
-- Ba (Ra): CaCO3 biogénico (foraminíferos). Acumulación como barita en tejidos orgánicos. 
+- Ba (Ra): CaCO3 biogénico (foraminíferos). Acumulación como barita en tejidos orgánicos.
+- Sr: Fundamentalmente se encuentra formando parte de los esqueletos de CaCO3 biogénico. Hay poca información en la bibliografía, tiene una tendencia más o menos similar a la del Ca. Representando Sr frente al Ca -> a medida que los esqueletos se van disolviendo, se libera cierta cantidad de Sr (gráfica izq).
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.46.39.png>)
+
+En aguas superficiales, se ha encontrado una relación significativa del Sr con el PO4. Tiene que ver con unos radiolarios (poseen esqueletos externos de sulfato de Sr) => los Acantharia. Se rodean de microalgas simbiónte -> por esta razón en aguas superficiales el Sr está asociado a MOP.
+
+- Cu: Es un elemento muy utilizado por los organismos marinos como cofactor de enzimas (citocromo c oxidasa - respiración celular), fotosíntesis (transporte electrónico) y transporte de O en invertebrados -> sin embargo, su tendencia no se parece nada a los perfiles tipo nutrientes (a pesar de que dado lo anterior parecería que el Cu esté asociado a la MOP). Hay relación con la sílice, esto se debe a que en el interior de los esqueletos de las diatomeas está presente Si.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.53.07.png>)
+
+- Ni: 
