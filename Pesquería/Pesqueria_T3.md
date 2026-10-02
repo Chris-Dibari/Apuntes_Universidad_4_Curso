@@ -39,4 +39,14 @@ Proporción de embarcaciones con y sin motor: en Europa no están presente barco
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.27.22.png>)
 
 Al tener una pesca a gran escala se habla de barcos tecnificados, no se necesita tanta gente. Los trabajadores empleados en pesquerías a pequeña escala son > 12 millones. La captura por transformación se refiere a peces que se capturan para harina de pescado u otras cosas no relacionadas con consumo humano directo. El consumo de combustible no está en toneladas sino que en barriles.
-Bycatch -> Cantidad de animales que se capturan que no son las principales presas que se querían capturar, son los animales capturados accidentalmente. 
+Bycatch -> Cantidad de animales que se capturan que no son las principales presas que se querían capturar, son los animales capturados accidentalmente. Es un concepto distinto a **descarte**. En el bycatch se pueden comercializar incluso las especies accidentales.
+
+**Empleo** -> en la pesca a pequeña escala (SSF) 492 millones de personas dependen, al menos parcialmente, del trabajo en SSF.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.34.28.png>)
+
+De los 37 mT, el 68% de las especies proviene de aguas marinas, mientras que e 32% de aguas continentales.
+77,000 millones de USD of total income come from the first sale of SSF catch.
+- Capturas en aguas marinas representa 58,000 millones USD.
+- Capturas en aguas continentales 19,000 millones USD.
+
