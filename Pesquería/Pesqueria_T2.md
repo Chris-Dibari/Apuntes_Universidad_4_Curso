@@ -168,3 +168,9 @@ DÉCADA DE 1960 -> La explotación industrial había reducido gravemente numeros
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.48.04.png>)
 
+Hay una retirada de la caza comercial (por declive de especies y prohibiciones nacionales). En el caso de Brasil hubo prohibición comercial, pero no de captura. En EEUU la MMPA prohíbe, con excepciones (tipo fines científicos), la captura e importación de mamíferos marinos y sus productos.
+
+En el 1972 se abandona la UBA y de ahí comienza un nuevo procedimiento de gestión que se basa en el rendimiento máximo sostenible => Mayor captura media que puede mantenerse a largo plazo bajo unas condiciones ambientales determinadas. Captura sostenible = puedo mantenerla a lo largo del tiempo.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.51.26.png>)
+
