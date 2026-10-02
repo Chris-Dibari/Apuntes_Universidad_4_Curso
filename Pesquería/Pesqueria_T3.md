@@ -50,3 +50,5 @@ De los 37 mT, el 68% de las especies proviene de aguas marinas, mientras que e 3
 - Capturas en aguas marinas representa 58,000 millones USD.
 - Capturas en aguas continentales 19,000 millones USD.
 
+En la SSF también hay más participación por parte de las mujeres en la cadena de valor.
+
