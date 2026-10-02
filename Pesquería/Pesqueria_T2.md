@@ -174,3 +174,15 @@ En el 1972 se abandona la UBA y de ahí comienza un nuevo procedimiento de gesti
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.51.26.png>)
 
+**Regímenes distintos de captura:**
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.52.35.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.54.05.png>)
+
+Principio de precaución -> ante la posible falta de datos o incapacidad para estudios científicos, se da un margen por defecto (si se puede pescar hasta 200 t, al no tener datos, se pesca menos). Importancia en la calidad de los datos, en muchos casos se trabaja con estimaciones. Importancia de seguimiento para estimaciones de abundancia mediante censos periódicos y registros de captura.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.58.08.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.58.21.png>)
+
