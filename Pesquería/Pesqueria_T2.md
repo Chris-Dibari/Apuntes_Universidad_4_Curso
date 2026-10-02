@@ -186,3 +186,10 @@ Principio de precaución -> ante la posible falta de datos o incapacidad para es
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.58.21.png>)
 
+Existen una serie de santuarios para ballenas, protección de tipo espacial, en el momento en que los animales salgan de ese espacio pierden dicha protección. El océano Índico (Abarca el océano Índico hasta los 55° S.) y el Austral (Comprende aguas alrededor de la Antártida) son los principales santuarios.
+
+Prohíben la caza comercial en el ámbito de sus disposiciones -> Su designación no elimina otras amenazas: capturas accidentales, colisiones, contaminación o cambio climático.
+
+En 2001: La Comisión Ballenera Internacional (CBI) dejó de lado una decisión sobre admitir la caza controlada, manteniendo la moratoria. Para que la moratoria sea levantada, se requiere una mayoría del 75%, pero los países que defienden esta medida (como Japón o Noruega) aún no han logrado conseguir ese porcentaje de respaldo.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.00.56.png>)
