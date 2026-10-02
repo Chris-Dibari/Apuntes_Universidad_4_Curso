@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pesqueria_T2.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css" type="text/css">
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<style>
+  img {
+    max-width: 60%; /* Tamaño */
+    display: block;
+    margin: 0 auto; /* Centra todas las fotos en la página del PDF */
+  }
+</style>
+<h2 id="pesquer%C3%ADas-tema-2-las-especies-de-inter%C3%A9s-comercial">Pesquerías. TEMA 2. Las especies de interés comercial.</h2>
+<p>La FAO clasifica las especies explotadas en 50 grupos en base a sus características biológicas, ecológicas y económicas. Además, hay 9 divisiones:</p>
+<ul>
+<li>División 1. Peces dulceacícolas.</li>
+<li>División 2. Peces diádromos.</li>
+<li>División 3. Peces marinos.</li>
+<li>División 4. Crustáceos.</li>
+<li>División 5. Moluscos.</li>
+<li>División 6. Mamíferos acuáticos.</li>
+<li>División 7. Miscelánea de animales acuáticos.</li>
+<li>División 8. Miscelánea de productos animales acuáticos.</li>
+<li>División 9. Plantas acuáticas.</li>
+</ul>
+<p>Deben cumplirse 3 condiciones esenciales para la explotación pesquera: <strong>agrupación</strong> en números, el recurso debe ser lo suficientemente consistente para que haya rentabilidad. <strong>Accesibilidad a loa caladeros</strong> que permitan su explotación. <strong>Demanda</strong> por parte del consumidor, puesto que de lo contrario es inútil. Caso de la corvina americana como especie envasora -&gt; intento de revalorización de la especie para que haya demanda.</p>
+<p>Los peces que se capturan en peso representan el 75% del total de los recursos pesqueros. Valor económico del 70%.</p>
+<h3 id="divisi%C3%B3n-1-peces-dulceacu%C3%ADcolas">División 1. Peces dulceacuícolas.</h3>
+<ul>
+<li>Carpas, barbos...</li>
+<li>Tilapias y otros cíclidos.</li>
+<li>Miscelánea de peces dulceacuícolas.</li>
+</ul>
+<h3 id="divisi%C3%B3n-2-peces-di%C3%A1dromos">División 2. Peces diádromos.</h3>
+<ul>
+<li>Esturiones y peces espátulas.</li>
+<li>Anguílas.</li>
+<li>Salmonidos.
+...</li>
+</ul>
+<h3 id="divisi%C3%B3n-3-peces-marinos">División 3. Peces marinos.</h3>
+<ul>
+<li>LENGUADOS, PLATIJAS, HALIBUT, FLETAN... (PLEURONECTIFORMES).</li>
+<li>BACALAOS, MERLUZAS, EGLEFINOS... (GADIDAE, MORIDAE...)</li>
+<li>MISCELÁNEA DE PECES COSTEROS.</li>
+<li>MISCELÁNEA DE PECES DEMERSALES.</li>
+<li>ARENQUES, SARDINAS, BOQUERONES.</li>
+<li>ATUNES, BONITOS, PEZ ESPADA (GRANDES PELÁGICOS MIGRADORES).</li>
+<li>MISCELÁNEA DE PECES PELÁGICOS.</li>
+<li>TIBURONES, RAYAS Y QUIMERAS (CONDRICTIOS).</li>
+<li>PECES MARINOS NO IDENTIFICADOS.</li>
+</ul>
+<h3 id="divisi%C3%B3n-4-crust%C3%A1ceos">División 4. Crustáceos.</h3>
+<ul>
+<li>CENTOLLOS, CANGREJOS.</li>
+<li>LANGOSTA, BOGAVANTE.</li>
+<li>GAMBAS, CAMARONES, LANGOSTINOS.</li>
+<li>KRILL Y CRUSTACEOS PLANCTÓNICOS.</li>
+<li>MISCELANEA DE CRUSTÁCEOS MARINOS.</li>
+</ul>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.43.31.png" alt="alt text"></p>
+<h3 id="divisi%C3%B3n-5-moluscos">División 5. Moluscos.</h3>
+<p>GRUPO MÁS EXTENDIDO DESPUÉS DE LOS INSECTOS CON UNAS 200.000 ESPECIES.</p>
+<ul>
+<li>MOLUSCOS DULCEACUICOLAS.</li>
+<li>OREJAS DE MAR, BÍGAROS.</li>
+<li>OSTRAS Y OSTIONES.</li>
+<li>MEJILLONES.</li>
+<li>VIEIRAS.</li>
+<li>ALMEJAS, COQUINAS...</li>
+<li>CALAMARES, CHOCOS, PULPOS.</li>
+</ul>
+<p><strong>Cefalópodos</strong></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.45.45.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.46.45.png" alt="alt text"></p>
+<p>Importante recurso marino apto para el consumo humano. Habituales en la dieta: Mediterráneo y Lejano Oriente, especialmente Japón.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.47.15.png" alt="alt text"></p>
+<p>Las poblaciones de cefalópodos muestran amplias fluctuaciones temporales de abundancia, principalmente porque:</p>
+<ul>
+<li>Su crecimiento es rápido.</li>
+<li>Alcanzan su madurez en 1 o 2 años.</li>
+<li>Presentan poca superposición de generaciones.</li>
+<li>Sus patrones de migración, así como el modo de vida de sus paralarvas, los hacen particularmente susceptibles a cambios de las condiciones oceanográficas, son muy sensibles a los cambios de temperatura.</li>
+</ul>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 14.49.24.png" alt="alt text"></p>
+<p><strong>Cefalópodos:</strong> pesquerías artesanales enfocadas normalmente a un consumo local, familiar o regional. Se utilizan adaptaciones de materiales locales, cambiando asas, redes etc... Suelen ser fruto de la tradición. Poteras -&gt; formadas normalmente por muchos anzuelos unidos (ideal para la captura de los calamares). Conocimiento y registro de estas peqeurías se transmite de generación en generación.
+Pesquerías inddustriales -&gt; son buques que requieren una inversión importante. Grupo atraído por la luz =&gt; sistemas de capturas basadas en muchas luces.
+Tema de selectividad del arte -&gt; El arrastre puede capturar distintas especies de peces e invertebrados, incluidos calamares y pulpos. La retención depende de la malla, el diseño del arte y las características de los organismos. En el mercado los que se encuentran como calamares son realmente surimi (masas hechas con pescado que generalmente tiene buena calidad, pero que generalmente no son demandadas por el público). Muchos barcos llevan especialistas en surimi, para garantizar su calidad.</p>
+<p>En numerosas pesquerías de loligínidos se faena de día, cuando los calamares se concentran cerca del fondo. Sobre fondos accidentados pueden utilizarse redes que trabajan ligeramente por encima del fondo, reduciendo enganches y obstrucciones.</p>
+<p>Control de la deriva: Un ancla de capa o paracaídas de deriva reduce el desplazamiento y ayuda a mantener las líneas verticales.</p>
+<p>Durante mucho tiempo se usó agua oxígenada para blanquear a los cefalópodos.
+A nivel mundial se habla de casi 4 millones de toneladas, son una especie de gran interés pesquero. COMERCIO Y CONSERVACIÓN --&gt; 7 % del valor.
+Del comercio mundial de productos de animales acuáticos en 2024. Fresco y congelado. La flota de altura y los buques congeladores participan en el suministro.</p>
+<h3 id="divis%C3%B3n-6-mam%C3%ADferos-acu%C3%A1ticos">Divisón 6. Mamíferos acuáticos.</h3>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 12.55.36.png" alt="alt text"></p>
+<p>Hay otros grupos que forman parte de esta división -&gt; cachalotes, focas, delfines...</p>
+<h3 id="divisi%C3%B3n-7-miscel%C3%A1nea-de-animales-acuaticos">División 7. Miscelánea de animales acuaticos.</h3>
+<p>Forman parte cocodrilos, erizos, tortugas, tunicados, arácnidos marinos...</p>
+<p>Pesquerías muy localizadas, de extracción principalmente de erizos de mar y en menor medida holoturias (archipiélago Malayo, Australia, Filipinas, Asia Tropical y California) y estrellas. De los erizos se consumen las gónadas (5 dispuestas radialmente) por lo que su extracción se realiza en el periodo de maduración. Viven en las costas rocosas principalmente en el intermareal Se comercializan en fresco y en conserva. La captura mundial ronda las 100.000 T. Extracción: fundamentalmente buzos.</p>
+<h3 id="divisi%C3%B3n-8-miscel%C3%A1nea-de-productos-de-animales-acu%C3%A1ticos">División 8. Miscelánea de productos de animales acuáticos.</h3>
+<p>Perlas, madreperlas, conchas, caparazones...</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.01.13.png" alt="alt text"></p>
+<p><strong>Esponjas:</strong> Extracción: Submarinistas con redes de arrastre y horquillas o tridentes, con o sin escafandra, con dragas especies (este sistema arrasa los fondos de esponjas, sin distinción de tamaño, y los productos recogidos se hallan, muchas veces, en mal estado).
+UTILIZACIÓN: como alimento (Urondrosia reniformis), para obtener productos industriales, esponjas baños.</p>
+<h3 id="divisi%C3%B3n-9-plantas-acu%C3%A1ticas">División 9. Plantas acuáticas.</h3>
+<ul>
+<li>Algas pardaas: Principalmente marinas. Gran desarrollo en costas rocosas frías y templadas de ambos hemisferios. Incluyen las algas de mayor tamaño. Especies anuales o perennes; algunas forman bosques submarinos. Desde el intermareal al submareal iluminado. La distribución depende de la luz y de la especie. Alimentación: frescas o procesadas. Extracción de alginatos: espesantes, gelificantes y estabilizantes.</li>
+<li>Algas rojas: Desde aguas frías hasta tropicales. Muchas especies toleran poca luz y ocupan zonas profundas. Del intermareal al submareal. Las necesidades ambientales y el ritmo de crecimiento varían entre especies.</li>
+</ul>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.07.15.png" alt="alt text"></p>
+<ul>
+<li>Algas verdes: Algas verdes en ambientes marinos, de agua dulce y terrestres. Las macroalgas marinas de este grupo son principalmente bentónicas. Su profundidad depende de la luz y de la especie.</li>
+</ul>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.07.58.png" alt="alt text"></p>
+<h2 id="explotaci%C3%B3n-de-recursos-balleneros">Explotación de recursos balleneros:</h2>
+<p>En muchos casos el consumo de cetáceos se daba relacionadas con los varamientos o de caza activa (normalmente caza costera, relacionada con momentos en los que las ballenas se acercaban a costa para la epóca de cría). Muchas comunidades aprovechaban cetáceos que llegaban a la costa, a menudo ya muertos. Lo más importante que se extraía de las ballenas era el aceite. Utilizaban redes, arpones (desde embarcaciones pequeñas), lanzas con puntas envenenadas con sustancias naturales. En el siglo XI empieza a haber un desarrollo importante en la caza de la ballena vasca (más fácil de remorcar puesto que una vez arponada flotaba en superficie). Las capturas se producían desde embarcaciones distintas (varios tipos). Se pasó de los arpones manuales a los de disparo automático. Ballenas explotadas principalmente:</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.15.39.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.16.50.png" alt="alt text"></p>
+<p>En el siglo XX la captura pasa de 2000 ballenas a más de 200000 (de 1900 a 1911). La expansión de la caza pelágica estuvo vinculada a la demanda de aceite. Las flotas operaban en mar abierto con dos embarcaciones: una capturaba y otra procesaba el animal. La mecanización y la capacidad de procesamiento ampliaron el alcance de la pesquería.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.19.25.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.20.10.png" alt="alt text"></p>
+<p>La ballena no interesaba como recurso medioambiental sino como un mejor balance entre la economía del mercado global -&gt; Convención de Ginebra.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.22.40.png" alt="alt text"></p>
+<p>Equivalencia aproximada que se utilizó durante mucho tiempo en el mercado -&gt; empieza a ver problemas con la legislación (cuota ligada al aceite), las capturas se centraban en las ballenas azules (mayor cantidad de aceite dado el mayor tamaño) =&gt; se produce un descenso en el stock. El rendimiento económico pesaba más que la conservación efectiva de cada población.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.24.29.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.26.07.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-09-30 a las 13.27.26.png" alt="alt text"></p>
+<p>Se llega a una etapa de limitación de la gestión inicial: La Convención combinaba la conservación de las poblaciones con el desarrollo de la industria ballenera. Los intereses de las compañías balleneras dificultaban las medidas de protección. <strong>MAYORÍA DE ¾</strong> --&gt; Las modificaciones del anexo requieren tres cuartas partes de los votos emitidos. Vinculantes para los Estados que no formulan objeción conforme al procedimiento. No vinculantes. Su aplicación depende de la actuación de los Estados.</p>
+<p>DÉCADA DE 1960 -&gt; La explotación industrial había reducido gravemente numerosas poblaciones de grandes ballenas.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.47.46.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.48.04.png" alt="alt text"></p>
+<p>Hay una retirada de la caza comercial (por declive de especies y prohibiciones nacionales). En el caso de Brasil hubo prohibición comercial, pero no de captura. En EEUU la MMPA prohíbe, con excepciones (tipo fines científicos), la captura e importación de mamíferos marinos y sus productos.</p>
+<p>En el 1972 se abandona la UBA y de ahí comienza un nuevo procedimiento de gestión que se basa en el rendimiento máximo sostenible =&gt; Mayor captura media que puede mantenerse a largo plazo bajo unas condiciones ambientales determinadas. Captura sostenible = puedo mantenerla a lo largo del tiempo.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.51.26.png" alt="alt text"></p>
+<p><strong>Regímenes distintos de captura:</strong></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.52.35.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.54.05.png" alt="alt text"></p>
+<p>Principio de precaución -&gt; ante la posible falta de datos o incapacidad para estudios científicos, se da un margen por defecto (si se puede pescar hasta 200 t, al no tener datos, se pesca menos). Importancia en la calidad de los datos, en muchos casos se trabaja con estimaciones. Importancia de seguimiento para estimaciones de abundancia mediante censos periódicos y registros de captura.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.58.08.png" alt="alt text"></p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.58.21.png" alt="alt text"></p>
+<p>Existen una serie de santuarios para ballenas, protección de tipo espacial, en el momento en que los animales salgan de ese espacio pierden dicha protección. El océano Índico (Abarca el océano Índico hasta los 55° S.) y el Austral (Comprende aguas alrededor de la Antártida) son los principales santuarios.</p>
+<p>Prohíben la caza comercial en el ámbito de sus disposiciones -&gt; Su designación no elimina otras amenazas: capturas accidentales, colisiones, contaminación o cambio climático.</p>
+<p>En 2001: La Comisión Ballenera Internacional (CBI) dejó de lado una decisión sobre admitir la caza controlada, manteniendo la moratoria. Para que la moratoria sea levantada, se requiere una mayoría del 75%, pero los países que defienden esta medida (como Japón o Noruega) aún no han logrado conseguir ese porcentaje de respaldo.</p>
+<p><img src="file:///Users/christiandibari/Desktop/Uca/Curso_4/Teoria-4-curso/Pesquería/imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.00.56.png" alt="alt text"></p>
+
+</body>
+</html>
