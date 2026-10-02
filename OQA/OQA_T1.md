@@ -152,3 +152,18 @@ El niquel una vez que se libera participa en distintos procesos (asociación con
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.00.44.png>)
 
+### Composición química del material detrítico:
+
+- **Partículas litogénicas:** el primero proceso es la deposición de polvo atmosférico. Gráfica en la que aparece la velocidad de deposición del polvo atmosférico (las zonas más oscuras están localizadas con áreas áridas - desiertos). La otra principal fuente de partículas litogénicas son los ríos y la remoción de la plataforma continental.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.04.01.png>)
+
+Estas partículas tienen importancia puesto que actúan en los ciclos biogeoquímicos del N, P, Si y Fe. Por otro lado es una fuente importante de todos los elementos retirados (no cíclicos). Ej el Al se deposita por polvo atmosférico.
+
+**Carbono orgánico particulado** -> se observa en el mapa (diap 39) que parece ser que los mares de altas latitudes presentan muy poca clorofila (nula). Donde hay nutrientes hay PP y hay clorofila. Comparamos con distribución de los nutrientes: en latitudes muy bajas (T baja) no hay PP, acercandonos a zonas más centradas, los nutrientes desaparecen rapidamente -> gran actividad.
+Gráfica con cantidad de carbono orgánico particulado (POC) que se deposita (diap 41).
+
+Representación de como varia el flujo de POC: a medida que va cayendo la MOP, tiende a oxidarse, por eso el flujo va siendo cada vez más pequeño.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.12.20.png>)
+
