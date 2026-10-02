@@ -31,3 +31,20 @@ Gráfica: el 0 representa el nivel base, las tierras que están entre el NM y 10
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.54.25.png>)
 
+Los organismos que viven en aguas profundas experimentan T frías. Oscila generalmente entre -1 y 4 grados C (la mayor parte alrededor de 2ºC). Hay excepciones como el Mediterráneo (13ºC), Antártico (-1,9ºC) y Mar Rojo (21,5ºC).
+
+- **Salinidad:** puede ser un factor de estrés en muchos ambientes, aunque en el caso de los ambientes de océano profundo no representa un factor problemático (adaptación de los organismos y muy poca variación de salinidad entre fondos).
+
+- **Presión:** es muy alta pero predecible. Hay un incremento de 1 atm por cada 10 metros de profundidad que se baja. A pesar de ser muy alta, es estable a una profundidad dada, aunque los migradores verticales sí pueden experimentar cambios de presión notable (muy frecuente en todas las profundidades, pero las que más destacan son las migraciones mesopelágicas).
+
+- **Oxígeno disuelto:** normalmente no supone problemas a mucha profundidad, sino más bien en algunas zonas concretas contaminadas o en algunos mares regionales (Mar Negro). Hay un mínimo de O entre 500 y 1000m.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.08.09.png>)
+
+- **Luz en la columna:** presenta una atenuación exponencial, diferentes según la longitud de onda. Nos interesa el promedio de las longitudes de onda (PAR).
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.11.10.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.11.51.png>)
+
+En el eje horizontal se ve la intensidad de la luz medida. Está en escala logaritmica => transforma la curva exponencial en una recta que va decayendo.
