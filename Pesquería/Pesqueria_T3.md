@@ -69,3 +69,14 @@ Las subvenciones de pesca a nivel mundial se estiman entre 30.000 y 34.000 millo
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 14.01.52.png>)
 
+La flota de la UE se ha venido reduciendo en un 2 a 3% cada año desde la reforma de la PPC, en 2002. Sin embargo, se estima que esta reducción ha quedado contrarrestada por los avances tecnológicos y la creciente eficiencia de la flota pesquera. Se calcula que este “progreso tecnológico” es de un 2 a un 4% anual. 
+
+Entre 1995 y 2005, las capturas de la UE en términos de peso disminuyeron en un 30%. Más del 60% de los productos pesqueros que se consumen en la UE son de importación.
+
+Situación geográfica de España, rodeada de mares y océanos ha determinado la tradicional relevancia de su flota.
+El mercado de productos pesqueros, también ha sido y sigue siendo, muy importante.
+
+El Estado Español tiene parte de sus competencias en materia de pesca transferida a las Comunidades Autónomas costeras. Galicia, Andalucía y Canarias son las Comunidades Autónomas con mayor peso en el sector pesquero, seguida del País Vasco, Cataluña y la Comunidad Valenciana. El resto de las Comunidades en las que se desarrolla la actividad pesquera son: Asturias, Cantabria, Islas Baleares, Murcia, Ceuta y Melilla.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 14.11.30.png>)
+
