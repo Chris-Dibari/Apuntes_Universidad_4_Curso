@@ -144,7 +144,11 @@ Aumento progresivo con la profundidad -> formación de complejos con la MOD y pr
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.56.49.png>)
 
-El niquel una vez que se libera participa en distintos procesos.
+El niquel una vez que se libera participa en distintos procesos (asociación con MOP...).
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.57.29.png>)
+
+- Se: perfil típico -> concentraciones bajas en superficie. Presenta dos especies diferentes con comportamientos distintos: el Se4+ -> tiene perfil similar al fosfato (HPO2- 4) y se asocia a la MOP (regulación del estrés oxidativo). Tiene comportamiento de elemento biolimitante. Además se tiene el Se6+ -> perfil similar al SiO2 disuelto y se asocia a la sílice biogénica. Tiene comportamiento de elemento biointermedio.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.00.44.png>)
 
