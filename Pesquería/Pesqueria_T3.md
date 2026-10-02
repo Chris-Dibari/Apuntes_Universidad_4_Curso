@@ -52,3 +52,20 @@ De los 37 mT, el 68% de las especies proviene de aguas marinas, mientras que e 3
 
 En la SSF también hay más participación por parte de las mujeres en la cadena de valor.
 
+La pesca tradicional involucra a familias de pescadores (a diferencia de las sociedades mercantiles), utilizando relativamente pequeña cantidad de capital y energía, relativamente pequeños barcos de pesca (si los hay), por lo que las mareas de pesca son cortas, cerca de la costa, principalmente para el consumo local.
+
+La línea entre lo que es artesanal y lo industrial puede ser muy borrosa a veces, así que lo mejor es verlo como una escala móvil. Pesca artesanal, pesca tradicional, etc., se incluyen dentro de la pesca a pequeña escala SSF. Aspectos sociales y económicos distinguen a este tipo de pesca, incluyendo su papel en el empleo rural y la igualdad de género.
+
+Un estudio de la FAO calculó (para 1989) que los costes de producción de la extracción pesquera fueron a nivel mundial de 92.000 millones de dolares y los beneficios de la venta de primera captura de 70,000 millones: contribución financiera, de un gobierno/organismo público, que se otorgue algún beneficio.
+
+Las subvenciones de pesca a nivel mundial se estiman entre 30.000 y 34.000 millones de dólares anuales. Al menos 20.000 millones de dólares al año se destinan a apoyar la capacidad de pesca, como por ejemplo combustible para los buques, etc. Estas subvenciones dañinas representan más del 25% del valor de las capturas mundiales.
+
+**Tipos de subvenciones:**
+
+- Pagos gubernamentales directos a la industria (subsidios para la compra de nuevos barcos pesqueros, pagos (recompras) por desguace de barcos, seguros de desempleo de los pescadores, compensación por períodos de veda, aportaciones de capital y programas de sostenimiento de los precios).
+- Exenciones fiscales y aplazamientos de impuestos (exenciones de los impuestos del combustible para los barcos pesqueros, exenciones de los impuestos de venta, deducciones especiales del impuesto sobre la renta para los pescadores y programas de impuestos aplazados).
+- Préstamos y garantías de préstamos gubernamentales y seguros El gobierno puede hacer préstamos a los pescadores o a las empresas pesqueras en condiciones favorables, tales como los préstamos con tipos de interés inferiores a los del mercado o con períodos de amortización más largos de lo normal.
+- Pagos o recargos implícitos para la industria Hay países que cobran a los extranjeros el acceso a sus zonas económicas exclusivas (ZEE). Sobre todo en los casos en que los extranjeros hayan faenado tradicionalmente en esas aguas, es posible que sus gobiernos paguen el derecho y no lo recuperen de la industria.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 14.01.52.png>)
+
