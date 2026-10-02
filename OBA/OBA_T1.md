@@ -48,3 +48,12 @@ Los organismos que viven en aguas profundas experimentan T frías. Oscila genera
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.11.51.png>)
 
 En el eje horizontal se ve la intensidad de la luz medida. Está en escala logaritmica => transforma la curva exponencial en una recta que va decayendo.
+El límite máximo ideal para la fotosíntesis marca también el límite de la zona epipelágica. La zona disfótica coincide con la zona mesopelágica y hace referencia a la zona en la que sigue estando presente la luz aunque no en condiciones suficiente para la realización de la fotosíntesis.
+En las zonas más profundas empieza a ver bioluminescencia, una condición que afecta a la depredación, la reproducción...
+
+Por tanto, en resumen hay constancia de las condiciones físicas en un punto determinado, el principal limitante es la escasez de alimento puesto que no hay PP.
+El mayor suministro de alimentos para las aguas profundas se produce por caída de partículas provenientes desde la superficie.
+La mayor parte del alimento que llega a la zona profunda llega por gravedad.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.22.05.png>)
+
