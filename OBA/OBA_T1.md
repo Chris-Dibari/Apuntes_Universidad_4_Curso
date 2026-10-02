@@ -57,3 +57,6 @@ La mayor parte del alimento que llega a la zona profunda llega por gravedad.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.22.05.png>)
 
+### Mecanismos de aporte de MO a las aguas profundas.
+
+- Corrientes de turbiditas: restos terrígenos y neríticos canalizados preferentemente por cañones en plataforma y talud.
