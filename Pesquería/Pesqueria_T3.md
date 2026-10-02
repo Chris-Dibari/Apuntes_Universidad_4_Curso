@@ -22,3 +22,12 @@ Japón es el mayor ejemplo de envejecimiento del sector:
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.12.06.png>)
 
+Uno de los factores que hay que tener en cuenta es la capacidad de pesca y el arqueo. La primera es característico de cada tipo de arte de pesca, combina factores humanos (cuanto más es grande el barco, más está tecnificado y menos personal necesita) y características del buque.
+Características físicas -> GT (arqueo bruto), eslora (longitud) y potencia del motor (kW).
+
+El arqueo bruto (medido en metros cubicos) -> VOLUMEN DE ESPACIOS CERRADOS: incluye Bodega, máquinas, camarotes y otros alojamientos, por encima y por debajo de la cubierta superior.
+
+Marea de pesca -> Intervalo de tiempo que transcurre desde que el buque sale de puerto hasta que regresa. Depende de la distancia a la que esté el caladero y de la productividad del caladero.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 13.20.01.png>)
+
