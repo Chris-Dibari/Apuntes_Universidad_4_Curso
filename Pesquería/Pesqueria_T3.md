@@ -80,3 +80,10 @@ El Estado Español tiene parte de sus competencias en materia de pesca transferi
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 14.11.30.png>)
 
+**La política pesquera común:** Enfoque a largo plazo: hasta ahora, las medidas referidas a la pesca se habían adoptado de forma anual. A menudo, esto ha tenido como consecuencia que se hayan producido fluctuaciones, que han impedido que los pescadores puedan planificar sus actividades futuras, ni han sido eficaces para la conservación de las poblaciones de peces. Se establecerán objetivos a largo plazo para conseguir y mantener niveles seguros de peces adultos en las poblaciones de la UE, así como las medidas necesarias para alcanzarlos. Aplicación más eficaz de las normas: la heterogeneidad de los sistemas nacionales de control y de las sanciones para los infractores resta eficacia a la aplicación de las normas. Implicación de las partes interesadas: es necesario que las partes interesadas, especialmente los pescadores, tengan una mayor participación en el proceso de gestión de la PPC. Pescadores y los científicos deben compartir sus conocimientos y experiencia. Los Consejos Consultivos Regionales (RAC) permiten una colaboración entre ellos con el objeto de identificar los modos de conseguir una pesca sostenible en las áreas de interés de cada uno de los RAC. Se debe implicar a cualquier sector implicado.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 14.16.40.png>)
+
+Una nueva política para las flotas: la reforma responde al exceso de capacidad crónico de la flota de la UE a través de dos tipos de medidas:
+- Una política aplicable a la flota que atribuya a los Estados miembros la responsabilidad de adecuar la capacidad pesquera a las posibilidades de pesca.
+- Una supresión progresiva de las ayudas públicas que se conceden a los inversores privados para renovar o modernizar los buques de pesca, manteniendo, sin embargo, las ayudas para mejorar la seguridad y las condiciones laborales a bordo de los buques.
