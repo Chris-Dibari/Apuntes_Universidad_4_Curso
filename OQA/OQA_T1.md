@@ -203,20 +203,20 @@ Representación de como varia el flujo de POC: a medida que va cayendo la MOP, t
 
 Hay parte de esta MO que no se oxida y queda preservada en el sedimento. Observar tendencia para la mayor parte del océano.
 
-- Esqueletos externos de CaCO3 y ópalo.
+- Esqueletos externos de $CaCO_3$ y ópalo.
 
 Composición química de la materia orgánica particulada relativamente constante (relaciones tipo Redfield para el material detrítico -> **C:N:P = 105:15:1**)
 
 “Las distintas masas de agua difieren en sus contenidos en C, N y P en función de la intensidad de su reactividad con los organismos que ocurre a través de unas relaciones razonablemente constantes”. 
 
-**Como incorporamos a los esqueletos de CaCO3:** 
+**Como incorporamos a los esqueletos de $CaCO_3$:** 
 
-En sw hay 5 veces más Ca que C, la formación de CaCO3 provoca una dismiución de C más rápida que de Ca (5 veces). Por cada 4 átomos de C formando parte de tejidos que caen hacia aguas profundas, cae 1 átomo de C como CaCO3.
+En sw hay 5 veces más Ca que C, la formación de $CaCO_3$ provoca una dismiución de C más rápida que de Ca (5 veces). Por cada 4 átomos de C formando parte de tejidos que caen hacia aguas profundas, cae 1 átomo de C como $CaCO_3$.
 En aguas profundas hay 50 átomos de Si por cada átomo de P -> consumo de la totalidad en aguas superficiales por ser biolimitantes.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.26.01.png>)
 
-BaSO4 -> 1 átomo de Ba por cada 3000 átomos de C.
+$BaSO_4$ -> 1 átomo de Ba por cada 3000 átomos de C.
 
 Resultado gráfico:
 
@@ -224,3 +224,6 @@ Resultado gráfico:
 
 A medida que aumenta la profundidad aumentan las partículas litogénicas (resultados en %, no aumentan en sí dichas partículas sino que van disminuyendo las demás componentes dado los procesos de disolución). Misma cuestión para el CaCO3 en el Pácifico (es la última componente que se disuelve, por tanto aumenta su porcentaje con la profundidad por desaparición de las demás componentes).
 
+**Exportación y disolución de ópalo:**
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.48.14.png>)
