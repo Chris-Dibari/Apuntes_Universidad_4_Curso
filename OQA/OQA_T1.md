@@ -128,15 +128,19 @@ La baja concentración de Zn en los océanos hace que otros elementos como **Cd 
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.38.59.png>)
 
-- Co: Elemento micronutriente: formación de vitamina B₁₂ (Síntesis de ADN, metabolismo de aminoácidos, división celular, crecimiento fitoplanctónico). Incorporación a la MOP. Se representa en el transecto en picomolar (pM). Hay un máximo en aguas más superficiales.
+- Co: Elemento micronutriente: formación de vitamina B₁₂ (Síntesis de ADN, metabolismo de aminoácidos, división celular, crecimiento fitoplanctónico). Incorporación a la MOP. Se representa en el transecto en picomolar (**pM**). Hay un máximo en aguas más superficiales.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.39.18.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.39.48.png>)
 
 - $Ge(OH)_4$: Parece ser que tiene un papel activo en la formación de la sílice biogénica.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.22.27.png>)
 
-A medida que se va disolviendo la MOP de las diatomeas, se libera una cantidad asociada de Ge(OH)4. 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.40.23.png>)
+
+A medida que se va disolviendo la MOP de las diatomeas, se libera una cantidad asociada de $Ge(OH)_4$. 
 
 ### Compuestos biointermedios:
 
@@ -145,12 +149,18 @@ La disolución del Ca está asociada a la disolución de partículas de CaCO3 ->
 
 Las variaciones de C son más grandes que las de Ca puesto que el C forma parte de más procesos. La concentración de C es más elevada y por tanto las variaciones expeimentan más peso para el caso de este elemento.
 
-- Ba (Ra): CaCO3 biogénico (foraminíferos). Acumulación como barita en tejidos orgánicos.
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.41.03.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.41.19.png>)
+
+- Ba (Ra): $CaCO_3$ biogénico (foraminíferos). Acumulación como barita en tejidos orgánicos.
 - Sr: Fundamentalmente se encuentra formando parte de los esqueletos de CaCO3 biogénico. Hay poca información en la bibliografía, tiene una tendencia más o menos similar a la del Ca. Representando Sr frente al Ca -> a medida que los esqueletos se van disolviendo, se libera cierta cantidad de Sr (gráfica izq).
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.46.39.png>)
 
-En aguas superficiales, se ha encontrado una relación significativa del Sr con el PO4. Tiene que ver con unos radiolarios (poseen esqueletos externos de sulfato de Sr) => los Acantharia. Se rodean de microalgas simbiónte -> por esta razón en aguas superficiales el Sr está asociado a MOP.
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.42.02.png>)
+
+En aguas superficiales, se ha encontrado una relación significativa del Sr con el PO4. Tiene que ver con unos radiolarios (poseen esqueletos externos de sulfato de Sr) => los **Acantharia**. Se rodean de microalgas simbiónte -> por esta razón en aguas superficiales el Sr está asociado a MOP.
 
 - Cu: Es un elemento muy utilizado por los organismos marinos como cofactor de enzimas (citocromo c oxidasa - respiración celular), fotosíntesis (transporte electrónico) y transporte de O en invertebrados -> sin embargo, su tendencia no se parece nada a los perfiles tipo nutrientes (a pesar de que dado lo anterior parecería que el Cu esté asociado a la MOP). Hay relación con la sílice, esto se debe a que en el interior de los esqueletos de las diatomeas está presente Si.
 
@@ -158,19 +168,23 @@ En aguas superficiales, se ha encontrado una relación significativa del Sr con 
 
 Aumento progresivo con la profundidad -> formación de complejos con la MOD y procesos de adsorción. El Cu no queda libre sino que se incorpora a otros compuestos debido a su reactividad -> no posee un perfil típico.
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.42.51.png>)
+
 - Ni: Cofactor de enzimas, asociado a la MOP. Tiene perfil tipo nutriente. Analizando las variaciones de Ni tanto con fosfato como con silicatos: la relación con el fosfato es más lineal.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.56.49.png>)
 
 El niquel una vez que se libera participa en distintos procesos (asociación con MOP...).
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.43.18.png>)
+
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 10.57.29.png>)
 
-- Se: perfil típico -> concentraciones bajas en superficie. Presenta dos especies diferentes con comportamientos distintos: el Se4+ -> tiene perfil similar al fosfato (HPO2- 4) y se asocia a la MOP (regulación del estrés oxidativo). Tiene comportamiento de elemento biolimitante. Además se tiene el Se6+ -> perfil similar al SiO2 disuelto y se asocia a la sílice biogénica. Tiene comportamiento de elemento biointermedio.
+- Se: perfil típico -> concentraciones bajas en superficie. Presenta dos especies diferentes con comportamientos distintos: el $Se{4+}$ -> tiene perfil similar al fosfato ($HPO_4^{2-}$) y se asocia a la MOP (regulación del estrés oxidativo). Tiene comportamiento de elemento biolimitante. Además se tiene el $Se^{6+}$ -> perfil similar al $SiO_2$ disuelto y se asocia a la sílice biogénica. Tiene comportamiento de elemento biointermedio.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.00.44.png>)
 
-### Composición química del material detrítico:
+## 4. Composición química del material detrítico:
 
 - **Partículas litogénicas:** el primero proceso es la deposición de polvo atmosférico. Gráfica en la que aparece la velocidad de deposición del polvo atmosférico (las zonas más oscuras están localizadas con áreas áridas - desiertos). La otra principal fuente de partículas litogénicas son los ríos y la remoción de la plataforma continental.
 
@@ -179,7 +193,9 @@ El niquel una vez que se libera participa en distintos procesos (asociación con
 Estas partículas tienen importancia puesto que actúan en los ciclos biogeoquímicos del N, P, Si y Fe. Por otro lado es una fuente importante de todos los elementos retirados (no cíclicos). Ej el Al se deposita por polvo atmosférico.
 
 **Carbono orgánico particulado** -> se observa en el mapa (diap 39) que parece ser que los mares de altas latitudes presentan muy poca clorofila (nula). Donde hay nutrientes hay PP y hay clorofila. Comparamos con distribución de los nutrientes: en latitudes muy bajas (T baja) no hay PP, acercandonos a zonas más centradas, los nutrientes desaparecen rapidamente -> gran actividad.
-Gráfica con cantidad de carbono orgánico particulado (POC) que se deposita (diap 41).
+Gráfica con cantidad de carbono orgánico particulado (POC) que se deposita.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.45.39.png>)
 
 Representación de como varia el flujo de POC: a medida que va cayendo la MOP, tiende a oxidarse, por eso el flujo va siendo cada vez más pequeño.  Gráfica derecha -> como va incrementando el POC con la profundidad. El aumento con la profundidad del POC está relacionado con varios procesos. Soft tiene que ver con lo que se produce con la MO. Por cada 4 atomos de C que forma parte de la MOP, hay 1 que forma parte del CaCO3 (conversión empleada en oceanografía).
 
