@@ -49,7 +49,9 @@ La explicación de estos perfiles se deben a la incorporación al material parti
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 11.09.30.png>)
 
-Tablas en porcentaje -> las partículas litogénicas es mayor a mayor profundidad: se debe al balance entre las dos profundidades y a la naturaleza porcentaje de los datos. Aumenta el porcentaje puesto que el de MOP baja mucho -> importancia de los datos en porcentajes.
+Tablas en porcentaje -> las partículas litogénicas son mayor a mayor profundidad: se debe al balance entre las dos profundidades y a la naturaleza porcentaje de los datos. Aumenta el porcentaje puesto que el de la MOP baja mucho -> importancia de los datos en porcentajes.
+
+La actividad biológica en las aguas superficiales es el principal productor de material particulado -> Reactividad de los elementos en los océanos
 
 Primera diferencia en las aguas oceánicas en los perfiles de elementos regenerados de tipo reactivo: “Las aguas profundas están enriquecidas con respecto a las aguas superficiales” (a excepción del oxígeno).
 
@@ -57,13 +59,17 @@ Primera diferencia en las aguas oceánicas en los perfiles de elementos regenera
 
 ## 3. Clasificación de elementos según su reactvidad
 
-1. Compuestos biolimitantes. Se retiran de las aguas superficiales practicamente en su totalidad (desaparecen) y se regeneran en aguas profundas (reserva). ->  NO3-, HPO4 2-, SiO2, Fe, Zn, Cd, Co, Ge(OH)4
+1. Compuestos biolimitantes. Se retiran de las aguas superficiales practicamente en su totalidad (desaparecen) y se regeneran en aguas profundas (reserva).
+- $NO_3^-$, $HPO_4^2-$, $SiO_2$, $Fe$, $Zn$, $Cd$, $Co$, $Ge(OH)_4$
 
-2. Compuestos no biolimitantes. No tienden a reaccionar, igual proporción en aguas superficiales y profundas. Na, K, Rb, Cs, Mg, B, S, F, Cl, Br (gases nobles, Mo, W, V y U ¿?).
+2. Compuestos no biolimitantes. No tienden a reaccionar, igual proporción en aguas superficiales y profundas.
+- $Na$, $K$, $Rb$, $Cs$, $Mg$, $B$, $S$, $F$, $Cl$, $Br$ (gases nobles, $Mo$, $W$,$ $V$ y $U$ ¿?).
 
-3. Compuestos biointermedios. Solo se retira una parte de los elementos y no su totalidad. C, Ca, Ba, Ra, Sr, Ni, Cu, Se; (Ca – 1 %, C – 13%, Ba – 70%).
+3. Compuestos biointermedios. Solo se retira una parte de los elementos y no su totalidad.
+- $C$, $Ca$, $Ba$, $Ra$, $Sr$, $Ni$, $Cu$, $Se$;
+- ($Ca$ – 1 %, $C$ – 13%, $Ba$ – 70%).
 
-Comportamiento cíclico: son retirados en aguas superficiales y vuelven a aparecer en aguas profundas. Tmabién tienen ciclos internos.
+**Comportamiento cíclico**: son retirados en aguas superficiales y vuelven a aparecer en aguas profundas. Tmabién tienen ciclos internos.
 
 4. Compuestos no cíclicos. Por ejemplo el Pb, Mn, Al. No se producen sino que entran a formar parte de las aguas superficiales y son muy reactivos. Tras entrar se asocian al material particulado y empiezan a caer, llegando al fondo del océano. Sistema con entrada y salida, no comportamiento cíclico.
 
@@ -73,8 +79,8 @@ Comportamiento cíclico: son retirados en aguas superficiales y vuelven a aparec
 
 **Los perfiles siempre son más acusados en el Pácifico que en el Atlántico:** 
 
-- **Compuestos biolimitantes:** NO3-, HPO42-, Si(OH)4. La MOP suele oxidarse relativamente rápido (el mínimo de la concentración de O se corresponde con la posición de la termoclina permanente -1000m). Por tanto todos los elementos ligados a la MOP tendrán un máximo alrededor de esa profundidad.
-El silicato (Si(OH)4) = SiO2-> Los procesos de disolución de la silice son más lentos que los de disolución de MOP, por tanto el máximo se encontrará más profundo comparado con los elementos asociados a la MOP.
+- **Compuestos biolimitantes:** $NO_3^-$, $HPO_4^{2-}$, $Si(OH)_4$. La MOP suele oxidarse relativamente rápido (el mínimo de la concentración de O se corresponde con la posición de la termoclina permanente -1000m). Por tanto todos los elementos ligados a la MOP tendrán un máximo alrededor de esa profundidad.
+El silicato ($Si(OH)_4$) = $SiO_2$ -> Los procesos de disolución de la silice son más lentos que los de disolución de MOP, por tanto el máximo se encontrará más profundo comparado con los elementos asociados a la MOP.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 10.48.16.png>)
 
@@ -85,20 +91,26 @@ El silicato (Si(OH)4) = SiO2-> Los procesos de disolución de la silice son más
 **eWOCE** --> Elegir océano y visualización de transectos. Información más restringida.
 
 **Oxígeno:** Concentraciónes altas en la zona superficial debido fundamentalmente a dos procesos: masas de aguas en equilibrio con la atmosfera y fotosintesis. A medida que aumenta la profundidad va disminuyendo la concentración de O2 hasta un valor mínimo (máximo de liberación de los nutrientes asociados a la MOP).
-**Nitrato:** Tiene la misma distribución que la concentración de O2. En superficie es practicamente cero y a medida que el organismo muere y la MOP va cayendo y se oxida, el máx de concentración de nitrato coincide con el mínimo de concentración de O2. Proceso de segregación horizontal en el océano profundo.
+**Nitrato:** Tiene la misma distribución que la concentración de $O_2$. En superficie es practicamente cero y a medida que el organismo muere y la MOP va cayendo y se oxida, el máx de concentración de nitrato coincide con el mínimo de concentración de $O_2$. Proceso de segregación horizontal en el océano profundo.
 **Fosfato:** Concentración cero en superficie (biolimitante) y mismo comportamiento que los otros dos anteriores. Mismos perfiles puesto que está incluido como parte de la MOP.
 **Sílice:** En aguas superficiales hay condición de elemento biolimitante. Conforme vayan muriendose los organismos, los procesos de disolución son más lentos en este caso, por tanto los máximos ocurren a mayor profundidad comparado con los demás elementos.
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.34.01.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.34.25.png>)
+
 **Resto de elementos biolimitantes:**
 
-- Fe: nutriente necesario para muchos procesos. Esencial para el desarrollo del fitoplancton. Suele estar asociado a la MOP. Sus perfiles verticales son similares al fosfato tanto en el Atlántico como en el Pácifico. Evidencias experimentales de que está asociado a la MOP. En concreto límita la PP de grandes regiones del océano.
+- Fe: nutriente necesario para muchos procesos. Esencial para el desarrollo del fitoplancton. Necesario para la fotosíntesis, fijación de $N_2$ por diazótrofos, síntesis de clorofila y enzimas clave del metabolismo celular. Suele estar asociado a la MOP. Sus perfiles verticales son similares al fosfato tanto en el Atlántico como en el Pácifico. Evidencias experimentales de que está asociado a la MOP. En concreto límita la PP de grandes regiones del océano.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.02.03.png>)
 
 Si el Fe estuviera unido a la MOP se esperaría un esquema como el del fosfato, sin embargo tiene un perfil vertical poco estructurado -> perfil en unidades **nm**.
-Normalmente hay dos especies de Fe -> el Fe2+ es más soluble porque precipita como hidróxido de hierro muy rapidamente. Tiende a oxidarse rapidamente (siempre que las condiciones lo permitan) a Fe3+. Tiene estabilidad en el sw puesto que se une a compuestos orgánico (MOP). Una vez que los organismos incorporan el Fe3+, este se reduce a Fe2+ dentro del fito. 
+Normalmente hay dos especies de Fe -> el $Fe^{2+}$ es más soluble porque precipita como hidróxido de hierro muy rapidamente. Tiende a oxidarse rapidamente (siempre que las condiciones lo permitan) a $Fe^{3+}$. Tiene estabilidad en el sw puesto que se une a compuestos orgánico (MOP). Una vez que los organismos incorporan el $Fe^{3+}$, este se reduce a $Fe^{2+}$ dentro del fito.
 
-- Zn: Elemento micronutriente participa en unos 300 sistemas enzimáticos involucrados en la fotosíntesis, adquisición de carbono, síntesis de proteínas y regulación celular. Asociado a la SiO2 biogénica (captación por diatomeas) -> cuando un elemento se incorpora a la MOP a un máx más profundo -> dentro de los esqueletos de diatomeas hay MO -> mientras que el esqueleto no esté disuelto, la MO está conservada dentro de él, al disolverse, los elementos se liberan.
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.35.40.png>)
+
+- Zn: Elemento micronutriente participa en unos 300 sistemas enzimáticos involucrados en la fotosíntesis, adquisición de carbono, síntesis de proteínas y regulación celular. Asociado a la $SiO_2$ biogénica (captación por diatomeas) -> cuando un elemento se incorpora a la MOP a un máx más profundo -> dentro de los esqueletos de diatomeas hay MO -> mientras que el esqueleto no esté disuelto, la MO está conservada dentro de él, al disolverse, los elementos se liberan.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.10.33.png>)
 
@@ -108,13 +120,19 @@ La sección en el Pácifico del Zn en **nm** -> elemento biolimitante con concen
 Realmente el contenido en Zn en las frustulas de las diatomeas es muy bajo (1-3%). Preservación de la materia orgánica en el interior de esqueletos externos de ópalo.
 La baja concentración de Zn en los océanos hace que otros elementos como **Cd y Co** formen parte de cofactores en enzimas y como elementos estructurales en proteínas.
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.37.47.png>)
+
 - Cd: Elemento micronutriente (cofactor de sistemas enzimaticos: anhidrasa carbónica dependiente del Cd). Incorporación a la MOP. Cuando el fito tiende a buscar fosfato el Cd también viene asimilado puesto que en sw tiende a estabilizarse con dicho elemento. Además hay incorporación al CaCO3 biogénico. A medida que los esqueletos se van disolviendo, también se liberan ciertas cantidades de Cd.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.17.13.png>)
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.38.59.png>)
+
 - Co: Elemento micronutriente: formación de vitamina B₁₂ (Síntesis de ADN, metabolismo de aminoácidos, división celular, crecimiento fitoplanctónico). Incorporación a la MOP. Se representa en el transecto en picomolar (pM). Hay un máximo en aguas más superficiales.
 
-- Ge(OH)4: Parece ser que tiene un papel activo en la formación de la sílice biogénica.
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-03 a las 10.39.18.png>)
+
+- $Ge(OH)_4$: Parece ser que tiene un papel activo en la formación de la sílice biogénica.
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-30 a las 11.22.27.png>)
 
