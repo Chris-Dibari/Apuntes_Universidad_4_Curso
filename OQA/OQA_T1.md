@@ -63,7 +63,7 @@ Primera diferencia en las aguas oceánicas en los perfiles de elementos regenera
 - $NO_3^-$, $HPO_4^2-$, $SiO_2$, $Fe$, $Zn$, $Cd$, $Co$, $Ge(OH)_4$
 
 2. Compuestos no biolimitantes. No tienden a reaccionar, igual proporción en aguas superficiales y profundas.
-- $Na$, $K$, $Rb$, $Cs$, $Mg$, $B$, $S$, $F$, $Cl$, $Br$ (gases nobles, $Mo$, $W$,$ $V$ y $U$ ¿?).
+- $Na$, $K$, $Rb$, $Cs$, $Mg$, $B$, $S$, $F$, $Cl$, $Br$ (gases nobles, $Mo$, $W$, $V$ y $U$ ?).
 
 3. Compuestos biointermedios. Solo se retira una parte de los elementos y no su totalidad.
 - $C$, $Ca$, $Ba$, $Ra$, $Sr$, $Ni$, $Cu$, $Se$;
