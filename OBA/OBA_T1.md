@@ -30,7 +30,7 @@ Gráfica: el 0 representa el nivel base, las tierras que están entre el NM y 10
 SiO~2~
 $SiO_2$
 
-![alt text](../imagenes-4-curso/captu-1-oba.png)
+![alt text](imagenes-4-curso/captu-1-oba.png)
 
 ### Variables del medio físico con importancia desde el punto de vista biológico.
 
