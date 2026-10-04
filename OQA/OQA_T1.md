@@ -1,15 +1,15 @@
 <style>
   img {
-    width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important; 
+    width: 40% !important; /* Forzamos el tamaño con !important */
+    max-width: 40% !important; 
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
   }
 </style>
 
-# Oceanografía Química Aplicada - 4 Curso CC del Mar
+## Oceanografía Química Aplicada - 4 Curso CC del Mar
 
-## Índice de la asignatura:
+### Índice de la asignatura:
 
 - TEMA 1. Generación de perfiles verticales: reactividad en aguas superficiales y segregación en océano profundo.
 - TEMA 2. Modelos biogeoquímicos básicos.
@@ -18,9 +18,9 @@
 - TEMA 5. Trazadores químicos en oceanografía.
 - TEMA 6. Acoplamiento biogeoquímico en el Atlántico Norte.
 
-## Oceanografía Química Aplicada - TEMA 1. Generación de perfiles verticales: reactividad en aguas superficiales y segregación en océano profundo.
+### Oceanografía Química Aplicada - TEMA 1. Generación de perfiles verticales: reactividad en aguas superficiales y segregación en océano profundo.
 
-## 1. Composición del agua de mar
+### 1. Composición del agua de mar
 
 Composición homogénea de elementos mayoritarios -> Importancia en el cálculo de ρ = f (T, P, S).
 Elementos mayoritarios -> 99,9% de las especies disueltas. Concentración > 1ppm. Proporciones relativamente constantes (ventajas mediciones).
@@ -34,7 +34,7 @@ El ácido bórico participa en equilibrio de disociación en el agua de mar.
 
 Composición no homogénea de la mayor parte de los elementos minoritarios. Importancia en la caracterización de procesos de mezcla, biológicos o sedimentarios (trazadores).
 
-## 2. Generación de perfiles verticales
+### 2. Generación de perfiles verticales
 
 - Perfiles conservativos -> elementos no reactivos (los elementos mayoritarios y minoritarios no reactivos como los gases nobles).
 - Elementos retirados -> concentración elevada en superficie que tiende a disminuir con la profundidad.
@@ -58,7 +58,7 @@ Primera diferencia en las aguas oceánicas en los perfiles de elementos regenera
 
 ![alt text](<imagenes-4-curso/captu-3-oqa.png>)
 
-## 3. Clasificación de elementos según su reactvidad
+### 3. Clasificación de elementos según su reactvidad
 
 1. Compuestos biolimitantes. Se retiran de las aguas superficiales practicamente en su totalidad (desaparecen) y se regeneran en aguas profundas (reserva).
 - $NO_3^-$, $HPO_4^2-$, $SiO_2$, $Fe$, $Zn$, $Cd$, $Co$, $Ge(OH)_4$
@@ -143,7 +143,7 @@ La baja concentración de Zn en los océanos hace que otros elementos como **Cd 
 
 A medida que se va disolviendo la MOP de las diatomeas, se libera una cantidad asociada de $Ge(OH)_4$. 
 
-### Compuestos biointermedios:
+#### Compuestos biointermedios:
 
 C y Ca son compuestos mayoritarios -> el C en superficie es más bajo (aunque no cero, por tanto ya no es biolimitante) y la concentración es más baja debido a los procesos (consumo de C por fotosíntesis) Una vez que la MOP va cayendo, se oxida y alcanza un máx alrededor de 1000m. Disolución de CaCO3 es más profunda.
 La disolución del Ca está asociada a la disolución de partículas de CaCO3 -> variaciones muy pequeñas.
@@ -185,7 +185,7 @@ El niquel una vez que se libera participa en distintos procesos (asociación con
 
 ![alt text](<imagenes-4-curso/captu-28-oqa.png>)
 
-## 4. Composición química del material detrítico:
+### 4. Composición química del material detrítico:
 
 - **Partículas litogénicas:** el primero proceso es la deposición de polvo atmosférico. Gráfica en la que aparece la velocidad de deposición del polvo atmosférico (las zonas más oscuras están localizadas con áreas áridas - desiertos). La otra principal fuente de partículas litogénicas son los ríos y la remoción de la plataforma continental.
 
