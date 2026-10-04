@@ -25,7 +25,7 @@
 
 Gráfica: el 0 representa el nivel base, las tierras que están entre el NM y 1000 metros son las más abundantes en el contexto de las tierras emergidas. Si nos centramos en el océano profundo, nos encontramos con la gran mayoría de tierras. Más de la mitad del planeta Tierra es llano abisal (53,5%).
 
-![alt text](imagenes-4-curso/captu-1-oba.png)
+![alt text](imagenes-4-curso/captu-1-oba.png){width="25%" !important}
 
 ### Variables del medio físico con importancia desde el punto de vista biológico.
 
