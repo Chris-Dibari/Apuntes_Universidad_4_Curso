@@ -34,7 +34,7 @@ $SiO_2$
 
 - **Temperatura:** fijandonos en la vertical -> zona superficial en la que la T es significativamente más alta que el ambiente profundo (concepto de termoclina). 
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 11.54.25.png>)
+![alt text](imagenes-4-curso/captu-2-oba.png)
 
 Los organismos que viven en aguas profundas experimentan T frías. Oscila generalmente entre -1 y 4 grados C (la mayor parte alrededor de 2ºC). Hay excepciones como el Mediterráneo (13ºC), Antártico (-1,9ºC) y Mar Rojo (21,5ºC).
 
@@ -44,13 +44,13 @@ Los organismos que viven en aguas profundas experimentan T frías. Oscila genera
 
 - **Oxígeno disuelto:** normalmente no supone problemas a mucha profundidad, sino más bien en algunas zonas concretas contaminadas o en algunos mares regionales (Mar Negro). Hay un mínimo de O entre 500 y 1000m.
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.08.09.png>)
+![alt text](imagenes-4-curso/captu-3-oba.png)
 
 - **Luz en la columna:** presenta una atenuación exponencial, diferentes según la longitud de onda. Nos interesa el promedio de las longitudes de onda (PAR).
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.11.10.png>)
+![alt text](<imagenes-4-curso/captu-5-oba.png>)
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.11.51.png>)
+![alt text](<imagenes-4-curso/captu-6-oba.png>)
 
 En el eje horizontal se ve la intensidad de la luz medida. Está en escala logaritmica => transforma la curva exponencial en una recta que va decayendo.
 El límite máximo ideal para la fotosíntesis marca también el límite de la zona epipelágica. La zona disfótica coincide con la zona mesopelágica y hace referencia a la zona en la que sigue estando presente la luz aunque no en condiciones suficiente para la realización de la fotosíntesis.
@@ -60,7 +60,7 @@ Por tanto, en resumen hay constancia de las condiciones físicas en un punto det
 El mayor suministro de alimentos para las aguas profundas se produce por caída de partículas provenientes desde la superficie.
 La mayor parte del alimento que llega a la zona profunda llega por gravedad.
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-02 a las 12.22.05.png>)
+![alt text](<imagenes-4-curso/captu-7-oba.png>)
 
 ### Mecanismos de aporte de MO a las aguas profundas.
 
