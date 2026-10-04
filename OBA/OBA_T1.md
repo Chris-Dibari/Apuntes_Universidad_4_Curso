@@ -1,14 +1,12 @@
-<script type="text/javascript" async
-  src="https://cloudflare.com">
-</script>
-
 <style>
   img {
-    max-width: 40%; /* Ajusta el porcentaje según prefieras */
+    width: 25% !important; /* Forzamos el tamaño con !important */
+    max-width: 25% !important; 
     display: block;
-    margin: 0 auto; /* Centra todas las fotos en la página del PDF */
+    margin: 0 auto !important; /* Centrado obligatorio */
   }
 </style>
+
 
 # Ecosistemas Marinos - 4 Curso CC del Mar
 
