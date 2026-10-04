@@ -1,8 +1,9 @@
 <style>
   img {
-    max-width: 40%; /* Ajusta el porcentaje según prefieras */
+    width: 35% !important; /* Forzamos el tamaño con !important */
+    max-width:35% !important; 
     display: block;
-    margin: 0 auto; /* Centra todas las fotos en la página del PDF */
+    margin: 0 auto !important; /* Centrado obligatorio */
   }
 </style>
 
