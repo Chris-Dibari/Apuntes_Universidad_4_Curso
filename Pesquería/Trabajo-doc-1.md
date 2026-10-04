@@ -5,6 +5,9 @@
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
   }
+  p, li, h2, h3 {
+    text-align: justify !important;
+}
 </style>
 
 ## Trabajo Documental 1. La Memoria del Arpón.
