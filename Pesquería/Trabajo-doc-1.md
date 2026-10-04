@@ -10,6 +10,24 @@
 }
 </style>
 
+<style>
+img {
+    width: 35% !important; /* Forzamos el tamaño con !important */
+    max-width:35% !important;
+    display: block;
+    margin: 0 auto !important; /* Centrado obligatorio */
+}
+
+/* Esto asegura que se aplique al exportar a PDF */
+p, li, div, h2, h3 {
+    text-align: justify !important;
+}
+</style>
+
+<!-- Usamos el atributo 'align' que es el único que la vista previa y el PDF respetan a la vez -->
+<div align="justify">
+
+
 ## Trabajo Documental 1. La Memoria del Arpón.
 ### Christian Dibari - 4 Curso. Ciencias del Mar
 
@@ -35,3 +53,5 @@ Dado que no conozco la respuesta exacta a estas cuestiones, para profundizar tra
 Desde mi punto de vista, la explotación ballenera tratada en el documental presenta una contradicción: por un lado se tiene la perspectiva humana, que presenta la actividad ballenera y los recursos marinos como única forma de subsistencia durante una epóca de escasez. Esto conlleva a la visión de orgullo y admiración hacia los trabajadores que se dedicaban a dicho oficio. Por otro lado, desde la perspectiva de los recursos naturales, esta práctica expone un patrón de sobreexplotación impulsado por la idea errónea de que los recursos fuesen eternos, lo cual conllevó a la matanza masiva de cetáceos. La valoración que presenta el documental es, por tanto, la de un progreso socioeconómico humano, basado en la falta de sensibilidad ecológica y ambiental.
 La mayor limitación de mi perspectiva es que se basa en un punto de vista externo y contemporáneo a los que realmente fueron los hechos.
 Puesto que mi enfoque crítico se apoya a unos estándares muy distintos a los del pasado en que se practicaba dicha actividad, es posible que subestime la urgencia de recursos por parte de los seres humanos.
+
+</div>
