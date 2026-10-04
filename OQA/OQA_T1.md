@@ -47,7 +47,7 @@ La explicación de estos perfiles se deben a la incorporación al material parti
 
 **Origen de la materia orgánica:**
 
-![alt text](<imagenes-OQA/Captura de pantalla 2026-09-29 a las 11.09.30.png>)
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-09-29 a las 11.09.30.png>)
 
 Tablas en porcentaje -> las partículas litogénicas son mayor a mayor profundidad: se debe al balance entre las dos profundidades y a la naturaleza porcentaje de los datos. Aumenta el porcentaje puesto que el de la MOP baja mucho -> importancia de los datos en porcentajes.
 
