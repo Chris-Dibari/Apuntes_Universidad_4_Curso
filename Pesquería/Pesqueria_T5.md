@@ -177,5 +177,3 @@ Parte de este atún llega al mercado japonés. En muchos casos se dejan engordar
 Al matarlo con un gancho se generaba mucha sangre -> aumento de lactato que afectaba al sabor del pescado.
 
 **CORRALES:** Muros de piedra ostionera y roca levantados sobre rocas en el intermareal.
-
-Andrés Barba -> divulgación científica.
