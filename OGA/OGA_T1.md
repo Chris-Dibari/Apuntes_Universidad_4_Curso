@@ -102,6 +102,15 @@ El Uso de los recursos está condicionado por el nivel tecnológico de la socied
 2. Se hace necesario buscar esos recursos en condiciones cada vez más desfavorables: a mayor profundidad y con mayor lámina de agua, en el caso de recursos marinos.
 3. La utilización desmesurada de algunos recursos está impactando sobre el medio ambiente alterando los ecosistemas y el clima. Es necesario buscar sistemas energéticos menos agresivos.
 
+Reserva: Cantidad localizada de un recurso concreto que puede ser aprovechada económicamente con la tecnología existente.
+- Reservas acumuladas
+- Reservas subeconómicas
+- Reservas no localizadas:
+• Hipotéticas -> si todo zona x contiene dicho recurso, por abajo seguirá teniendo. Cuando se establece un límite geológico sin certeza absoluta pero sí basado en un estudio que me proporciona cierta probabilidad de succeso favorable y tener recurso. Es una interpolación (inter límites).
+• Especulativas -> No se basa en un estudio, se entiende que cierto recurso está presente pero sin base previa de estudio. Es una extrapolación (fuera de los límites).
+
+Un proyecto nunca se puede basar en la parte especulativa.
+
 
 
 
