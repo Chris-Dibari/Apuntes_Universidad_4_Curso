@@ -1,16 +1,4 @@
 <style>
-  img {
-    width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important; 
-    display: block;
-    margin: 0 auto !important; /* Centrado obligatorio */
-  }
-  p, li, h2, h3 {
-    text-align: justify !important;
-}
-</style>
-
-<style>
 img {
     width: 35% !important; /* Forzamos el tamaño con !important */
     max-width:35% !important;

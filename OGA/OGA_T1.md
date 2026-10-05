@@ -1,11 +1,19 @@
 <style>
-  img {
+img {
     width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important; 
+    max-width:35% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
-  }
+}
+
+/* Esto asegura que se aplique al exportar a PDF */
+p, li, div, h2, h3 {
+    text-align: justify !important;
+}
 </style>
+
+<!-- Usamos el atributo 'align' que es el único que la vista previa y el PDF respetan a la vez -->
+<div align="justify">
 
 # Oceanografía Geológica Aplicada - 4 Curso CC del Mar
 
@@ -78,6 +86,24 @@ Nuclear (fisión Th): Se utiliza el Th que es otro isótopo radiactivo que tiene
 
 Fusión del H: problemática asociada con la cantidad explotable en cuestión.
 
+---
+
+Factor social: el aumento demográfico y el desarrollo tecnológico, favorecen el aumento de la demanda energética.
+El Uso de los recursos está condicionado por el nivel tecnológico de la sociedad. La explotación en el último siglo ha crecido fuertemente incluso por encima del consumo asociado al aumento demográfico.
+
+![alt text](<imagenes-4-curso/captu-1.1-oga.png>)
+
+### Trabajo por Jack Forrester (ver más)
+
+5 variables. Se metieron en el modelo numérico (gráfica de campana donde se podía visualizar si las variables crecían o decrecían) viendo que pasaba, en los resultados se destacó había un gasto incontrolado de recursos. Enseñaba que no se habría llegado a 2050. Posterior búsqueda en medio marino y posibilidad de controlar la curva de la población.
+
+**Consecuencias:**
+1. Los recursos utilizados son limitados y algunos se encuentran en vías de agotamiento.
+2. Se hace necesario buscar esos recursos en condiciones cada vez más desfavorables: a mayor profundidad y con mayor lámina de agua, en el caso de recursos marinos.
+3. La utilización desmesurada de algunos recursos está impactando sobre el medio ambiente alterando los ecosistemas y el clima. Es necesario buscar sistemas energéticos menos agresivos.
 
 
 
+
+
+</div>
