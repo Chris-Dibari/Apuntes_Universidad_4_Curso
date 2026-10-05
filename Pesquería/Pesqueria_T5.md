@@ -139,3 +139,37 @@ APAREJOS HORIZONTALES: PALANGRES -> Estructura (jarcia) más amplia que queda te
 
 ![alt text](<imagenes-4-curso/captu-5.2-pesc.png>)
 
+![alt text](<imagenes-4-curso/captu-5.3-pesc.png>)
+
+**Trampas:**
+
+Artes que capturan las presas atrayéndolas hacia su interior, por su estructura de refugio o por crear un laberinto que conduce a la presa hacia un lugar concreto, permitiendo la entrada pero no la salida. Representa un arte pasiva.
+
+**ALCATRUZ** -> Arte muy antigua. Son vasijas de barro con el fondo agujereado. Es un arte **selectivo** que además permite devolver al mar las presas de tamaño inadecuado sin daños. Se utiliza para el pulpo.
+
+**NASAS** -> Estructura cilíndrica, cilindrocónica u ovoidal.
+Posee un armazón longitudinal de juncos, caños o alambre. Arcos transversales de los que nacen las trampillas. También tiene una bolsa para carnaza.
+
+Para pescado: Cilíndricas. Calado en líneas de 25-30 nasas en fondos limpios o rocosos, durante 1-3 días en dirección del hilo de la
+marea.
+Un caso especial es el de las nasas de morena, cubiertas de tela opaca que dan oscuridad al interior, entrando el pescado (morenas, congrios en el interior buscando sus refugios naturales).
+Empleadas en fondos rocosos.
+
+Para bogavante: En forma de medio cilindro, en primavera en fondos rocosos. (También para nécoras, morenas, langostas).
+Para choco: De junco y caña, muy perecederas, se utilizan solamente durante una temporada de pesca. La carnada que utilizan está compuesta de ramas de ciprés, acebuche o cepina (semejando el sustrato de puesta). De octubre a febrero.
+Nasa holandesa o butrón: Se utiliza para anguila y camarón. Estructura muy compleja, formada por una serie de cámaras con trampillas y embudos.
+
+**Almadraba** ->  Arte de grandes dimensiones que se fija al litoral para la pesca de atunes, interceptando el paso de las pesquerías.
+No rebasa las 6 millas náuticas a costa.
+La estructura está formada por paredes de red:
+- Soportadas por flotadores
+- Sujetas con anclas.
+
+Se distinguen dos partes:
+**CUADRO:** Es un recinto cerrado dividido en compartimentos. Se sitúa paralelo a costa.
+**RABERAS:** Paredes de red desde el fondo a superficie, con sus relingas. Forman un ángulo obtuso. Su función es cortar el paso a los atunes.
+- Rabera de fuera: se dirige del cuadro hacia el mar.
+- Rabera de tierra: transversal, desde la costa al cuadro.
+
+![alt text](<imagenes-4-curso/captu-5.4-pesc.png>)
+
