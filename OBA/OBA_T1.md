@@ -1,12 +1,19 @@
 <style>
-  img {
-    width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important; 
+img {
+    width: 30% !important; /* Forzamos el tamaño con !important */
+    max-width:30% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
-  }
+}
+
+/* Esto asegura que se aplique al exportar a PDF */
+p, li, div, h2, h3 {
+    text-align: justify !important;
+}
 </style>
 
+<!-- Usamos el atributo 'align' que es el único que la vista previa y el PDF respetan a la vez -->
+<div align="justify">
 
 ## Ecosistemas Marinos - 4 Curso CC del Mar
 
@@ -25,13 +32,13 @@
 
 Gráfica: el 0 representa el nivel base, las tierras que están entre el NM y 1000 metros son las más abundantes en el contexto de las tierras emergidas. Si nos centramos en el océano profundo, nos encontramos con la gran mayoría de tierras. Más de la mitad del planeta Tierra es llano abisal (53,5%).
 
-![alt text](imagenes-4-curso/captu-1-oba.png){width="25%" !important}
+![alt text](imagenes-4-curso/captu-1.1-oba.png){width="25%" !important}
 
 #### Variables del medio físico con importancia desde el punto de vista biológico.
 
 - **Temperatura:** fijandonos en la vertical -> zona superficial en la que la T es significativamente más alta que el ambiente profundo (concepto de termoclina). 
 
-![alt text](imagenes-4-curso/captu-2-oba.png)
+![alt text](imagenes-4-curso/captu-1.2-oba.png)
 
 Los organismos que viven en aguas profundas experimentan T frías. Oscila generalmente entre -1 y 4 grados C (la mayor parte alrededor de 2ºC). Hay excepciones como el Mediterráneo (13ºC), Antártico (-1,9ºC) y Mar Rojo (21,5ºC).
 
@@ -41,13 +48,13 @@ Los organismos que viven en aguas profundas experimentan T frías. Oscila genera
 
 - **Oxígeno disuelto:** normalmente no supone problemas a mucha profundidad, sino más bien en algunas zonas concretas contaminadas o en algunos mares regionales (Mar Negro). Hay un mínimo de O entre 500 y 1000m.
 
-![alt text](imagenes-4-curso/captu-3-oba.png)
+![alt text](imagenes-4-curso/captu-1.3-oba.png)
 
 - **Luz en la columna:** presenta una atenuación exponencial, diferentes según la longitud de onda. Nos interesa el promedio de las longitudes de onda (PAR).
 
-![alt text](<imagenes-4-curso/captu-5-oba.png>)
+![alt text](<imagenes-4-curso/captu-1.4-oba.png>)
 
-![alt text](<imagenes-4-curso/captu-6-oba.png>)
+![alt text](<imagenes-4-curso/captu-1.5-oba.png>)
 
 En el eje horizontal se ve la intensidad de la luz medida. Está en escala logaritmica => transforma la curva exponencial en una recta que va decayendo.
 El límite máximo ideal para la fotosíntesis marca también el límite de la zona epipelágica. La zona disfótica coincide con la zona mesopelágica y hace referencia a la zona en la que sigue estando presente la luz aunque no en condiciones suficiente para la realización de la fotosíntesis.
@@ -57,8 +64,14 @@ Por tanto, en resumen hay constancia de las condiciones físicas en un punto det
 El mayor suministro de alimentos para las aguas profundas se produce por caída de partículas provenientes desde la superficie.
 La mayor parte del alimento que llega a la zona profunda llega por gravedad.
 
-![alt text](<imagenes-4-curso/captu-7-oba.png>)
+![alt text](<imagenes-4-curso/captu-1.6-oba.png>)
 
 #### Mecanismos de aporte de MO a las aguas profundas.
 
 - Corrientes de turbiditas: restos terrígenos y neríticos canalizados preferentemente por cañones en plataforma y talud.
+
+
+
+
+
+</div>
