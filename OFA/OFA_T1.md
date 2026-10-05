@@ -5,6 +5,9 @@
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
   }
+  p, li, h2, h3 {
+    text-align: justify !important;
+}
 </style>
 
 # Oceanografía Física Aplicada - 4 Curso CC del Mar
@@ -20,3 +23,4 @@
 
 
 ##  Oceanografía Física Aplicada - TEMA 1. Visualización de datos oceanográficos y atmosféricos.
+
