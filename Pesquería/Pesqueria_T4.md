@@ -70,4 +70,3 @@ Estos acuerdos están alineados con el Green Deal (Pacto Verde Europeo), y lucha
 ![alt text](<imagenes-4-curso/captu-4.4-pesc.png>)
 
 ![alt text](<imagenes-4-curso/captu-4.5-pesc.png>)
-
