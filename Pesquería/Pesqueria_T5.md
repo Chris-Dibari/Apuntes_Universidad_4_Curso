@@ -119,3 +119,23 @@ Similar al anterior. El rastro se larga por popa. La acción mecánica de arrast
 **RASTROS ARRASTRADOS:**
 Se fondea el arte y el rastreo del fondo se consigue cobrando cabo mecánicamente Almeja fina, camarón coquina...
 
+### Aparejos de anzuelo y/o cordel
+
+Son artes de pesca que utilizan como elemento básico el anzuelo. Son considerados los aparejos más antiguos usados para la pesca, construidos con los más diversos materiales, como ramas de árbol, espinas de algunos vegetales, huesos de animales, trozos de concha de molusco, dientes, etcétera; y posteriormente, los metales.
+
+![alt text](<imagenes-4-curso/captu-5.1-pesc.png>)
+
+El anzuelo está diseñado para especies carnívoras (un anzuelo 1 es más grande que un 11).
+
+Los anzuelos se numeran de forma inversa al tamaño que tienen. Los anzuelos pueden usarse en grupos llamados generalmente poteras, unidos por sus ejes longitudinales; pueden ser dos (p e. currican), tres o cuatro para la pesca de peces con lienza; y un gran número de ellos cuando son poteras destinadas a la captura de cefalópodos como el pulpo.
+
+La lienza (o cordel madre) es perpendicular al fondo del mar.
+Para atún y bonito Se utiliza cebo vivo (caballa, jurel, sardina) que se mantiene vivos en viveros con agua de mar.
+
+**APAREJOS VERTICALES** -> Se arrastra el cebo desde la embarcación. Líneas sencillas que remolca el barco, la velocidad depende de la especie.
+**PULPERA** -> El barco permanece a la deriva, en fondos limpios. Se realizan movimientos ascendentes y descendentes para atraer a chocos, calamares y pulpos. A veces se utiliza luz.
+
+APAREJOS HORIZONTALES: PALANGRES -> Estructura (jarcia) más amplia que queda tendida en el fondo. El barco lleva muchos bloques y se ata a dichos bloques la línea madre (estructura) y ahí se cuelgan las brazoladas o rainales que es donde van unidos los anzuelos.
+
+![alt text](<imagenes-4-curso/captu-5.2-pesc.png>)
+
