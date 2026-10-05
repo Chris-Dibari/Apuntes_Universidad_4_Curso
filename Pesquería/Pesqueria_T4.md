@@ -56,3 +56,16 @@ Dos modalidades principales, con objetivos y mecanismos diferentes:
 
 - **Acuerdos de colaboración de pesca sostenible (ACPS):**  ACCESO Y COOPERACIÓN -> Acceso regulado a los excedentes pesqueros en la ZEE del país socio. La UE aporta financiación por acceso y apoyo al sector pesquero local. Los armadores también pagan tasas.
 
+Ejemplos de acuerdos septentrionales: Mar del Norte y Atlántico nororiental: gestión de poblaciones compartidas. Los socios de la UE son Noruega, Islas Feroe, Islandia y Reino Unido. Se negocia:
+- Límites de captura y medidas de gestión;
+- Intercambios de posibilidades de pesca;
+- Condiciones de acceso a las aguas.
+
+**Acuerdos de colaboración de pesca sostenible: ACPS:** Acceso a excedentes con base científica y apoyo al desarrollo pesquero del país socio.
+
+![alt text](<imagenes-4-curso/captu-4.3-pesc.png>)
+
+Estos acuerdos están alineados con el Green Deal (Pacto Verde Europeo), y lucha contra la pesca INDNR (Pesca Ilegal, No Declarada y No Reglamentada). Constituye una estrategia transversal de la EU presentada en diciembre 2019 para transformar su economía hacia la neutralidad climática en 2050.
+
+![alt text](<imagenes-4-curso/captu-4.4-pesc.png>)
+
