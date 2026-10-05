@@ -111,7 +111,7 @@ Reserva: Cantidad localizada de un recurso concreto que puede ser aprovechada ec
 
 Un proyecto nunca se puede basar en la parte especulativa.
 
-
+![alt text](<imagenes-4-curso/captu-1.2-oga.png>)
 
 
 
