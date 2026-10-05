@@ -15,9 +15,9 @@ p, li, div, h2, h3 {
 <!-- Usamos el atributo 'align' que es el único que la vista previa y el PDF respetan a la vez -->
 <div align="justify">
 
-# Oceanografía Geológica Aplicada - 4 Curso CC del Mar
+## Oceanografía Geológica Aplicada - 4 Curso CC del Mar
 
-## Índice de la asignatura:
+### Índice de la asignatura:
 
 **Bloque I: Introducción**
 
@@ -46,8 +46,9 @@ p, li, div, h2, h3 {
 - TEMA 14. Instalaciones submarinas y estudio de geotecnia. Riesgos asociados.
 - TEMA 15. Casos prácticos: cables y conducciones submarinas. Enlaces fijos. Instalaciones de explotación.
 
+<div class="page"/>
 
-##  Oceanografía Geológica Aplicada - TEMA 1. Introducción al estudio de los recursos minerales y energéticos marinos.
+###  Oceanografía Geológica Aplicada - TEMA 1. Introducción al estudio de los recursos minerales y energéticos marinos.
 
 **Concepto de recurso y reserva:** La **reserva** es solamente el recurso que se puede explotar con la herramienta que tenemos hoy en día. El **recurso** es tanto la cantidad de material que tenemos disponible como el potencial presente.
 
@@ -93,7 +94,7 @@ El Uso de los recursos está condicionado por el nivel tecnológico de la socied
 
 ![alt text](<imagenes-4-curso/captu-1.1-oga.png>)
 
-### Trabajo realizado por Jay Forrester
+#### Trabajo realizado por Jay Forrester
 
 Resumen -> 5 variables. Se metieron en el modelo numérico (gráfica de campana donde se podía visualizar si las variables crecían o decrecían) viendo que pasaba, en los resultados se destacó había un gasto incontrolado de recursos. Enseñaba que no se habría llegado a 2050. Posterior búsqueda en medio marino y posibilidad de controlar la curva de la población.
 
