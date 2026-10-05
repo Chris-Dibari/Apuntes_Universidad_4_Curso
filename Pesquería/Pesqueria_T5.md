@@ -173,3 +173,9 @@ Se distinguen dos partes:
 
 ![alt text](<imagenes-4-curso/captu-5.4-pesc.png>)
 
+Parte de este atún llega al mercado japonés. En muchos casos se dejan engordar puesto que ese mercado paga por un tipo de carne más rica en grasa.
+Al matarlo con un gancho se generaba mucha sangre -> aumento de lactato que afectaba al sabor del pescado.
+
+**CORRALES:** Muros de piedra ostionera y roca levantados sobre rocas en el intermareal.
+
+Andrés Barba -> divulgación científica.
