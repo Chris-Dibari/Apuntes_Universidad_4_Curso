@@ -1,14 +1,19 @@
 <style>
-  img {
-    width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important; 
+img {
+    width: 30% !important; /* Forzamos el tamaño con !important */
+    max-width:30% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
-  }
-  p, li, h2, h3 {
+}
+
+/* Esto asegura que se aplique al exportar a PDF */
+p, li, div, h2, h3 {
     text-align: justify !important;
 }
 </style>
+
+<!-- Usamos el atributo 'align' que es el único que la vista previa y el PDF respetan a la vez -->
+<div align="justify">
 
 # Oceanografía Física Aplicada - 4 Curso CC del Mar
 
@@ -24,3 +29,7 @@
 
 ##  Oceanografía Física Aplicada - TEMA 1. Visualización de datos oceanográficos y atmosféricos.
 
+
+
+
+</div>
