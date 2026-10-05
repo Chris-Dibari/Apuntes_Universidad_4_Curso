@@ -44,5 +44,15 @@ Sin protocolo activo: Marruecos, Senegal y Guinea Ecuatorial. No equivalen a acc
 
 ![alt text](<imagenes-4-curso/captu-4.1-pesc.png>)
 
+**Acuerdos pesqueros de la UE con terceros países:**
 
+La extensión de las ZEE desde los años 70 cambió el acceso a los caladeros.
+
+![alt text](<imagenes-4-curso/captu-4.2-pesc.png>)
+
+Dos modalidades principales, con objetivos y mecanismos diferentes:
+
+- **Acuerdos septentrionales:** GESTIÓN DE RECURSOS COMPARTIDOS -> Coordinación con países vecinos del mar del Norte y del Atlántico nororiental. Negociación de capturas, intercambios de cuotas y acceso a aguas, según cada acuerdo.
+
+- **Acuerdos de colaboración de pesca sostenible (ACPS):**  ACCESO Y COOPERACIÓN -> Acceso regulado a los excedentes pesqueros en la ZEE del país socio. La UE aporta financiación por acceso y apoyo al sector pesquero local. Los armadores también pagan tasas.
 
