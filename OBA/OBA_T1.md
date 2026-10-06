@@ -69,6 +69,21 @@ La mayor parte del alimento que llega a la zona profunda llega por gravedad.
 #### Mecanismos de aporte de MO a las aguas profundas.
 
 - Corrientes de turbiditas: restos terrígenos y neríticos canalizados preferentemente por cañones en plataforma y talud.
+- Grandes restos de animales -> a pesar de poder pensar que al ser restos grandes sedimenten rapidamente y aporten la mayoría de la MO en ambientes profundos, constituyen aprox el 11% de la MO (poco). Mediante experimentos con submarino, podía haber en promedio una partícula de 2 kg y 4 de 50g. Otro estudio estimó que había un resto de grande mamífero aprox cada 8 km en los fondos abisales.
+Puesto que los grandes restos están dispersos, la mayoría de las especies de fondos abisales (carroñeros) tienen una elevada capacidad de detección y patrulla continua.
+- Restos finos (plancton): es la mayor parte de la MO que llega, y principal fuente en los ambientes profundos. A pesar de que los restos finos van cayendo lentos y hay gran posibilidad de que se los coma la gran cantidad de especies pelágicas, existe una gran aportación hacia el fondo abisal.
+
+![alt text](<imagenes-4-curso/captu-1.7-oba.png>)
+
+Por que la velocidad es más elevada de una partícula pequeña respecto a la que se esperaría -> **efecto scavenging** = la partícula cayendo va "recogiendo" partículas más pequeñas que se van pegando a ella y aceleran su caída.
+
+Además, al final de un afloramiento, hay una gran acumulación de partículas y hay más formación de microagregados (≠ nieve marina puesto que esta última tiene un menor tamaño ~ 500 micras).
+
+Otra fuente de alimento en el océano profundo es el proceso de convección -> fenómeno muy importante en algunas zonas del océano para explicar el aporte de MO al fondo oceánico. Las partículas más grandes y pesadas terminan en el fondo por gravedad, cayendo rápidas, pero las pequeñas experimentan más la convección.
+
+![alt text](<imagenes-4-curso/captu-1.8-oba.png>)
+
+
 
 
 
