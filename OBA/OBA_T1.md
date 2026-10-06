@@ -93,6 +93,17 @@ Otro trabajo: relación que hay entre PP neta en el eje horizontal y la abundanc
 
 ![alt text](<imagenes-4-curso/captu-1.11-oba.png>)
 
+Trophic ladder -> MO guíada.
+
+**Forbes y la Hipótesis Azoica** -> afirma que no hay vida por debajo 550m de profundidad.
+
+Otro trabajo -> biomasa de organismos en relación a la profundidad.
+
+![alt text](<imagenes-4-curso/captu-1.12-oba.png>)
+
+Al representar la biomasa (en logaritmo), quitando este último, saldría una curva muy acusada -> relación entre la producción y la presencia de zooplancton. En sitios más oligotróficos (mar de los Sargazos - giro oligotrófico -) se espera que haya muy poca biomasa tanto en superficie como en profundidad. -> La cantidad de organismos que hay en superficie influye sobre la cantidad de organismos que se encuentran en profundidad.
+
+
 
 
 
