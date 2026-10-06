@@ -307,6 +307,13 @@ Entre los elementos y depósitos metálicos mencionados aparecen:
 - Au.
 
 El Mar Rojo constituye un ejemplo especialmente interesante porque existen cuencas profundas donde pueden acumularse salmueras muy densas y calientes. Estas aguas presentan concentraciones muy elevadas de sales y pueden favorecer la acumulación y precipitación de metales. Desde un punto de vista económico, estos depósitos han despertado interés porque pueden contener concentraciones importantes de elementos valiosos. La diapositiva muestra incluso un esquema conceptual de extracción submarina en el que el material del fondo sería removido, triturado y separado antes de transportarse hacia la superficie.
+Se pueden encontrar hasta la profundidad de compensación de la calcita (PCC)(4000-5000 m), por tanto dichos fangos se encuentran como máximo a 5000m, aunque la mayor parte de ellos se localizan entre 2000 y 3000 m.
+
+A pesar de que no son los mismos componentes, la forma de acumulación es la misma tanto para cuencas profundas como en los márgenes.
+
+![alt text](<imagenes-4-curso/captu-1.4-oga.png>)
+
+![alt text](<imagenes-4-curso/captu-1.5-oga.png>)
 
 
 
