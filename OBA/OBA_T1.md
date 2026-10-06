@@ -83,7 +83,13 @@ Otra fuente de alimento en el océano profundo es el proceso de convección -> f
 
 ![alt text](<imagenes-4-curso/captu-1.8-oba.png>)
 
+**Resumen del trabajo:**
 
+![alt text](<imagenes-4-curso/captu-1.9-oba.png>)
+
+Otro trabajo: relación que hay entre PP neta en el eje horizontal y la abundancia de biomasa de zooplancton.
+
+![alt text](<imagenes-4-curso/captu-1.10-oba.png>)
 
 
 
