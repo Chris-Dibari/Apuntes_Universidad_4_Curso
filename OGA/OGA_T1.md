@@ -315,8 +315,42 @@ A pesar de que no son los mismos componentes, la forma de acumulación es la mis
 
 ![alt text](<imagenes-4-curso/captu-1.5-oga.png>)
 
+Importancia de los hidratos de gas -> riesgo en su explotación pero gran capacidad energética.
 
+Estación extractora de petróleo que ha llegado a la máxima profundidad (rombo amarillo) -> 1500 m de profundidad (elevadisima presión).
+Por un problema ligado a la compensación de presión (no fueron capaces de compensar la presión del bombeo con la presión de la superficie), hubo un derrame y una exploción que provocó muchos muertos.
 
+![alt text](<imagenes-4-curso/captu-1.6-oga.png>)
 
+La exlotación de petróleo se centra en las plataformas onshore (cerca del 80%).
+
+**Fases en el estudio de los recursos:**
+
+- Búsqueda o prospección, conlleva la utilización de técnicas geológicas muy variadas, incluyendo la aplicación de técnias geofísicas y geoquímicas.
+- Valoración de las reservas.
+- Diseño de explotación.
+
+Estas fases están fuertemente condicionadas por el factor tecnológico que favorece el descubrimiento de nuevas reservas y la mejora de su explotación.
+
+En fase de experimentación -> robot capaz de detectar nódulos y rescatarlos del fondo marino (aprox 6000 m) y bombearlos mediante un tubo directamente al barco.
+
+#### Resumen
+
+1. Los recursos utilizados son limitados y algunos se encuentran en vías de agotamiento.
+2. La utilización desmesurada de algunos recursos está impactando sobre el medio ambiente alterando los ecosistemas y el clima. Es neceario buscar sistemas energéticos menos agresivos.
+3. Se hace necesario buscar esos recursos en condiciones cada vez más desfavorables: a mayor profundidad y con mayor lámina de agua, en el caso de recursos marinos
+
+**VENTAJAS DE LA EXPLOTACIÓN DE LOS RECURSOS MINERALES MARINOS:**
+
+• VENTAJAS:
+- Muchos yacimientos, en ocasiones mas ricos que los terrestres
+- El agua abarata algunos costes de logística y transporte
+- Facilidades en los puertos para carga y descarga
+- Procesado del mineral en el continente (se pueden llevar a áreas políticamente estables y con aportes de energía suficiente)
+
+• Inconvenientes:
+- Dificultades tecnológicas
+- Problemas ambientales de explotación
+- Problemas jurídicos
 
 </div>
