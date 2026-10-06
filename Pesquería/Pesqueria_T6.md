@@ -58,6 +58,17 @@ No existe un porcentaje único de especies afectadas por el arrastre.
 
 ![alt text](<imagenes-4-curso/captu-6.-pesc.png>)
 
+**Hábitats especialmente vulnerables:**
+
+- Fragilidad y recuperación lenta -> Los organismos frágiles, longevos, de maduración tardía o crecimiento lento son especialmente sensibles.
+
+- Hábitats que dan estructuras -> Corales, algas calcáreas, fanerógamas marinas y agregaciones de poliquetos tubícolas aportan refugio y estabilizan el sustrato.
+
+- Consecuencias para los peces -> El daño en áreas de cría, alimentación o refugio puede reducir la capacidad del hábitat para sostener juveniles y adultos.
+
+**La pérdida de hábitat también afecta a las especies objetivo.**
+
+
 
 
 
