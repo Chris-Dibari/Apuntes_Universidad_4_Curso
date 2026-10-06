@@ -69,6 +69,14 @@ Zona objetivo de la Campaña, se han marcado los polígonos específicos en dón
 
 ![alt text](<imagenes-4-curso/captu-2.4-oga.png>)
 
+#### Perfil A
+
+![alt text](<imagenes-4-curso/captu-2.5-oga.png>)
+
+![alt text](<imagenes-4-curso/captu-2.6-oga.png>)
+
+La variación del SP (que se da en tiempo de duplicado, segundos) se debe a menor compactación del suelo y por condiciones someras (la señal tarda menos).
+
 
 
 </div>
