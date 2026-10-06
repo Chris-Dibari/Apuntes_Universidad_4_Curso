@@ -106,10 +106,15 @@ Al representar la biomasa (en logaritmo), quitando este último, saldría una cu
 ![alt text](<imagenes-4-curso/captu-1.13-oba.png>)
 
 Otro trabajo sobre las medidas de respiración realizadas a distintas profundidades. Hay tendencia muy clara a que la respiración (en log) va descendiendo de prisa hacia aguas muy profundas (comportamiento parecido al de la biomasa).
-En la respiración del océano, la mitad de ella se produce por encima de los 700m (por encima de la termoclina permanente) -> casi toda la respiración se concentra en aguas superficiales.
+En la respiración del océano, la mitad de ella se produce por encima de los 700m (por encima de la termoclina permanente) -> casi toda la respiración se concentra en aguas superficiales. Resultados inesperados sobre la cantidad de respiración (subestimación con las trampas de sedimentación? quimiosíntesis o convección?) -> realmente entraría más C que lo que afirma el estudio.
 
 ![alt text](<imagenes-4-curso/captu-1.14-oba.png>)
 
+Gráfico: hipótesis de Sanders -> se medía la diversidad de los organismos de fondo en varios sitios del mundo. En base a los resultados hipotizó que como en el amiente profundo las condiciones eran muy estables, dichas condiciones promovían la diversidad. -> Dicha hipótesis ya se desmiente.
+
+![alt text](<imagenes-4-curso/captu-1.15-oba.png>)
+
+![alt text](<imagenes-4-curso/captu-1.16-oba.png>)
 
 
 
