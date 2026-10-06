@@ -91,6 +91,31 @@ El PF 33 sería el punto más alejado, por el que ganaría la fórmula del talud
 
 ![alt text](<imagenes-4-curso/captu-2.8-oga.png>)
 
+#### Zona Internacional de los fondos marinos
 
+• En 1970, la Asamblea General de las Naciones Unidas aprobó́ una resolución en la que declaraba que los recursos de los fondos marinos y oceánicos fuera de los limites de la jurisdicción nacional eran patrimonio común de la humanidad y que no estarían sujetos a apropiación por medio legitimo alguno por Estados ni personas.
+• Para dar efecto a ese principio y resolver otras cuestiones relativas a los océanos planteadas desde hacía mucho tiempo, la Asamblea convocó en 1973 la Tercera Conferencia de las Naciones Unidas sobre el Derecho del Mar. En la parte XI de la Convención, así́ como en el Acuerdo de 1994, se establece el marco de un régimen internacional sin precedentes para la ordenación de los recursos minerales de la Zona internacional de los fondos marinos.
+• Esa Zona abarca los fondos marinos y oceánicos y su subsuelo fuera de los limites de la jurisdicción nacional. Los principios que rigen la Zona son los siguientes:
+
+- Los recursos de la Zona internacional de los fondos marinos serán patrimonio común de la humanidad y ningún Estado podrá́ apropiarse de ellos.
+- Todos los derechos sobre los recursos de la Zona pertenecerán a toda la humanidad y los beneficios económicos derivados de la extracción de minerales de los fondos marinos se distribuirán sobre una base no discriminatoria, en beneficio de toda la humanidad.
+- Se establece la Autoridad Internacional de los Fondos Marinos como organización por conducto de la cual los Estados Partes organizarán y controlarán las actividades de la Zona.
+
+**El régimen internacional de todas las actividades relacionadas con los recursos de la Zona internacional de los fondos marinos tiene tres objetivos:**
+
+- Estimular el aprovechamiento de los recursos de los fondos marinos.
+- Proteger el medio marino que pueda resultar afectado por esas actividades.
+- Velar por que los beneficios económicos se distribuyan equitativamente entre los productores de minerales y la comunidad internacional.
+
+### International Seabed Authority ISA
+
+La Autoridad (ISA) actúa como órgano regulador en nombre de todos sus miembros.
+• La exploración y la explotación mineras de la Zona internacional de los fondos marinos sólo puede llevarse a cabo mediante contrato adjudicado por la Autoridad.
+• Por conducto del Consejo, la Autoridad puede adjudicar contratos a las empresas o los Estados que deseen realizar actividades de esa índole y debe velar por que esas actividades se efectúen de conformidad con lo dispuesto en el contrato.
+• La Autoridad elabora los reglamentos que todos los contratistas deben cumplir en la exploración y explotación de los fondos marinos.
+
+**Código minero** -> Reglamento sobre prospección y exploración de nódulos polimetálicos en la Zona
+
+De conformidad con la Convención de las Naciones Unidas sobre el Derecho del Mar (“la Convención”), los fondos marinos y oceánicos y su subsuelo fuera de los limites de la jurisdicción nacional, así́ como sus recursos, son patrimonio común de la humanidad, cuya exploración y explotación se realizaran en beneficio de toda la humanidad, en cuyo nombre actúa la Autoridad Internacional de los Fondos Marinos.
 
 </div>
