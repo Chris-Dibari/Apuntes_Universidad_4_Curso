@@ -91,6 +91,10 @@ Otro trabajo: relación que hay entre PP neta en el eje horizontal y la abundanc
 
 ![alt text](<imagenes-4-curso/captu-1.10-oba.png>)
 
+![alt text](<imagenes-4-curso/captu-1.11-oba.png>)
+
+
+
 
 
 
