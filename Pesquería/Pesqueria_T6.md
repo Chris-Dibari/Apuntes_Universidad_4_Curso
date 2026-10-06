@@ -119,6 +119,10 @@ La figura de Pauly et al. (2002) es una reconstrucción histórica.
 
 ![alt text](<imagenes-4-curso/captu-6.8-pesc.png>)
 
+Se necesita entender cuáles son las razones del descarte para cambiar las prácticas de descarte y ayudar a diseñar protocolos adecuados.
+Los descartes responden a la reglamentación y a la economía de mercado.
+
+
 
 
 
