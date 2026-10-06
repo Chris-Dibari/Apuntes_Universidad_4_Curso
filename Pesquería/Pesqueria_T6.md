@@ -68,6 +68,29 @@ No existe un porcentaje único de especies afectadas por el arrastre.
 
 **La pérdida de hábitat también afecta a las especies objetivo.**
 
+La actividad pesquera ha ido desarrollandose gracias al desarrollo de la tecnología. Las capturas de 1950 las capturas (sin tecnología) no eran menores de las que tenemos ahora con el uso de la tecnología. Con dicha tecnología tenemos la posibilidad hoy en día de sacar las mismas cantidades que sacabamos en el pasado, a pesar de que los recursos se están agotando.
+
+![alt text](<imagenes-4-curso/captu-6.2-pesc.png>)
+
+- Esfuerzo nominal -> Número de buques, días de pesca u horas de actividad.
+- Capacidad efectiva -> Sonar, navegación, potencia y diseño de los artes pueden aumentar la eficiencia de localización y captura.
+- Interpretación de la CPUE -> La captura por unidad de esfuerzo puede cambiar por la abundancia, la capturabilidad y la distribución de los peces. **CPUE ≈ q × B q: capturabilidad B: biomasa**
+
+Cuando estamos cerca del 0 se tienen muchos huevos y embriones (abundancia elevada). Conforme va pasando el tiempo, algunos mueren y otros van pasando a estado adulto. Al tener ejemplares pequeños -> el peso es muy pequeño, a medida que van creciendo aumentan tanto en peso como en longitud. Al tener un stock explotado, la biomasa se tiene por debajo del umbral óptimo necesario para mantener las capturas estables. En ese momento se produce una sobrepesca, que se puede clasificar en 5 tipos distintos (no es lo mismo pescar sobre ejemplares pequeños que sobre grandes).
+
+![alt text](<imagenes-4-curso/captu-6.3-pesc.png>)
+
+1. Sobrepesca de crecimiento -> Concentramos la pesca en los juveniles (edades más pequeñas.). De esta forma, los ejemplares no llegan a ser adultos. No se tiene un buen rendimiento por no dejarlos crecer.
+Reclutamiento -> ejemplares que se van a incorporar nuevo al stock, procedentes de la reproducción anterior (parte que se puede pescar).
+
+![alt text](<imagenes-4-curso/captu-6.4-pesc.png>)
+
+-- Reclutamiento al área: cuando los alevines se integran en la zona donde reside el stock.
+-- Reclutamiento al arte: cuando el 50% de los ejemplares queda retenido por una luz de malla determinada, (EMPIEZAN A SER PESCADOS).
+
+2. Sobrepesca de reclutamiento -> no vamos a tener reclutas (descendencia) puesto que se tiene una disminución de los reproductores. 
+La sobrepesca del reclutamiento, es la pesca excesiva sobre el segmento adulto de la población de forma que la probabilidad de un reclutamiento exitoso quede reducida, ha sido la causa del colapso de numerosos stocks como el arenque noruego (Clupea harengus), la sardina de California (Sardinops sagax) o las ballenas azules.
+
 
 
 
