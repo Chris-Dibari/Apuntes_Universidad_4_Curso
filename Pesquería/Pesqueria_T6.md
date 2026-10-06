@@ -113,6 +113,13 @@ La figura de Pauly et al. (2002) es una reconstrucción histórica.
 
 ![alt text](<imagenes-4-curso/captu-6.7-pesc.png>)
 
+#### Bycatch y descartes
+
+“Es imposible estimar la cantidad de pequeños peces que es destruida dado que es imposible estimar la cantidad que es lanzada por la borda, muerta o muriendo” (Holt, 1895).
+
+![alt text](<imagenes-4-curso/captu-6.8-pesc.png>)
+
+
 
 
 
