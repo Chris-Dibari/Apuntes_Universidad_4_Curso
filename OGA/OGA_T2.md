@@ -42,3 +42,33 @@ Interés en la expansión para mayores recursos (tierras raras).
 - Reglas: 2 fórmulas o positivas 2 negativas o restrictivas
 
 ![alt text](<imagenes-4-curso/captu-2.3-oga.png>)
+
+La ampliación de la ZEE es de hasta 350m (máximo) siendo normalmente de 200 m.
+
+**Fórmulas o positivas de Herdber:**
+
+- Fórmula Gardiner: Una línea trazada en relación con los puntos fijos más alejados de la línea de base recta en cada uno de los cuales el espesor de las rocas sedimentarias sea por lo menos el 1% de la distancia más corta entre ese punto y el pie del talud continental (FOS, Foot Of the Slope).
+
+Es decir -> Puedo poner puntos siempre y cuando la distancia máxima sea de 350m, a partir de la línea base y siempre y cuando haya por lo menos un 1% de espesor de rocas sedimentarias (estudio mediante técnicas geofísicas).
+
+- Fórmula de la distancia: Una línea trazada en relación con puntos fijos situados a no más de 60 millas marinas del Pie del Talud continental.
+
+**Negativas o restrictivas:**
+
+Los puntos fijos que constituyen la línea del límite exterior de la plataforma continental en el lecho del mar, deberán estar situados a una distancia que no supere la línea de 350 millas marinas. Esta línea estaría construida desde las líneas de base rectas, a partir de las cuales se mide la anchura del mar territorial o la de 100 millas marinas contadas desde la isobata de 2500 m.
+
+#### Aplicación de la fórmula de Gardiner en las Islas Canarias
+
+Área potencial de ampliación de España al Oeste de las Islas Canarias entre las 200 y las 350 millas marinas, de conformidad con el artículo 76 de La Convención.
+
+La expansión de la ZEE de España hoy en día se encuentra parada puesto que Marrueco tiene su propia legislación y no permite la expansión, si bien sus razones se deben a motivos de fronteras e historia y los de España a razones más practicas y geológicas.
+
+Zona objetivo de la Campaña, se han marcado los polígonos específicos en dónde se ha desarrollado el estudio así como los distintos montes submarinos presentes en la región, localizados en la ZEE española y entre las 200 y 350 millas al Oeste de las Islas Canarias. Se marca también la ampliación potencial más allá de las 200 millas marinas.
+
+(Imagen) Puntos fórmula de Gardiner calculados en base a los perfiles sísmicos realizados sobre el mapa global de espesores de sedimentos (NGDC), donde podemos observar que existen espesores suficientes para constituir puntos fijos.
+
+![alt text](<imagenes-4-curso/captu-2.4-oga.png>)
+
+
+
+</div>
