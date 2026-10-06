@@ -91,6 +91,12 @@ Reclutamiento -> ejemplares que se van a incorporar nuevo al stock, procedentes 
 2. Sobrepesca de reclutamiento -> no vamos a tener reclutas (descendencia) puesto que se tiene una disminución de los reproductores. 
 La sobrepesca del reclutamiento, es la pesca excesiva sobre el segmento adulto de la población de forma que la probabilidad de un reclutamiento exitoso quede reducida, ha sido la causa del colapso de numerosos stocks como el arenque noruego (Clupea harengus), la sardina de California (Sardinops sagax) o las ballenas azules.
 
+![alt text](<imagenes-4-curso/captu-6.5-pesc.png>)
+
+3. Sobrepesca demográfica -> se produce una reducción en la edad de la población. Se tienen menos individuos grandes (viejos). Los peces crecen durante toda la vida a pesar de que el crecimiento se ve ralentizado con mayor edad (a diferencia de los mamiféros que dejan de crecer). Siempre a diferencia de los mamíferos, las más viejas entre los ejemplares hembras de los peces tendrá una descendencia mejor que las hembras más jovenes.
+
+![alt text](<imagenes-4-curso/ captu-6.6-pesc>)
+
 
 
 
