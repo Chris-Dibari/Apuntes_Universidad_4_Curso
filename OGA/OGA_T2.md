@@ -69,13 +69,27 @@ Zona objetivo de la Campaña, se han marcado los polígonos específicos en dón
 
 ![alt text](<imagenes-4-curso/captu-2.4-oga.png>)
 
-#### Perfil A
+**Perfíl A**
 
 ![alt text](<imagenes-4-curso/captu-2.5-oga.png>)
+
+**Perfíl B**
 
 ![alt text](<imagenes-4-curso/captu-2.6-oga.png>)
 
 La variación del SP (que se da en tiempo de duplicado, segundos) se debe a menor compactación del suelo y por condiciones someras (la señal tarda menos).
+
+El espesor se calcularía como **V/TD**
+
+![alt text](<imagenes-4-curso/captu-2.7-oga.png>)
+
+Rusia está reclamando el 40% del fondo marino del Ártico -> el 60% de las resrvas conocidas que queda por explotar (gas natural y petróleo se encuentra allí).
+
+Máximo aporte sedimentario y elevadísima cantidad de recurso en el Ártico (Gran competencia por las tierras raras entre EEUU y China).
+
+El PF 33 sería el punto más alejado, por el que ganaría la fórmula del talud de Herdber.
+
+![alt text](<imagenes-4-curso/captu-2.8-oga.png>)
 
 
 
