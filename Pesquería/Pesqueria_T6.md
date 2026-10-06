@@ -109,6 +109,10 @@ La sobrepesca del reclutamiento, es la pesca excesiva sobre el segmento adulto d
 - No declarada -> No se comunica, o se comunica de forma inexacta, cuando existe obligación de informar.
 - No reglamentada -> Incluye actividades incompatibles con las responsabilidades de conservación en los supuestos definidos por el PAI-INDNR.
 
+La figura de Pauly et al. (2002) es una reconstrucción histórica.
+
+![alt text](<imagenes-4-curso/captu-6.7-pesc.png>)
+
 
 
 
