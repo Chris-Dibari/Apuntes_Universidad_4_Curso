@@ -103,6 +103,8 @@ Otro trabajo -> biomasa de organismos en relación a la profundidad.
 
 Al representar la biomasa (en logaritmo), quitando este último, saldría una curva muy acusada -> relación entre la producción y la presencia de zooplancton. En sitios más oligotróficos (mar de los Sargazos - giro oligotrófico -) se espera que haya muy poca biomasa tanto en superficie como en profundidad. -> La cantidad de organismos que hay en superficie influye sobre la cantidad de organismos que se encuentran en profundidad.
 
+![alt text](<imagenes-4-curso/captu-1.13-oba.png>)
+
 
 
 
