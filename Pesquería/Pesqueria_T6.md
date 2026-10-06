@@ -97,7 +97,17 @@ La sobrepesca del reclutamiento, es la pesca excesiva sobre el segmento adulto d
 
 ![alt text](<imagenes-4-curso/ captu-6.6-pesc>)
 
+4. Sobrepesca genética -> Existe una selección dirigida, inversa a la natural, que a largo plazo puede cambiar las características genéticas de la población (ej. etapas crecimiento y ciclos de madurez).
 
+5. Sobrepesca "en serie" -> Perdida secuencial del número de especies que forman la pesquería. Son más vulnerables las pesquerías multiespecíficas (capturas agregadas) que las monoespecificas por que los síntomas de alerta se retrasan en el tiempo (agotamiento de algunas especies).
+
+6. Sobrepesca del ecosistema -> Se manifiesta por una alteración del sistema por la desaparición/reducción de especies claves, fundamentalmente depredadores, produciéndose un efecto cascada: top – down.
+
+**Pesca ilegal, no declarada y no reglamentada:**
+
+- Ilegal -> Incumple las normas aplicables o se realiza sin la autorización exigida.
+- No declarada -> No se comunica, o se comunica de forma inexacta, cuando existe obligación de informar.
+- No reglamentada -> Incluye actividades incompatibles con las responsabilidades de conservación en los supuestos definidos por el PAI-INDNR.
 
 
 
