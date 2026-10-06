@@ -110,7 +110,7 @@ En la respiración del océano, la mitad de ella se produce por encima de los 70
 
 ![alt text](<imagenes-4-curso/captu-1.14-oba.png>)
 
-Gráfico: hipótesis de Sanders -> se medía la diversidad de los organismos de fondo en varios sitios del mundo. En base a los resultados hipotizó que como en el amiente profundo las condiciones eran muy estables, dichas condiciones promovían la diversidad. -> Dicha hipótesis ya se desmiente.
+Gráfico: hipótesis de Sanders -> se medía la diversidad de los organismos de fondo en varios sitios del mundo. En base a los resultados hipotizó que como en el amiente profundo las condiciones eran muy estables, dichas condiciones promovían la diversidad. -> Dicha hipótesis ya se desmiente. Sus observaciones eran reales pero sus connclusiones equivocadas debidas a las extrapolaciones erróneas.
 
 ![alt text](<imagenes-4-curso/captu-1.15-oba.png>)
 
