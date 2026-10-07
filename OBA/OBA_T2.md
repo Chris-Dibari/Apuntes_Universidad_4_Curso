@@ -59,6 +59,28 @@ Es un vestimentífero, grupo cercano a los pogonóforos que no tiene boca y pres
 
 ![alt text](<imagenes-4-curso/captu-2.8-oba.png>)
 
+Un orgánulo ha intercambiado tanta información (DNA) que ya no puede vivir sin la célula, mientras que un endosimbionte ha intercambiado información pero puede seguir viviendo autonomaménte.
+
+
+**Almeja Calyptogena magnifica:**
+
+Alcanza 30 cm. Las bacterias simbiontes se encuentran en las branquias directamente, donde pueden obtener con facilidad oxígeno y dióxido de carbono. Aunque el sulfuro sea escaso, lo pueden tomar también directamente del sedimento por el pie, que introducen en las grietas y concentran el S2- en la sangre.
+Presenta mecanismos de detoxificación pero su hemoglobina solo tiene un lugar de unión. Evita su envenenamiento mediante la presencia de un péptido portador específico del sulfuro.
+
+Sulfuro -> puede ocupar el lugar del oxígeno en la hemoglobina y también bloquear la cadena respiratoria. Un compuesto bastante tóxico.
+
+El **mejillón amarillo Bathymodiolus** recubre las proximidades de las chimeneas en gran densidad (hasta 10 Kg/m2). También tiene bacterias en las branquias.
+
+**Cangrejos Bythograea, Munidopsis...**
+
+Estos cangrejos no tienen simbiontes, sino que son carnívoros-carroñeros, pero aun así tienen que protegerse de la elevada concentración de sulfuro. El mecanismo de detoxificación de Bythograea consiste en la oxidación del sulfuro a tiosulfato en el hepatopancreas. De esta manera, aunque aumentemos la concentración externa de sulfuro, el contenido en la sangre es bajo.
+El tiosulfato se puede acumular en gran cantidad antes de ser tóxico, por tanto evitan el problema de envenenarse con el sulfuro.
+
+**El zoarcido Thermarces:**
+
+Es el mayor depredador de las chimeneas hidrotermales. Posee ojos muy reducidos y una morfología serpentiforme que nos recuerda a otros peces bentopelágicos.
+
+![alt text](<imagenes-4-curso/captu-2.9-oba.png>)
 
 
 
