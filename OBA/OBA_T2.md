@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 30% !important; /* Forzamos el tamaño con !important */
-    max-width:30% !important;
+    width: 40% !important; /* Forzamos el tamaño con !important */
+    max-width:40% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -24,6 +24,21 @@ p, li, div, h2, h3 {
 ![alt text](<imagenes-4-curso/captu-2.2-oba.png>)
 
 ![alt text](<imagenes-4-curso/captu-2.3-oba.png>)
+
+Tabla que compara propiedades del agua cerca de la chimenea y lejos de ella.
+
+![alt text](<imagenes-4-curso/captu-2.4-oba.png>)
+
+**Chimeneas de humo negro y blanco:**
+
+Las chimeneas asociadas a las zonas de dorsal son diferentes según la profundidad a la que haya llegado el agua, la temperatura y el grado de transformación de su emisión y el aspecto de su humo.
+Las más activas y calientes emiten agua de apariencia de humo negro de alta temperatura (hasta 400ºC) rica en sulfuros polimetálicos, reducida y ácida. Al salir y mezclarse con el agua fría y alcalina del mar se producen precipitaciones que dan lugar a las pagodas de las chimeneas. Estas tienen una vida limitada y van perdiendo actividad con el tiempo, llegando a desmoronarse por disolución de la anhidrita: son sistemas no duraderos.
+
+Las chimeneas de humo blanco resultan de circulación más superficial, con menores temperaturas (generalmente menos de 100ºC). El color blanco se debe al dominio del sulfuro de zinc. En estas chimeneas, los organismos a veces se sitúan justo encima, debido a que la temperatura en el exterior puede ser solo de unos 6 a 25ºC.
+
+![alt text](<imagenes-4-curso/captu-2.5-oba.png>)
+
+
 
 
 
