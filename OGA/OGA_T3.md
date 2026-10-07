@@ -34,6 +34,43 @@ Despejando de la ecuación el tiempo final ($t_f$) se tiene el tiempo en el que 
 ![alt text](<imagenes-4-curso/captu-3.2-oga.png>)
 
 En la gráfica se puede apreciar que nos alejamos del modelo de Hubber (estimación del tiempo de agotamiento con mucha más proyección hacia el futuro). Resulta que hemos llegado al pico, pero hemos retrasado el agotamiento del recurso (proyecciones hasta 2100 o más...).
-
+Hay una polémica entre los defensores del peak oil contra las empresas petroleras. Al final se agotará, pero mientras siga existiendo se retrasará dicho agotamiento y se aprovechará. 
 
 ![alt text](<imagenes-4-curso/captu-3.3-oga.png>)
+
+**Gráfica:**
+
+La curva negra nos dice los aportes convencionales.
+Al incluir los no convencionales, la curva tiene proyecciones más hacia el futuro.
+
+![alt text](<imagenes-4-curso/captu-3.4-oga.png>)
+
+3 grandes yacimientos de petróleo que explotamos. La línea negra (curva) es la de la producción (gasto). Dentro del círculo azul hay unos puntos rojos que inidica como la producción va cada vez más creciendo.
+
+![alt text](<imagenes-4-curso/captu-3.5-oga.png>)
+
+Hubbert afirmaba que el carbón hubiera llegado a su fin en el año 2060, sin embargo, otros estudios afirman hasta el 2025.
+Raro que haya petróleo pero no gas natural -> raro que haya un yacimiento con uno sin el otro, pero en el medio marino si se tienen mucha cantidad de gas natural que no está asociada al petróleo.
+
+Minerales no energéticos -> El pico de Hubbert: Considerando las reservas base
+- Fe: 2068
+- Al: 2057
+- Cu: 2024
+
+#### EROEI (Energía ganada por unidad de energía invertida)
+
+La problemática está asociada a la perspectivas de futuro -> Futuro de la Agricultura: Para producir 1 cal de alimento
+El factor limitante es el combustible (no el suelo) -> para llevar a cabo la producción de alimento. Aunque intentemos parar el consumo, no llegamos y ni siquiera con las energía renovables.
+
+**¿Serían una alternativa las renovables?**
+
+A día de hoy, no. Cada año usamos cerca de 1 milla cúbica de petróleo. 
+Equivalente a:
+
+- 30000 molinos de viento funcionando durante 50 años.
+- más de 90 millones paneles solares funcionando 50 años.
+- 52 centrales nucleares, funcionando cada una 50 años.
+- 100 centrales térmicas funcionando 50 años cada una.
+- 4 presas funcionando más de 50 años.
+
+</div>
