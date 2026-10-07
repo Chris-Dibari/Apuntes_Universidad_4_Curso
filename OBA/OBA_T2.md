@@ -46,6 +46,8 @@ La base de la cadena trofica de las comunidades de fuentes hidrotermales la cons
 
 ![alt text](<imagenes-4-curso/captu-2.6-oba.png>)
 
+![alt text](<imagenes-4-curso/captu-2.7-oba.png>)
+
 
 
 
