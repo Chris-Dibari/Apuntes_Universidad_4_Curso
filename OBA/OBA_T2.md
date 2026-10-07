@@ -48,6 +48,18 @@ La base de la cadena trofica de las comunidades de fuentes hidrotermales la cons
 
 ![alt text](<imagenes-4-curso/captu-2.7-oba.png>)
 
+Además de las fuentes hidrotermales profundas, típicas de zonas de dorsal, con inyección de aguas calientes ricas en sulfuro, hay otros puntos del océano en los que filtraciones de sustancias reducidas pueden generar comunidades similares. Tal es el caso de las "cold seeps " (filtraciones frías) de hidrocarburos o metano.
+
+**Organismos que componen la comunidad de fuentes hidrotermales:** 
+
+Tomando como ejemplo la primera de las comunidades descubiertas cerca de las Galápagos en 1977, mencionaremos como organismos carácterísticos el vestimentífero Riftia pachyptila (gusano tubícola de 1 a 2 m de largo), la almeja Calyptogena magnifica, el mejillón amarillo Bathymodiolus thermophilus, los cangrejos Cyanograea, Bythogrea y Munidopsis y los peces Zoarcidos Thermarces de tipica morfología bentopelágica.
+
+**Riftia pachyptila:**
+Es un vestimentífero, grupo cercano a los pogonóforos que no tiene boca y presenta un penacho branquial muy irrigado de color rojo. Se trata de gusanos tubicolas de hasta 2 m de alto y su alimentación se basa exclusivamente en la simbiosis con bacterias quimiolitótrofas.
+
+![alt text](<imagenes-4-curso/captu-2.8-oba.png>)
+
+
 
 
 
