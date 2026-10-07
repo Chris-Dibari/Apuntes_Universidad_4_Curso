@@ -28,6 +28,8 @@ img {
 
 <img src="../imagenes/logo-uca-2.png" style="width: 140px !important; height: auto !important;">
 
+<br><br><br>
+
 ## Las pesquerías del Pacífico Noreste: Análisis del Área FAO 67
 
 <br>
