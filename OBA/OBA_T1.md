@@ -32,7 +32,7 @@ p, li, div, h2, h3 {
 
 Gráfica: el 0 representa el nivel base, las tierras que están entre el NM y 1000 metros son las más abundantes en el contexto de las tierras emergidas. Si nos centramos en el océano profundo, nos encontramos con la gran mayoría de tierras. Más de la mitad del planeta Tierra es llano abisal (53,5%).
 
-<img src="imagenes-4-curso/captu-1.1-oba.png" width="20%">
+<img src="imagenes-4-curso/captu-1.1-oba.png" style="width: 20% !important; height: auto !important;">
 
 
 #### Variables del medio físico con importancia desde el punto de vista biológico.
@@ -53,7 +53,9 @@ Los organismos que viven en aguas profundas experimentan T frías. Oscila genera
 
 - **Luz en la columna:** presenta una atenuación exponencial, diferentes según la longitud de onda. Nos interesa el promedio de las longitudes de onda (PAR).
 
-![alt text](<imagenes-4-curso/captu-1.4-oba.png>){width="25%" !important}
+<img src="imagenes-4-curso/captu-1.4-oba.png" style="width: 20% !important; height: auto !important;">
+
+<br><br>
 
 ![alt text](<imagenes-4-curso/captu-1.5-oba.png>)
 
@@ -82,7 +84,7 @@ Además, al final de un afloramiento, hay una gran acumulación de partículas y
 
 Otra fuente de alimento en el océano profundo es el proceso de convección -> fenómeno muy importante en algunas zonas del océano para explicar el aporte de MO al fondo oceánico. Las partículas más grandes y pesadas terminan en el fondo por gravedad, cayendo rápidas, pero las pequeñas experimentan más la convección.
 
-![alt text](<imagenes-4-curso/captu-1.8-oba.png>)
+<img src="imagenes-4-curso/captu-1.8-oba.png" style="width: 80% !important; height: auto !important;">
 
 **Resumen del trabajo:**
 
@@ -104,12 +106,12 @@ Otro trabajo -> biomasa de organismos en relación a la profundidad.
 
 Al representar la biomasa (en logaritmo), quitando este último, saldría una curva muy acusada (exponencial negativa) -> relación entre la producción y la presencia de zooplancton. En sitios más oligotróficos (mar de los Sargazos - giro oligotrófico -) se espera que haya muy poca biomasa tanto en superficie como en profundidad. -> La cantidad de organismos que hay en superficie influye sobre la cantidad de organismos que se encuentran en profundidad.
 
-![alt text](<imagenes-4-curso/captu-1.13-oba.png>)
+<img src="imagenes-4-curso/captu-1.13-oba.png" style="width: 80% !important; height: auto !important;">
 
 Otro trabajo sobre las medidas de respiración realizadas a distintas profundidades. Hay tendencia muy clara a que la respiración (en log) va descendiendo de prisa hacia aguas muy profundas (comportamiento parecido al de la biomasa).
 En la respiración del océano, la mitad de ella se produce por encima de los 700m (por encima de la termoclina permanente) -> casi toda la respiración se concentra en aguas superficiales. Resultados inesperados sobre la cantidad de respiración (subestimación con las trampas de sedimentación? quimiosíntesis o convección?) -> realmente entraría más C que lo que afirma el estudio.
 
-![alt text](<imagenes-4-curso/captu-1.14-oba.png>)
+<img src="imagenes-4-curso/captu-1.14-oba.png" style="width: 80% !important; height: auto !important;">
 
 Gráfico: hipótesis de Sanders -> se medía la diversidad de los organismos de fondo en varios sitios del mundo. En base a los resultados hipotizó que como en el amiente profundo las condiciones eran muy estables, dichas condiciones promovían la diversidad. -> Dicha hipótesis ya se desmiente. Sus observaciones eran reales pero sus connclusiones equivocadas debidas a las extrapolaciones erróneas.
 
