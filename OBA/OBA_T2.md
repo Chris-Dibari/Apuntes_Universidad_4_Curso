@@ -38,6 +38,14 @@ Las chimeneas de humo blanco resultan de circulación más superficial, con meno
 
 ![alt text](<imagenes-4-curso/captu-2.5-oba.png>)
 
+Anomalías -> fuentes alternativas de C orgánico. La principal fuente es la fotosíntesis, que soporta tambien la vida en los fondos abisales. La PP también puede estar dominada por la quimisíntesis. La abundancia de sustancias reducidas, como los sulfuros, propicia un serie de reacciones de oxidación con obtención de energía.
+
+**La base de la cadena trófica:**
+
+La base de la cadena trofica de las comunidades de fuentes hidrotermales la constituyen las bacterias quimiolitotrofas ya sean libres o en simbiosis con otros organismos. Aspecto de un "core" izado al barco en el que se aprecia un grueso "tapete microbiano*" de bacterias oxidadoras del sulfuro, que aparecen como filamentos blanquecinos.
+
+![alt text](<imagenes-4-curso/captu-2.6-oba.png>)
+
 
 
 
