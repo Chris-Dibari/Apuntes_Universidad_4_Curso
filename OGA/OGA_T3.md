@@ -33,6 +33,7 @@ Despejando de la ecuación el tiempo final ($t_f$) se tiene el tiempo en el que 
 
 ![alt text](<imagenes-4-curso/captu-3.2-oga.png>)
 
+En la gráfica se puede apreciar que nos alejamos del modelo de Hubber (estimación del tiempo de agotamiento con mucha más proyección hacia el futuro). Resulta que hemos llegado al pico, pero hemos retrasado el agotamiento del recurso (proyecciones hasta 2100 o más...).
 
 
 ![alt text](<imagenes-4-curso/captu-3.3-oga.png>)
