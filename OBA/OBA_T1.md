@@ -116,6 +116,15 @@ Gráfico: hipótesis de Sanders -> se medía la diversidad de los organismos de 
 
 ![alt text](<imagenes-4-curso/captu-1.16-oba.png>)
 
+Estrategia alimentación esponjas -> en ambiente profundo no es rentable y no se suele emplear. Supone un elevado gasto energético y poco alimento captado.
+Estrategias basadas en tentáculos y otras estructuras que no trabajan activamente y se dedican a la captación del alimento que entra en contacto con ellos.
+Micrófago ≠ macrofago -> el primero se suele alimentar de una gran cantidad de organismos de tamaño pequeño (ej. ballenas, filtradores...) los segundos se alimenta de organismos de tamaño comparable con el suyo.
+Pregunta cetáceos -> cual entre misticetos, mistacocetos y odontocetos sería capaz de alimentarse en ambientes profundos => se trata de los macrófagos (ej un cachalote en búsqueda de un calamar). Es bastante frecuente que lleguen a la zona mesopelágica.
+
+Holoturia -> diferencia entre organismos de profundidad y de intermareal (pepino de mar). Las de profundidad poseen patas con las que realizan desplazamientos para patrullar los fondos (carroñeros).
+
+Especies congenéricas (comparten el mismo género) -> cabe esperar que compitan entre sí (principio de exclusión competitiva) -> la manera de sobrevivir es separar sus nichos. Aparecen dos géneros muy parecidos en la tabla, repartidas en las distintas profundidades. Una forma de evitar la competencia directa sería repartirse en las distintas profundidades. Al solaparse (puede ocurrir) no evitan la competencia de dicha forma, sino transformando sus pinzas (uno se vuelve macrófago y las otras micrófagas) -> evitan las competencias comiendo presas distintas.
+
 
 
 
