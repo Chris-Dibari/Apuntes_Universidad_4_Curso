@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 30% !important; /* Forzamos el tamaño con !important */
-    max-width:30% !important;
+    width: 60% !important; /* Forzamos el tamaño con !important */
+    max-width:60% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -32,7 +32,8 @@ p, li, div, h2, h3 {
 
 Gráfica: el 0 representa el nivel base, las tierras que están entre el NM y 1000 metros son las más abundantes en el contexto de las tierras emergidas. Si nos centramos en el océano profundo, nos encontramos con la gran mayoría de tierras. Más de la mitad del planeta Tierra es llano abisal (53,5%).
 
-![alt text](imagenes-4-curso/captu-1.1-oba.png){width="25%" !important}
+<img src="imagenes-4-curso/captu-1.1-oba.png" width="20%">
+
 
 #### Variables del medio físico con importancia desde el punto de vista biológico.
 
@@ -52,7 +53,7 @@ Los organismos que viven en aguas profundas experimentan T frías. Oscila genera
 
 - **Luz en la columna:** presenta una atenuación exponencial, diferentes según la longitud de onda. Nos interesa el promedio de las longitudes de onda (PAR).
 
-![alt text](<imagenes-4-curso/captu-1.4-oba.png>)
+![alt text](<imagenes-4-curso/captu-1.4-oba.png>){width="25%" !important}
 
 ![alt text](<imagenes-4-curso/captu-1.5-oba.png>)
 
@@ -125,8 +126,54 @@ Holoturia -> diferencia entre organismos de profundidad y de intermareal (pepino
 
 Especies congenéricas (comparten el mismo género) -> cabe esperar que compitan entre sí (principio de exclusión competitiva) -> la manera de sobrevivir es separar sus nichos. Aparecen dos géneros muy parecidos en la tabla, repartidas en las distintas profundidades. Una forma de evitar la competencia directa sería repartirse en las distintas profundidades. Al solaparse (puede ocurrir) no evitan la competencia de dicha forma, sino transformando sus pinzas (uno se vuelve macrófago y las otras micrófagas) -> evitan las competencias comiendo presas distintas.
 
+![alt text](<imagenes-4-curso/captu-1.17-oba.png>)
 
+### Adaptaciones tróficas de la fauna
 
+1. Maximizar la entrada de energía.
+ - Flexibilidad trófica => no tienen alimentos específicos ni tamaños especificos.
+ - Capacidad de detección muy grande (señales químicas...).
 
+2. Digestión-asimilación eficiente con una absorción y conversión metabólica elevada.
+ - Ej. tener un tubo digestivo muy largo o que el alimento se procese muy lentamente (aumento de la asimilación con una misma cantidad de alimento ingerida).
+
+3. Limitación del gasto de energía al mínimo indispensable
+
+**Otras adaptaciones de la fauna:**
+
+- Tamaño individual;
+- Densidad y composición de los tejidos / proporción de grasa (esta última es bastante baja puesto que no hay mucho que almacenar). En cambio, la proporción de agua es elevada en los tejidos y son tejidos muy frágiles (esto les hace tener poca densidad y favorece el desplazamiento sin mucha carga energética).
+- Tasas respiratorias -> **descrece con la profundidad**. A mayor presión aumenta el estrés y por consiguiente la respiración, sin embargo, para estos organismos ocurre al revés.
+- Longitud del tubo digestivo.
+- Sistemas enzimáticos.
+- Bioluminescencia.
+- Color.
+- Longevidad.
+
+Hay otros detalles que nos recuerdan la estrategia de la K.
+- Duración de los ciclos de vida
+- Estrategia reproductiva como:
+    Pocos huevos y más nutritivos,
+    Gametogénesis lenta,
+    Madurez reproductiva tardía,
+    Volumen gonadal reducido,
+    Lento desarrollo embrionario,
+    Semelparidad (baja tasa de producción, se reproducen 1-2 veces).
+
+**No hay energía suficiente para invertir en la reproducción.**
+
+- Tasas de colonización baja.
+- Baja mortalidad debida a la depredación.
+
+### Peces batipelágicos y mesopelágicos
+
+Ojos muy grandes -> nos encontramos en la zona disfótica (se distinguen apenas formas); Puesto que en dichas zonas hay detección hacia arriba, muchos peces tienen los ojos ya orientados hacia dicha dirección.
+Los fotóforos se encuentran localizados en la zona ventral (abajo) para no ser visualizados desde arriba.
+
+Otras especies tienen los ojos muy reducidos, usados simplemente para detectar bioluminescencia. El cebo luminoso se utiliza para cazar.
+Dimorfismo sexual muy acusado -> la hembra emite gran cantidad de feromonas y el macho tiene elevadísima capacidad de detección. Dificultad a la hora de buscar pareja.
+El macho se adhiere al cuerpo de la hembra entrando a formar parte permanentemente de ella, como si fuera un orgáno sexual.
+
+Los peces de fondo están menos transformados comparados con los mesopelágicos -> se debe a que la disponibilidad de alimento es muy crítica en las zonas superiores, mientras que en el ambiente abisal las partículas se depositan en el fondo, por lo tanto al ser patrulleros tienen relativamente más cantidad de comida.
 
 </div>
