@@ -61,6 +61,25 @@ La forma de la gráfica varía según las características de la red y del pez.
 
 ![alt text](<imagenes-4-curso/captu-7.9-pesc.png>)
 
+![alt text](<imagenes-4-curso/captu-7.10-pesc.png>)
+
+**Hay una serie de factores que dependen de la presa:**
+
+- Características del comportamiento -> Los peces de mayor tamaño “ven mejor” la red, y se aproximan mas cautamente, disminuyendo las capturas. La detección y evasión de la red dependen de la especie, la talla, la luz y la turbidez.
+
+- Estructura de la región anterior del cuerpo y pectoral.
+
+- Perfil del cuerpo -> El perfil puede variar en peces de la misma especie y tamaño en función del sexo, condición, estado de madurez, y hasta llenado del estómago.
+
+Si la curva e¡me sale desplazada hacia la derecha -> estoy capturando ejemplares más grandes.
+
+**FACTORES QUE AFECTAN A LA SELECTIVIDAD DE LOS ARTES DE ANZUELO:**
+
+1. TAMAÑO DE ANZUELO
+2. TIPO DE ANZUELO
+3. LONGITUD DE LAS BRAZOLADAS
+4. DISTANCIA ENTRE BRAZOLADAS
+5. TIPO DE CEBO UTILIZADO.
 
 
 
