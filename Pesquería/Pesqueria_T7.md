@@ -31,6 +31,22 @@ La selectividad es la probabilidad de captura con un arte de carácter i de ejem
 
 $P(C)ij = P(E)ij P(I)ij (1 - P(L)ij)$
 
+El tipo de arte será diferente en función de:
+- hábitat (pelágicos, bentónicos, demersales -> fondos rocosos, arenosos, litorales, oceánicos);
+- Hábitos y actividad (diurnos, nocturnos, migradores);
+- Dieta y mecanismos de alimentación (carnívoros, planctivoros, cazadores);
+- También hay diferencias dentro de la misma especie -> heterogeneidad intraespecífica basada sobre edad, tamaño, grosor, sexo, condición...
+
+Al realizar un estudio de selectividad del arte se necesita el cumplimiento de una serie de cosas:
+
+- necesidad de que los aparejos sean iguales y en el mismo momento de utilización de la flota. Ej. si la flota utiliza un anzuelo numero 10, en mi estudio tego que mantener todos los parámetros y aislar solamente el numero del anzuelo (flota igual y comparación del anzuelo 10 con el de otro número).
+
+![alt text](<imagenes-4-curso/captu-7.4-pesc.png>)
+
+![alt text](<imagenes-4-curso/captu-7.5-pesc.png>)
+
+
+
 
 
 
