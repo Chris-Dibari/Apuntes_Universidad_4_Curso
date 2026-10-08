@@ -255,8 +255,25 @@ A parte de la T y la superficie específica, la presión también es otro factor
 El proceso está regido por la termodinámica.
 
 Valores experimentales que se encuentran en el océano:
+La concentración experimental siempre es más baja que la solubilidad.
+Los esqueletos de sílice biogénico en el océano siempre tienden a disolverse.
 
+![alt text](<imagenes-4-curso/captu-36-oqa.png>)
 
+Hay zonas en el océano en las que no aparece nada de sílice biogénica y otras en las que las cantidades son muy elevadas. Para saber más sobre esto, hay que estudiar los sedimentos.
+
+Perfiles de concentración en el agua intersticial (sedimento). Todos los perfiles tienden a un valor asintótico, pero son muy diferentes entre océanos.
+En el Atlántico Norte (ej. de zona con muy muy poca cantidad de $SiO_2$). 
+
+![alt text](<imagenes-4-curso/captu-37-oqa.png>)
+
+Disminución del valor asintótico de $Si(OH)_4$ al aumentar la relación “Deposición material particulado / Deposición de ópalo” -> formación de aluminosilicatos autogénicos
+
+Si el cociente entre la R del material partículado y la del sedimento fuera 0 => solo está cayendo $SiO_2$ al sedimento. Una vez que se alcanza el grado de saturación, la Sílice ya no sigue disolviendose.
+Resultado primer ejemplo -> la cantidad de $SiO_2$ en el sedimento es elevada.
+Otro ejemplo -> la $SiO_2$ pero hay más volumen de agua en su alrededor -> por lo tanto se alcanza mayor disolución, parte del silicato que se ha generado reacciona y forma minerales -> permitiendo que se disuelva más.
+
+<img src="imagenes-4-curso/captu-38-oqa.png" style="width: 20% !important; height: auto !important;">
 
 
 
