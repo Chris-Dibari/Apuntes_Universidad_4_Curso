@@ -237,6 +237,28 @@ A medida que aumenta la profundidad aumentan las partículas litogénicas (resul
 
 ![alt text](<imagenes-4-curso/captu-34-oqa.png>)
 
+Los esqueletos de sílice biogénica se producen principalmente en zonas frías. También hay en las zonas de los afloramientos ecuatoriales y en las zonas costeras -> zonas con alta cantidad de silicato.
+
+La sílice biogénica no tiene una estructura cristalina, es amorfo internamente. La sílice en estado solido se encuentra en equilibrio (de tipo sólido-liquido) con la sílice liquida. Se puede determinar un equilibrio de solubilidad. Analizamos los valores de silice disuelto que se corresponden con la disolución.
+
+Nos encontramos dos curvas de variación de la solubilidad, a medida que disminuye la T disminuye también la solubilidad. Las dos curvas se corresponden con dos superficies específicas.
+
+![alt text](<imagenes-4-curso/captu-35-oqa.png>)
+
+Una elevada superficie específica se asocia con una mayor solubilidad. Mayor superficie específica => mayor superficie de contacto -> favorece procesos de disolución.
+A parte de la T y la superficie específica, la presión también es otro factor que afecta la solubilidad. La línea continua tiene en cuenta la variación con la T, comparada con otra que relaciona T y P.
+
+**Velocidad del proceso de disolución:** Depende de una serie de factores:
+- k = constante característica de procesos de disolución. Está relacionada con la velocidad con la que se pueden romper los enlaces Si-O-Si.
+- RSA = superficie especifica reactiva -> no toda las partes del esqueleto se disuelve con la misma velocidad. Inicialmente, la disolución afecta a la parte externa (bordes, irregularidades...), luego hay que tener en cuenta qu a medida que los enlaces se van rompiendo, por lo tanto la RSA va disminuyendo con la profundidad (a medida que profundiza cuesta más trabajo disolverse).
+- $omega$ = disminuye también con la profundidad. Representa el grado de saturación. Mete en relación la concentración experimental con la concentración. Una vez que se alcanza el eq de disolución = la velocidad es cero. Mientras que haya diferencia de concentración entre la cantidad experimental y la de saturación habrá disolución.
+El proceso está regido por la termodinámica.
+
+Valores experimentales que se encuentran en el océano:
+
+
+
+
 
 
 
