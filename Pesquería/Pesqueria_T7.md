@@ -57,7 +57,9 @@ En la X siempre se representa la longitud de los ejemplares y en la Y la probabi
 
 ![alt text](<imagenes-4-curso/captu-7.8-pesc.png>)
 
+La forma de la gráfica varía según las características de la red y del pez.
 
+![alt text](<imagenes-4-curso/captu-7.9-pesc.png>)
 
 
 
