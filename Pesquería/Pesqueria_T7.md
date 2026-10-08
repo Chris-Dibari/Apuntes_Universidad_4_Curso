@@ -45,6 +45,17 @@ Al realizar un estudio de selectividad del arte se necesita el cumplimiento de u
 
 ![alt text](<imagenes-4-curso/captu-7.5-pesc.png>)
 
+**Diseño experimental:** 
+
+![alt text](<imagenes-4-curso/captu-7.6-pesc.png>)
+
+En una red de enmalle, los ejemplares más pequeños van a atravesar la malla, los más grandes suelen ser más cautos y los de talla intermedias se suelen capturar. Se quedan atrapados por la cabeza, por el tronco o por las branquias.
+
+![alt text](<imagenes-4-curso/captu-7.7-pesc.png>)
+
+En la X siempre se representa la longitud de los ejemplares y en la Y la probabilidad de captura.
+
+![alt text](<imagenes-4-curso/captu-7.8-pesc.png>)
 
 
 
