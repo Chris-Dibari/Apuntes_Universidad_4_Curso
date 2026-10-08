@@ -302,6 +302,8 @@ Variaciones experimentales: Aparecen dos lineas que corresponden al $CaCO_3$ cor
 
 ![alt text](<imagenes-4-curso/captu-41-oqa.png>)
 
+![alt text](<imagenes-4-curso/captu-42-oqa.png>)
+
 
 
 
