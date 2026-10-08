@@ -164,15 +164,100 @@ Eje X -> rango de tallas (ej. Merluza) -> se probó que tipo de rejilla y que se
 
 ![alt text](<imagenes-4-curso/captu-6.11-pesc.png>)
 
+**Cerco:**
 
+- De pequeños pelágicos: bycatch casi inexistente y descartes bajos.
+- De tunidos asociado a la presencia de delfines, bycatch altos.
+- Fijas: selectivo en tamaño. El tipo y cantidad de bycatch dependen del lugar y la época de pesca.
+- Deriva: alto bycatch por el gran tamaño de la red.
+- Selectivos los palagres de fondo.
+- Los palangres de superficie para pez espada y tunidos (atunes): bycatch de aves y tortugas marinas.
 
+DRAGAS --> BYCATCH ELEVADOS DE INVERTEBRADOS BENTONICOS.
+La vulnerabilidad de la especie importa tanto como el peso de la captura.
 
+**Mitigación en palangre:**
 
+- Tortugas -> Anzuelos y cebos adecuados, ajustes de profundidad y medidas espaciales pueden reducir interacciones. La eficacia depende de la pesquería.
+- Albatros y petreles -> Combinar lastrado de brazoladas, líneas espantapájaros y calado nocturno, según las recomendaciones de ACAP.
+- Tras una captura accidental -> Aplicar los protocolos de manipulación y liberación segura, con desanzueladores y cortacabos apropiados.
 
+Evaluar la reducción de mortalidad y los posibles efectos sobre otras especies.
 
+**El riesgo depende del arte y del contexto**
 
+- Contacto con el hábitat -> Valorar penetración, abrasión, extensión afectada y frecuencia de pesca.
+- Interacciones con la fauna -> Identificar especies expuestas, vulnerabilidad y probabilidad de supervivencia.
+- Evaluación por pesquería -> Incorporar zona, época, esfuerzo, diseño del arte y medidas de mitigación.
 
+Una clasificación general de artes no sustituye la evaluación local.
 
+**Supervivencia tras el descarte:**
 
+- Captura y extracción -> Duración del lance o calado, profundidad, cambios de presión, temperatura y lesiones.
+- Manipulación a bordo -> Tiempo fuera del agua, compresión, clasificación y exposición al sol.
+- Liberación y seguimiento -> Condición del animal, lugar de liberación y mortalidad retardada. En palangre importa la localización del anzuelo.
+
+Liberado vivo no significa superviviente a largo plazo.
+
+- Crustáceos, moluscos y peces muestran respuestas distintas. La supervivencia puede variar incluso dentro de una misma especie.
+- Lo peces con vejigas natatorias que se expanden a medida que son levantados a la superficie tienen una baja sobrevivencia.
+
+Pesca recreativa -> La captura y liberación también puede causar mortalidad. Influyen la posición del anzuelo, manipulación, temperatura y profundidad.
+Evidencia necesaria -> Ensayos con seguimiento suficiente, condiciones representativas e incertidumbre estimada antes de extrapolar resultados.
+
+Las exenciones por alta supervivencia requieren evidencia específica.
+
+Por ejemplo, un estudio en la Gran Barrera de Coral mostró que:
+
+✓ Un 98 % de los peces y cefalópodos descartados moría.
+✓ Aproximadamente 12% de los cangrejos, bivalvos y equinodermos sobrevivía.
+✓ Se alteran considerablemente las proporciones de los filos y especies en la biomasa bentónica.
+✓ Ha habido un aumento de 10 veces en las poblaciones de gaviotín crestado como resultado del consumo de los descartes flotantes (Hill y Wassenberg, 2000). (ICES, 2000; Davis, 2002; Mesnil, 1996).
+
+**Razones para explicar el aumento de la utilización de la captura incidental o bycatch:**
+
+- Aumentos de la población y de los ingresos que llevan a una mayor demanda y aumentos de precio de los productos pesqueros, particularmente en países en desarrollo.
+- Uso de la captura incidental de bajo valor para alimentos de acuicultura y animales, particularmente en Asia del Sur y Asia Sur Oriental.
+- Desarrollo y transferencia de tecnologías para usar los peces de pequeño tamaño de una variedad de especies para producir productos con valor agregado, tales como surimi.
+- Desarrollo de mercados de consumo para especies desconocida o anteriormente descartadas, e.g. tiburón de profundidad, y disponibilidad reducida y precios crecientes de especies preferidas.
+
+**Aprovechamiento de capturas NO objetivo:**
+
+Demanda y nuevos mercados -> Los cambios de precio y de consumo (algunas modas) pueden favorecer la retención de especies antes descartadas.
+Transformación -> Surimi y otros productos permiten aprovechar determinadas capturas. También existen usos para alimentación animal y acuicultura.
+Condiciones para su aprovechamiento -> Respetar protección de especies, seguridad alimentaria, tallas, cuotas y reglas de comercialización.
+
+Aprovechar la captura no garantiza que su extracción sea sostenible
+
+**Retención, incentivos y gestión:**
+
+- Decisiones a bordo -> Cuotas disponibles, duración del viaje y capacidad de bodega influyen en la retención.
+- Cambios en la gestión -> La obligación de desembarque y otras medidas modifican el tratamiento de las capturas no deseadas.
+- Objetivo de conservación -> Los incentivos deben favorecer selectividad y prevención. Más desembarque no implica menos mortalidad por pesca.
+
+**Descartes, mortalidad y ecosistema:**
+
+- Evaluación pesquera -> Las evaluaciones pueden incorporar descartes y otras capturas. Cuando faltan datos, se puede subestimar la mortalidad total por pesca.
+- Poblaciones NO objetivo -> Es esencial cuantificar las capturas y la mortalidad de especies vulnerables, aunque no tengan interés comercial.
+- Interacciones ecológicas -> Los descartes aportan alimento a carroñeros y pueden modificar sus poblaciones. Los efectos dependen de la red trófica.
+
+Extracciones totales: desembarques, descartes muertos y otras mortalidades.
+
+![alt text](<imagenes-4-curso/captu-6.12-pesc.png>)
+
+**Pesca fantasma: magnitud y prevención:** 
+
+- Una estimación global -> Richardson et al. (2022) estimaron que cerca del 2 % de los artes se pierde anualmente. Es una estimación con incertidumbre y variación entre artes.
+- Efectos -> Captura persistente, enredos, daños en el hábitat y aportes de residuos plásticos. La duración del efecto depende del arte y del ambiente.
+- Prevención y respuesta -> Marcado, comunicación de pérdidas, instalaciones de recepción y recuperación segura y planificada.
+
+Evitar la pérdida es prioritario; recuperar exige valorar riesgos y daños.
+
+![alt text](<imagenes-4-curso/captu-6.13-pesc.png>)
+
+- EL BÁLTICO -> EL ESPADIN (Sprattus sprattus) Y EL ARENQUE (Clupea harengus) SON LA PRINCIPAL PRESAS DEL BACALAO Y SU MORTALIDAD NATURAL AUMENTA Y ESTA RELACIONADA CON EL AUMENTO DE LA POBLACION DE BACALAO (Gadus morhua).
+- GEORGES BANK, (ATLÁNTICO NOROCCIDENTAL) -> LA EXPLOTACION INTENSIVA DE DEMERSALES HA PASADO A QUE DEL PREDOMINIO DE LOS GADIDOS, DOMINEN ACTUALMENTE LAS ESPECIES DE SELACEOS Y RAYAS (Sherman,1991)
+- PACÍFICO NORORIENTAL -> LA ABUNDANCIA RELATIVA DE ABADEJO DE ALASKA (Theragra chalcogramma) Y DEL RODABALLO (Reinhardthius hippoglossoides) HAN DISMINUIDO, AUMENTANDO OTRAS ESPECIES DE PECES PLANOS Y LAS RAYAS.
 
 </div>
