@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 30% !important; /* Forzamos el tamaño con !important */
-    max-width:30% !important;
+    width: 60% !important; /* Forzamos el tamaño con !important */
+    max-width:60% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -258,6 +258,6 @@ Evitar la pérdida es prioritario; recuperar exige valorar riesgos y daños.
 
 - EL BÁLTICO -> EL ESPADIN (Sprattus sprattus) Y EL ARENQUE (Clupea harengus) SON LA PRINCIPAL PRESAS DEL BACALAO Y SU MORTALIDAD NATURAL AUMENTA Y ESTA RELACIONADA CON EL AUMENTO DE LA POBLACION DE BACALAO (Gadus morhua).
 - GEORGES BANK, (ATLÁNTICO NOROCCIDENTAL) -> LA EXPLOTACION INTENSIVA DE DEMERSALES HA PASADO A QUE DEL PREDOMINIO DE LOS GADIDOS, DOMINEN ACTUALMENTE LAS ESPECIES DE SELACEOS Y RAYAS (Sherman,1991)
-- PACÍFICO NORORIENTAL -> LA ABUNDANCIA RELATIVA DE ABADEJO DE ALASKA (Theragra chalcogramma) Y DEL RODABALLO (Reinhardthius hippoglossoides) HAN DISMINUIDO, AUMENTANDO OTRAS ESPECIES DE PECES PLANOS Y LAS RAYAS.
+- PACÍFICO NORORIENTAL -> LA ABUNDANCIA RELATIVA DE ABADEJO DE ALASKA (Theragra chalcogramma) Y DEL RODABALLO (Reinhardthius hippoglossoides) HAN DISMINUIDO.
 
 </div>
