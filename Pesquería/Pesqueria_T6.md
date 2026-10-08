@@ -122,6 +122,32 @@ La figura de Pauly et al. (2002) es una reconstrucción histórica.
 Se necesita entender cuáles son las razones del descarte para cambiar las prácticas de descarte y ayudar a diseñar protocolos adecuados.
 Los descartes responden a la reglamentación y a la economía de mercado.
 
+Cada pesquerías es diferente:
+
+- Capacidad de almacenamiento limitada de los buques pesqueros;
+- Individuos demasiado pequeños, por debajo de la talla mínima (ilegales) -> la especie objetivo puede llegar al puerto, pero no llega a la talla mínima y la legislación no me permite desembarcarlo.
+- Bajos precios de algunas especies;
+- Especies que no se conservan bien.
+
+**Objetivos de reducción de los descartes:**
+
+Los objetivos prioritarios son:
+- Garantizar la sostenibilidad de la pesca por sus consecuencias sobre la disponibilidad de los recursos. -> Los barcos poseen un registro en diario electrónico de abordo (DEA).
+- Disminuir el impacto medioambiental asociado a las alteraciones sobre los ecosistemas.
+- Poca operatividad que introduce en la actividad pesquera.
+- Disminuir desperdicio de alimentos -> el descarte no se puede vender directamente al consumidor. Todo lo que sea descarte no se paga (para evitar el efecto opuesto, es decir, el desperdicio alimenticio).
+
+![alt text](<imagenes-4-curso/captu-6.9-pesc.png>)
+
+Slipping = técnica de cerco que consiste en soltar el cerco y no terminar la maniobra (porque las especies no llegan a la talla o bien porque se han metido otras especies que se van a coger y no son de interés).
+Las especies pelágicas de la imagen se consideran de alta supervivencia para dicha técnica.
+
+**Excepción de minimis** -> es muy dificil que caigan especies que no tiene cuota o tac, por tanto, hay un pequeño porcentaje que se permite.
+Independientemente de que la especie tenga tac (ej. no puedo coger boquerones de 13cm -> no los puedo desembarcar), para toda la flota hay un 2% para cada especie -> se puede desencambiar con el porcentaje de otras especies.
+
+
+
+
 
 
 
