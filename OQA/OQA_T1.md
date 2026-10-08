@@ -275,6 +275,8 @@ Otro ejemplo -> la $SiO_2$ pero hay más volumen de agua en su alrededor -> por 
 
 <img src="imagenes-4-curso/captu-38-oqa.png" style="width: 20% !important; height: auto !important;">
 
+<br>
+
 Si la entrada de  va acompañada de otros materiales, aumentando la relación detritos-ópalo => se produce más disolución.
 
 - En las zonas de alta producción de ópalo, la mayor parte queda preservado.
@@ -294,8 +296,11 @@ Definimos un grado de saturación también en este caso. Que sea igual a 1, impl
 La calcita siempre tiene un producto de solubilidad inferior al del aragonito. El aragonito es más soluble siempre por tanto. Las concentraciones experimentales están entre 3 y 5 veces mayores que las que se corresponden a las de saturación (producto de solubilidad entre 3-5 en aguas superficiales). Por tanto, en aguas superficiales existe una sobresaturación importante de $CaCO_3$.
 Sin embargo, en aguas profundas, el coeficiente de saturación se hace menor que 1. Puesto que si dicho coeficiente implica que al ser mayor que 1 no hay disolución, en aguas profundas sí empieza a haber disolución de $CaCO_3$.
 
+---
 
+Variaciones experimentales: Aparecen dos lineas que corresponden al $CaCO_3$ corresponiente a la saturación. Si los puntos experimentales están por encima de las lineas (por debajo de la saturación) -> esqueletos externos no son solubles.
 
+![alt text](<imagenes-4-curso/captu-41-oqa.png>)
 
 
 
