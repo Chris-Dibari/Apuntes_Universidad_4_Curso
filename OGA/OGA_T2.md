@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important;
+    width: 50% !important; /* Forzamos el tamaño con !important */
+    max-width:50% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -18,10 +18,10 @@ p, li, div, h2, h3 {
 
 ##  Oceanografía Geológica Aplicada - TEMA 2. Regulación legislativa para la exploración y explotación de los recursos minerales energéticos marinos.
 
-**Línea de base** -> 
+**Línea de base** -> línea de referencia oficial a partir de la cual se mide la anchura de las distintas zonas marítimas de un Estado costero (como el mar territorial, la zona contigua y la zona económica exclusiva).
 todo lo que esté de la línea de base hacia dentro son las aguas interiores.
 
-![alt text](<imagenes-4-curso/captu-2.1-oga.png>)
+<img src="imagenes-4-curso/captu-2.1-oga.png" style="width: 20% !important; height: auto !important;">
 
 **Estado ribereño:**
 
@@ -67,7 +67,7 @@ Zona objetivo de la Campaña, se han marcado los polígonos específicos en dón
 
 (Imagen) Puntos fórmula de Gardiner calculados en base a los perfiles sísmicos realizados sobre el mapa global de espesores de sedimentos (NGDC), donde podemos observar que existen espesores suficientes para constituir puntos fijos.
 
-![alt text](<imagenes-4-curso/captu-2.4-oga.png>)
+<img src="imagenes-4-curso/captu-2.4-oga.png" style="width: 30% !important; height: auto !important;">
 
 **Perfíl A**
 
@@ -89,7 +89,7 @@ Máximo aporte sedimentario y elevadísima cantidad de recurso en el Ártico (Gr
 
 El PF 33 sería el punto más alejado, por el que ganaría la fórmula del talud de Herdber.
 
-![alt text](<imagenes-4-curso/captu-2.8-oga.png>)
+<img src="imagenes-4-curso/captu-2.8-oga.png" style="width: 20% !important; height: auto !important;">
 
 #### Zona Internacional de los fondos marinos
 
