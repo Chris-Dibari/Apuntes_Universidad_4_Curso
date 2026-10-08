@@ -145,6 +145,14 @@ Las especies pelágicas de la imagen se consideran de alta supervivencia para di
 **Excepción de minimis** -> es muy dificil que caigan especies que no tiene cuota o tac, por tanto, hay un pequeño porcentaje que se permite.
 Independientemente de que la especie tenga tac (ej. no puedo coger boquerones de 13cm -> no los puedo desembarcar), para toda la flota hay un 2% para cada especie -> se puede desencambiar con el porcentaje de otras especies.
 
+Estudio sobre el descarte -> muy pocos estudios sobre esto.
+Se realiza mediante estimaciones.
+
+![alt text](<imagenes-4-curso/captu-6.10-pesc.png>)
+
+
+
+
 
 
 
