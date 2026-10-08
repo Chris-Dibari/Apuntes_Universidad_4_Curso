@@ -150,6 +150,19 @@ Se realiza mediante estimaciones.
 
 ![alt text](<imagenes-4-curso/captu-6.10-pesc.png>)
 
+Se utilizan una serie de dispositivos que pueden servir para mitigar los descartes. Diseñados exclusivamente para el escape de tortugas y otros para peces. Normalmente no los utiliza la flota -> presupuestos económicos. El mayor descarte es lo que no coge -> selectividad de las redes.
+
+**Funcionamiento del dispositivo (escape de juveniles):**
+
+- Un cuerpo cilíndrico se intercala antes del copo. El paño guía dirige la captura hacia una rejilla inclinada.
+- Los peces pequeños pueden atravesar los espacios entre varillas y salir por las aberturas laterales.
+- Los mayores continúan hacia el copo. Un paño separador evita que los individuos que escapan vuelvan a la bolsa.
+
+El resultado depende del espaciado, el montaje, la especie y la talla.
+
+Eje X -> rango de tallas (ej. Merluza) -> se probó que tipo de rejilla y que separación fuese la mejor. Las que tienen separación 30 -> coge especies más chicas, la de 40 conlleva coger ejemplares más grandes. Los porcentajes corresponden al ensayo ilustrado; no son una eficacia universal.
+
+![alt text](<imagenes-4-curso/captu-6.11-pesc.png>)
 
 
 
