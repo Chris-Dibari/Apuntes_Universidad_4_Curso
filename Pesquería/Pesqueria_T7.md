@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 30% !important; /* Forzamos el tamaño con !important */
-    max-width:30% !important;
+    width: 60% !important; /* Forzamos el tamaño con !important */
+    max-width:60% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -80,9 +80,5 @@ Si la curva e¡me sale desplazada hacia la derecha -> estoy capturando ejemplare
 3. LONGITUD DE LAS BRAZOLADAS
 4. DISTANCIA ENTRE BRAZOLADAS
 5. TIPO DE CEBO UTILIZADO.
-
-
-
-
 
 </div>
