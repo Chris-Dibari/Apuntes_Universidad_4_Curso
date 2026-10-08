@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important;
+    width: 40% !important; /* Forzamos el tamaño con !important */
+    max-width:40% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -46,7 +46,7 @@ p, li, div, h2, h3 {
 - TEMA 14. Instalaciones submarinas y estudio de geotecnia. Riesgos asociados.
 - TEMA 15. Casos prácticos: cables y conducciones submarinas. Enlaces fijos. Instalaciones de explotación.
 
-<div class="page"/>
+<div style="page-break-after: always;"></div>
 
 ###  Oceanografía Geológica Aplicada - TEMA 1. Introducción al estudio de los recursos minerales y energéticos marinos.
 
