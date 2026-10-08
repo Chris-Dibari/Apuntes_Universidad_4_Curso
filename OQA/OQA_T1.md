@@ -290,6 +290,12 @@ A medida que aumenta la salinidad va aumentando también el producto de solubili
 
 ![alt text](<imagenes-4-curso/captu-40-oqa.png>)
 
+Definimos un grado de saturación también en este caso. Que sea igual a 1, implica que estamos justo en el punto en el que empezaría a precipitar el $CaCO_3$. A diferencia que con la Sílice, el $CaCO_3$ sí tiene estructura cristalina. Calcita y aragonito son las dos formas más frecuentes -> comparación entre los dos.
+La calcita siempre tiene un producto de solubilidad inferior al del aragonito. El aragonito es más soluble siempre por tanto. Las concentraciones experimentales están entre 3 y 5 veces mayores que las que se corresponden a las de saturación (producto de solubilidad entre 3-5 en aguas superficiales). Por tanto, en aguas superficiales existe una sobresaturación importante de $CaCO_3$.
+Sin embargo, en aguas profundas, el coeficiente de saturación se hace menor que 1. Puesto que si dicho coeficiente implica que al ser mayor que 1 no hay disolución, en aguas profundas sí empieza a haber disolución de $CaCO_3$.
+
+
+
 
 
 
