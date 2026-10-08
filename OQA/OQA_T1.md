@@ -252,7 +252,7 @@ A parte de la T y la superficie específica, la presión también es otro factor
 - k = constante característica de procesos de disolución. Está relacionada con la velocidad con la que se pueden romper los enlaces Si-O-Si.
 - RSA = superficie especifica reactiva -> no toda las partes del esqueleto se disuelve con la misma velocidad. Inicialmente, la disolución afecta a la parte externa (bordes, irregularidades...), luego hay que tener en cuenta qu a medida que los enlaces se van rompiendo, por lo tanto la RSA va disminuyendo con la profundidad (a medida que profundiza cuesta más trabajo disolverse).
 - $omega$ = disminuye también con la profundidad. Representa el grado de saturación. Mete en relación la concentración experimental con la concentración. Una vez que se alcanza el eq de disolución = la velocidad es cero. Mientras que haya diferencia de concentración entre la cantidad experimental y la de saturación habrá disolución.
-El proceso está regido por la termodinámica.
+El proceso está regido por la termodinámica de la reacción.
 
 Valores experimentales que se encuentran en el océano:
 La concentración experimental siempre es más baja que la solubilidad.
@@ -274,6 +274,24 @@ Resultado primer ejemplo -> la cantidad de $SiO_2$ en el sedimento es elevada.
 Otro ejemplo -> la $SiO_2$ pero hay más volumen de agua en su alrededor -> por lo tanto se alcanza mayor disolución, parte del silicato que se ha generado reacciona y forma minerales -> permitiendo que se disuelva más.
 
 <img src="imagenes-4-curso/captu-38-oqa.png" style="width: 20% !important; height: auto !important;">
+
+Si la entrada de  va acompañada de otros materiales, aumentando la relación detritos-ópalo => se produce más disolución.
+
+- En las zonas de alta producción de ópalo, la mayor parte queda preservado.
+- En las zonas de baja producción de ópalo, la mayor parte es disuelto.
+
+![alt text](<imagenes-4-curso/captu-39-oqa.png>)
+
+**Exportación y disolución de $CaCO_3$:**
+
+Tiene comportamiento distinto al del ópalo en cuanto el proceso está relacionada con la cinética de la reacción.
+A medida que aumenta la T va disminuyendo el producto de solubilidad.
+A medida que aumenta la salinidad va aumentando también el producto de solubilidad. Importnacia de la dependencia con la presión (aumento elevado del producto de solubilidad).
+
+![alt text](<imagenes-4-curso/captu-40-oqa.png>)
+
+
+
 
 
 
