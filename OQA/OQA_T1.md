@@ -432,9 +432,13 @@ Observar la variación en la grñafica.
 
 ![alt text](<imagenes-4-curso/captu-46-oqa.png>)
 
+![alt text](<imagenes-4-curso/captu-47-oqa.png>)
 
+![alt text](<imagenes-4-curso/captu-48-oqa.png>)
 
+Va **disminuyendo**, no aumentando el $NO_3^-$.
 
+ 
 
 
 
