@@ -110,7 +110,6 @@ El análisis del riesgo se expresa matemáticamente mediante distribuciones esta
 Los principales métodos a través de los cuales los recursos minerales pueden ser categorizados se dividen en 2 grupos (utilizandose los dos):
 
 1. **Métodos tradicionales de categorización**
-2. **Métodos geoestadísticos**
 
 1.1 **Continuidad geológica** -> Para realizar un cálculo de reservas es necesario comprender la génesis del yacimiento y valorar la continuidad geológica del volumen mineralizado. El contacto geológico es la litología que limita el yacimiento (por superposición de capas distintas - estratificación - o por fallas que lo limite). Es el que nos limita la distribución física de nuestro yacimiento. El contacto mineralógico es hasta donde se extiende dicho mineral (profundidad y horizontalidad - concepto de voumen) es muy importante para calcular la ley que tenemos. El contacto económico es donde tenemos la mayor concentración de la ley del material. Nos asegura la viabilidad económica. En la imagen -> al quedarme solamente con la parte e yacimiento al lado izquierdo de la falla, estoy subestimando dicho yacimiento.
 
@@ -146,6 +145,31 @@ Otros factores a considerar:
 En el caso de la determinación de la ley media de un sondeo tendremos:
 
 ![alt text](<imagenes-4-curso/captu-3.7-oga.png>)
+
+La media se hace con un sumatorio de las leyes por cada tramo y dividido entre el sumatorio de todo el conjunto.
+Esto tiene que ver con un único sondeo (un único pozo). Para evaluar una sección completa (sección horizontal de un yacimiento) -> se necesitan más sondeos.
+
+**Para sacar la ley media:**
+
+![alt text](<imagenes-4-curso/captu-3.8-oga.png>)
+
+Con esto se obtiene solamente la extensión horizontal. Para obtener el volumen se integra el área. Matemáticamente la estimación de recursos es la integración numérica de una función contenido (expresada en unidades de masa por unidad de volumen) dentro del yacimiento de volumen V. Se hace una división de tramos del área y se suman.
+
+2. **Métodos geoestadísticos**
+
+Se recomienda la utilización del variograma (una función matemática que nos permite estudiar las diferencias entre muestras y la direccionalidad
+(anisotropía = como se sitúan las muestras) de los valores (krigging = método de interpolación)).
+Se recomienda la utilización del código propuesto por la ONU (UN-ECE,1996).
+La anisotropía siempre se considera desde la perspectiva desde la que se está midiendo (importancia de la referencia).
+
+Podemos definir el variograma como la media de los cuadrados de las diferencias entre pares de muestras separados por una distancia h:
+
+![alt text](<imagenes-4-curso/captu-3.9-oga.png>)
+
+
+
+
+
 
 
 
