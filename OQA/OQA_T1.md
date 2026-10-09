@@ -325,11 +325,9 @@ por tanto la disolución tiende a aumentar el pH y viceversa.
 Hay que tener en cuenta también la MOP -> por cada 4 partícula de MOP hay 1 de carbonato (relación 4:1).
 
 En la zona fótica -> se tiene fotosíntesis = formación de esqueletos de carbonato cálcico -> pH elevado en las aguas superficiales.
-La disminución del pH está asociado a los procesos de 
+La disminución del pH está asociado a los procesos de calcificación.
 
 No todo el carbonato cálcico se disuelve, hay parte que entra en el sedimento superficial.
-
-Los cambios de pH dependen también de la latitud -> mucha PP implica disminución (??) de pH
 
 **Gráfica:** no son perfiles verticales sino concentración en % que tienen los sedimentos superficiales. Analizamos la primera: a menores profundidades, la fase predominante en el sedimento es el carbonato cálcico, pero aumentando la profundidad se hace practicamente cero. Esto se debe a la posición de la lisoclina.
 
