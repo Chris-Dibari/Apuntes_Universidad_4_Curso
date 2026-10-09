@@ -438,9 +438,8 @@ Observar la variación en la grñafica.
 
 Va **disminuyendo**, no aumentando el $NO_3^-$.
 
- 
+Relación con la formación de diatomeas y el consumo de silicatos.
 
-
-
+Serie de gráficas a finales del tema con distintas distribuciones.
 
 </div>
