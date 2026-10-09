@@ -118,7 +118,7 @@ Los principales métodos a través de los cuales los recursos minerales pueden s
 1.2 **Densidad de la red de exploración** -> importantísimo a la hora de extraer minerales. Se considera un determinado espaciamiento de la red de exploración para las distintas categorías de yacimientos.
 La distribución de oro es mucho más heterogénea y diversificada -> la red debe ser mucho más pequeña comparada con la del carbón (más homogéneo). Aspecto muy específico (ej los placeres se almacenan en los taludes continentales, por tanto dicha red sería mucha más larga y menos ancho).
 
-1.3 **Interpolación contra extrapolación** -> con la extrapolación no podemos asegurar que se encuentren minerales, mientras con la extrapolación sí.
+1.3 **Interpolación contra extrapolación** -> con la extrapolación no podemos asegurar que se encuentren minerales, mientras con la extrapolación sí. Interpolación = inter área.
 
 1.4 **Consideraciones tecnológicas** -> También nos tenemos que fijar que no haya elementos contaminados (elementos perjudiciales) (ej en el caso del Cu hay muchos contaminado por arsénico o mercurio). Al tener mucha concentración del contaminante implica o menos la viabilidad del proyecto. No buena recuperación (que no sean rocas refractarias o con tamaño de grano demasiado pequeños). Extracción extremadamente cara -> otro aspecto a tener en cuenta.
 
@@ -166,17 +166,9 @@ Podemos definir el variograma como la media de los cuadrados de las diferencias 
 
 ![alt text](<imagenes-4-curso/captu-3.9-oga.png>)
 
+Al subir la curva = variables dependientes entre ellas.
+Cuando la curva se asintotiza => las muestras empiezan a ser independientes. Esto importa puesto que al asintotizarse la curva es donde llega mi malla -> importante donde dejan de ser dependientes, hasta que lo sean esto me asegura (con un margen de error) que seguiré encontrando muestras -> importancia para establecer el rango.
 
-
-
-
-
-
-
-
-
-
-
-
+Eje Y -> grado de variabilidad que tienen.
 
 </div>
