@@ -361,6 +361,76 @@ en cuencas por las dorsales oceánicas
 - Sin corrección por cambio de longitud con la latitud (océanos polares agrandados respecto a los ecuatoriales)
 - La longitud reducida en un factor de 2 con respecto a la latitud
 
+![alt text](<imagenes-4-curso/captu-44-oqa.png>)
+
+El único elemento que tiene tendencias inversas comparado con los demás es el oxígeno. Aumento relativo en las aguas del sur y disminuye en las aguas desplazandonos hacia el norte.
+
+**Tendencias generales en aguas profundas:**
+
+- Aumento de la concentración de elementos biolimitantes y biointermedios hacia el sur en el Atlántico y hacia el norte en el Índico y Pacífico
+- Variación inversa de la concentración de oxígeno
+
+**Diferencias en la distribución de los diferentes compuestos:**
+
+- La concentración de oxígeno presenta un máximo relativo en las proximidades del Antártico que no se corresponde con un mínimo en la concentración de $SiO_2$ y $NO_3$
+- El enriquecimiento de las aguas profundas del Pacífico con respecto al
+Atlántico es diferente para compuestos que se incorporan a tejidos orgánicos ($NO_3$ y $HPO_4^{2-}$) y a estructuras duras ($SiO_2$ y $Ba^{2+}$).
+
+Enriquecimiento de compuestos biológicos en aguas profundas del Pacífico respecto del Atlántico -> Relacionado con la circulación oceánica y la actividad biológica.
+
+**CIRCULACIÓN OCEÁNICA:**
+
+Altas latitudes del Atlántico Norte -> Generación de más de la mitad de las aguas profundas frías (NADW):
+
+- Fluye hacia el Sur por el Atlántico occidental
+- Parte del agua profunda pasa al Atlántico oriental a través de fisuras en la dorsal oceánica en el Atlántico central
+- Entra en el Antártico a través del Atlántico Sur y fluye hacia el este formando parte de la corriente circumpolar
+- Parte penetra hacia el norte en los océanos Índico y Pacífico
+- Parte continua la circulación alrededor del continente Antártico (paso de Drake)
+
+Una complicación -> Generación de aguas profundas por enfriamiento superficial en el océano Antártico (Antarctic Bottom Water, AABW)
+- Aguas profundas que penetran en el Atlántico, Índico y Pacífico -> Mezcla NADW y AABW.
+
+En términos globales, la producción de aguas profundas se encuentra compensada con el afloramiento de agua a la superficie en los distintos océanos del mundo.
+
+**ACTIVIDAD BIOLÓGICA:**
+
+- Retira compuestos biológicamente activos de aguas superficiales que se
+transportan a aguas profundas formando parte del material particulado
+- Se liberan en aguas profundas por procesos de destrucción del material
+particulado (oxidación / disolución)
+
+**ACOPLAMIENTO FÍSICO-BIOLÓGICO:**
+
+- Punto de partida -> Mar de Noruega y de Groenlandia (formación de NADW).
+- Durante el desplazamiento de las aguas profundas formando parte de la circulación oceánica, existe una entrada continua de material particulado -> Aumento de la concentración de compuestos biológicamente activos a medida que fluye el agua profunda:
+- Enriquecimiento hacia el sur en el Atlántico
+- Enriquecimiento hacia el norte en el Índico y Pacífico
+
+Existe una pérdida de masa de agua fría profunda debida a los afloramientos.
+- Incorporación a las corrientes superficiales que vuelven al punto de partida (Mar de Noruega y Groenlandia)
+- Retirada biológica de nutrientes en aguas superficiales.
+
+El resultado final es que en el océano se establece una tendencia y es que los elementos tipo nutrientes regenerados se encuentran desplazados hacia aguas profundas del Pácifico Norte.
+
+-> Mantenimiento del estado estacionario: Desplazamiento de estos compuestos en sentido contrario al gradiente horizontal de concentración.
+
+**Interpretación de los perfiles verticales:**
+
+**INTERPRETACIÓN DE PERFILES VERTICALES:**
+
+- Los máximos a profundidades medias en el Índico y Pacífico están producidos por el afloramiento de aguas profundas y el continuo suministro de material particulado. 
+- El aumento de las concentraciones hasta el fondo en el Atlántico se debe a una contracorriente de aguas frías producidas en el Antártico que penetra pegada al fondo (mayor densidad de AABW que NADW).
+- Máximos a mayores profundidades para compuestos que forman parte de
+estructuras duras (SiO2 y Ba2+) que para los incluidos en la materia orgánica particulada ($NO_3^-$ y $HPO_4^{2-}$).
+- Disolución de estructuras duras es más lenta que la oxidación de materia orgánica particulada. En la termoclina hay un máximo de liberación de la MO (ver más).
+- Mayor enriquecimiento de compuestos que forman parte de estructuras duras en aguas profundas del Pacífico con respecto al Atlántico.
+
+![alt text](<imagenes-4-curso/captu-45-oqa.png>)
+
+Observar la variación en la grñafica. 
+
+![alt text](<imagenes-4-curso/captu-46-oqa.png>)
 
 
 
