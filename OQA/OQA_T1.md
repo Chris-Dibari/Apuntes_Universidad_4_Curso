@@ -302,9 +302,36 @@ Variaciones experimentales: Aparecen dos lineas que corresponden al $CaCO_3$ cor
 
 ![alt text](<imagenes-4-curso/captu-41-oqa.png>)
 
+**Resumen clases anteriores:**
+
+Elementos asociados a la MOP suelen liberarse a profundidades relativamente pequeñas.
+Sílice -> los organismos una vez que mueren tiende a disolverse la sílice.
+Se afecta tanto la columna de agua como la cantidad que recoge el sedimento.
+
+A diferencia de lo que ocurre con la sílice biogénica -> estas partículas son estables en aguas superficiales -> la concentración experimental de Ca y Carbonato están por encima del umbral de disolución.
+
+A medidas que estas partículas caen se van haciendo más solubles -> función del producto de solubilidad -> a partir de grado de saturación < 1, dichas partículas empiezan a disolverse.
+
+A partir de la lisoclina se disuelve el carbonato cálcico (a una profundidad determinada cuando omega se hace menor que 1).
+
+Hay dos procesos que están relacionados con bicarbonato: fotosíntesis (liberación de carbonato) y respiración (consume protones y hace que el medio sea más básico -> equilibrio se desplaza hacia la derecha).
+
 ![alt text](<imagenes-4-curso/captu-42-oqa.png>)
 
+Los equilibrios son de tipo ácido-base.
+Si aumenta la concentración de carbonato (consume protones) y 
+por tanto la disolución tiende a aumentar el pH y viceversa.
 
+Hay que tener en cuenta también la MOP -> por cada 4 partícula de MOP hay 1 de carbonato (relación 4:1).
+
+En la zona fótica -> se tiene fotosíntesis = formación de esqueletos de carbonato cálcico -> pH elevado en las aguas superficiales.
+La disminución del pH está asociado a los procesos de 
+
+No todo el carbonato cálcico se disuelve, hay parte que entra en el sedimento superficial.
+
+Los cambios de pH dependen también de la latitud -> mucha PP implica disminución (??) de pH
+
+**Gráfica:** no son perfiles verticales sino concentración en % que tienen los sedimentos superficiales. Analizamos la primera: a mayores profundidades, la fase predominante en el sedimento es el carbonato cálcico, pero disminuyendo la profundidad se hace practicamente cero.
 
 
 
