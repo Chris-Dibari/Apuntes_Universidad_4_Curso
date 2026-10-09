@@ -331,7 +331,37 @@ No todo el carbonato cálcico se disuelve, hay parte que entra en el sedimento s
 
 Los cambios de pH dependen también de la latitud -> mucha PP implica disminución (??) de pH
 
-**Gráfica:** no son perfiles verticales sino concentración en % que tienen los sedimentos superficiales. Analizamos la primera: a mayores profundidades, la fase predominante en el sedimento es el carbonato cálcico, pero disminuyendo la profundidad se hace practicamente cero.
+**Gráfica:** no son perfiles verticales sino concentración en % que tienen los sedimentos superficiales. Analizamos la primera: a menores profundidades, la fase predominante en el sedimento es el carbonato cálcico, pero aumentando la profundidad se hace practicamente cero. Esto se debe a la posición de la lisoclina.
+
+![alt text](<imagenes-4-curso/captu-43-oqa.png>)
+
+Para ver la distribución de la superficie de los sedimentos del carbonato hace falta tener en cuenta varios factores como la batimetría de los fondos.
+
+Cuenca del Pácifico -> sería esperable que hubiera carbonato calcico en los sedimentos? No puesto que tendería a disolverse dadas las elevadas profundidades.
+
+### 5. Segregación horizontal de compuestos en el océano profundo
+
+Los principales modelos biogeoquímicos dividen el océano en 2 compartimentos (superficial y profundo).
+El compartimento de aguas profundas contiene aprox. el 90% del agua de los océanos.
+Fundamental estudiar su homogeneidad es fundamental para establecer las limitaciones de los ciclos biogeoquímicos.
+
+**Diferencias en los perfiles verticales (tipo nutrientes):**
+
+- Pacífico e Índico -> Máximo a profundidades medias
+- Atlántico -> Aumento de la concentración hasta el fondo
+- Antártico -> Perfiles menos estructurados
+
+La variación con la latitud es lo que se denomina segregación horizontal.
+
+Distribución de $SiO_2$, $Ba^{2+}$, $NO_3^-$ y $O_2$ en aguas profundas:
+
+- Orografía de los océanos a 4000 m de profundidad  Océanos divididos 
+en cuencas por las dorsales oceánicas
+- Continentes agrandados (incluyen zonas del océano con profundidades menores a 4000 m)
+- Sin corrección por cambio de longitud con la latitud (océanos polares agrandados respecto a los ecuatoriales)
+- La longitud reducida en un factor de 2 con respecto a la latitud
+
+
 
 
 
