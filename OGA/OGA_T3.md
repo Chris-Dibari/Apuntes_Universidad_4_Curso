@@ -73,4 +73,86 @@ Equivalente a:
 - 100 centrales térmicas funcionando 50 años cada una.
 - 4 presas funcionando más de 50 años.
 
+### Evaluación de los recursos
+
+1. El riesgo conlleva la amenaza de pérdida. El peso de tomar decisiones que pueden ser arriesgadas puede ser, de alguna manera calculado, en función de cuatro variables:
+
+- Valor del producto en el mercado financiero (en la actualidad y como proyección futura del mercado);
+- Cálculo de la probabilidad de encontrar reservas económicamente rentables -> importante porque muchas veces al descubrir un yacimiento se tiene que tener en cuenta el ancho (profundidad) y el largo -> tengo una ley suficiente para que me salga rentable (ley = concentración que tenemos en cada tonelada, para que al separarlo de los descartes, quede una parte suficiente de producto de interés);
+- Cálculo de ganancias potenciales;
+- Cálculo de pérdidas potenciales;
+
+**Importancia en la práctica de estas 4 variables en la práctica.**
+
+2. Cada decisión que se toma en la fase de exploración implica tanto cálculos de poder asumir riesgos como de incertidumbre (posibilidad de encontrar resultados favorables).
+
+**Riesgos** -> cantidad de dinero que estoy dispueso a perder.
+**Incertidumbre** => desconocimiento. Cuanto menos sé de un yacimiento, mayor será la incertidumbre y mayor el riesgo asociado.
+
+3. Magnitud de la incertidumbre geotécnica.
+
+- Elevadísima subjetividad -> que recae sobre el geólogo/oceanógrafo aplicado. Resulta que se no se sabe discernir lo que es una bolsa de gas o un mineral -> confusión y mala información de cara al proyecto (estoy perdiendo minerales).
+Otro ej. al quedarme con solo un estudio sismico, puedo llegar a saber que tengo un yacimiento, pero sin geotermia no puedo conocer ni el rendimiento ni alcanzar mayores profundidades.
+También puede que una falla esté atravesando el yacimiento -> subestimación o sobrestimación del yacimiento (en este último caso se perdería mucho dinero).
+
+- La tecnología reduce el rango de incertidumbre, pero no la elimina.
+- Precisión en el nivel de exactitud en el cálculo del rango de incertidumbre, que puede conllevar importantes consecuencias económicas. 
+
+El análisis del riesgo conlleva un sofisticado tratamiento relacionado con los siguientes parámetros:
+
+- Análisis geotécnicos (química, resistencia, porosidad etc del terreno mediante sondeos).
+- Cálculo del rango de incertidumbre y de las estimaciones de ocurrencia (mediante intervalos de probabilidad y rangos).
+- Cálculo del grado de riesgo
+- Factores económicos
+
+El análisis del riesgo se expresa matemáticamente mediante distribuciones estadísticas que devuelven un intervalo (con máx y min), al no ser capaces de establecer dicho rango, la incertidumbre aumenta mucho y los procesos no se suelen financiar.
+
+Los principales métodos a través de los cuales los recursos minerales pueden ser categorizados se dividen en 2 grupos (utilizandose los dos):
+
+1. **Métodos tradicionales de categorización**
+2. **Métodos geoestadísticos**
+
+1.1 **Continuidad geológica** -> Para realizar un cálculo de reservas es necesario comprender la génesis del yacimiento y valorar la continuidad geológica del volumen mineralizado. El contacto geológico es la litología que limita el yacimiento (por superposición de capas distintas - estratificación - o por fallas que lo limite). Es el que nos limita la distribución física de nuestro yacimiento. El contacto mineralógico es hasta donde se extiende dicho mineral (profundidad y horizontalidad - concepto de voumen) es muy importante para calcular la ley que tenemos. El contacto económico es donde tenemos la mayor concentración de la ley del material. Nos asegura la viabilidad económica. En la imagen -> al quedarme solamente con la parte e yacimiento al lado izquierdo de la falla, estoy subestimando dicho yacimiento.
+
+![alt text](<imagenes-4-curso/captu-3.6-oga.png>)
+
+1.2 **Densidad de la red de exploración** -> importantísimo a la hora de extraer minerales. Se considera un determinado espaciamiento de la red de exploración para las distintas categorías de yacimientos.
+La distribución de oro es mucho más heterogénea y diversificada -> la red debe ser mucho más pequeña comparada con la del carbón (más homogéneo). Aspecto muy específico (ej los placeres se almacenan en los taludes continentales, por tanto dicha red sería mucha más larga y menos ancho).
+
+1.3 **Interpolación contra extrapolación** -> con la extrapolación no podemos asegurar que se encuentren minerales, mientras con la extrapolación sí.
+
+1.4 **Consideraciones tecnológicas** -> También nos tenemos que fijar que no haya elementos contaminados (elementos perjudiciales) (ej en el caso del Cu hay muchos contaminado por arsénico o mercurio). Al tener mucha concentración del contaminante implica o menos la viabilidad del proyecto. No buena recuperación (que no sean rocas refractarias o con tamaño de grano demasiado pequeños). Extracción extremadamente cara -> otro aspecto a tener en cuenta.
+
+1.5 **Calidad de los datos** -> importancia del volumen de muestra (debe ser suficiente para maximizar mis resultados). Método de perforación -> importancia de la idoneidad.
+
+**Dentro de la metodología clásica:**
+
+Una estimación de reservas consiste en definir un volumen, al cual se le aplica una ley y una densidad (peso especifico):
+
+$T=A*P*PE$
+
+Donde:
+- T: es el tonelaje del sector del deposito bajo evaluación.
+- A: el área; visualización 2D del sector del deposito bajo evaluación; normalmente una sección vertical en cuerpos mineralizados irregulares.
+- P: la potencia; distancia horizontal aplicada a dicha sección.
+- PE: el peso especifico de la roca mineralizada.
+
+Otros factores a considerar:
+- Tipo de mena (mineralogía).
+- Estimación del grado de recuperación metalúrgica.
+- Contenido en humedad.
+- Competencia de la roca – RQD.
+
+En el caso de la determinación de la ley media de un sondeo tendremos:
+
+![alt text](<imagenes-4-curso/captu-3.7-oga.png>)
+
+
+
+
+
+
+
+
+
 </div>
