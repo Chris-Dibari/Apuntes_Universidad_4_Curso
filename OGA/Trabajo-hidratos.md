@@ -49,7 +49,7 @@ Sin embargo, la abundancia en términos de recurso geológico bruto no equivale 
 Por ello, aunque representan un recurso energético con un potencial revolucionario, su explotación plantea una cuestión fundamental: ¿hasta qué punto podemos extraer el metano sin desestabilizar los sedimentos marinos ni provocar emisiones adicionales de gases de efecto invernadero?
 
 ![alt text](<imagenes-4-curso/captu-T1-oga.png>)
-*USGS (Waite et al., 2020) | sciencebase.gov*
+*Distribución mundial de hidratos de gas conocidos e inferidos. USGS (Waite et al., 2020) | sciencebase.gov*
 
 ---
 
@@ -60,6 +60,13 @@ Por ello, aunque representan un recurso energético con un potencial revoluciona
 5. **Permeabilidad de las matrices sedimentarias finas:** Los hidratos suelen estar mezclados con el barro y la arena del fondo del mar (la matriz sedimentaria). Si el sedimento es arcilloso o muy fino, tiene baja permeabilidad, lo que significa que el metano disociado no puede fluir hacia las tuberías de extracción porque los poros del suelo están bloqueados.
 
 <div style="page-break-after: always;"></div>
+
+### Principales técnicas de explotación
+
+Actualmente, la despresurización constituye la estrategia de explotación predominante debido a su simplicidad operativa y viabilidad económica, fundamentándose en la reducción de la presión del yacimiento para inducir la disociación química del clatrato. Por su parte, la estimulación térmica logra el mismo objetivo mediante el aporte exógeno de calor; al superar el umbral de la temperatura de equilibrio de fase del sistema, se desencadena la liberación del gas. Como alternativa molecular, la sustitución por dióxido de carbono (\(CO_{2}\)) aprovecha la mayor afinidad termodinámica de este compuesto para estructurar clatratos, reemplazando el metano alojado en las cavidades y ofreciendo un beneficio simultáneo de almacenamiento de carbono. En contraste, la inyección de inhibidores químicos (tales como metanol, soluciones salinas o etanol) altera la curva de estabilidad de fases para forzar la disociación, aunque se cataloga como una técnica ineficiente, de alto costo operativo y con un impacto ambiental desfavorable. Debido a las limitaciones individuales de cada técnica, la tendencia científica actual apunta hacia la implementación de métodos combinados o sinérgicos como la ruta más eficiente para la recuperación a escala comercial de estos recursos de gas (Zhu et al., 2025).
+
+![alt text](<imagenes-4-curso/captu-T2-oga.png>)
+*Principales métodos de explotación y extracción de hidratos de gas. Fuente: Zhu et al. (2025) | preprints.org.*
 
 
 
@@ -77,3 +84,6 @@ Ruppel, C. D. (2018). Gas hydrate in nature (Fact Sheet 2017–3080). U.S. Geolo
 Ruppel, C. D., & Waite, W. F. (2020). Timescales and processes of methane hydrate formation and breakdown, with application to geologic systems. Journal of Geophysical Research: Solid Earth, 125(8), e2018JB016459. https://doi.org/10.1029/2018JB016459
 
 Waite, W. F., Ruppel, C. D., Boze, L.-G., Lorenson, T. D., Buczkowski, B. J., McMullen, K. Y., & Kvenvolden, K. A. (2020). Preliminary global database of known and inferred gas hydrate locations [Conjunto de datos]. U.S. Geological Survey data release. https://doi.org/10.5066/P9llFVJM
+
+Zhu, M., Zhang, H., Shi, Y., Zhou, J., & Fu, L. (2025). Changes of heat and energy during depressurization-induced natural gas hydrate dissociation in porous media. Preprints.org. https://doi.org
+
