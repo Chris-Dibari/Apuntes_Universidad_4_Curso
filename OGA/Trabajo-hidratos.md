@@ -61,12 +61,20 @@ Por ello, aunque representan un recurso energético con un potencial revoluciona
 
 <div style="page-break-after: always;"></div>
 
-### Principales técnicas de explotación
+### Principales Técnicas de Explotación
 
-Actualmente, la despresurización constituye la estrategia de explotación predominante debido a su simplicidad operativa y viabilidad económica, fundamentándose en la reducción de la presión del yacimiento para inducir la disociación química del clatrato. Por su parte, la estimulación térmica logra el mismo objetivo mediante el aporte exógeno de calor; al superar el umbral de la temperatura de equilibrio de fase del sistema, se desencadena la liberación del gas. Como alternativa molecular, la sustitución por dióxido de carbono (\(CO_{2}\)) aprovecha la mayor afinidad termodinámica de este compuesto para estructurar clatratos, reemplazando el metano alojado en las cavidades y ofreciendo un beneficio simultáneo de almacenamiento de carbono. En contraste, la inyección de inhibidores químicos (tales como metanol, soluciones salinas o etanol) altera la curva de estabilidad de fases para forzar la disociación, aunque se cataloga como una técnica ineficiente, de alto costo operativo y con un impacto ambiental desfavorable. Debido a las limitaciones individuales de cada técnica, la tendencia científica actual apunta hacia la implementación de métodos combinados o sinérgicos como la ruta más eficiente para la recuperación a escala comercial de estos recursos de gas (Zhu et al., 2025).
+Actualmente, la **despresurización** constituye la estrategia de explotación predominante debido a su simplicidad operativa y viabilidad económica, fundamentándose en la reducción de la presión del yacimiento para inducir la disociación química del clatrato. Por su parte, la **estimulación térmica** logra el mismo objetivo mediante el aporte exógeno de calor; al superar el umbral de la temperatura de equilibrio de fase del sistema, se desencadena la liberación del gas. Como alternativa molecular, la **sustitución por dióxido de carbono** ($CO_2$) aprovecha la mayor afinidad termodinámica de este compuesto para estructurar clatratos, reemplazando el metano alojado en las cavidades y ofreciendo un beneficio simultáneo de almacenamiento de carbono. En contraste, la **inyección de inhibidores químicos** (tales como metanol, soluciones salinas o etanol) altera la curva de estabilidad de fases para forzar la disociación, aunque se cataloga como una técnica ineficiente, de alto costo operativo y con un impacto ambiental desfavorable. Debido a las limitaciones individuales de cada técnica, la tendencia científica actual apunta hacia la implementación de métodos combinados o sinérgicos como la ruta más eficiente para la recuperación a escala comercial de estos recursos de gas (Zhu et al., 2025).
+
+Actualmente, países como Japón y China han realizado pruebas de producción en depósitos marinos, mientras que Estados Unidos y Canadá han desarrollado ensayos en regiones árticas (Collett, 2019; U.S. Geological Survey, 2024).
 
 ![alt text](<imagenes-4-curso/captu-T2-oga.png>)
 *Principales métodos de explotación y extracción de hidratos de gas. Fuente: Zhu et al. (2025) | preprints.org.*
+
+### Posible Problemática Ambiental Asociada
+
+
+
+
 
 
 
