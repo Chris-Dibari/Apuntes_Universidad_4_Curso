@@ -37,23 +37,31 @@ Octubre 2026
 
 ### Introducción
 
-Los hidratos de metano son sólidos cristalinos $^1$, similares al hielo (también es un s.c.), formados por moléculas de agua que crean estructuras capaces de atrapar moléculas de metano $^2$. Se forman bajo condiciones específicas de baja temperatura y alta presión, principalmente en sedimentos marinos de los márgenes continentales y en regiones de permafrost (Kvenvolden, 1998; Boswell et al., 2020).
+Los hidratos de metano son sólidos cristalinos $^1$, similares al hielo (también es un s.c.), formados por moléculas de agua que crean estructuras capaces de atrapar moléculas de metano $^2$. (Ruppel, 2018; Boswell et al., 2020).
 
-Su interés radica en que almacenan grandes cantidades de metano, un gas combustible que podría convertirse en una fuente energética no convencional. Sin embargo, la abundancia global estimada no equivale a una reserva explotable: todavía existen dificultades técnicas, económicas y ambientales para extraerlo de forma segura y comercialmente viable (Boswell et al., 2020).
+Se forman bajo condiciones específicas de baja temperatura y alta presión, denominadas termodinámicamente la Zona de Estabilidad del Hidrato (ZEH) (Ruppel, 2018).
+Como se puede visualizar en la figura, esta ventana de estabilidad se localiza principalmente en dos entornos geológicos globales: los sedimentos marinos de los márgenes continentales (donde la columna de agua profunda aporta la presión hidrostática necesaria y temperaturas inferiores a los 4 °C) y en las regiones subárticas de permafrost, donde el suelo permanentemente congelado a cientos de metros de profundidad actúa como una barrera térmica que estabiliza el clatrato incluso a presiones litostáticas moderadas. Como ejemplos clave de la primera localización se destacan los yacimientos confirmados en rojo del Golfo de México y la fosa de Nankai en Japón, mientras que para el segundo caso se tienen los depósitos de la vertiente norte de Alaska y el delta del río Mackenzie en Canadá (Boswell et al., 2020; Waite et al., 2020).
 
-Por ello, aunque representan un recurso energético potencialmente importante, su explotación plantea una cuestión fundamental: ¿hasta qué punto podemos extraer el metano sin desestabilizar los sedimentos marinos ni provocar emisiones adicionales de gases de efecto invernadero?
+Su interés práctico y estratégico radica en su extraordinaria densidad energética volumétrica $^3$: un solo metro cúbico de hidrato sólido libera, mediante disociación térmica o descompresión $^4$, aproximadamente 164 metros cúbicos de gas metano en condiciones normales de presión y temperatura (CNPT: 1 atm, 0 °C).
+Dicho aspecto convierte a estos depósitos en un recurso energético no convencional cuyo volumen de carbono orgánico estimado podría duplicar el de todos los combustibles fósiles tradicionales combinados (carbón, petróleo y gas convencional).
+Sin embargo, la abundancia en términos de recurso geológico bruto no equivale a una reserva comercialmente explotable: la viabilidad técnica de su extracción masiva sigue limitada por la baja permeabilidad de las matrices sedimentarias finas $^5$ y la ausencia de tecnologías de producción estables y económicamente rentables (Boswell et al., 2020).
+
+Por ello, aunque representan un recurso energético con un potencial revolucionario, su explotación plantea una cuestión fundamental: ¿hasta qué punto podemos extraer el metano sin desestabilizar los sedimentos marinos ni provocar emisiones adicionales de gases de efecto invernadero?
 
 ![alt text](<imagenes-4-curso/captu-T1-oga.png>)
-*USGS (Waite et al., 2020) | doi.org*
+*USGS (Waite et al., 2020) | sciencebase.gov*
 
-
-
-
-
+---
 
 1. **Sólidos cristalinos:** material en el que sus átomos, iones o moléculas se ordenan de forma regular y periódica repitiéndose en las tres dimensiones del espacio, lo que da lugar a una estructura interna fija llamada red cristalina.
 2. **Atrapar moléculas de metano:** Los hidratos de metano son clatratos (compuestos de inclusión) donde el agua (anfitrión) forma una red cristalina de poliedros huecos mediante puentes de hidrógeno, confinando físicamente al metano (huésped) sin enlaces químicos. La inclusión ocurre por la nucleación del cristal a alta presión y baja temperatura, donde el metano queda atrapado por impedimento estérico (restricción del movimiento de una molécula debido al espacio físico que ocupan los átomos circundantes), ya que su tamaño le permite estabilizar la cavidad mediante fuerzas de Van der Waals (atracciones electrostáticas débiles entre moléculas no polares) pero le impide escapar por los poros de la jaula. Ante cualquier intento de fuga, la repulsión electrónica de Pauli (fuerza cuántica que impide que dos electrones ocupen el mismo espacio, haciendo que las nubes electrónicas se repelan al acercarse) devuelve al gas al centro del cristal, estabilizando el sistema.
-3. 
+3. **Densidad energética volumétrica:** Cantidad de energía (o gas combustible) almacenada por unidad de volumen de material (elevadísima en HM ya que el gas está comprimido).
+4. **Disociación térmica o descompresión:** Disociación = romper la estructura del clatrato. Se logra inyectándole calor (disociación térmica) o bajando la presión del pozo (descompresión) para que el hielo se vuelva inestable y libere el metano. La descompresión se logra bombeando hacia la superficie el agua y los fluidos acumulados dentro del pozo para reducir la presión hidrostática circundante, forzando el hielo a disociarse.
+5. **Permeabilidad de las matrices sedimentarias finas:** Los hidratos suelen estar mezclados con el barro y la arena del fondo del mar (la matriz sedimentaria). Si el sedimento es arcilloso o muy fino, tiene baja permeabilidad, lo que significa que el metano disociado no puede fluir hacia las tuberías de extracción porque los poros del suelo están bloqueados.
+
+<div style="page-break-after: always;"></div>
+
+
 
 
 
@@ -69,8 +77,3 @@ Ruppel, C. D. (2018). Gas hydrate in nature (Fact Sheet 2017–3080). U.S. Geolo
 Ruppel, C. D., & Waite, W. F. (2020). Timescales and processes of methane hydrate formation and breakdown, with application to geologic systems. Journal of Geophysical Research: Solid Earth, 125(8), e2018JB016459. https://doi.org/10.1029/2018JB016459
 
 Waite, W. F., Ruppel, C. D., Boze, L.-G., Lorenson, T. D., Buczkowski, B. J., McMullen, K. Y., & Kvenvolden, K. A. (2020). Preliminary global database of known and inferred gas hydrate locations [Conjunto de datos]. U.S. Geological Survey data release. https://doi.org/10.5066/P9llFVJM
-
-
-
-
-
