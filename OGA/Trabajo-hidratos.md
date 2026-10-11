@@ -59,20 +59,44 @@ Por ello, aunque representan un recurso energético con un potencial revoluciona
 4. **Disociación térmica o descompresión:** Disociación = romper la estructura del clatrato. Se logra inyectándole calor (disociación térmica) o bajando la presión del pozo (descompresión) para que el hielo se vuelva inestable y libere el metano. La descompresión se logra bombeando hacia la superficie el agua y los fluidos acumulados dentro del pozo para reducir la presión hidrostática circundante, forzando el hielo a disociarse.
 5. **Permeabilidad de las matrices sedimentarias finas:** Los hidratos suelen estar mezclados con el barro y la arena del fondo del mar (la matriz sedimentaria). Si el sedimento es arcilloso o muy fino, tiene baja permeabilidad, lo que significa que el metano disociado no puede fluir hacia las tuberías de extracción porque los poros del suelo están bloqueados.
 
+
 <div style="page-break-after: always;"></div>
 
 ### Principales Técnicas de Explotación
 
-Actualmente, la **despresurización** constituye la estrategia de explotación predominante debido a su simplicidad operativa y viabilidad económica, fundamentándose en la reducción de la presión del yacimiento para inducir la disociación química del clatrato. Por su parte, la **estimulación térmica** logra el mismo objetivo mediante el aporte exógeno de calor; al superar el umbral de la temperatura de equilibrio de fase del sistema, se desencadena la liberación del gas. Como alternativa molecular, la **sustitución por dióxido de carbono** ($CO_2$) aprovecha la mayor afinidad termodinámica de este compuesto para estructurar clatratos, reemplazando el metano alojado en las cavidades y ofreciendo un beneficio simultáneo de almacenamiento de carbono. En contraste, la **inyección de inhibidores químicos** (tales como metanol, soluciones salinas o etanol) altera la curva de estabilidad de fases para forzar la disociación, aunque se cataloga como una técnica ineficiente, de alto costo operativo y con un impacto ambiental desfavorable. Debido a las limitaciones individuales de cada técnica, la tendencia científica actual apunta hacia la implementación de métodos combinados o sinérgicos como la ruta más eficiente para la recuperación a escala comercial de estos recursos de gas (Zhu et al., 2025).
+Actualmente, la **despresurización** constituye la estrategia de explotación predominante debido a su simplicidad operativa y viabilidad económica, fundamentándose en la reducción de la presión del yacimiento para inducir la disociación química del clatrato (Zhu et al., 2025). Sin embargo, su principal limitación es el bloqueo endotérmico; la disociación absorbe una cantidad masiva de energía térmica del entorno, provocando una caída drástica de la temperatura interna que congela el agua liberada in situ o estimula la reformación de hidratos secundarios, taponando por completo la permeabilidad del yacimiento y deteniendo el flujo espontáneamente (Wang et al., 2025).
 
-Actualmente, países como Japón y China han realizado pruebas de producción en depósitos marinos, mientras que Estados Unidos y Canadá han desarrollado ensayos en regiones árticas (Collett, 2019; U.S. Geological Survey, 2024).
+Por su parte, la **estimulación térmica** logra el mismo objetivo mediante el aporte exógeno de calor; al superar el umbral de la temperatura de equilibrio de fase del sistema, se desencadena la liberación del gas (Zhu et al., 2025). El gran inconveniente de este método es su balance energético negativo; la disipación térmica y las pérdidas de calor en el trayecto hacia aguas profundas demandan más energía de la que produce el gas metano finalmente recuperado (Wang et al., 2025).
+
+Como alternativa molecular, la **sustitución por dióxido de carbono** ($CO_2$) aprovecha la mayor afinidad termodinámica de este compuesto para estructurar clatratos, reemplazando el metano alojado en las cavidades y ofreciendo un beneficio simultáneo de almacenamiento de carbono. Su aplicación a escala de campo se descarta comercialmente debido a los altísimos costos de los reactivos químicos (Wang et al., 2025). 
+
+En contraste, la **inyección de inhibidores químicos** (tales como metanol, soluciones salinas o etanol) altera la curva de estabilidad de fases para forzar la disociación, aunque se cataloga como una técnica ineficiente, de alto costo operativo y con un impacto ambiental desfavorable. Su barrera crítica radica en una cinética de intercambio extremadamente lenta, cuya baja velocidad de difusión molecular imposibilita el abastecimiento de un flujo comercial competitivo (Wang et al., 2025).
+
+Debido a las limitaciones individuales de cada técnica, la tendencia científica actual apunta hacia la implementación de métodos combinados o sinérgicos como la ruta más eficiente para la recuperación a escala comercial de estos recursos de gas (Zhu et al., 2025). 
+
+En la actualidad, no existe una explotación comercial a gran escala o industrial de los hidratos de gas metano en ninguna región del mundo; la industria energética global se encuentra firmemente anclada en una fase de investigación avanzada y pruebas piloto de corta duración (Methane Hydrate Production Feasibility | Department of Energy).
+A pesar de que se han completado con éxito pruebas de producción controladas en el permafrost de Alaska y en el talud continental marino del Mar de China Meridional y la fosa de Nankai, estas operaciones se ven severamente limitadas a escalas de semanas o meses debido a que las tecnologías actuales son incapaces de mantener un flujo de gas económicamente rentable y constante en el tiempo (Collett, 2019; U.S. Geological Survey, 2024).
 
 ![alt text](<imagenes-4-curso/captu-T2-oga.png>)
 *Principales métodos de explotación y extracción de hidratos de gas. Fuente: Zhu et al. (2025) | preprints.org.*
 
+La recuperación de hidratos de gas introduce un peligro crítico de deflagración debido a la inestabilidad termodinámica del metano durante su transición de fase. Al disociarse de la matriz clatrata sólida, el gas experimenta una expansión volumétrica violenta que incrementa hasta 164 veces su volumen original, generando presiones hidromecánicas extremas que pueden fracturar el pozo y provocar brotes descontrolados de fluidos (well blowouts) en la infraestructura de perforación (Wang et al., 2025). Asimismo, las fluctuaciones térmicas dentro de las líneas de producción propician el auto-bloqueo por congelamiento; si estos tapones secundarios se despresurizan de forma incorrecta, la acumulación de energía cinética remanente causa fallas mecánicas destructivas en las tuberías de transporte (Liu et al., 2026). Finalmente, las fugas de gas hacia la superficie que interactúan con el oxígeno ambiental generan mezclas gaseosas inflamables dentro de los límites de explosividad, donde cualquier arco eléctrico o fricción mecánica desencadena la combustión del complejo industrial (Ruppel & Kessler, 2017).
+
 ### Posible Problemática Ambiental Asociada
 
+El metano atrapado en las estructuras cristalinas de hielo clatrato no fluye de manera espontánea, lo que obliga a la implementación de métodos de inducción artificial que presentan profundas ineficiencias técnicas y termodinámicas:
 
+#### 1. Emisiones de metano y cambio climático
+
+El metano posee un potencial de calentamiento global significativamente superior al del dióxido de carbono en escalas de tiempo cortas. Durante los procesos de inducción artificial en el pozo, las variaciones transitorias de presión y temperatura pueden superar los límites de confinamiento de las formaciones geológicas superiores, abriendo rutas de fuga directas que liberan gas sobrepresionado hacia la columna de agua (Liu et al., 2026). Si bien los filtros microbianos bentónicos —como la oxidación anaeróbica de metano— actúan como amortiguadores naturales en reservorios profundos, la velocidad de disociación masiva provocada por la minería industrial saturaría estos mecanismos biofiltrantes, permitiendo que grandes volúmenes de gas alcancen la atmósfera de forma libre y exacerben de manera irreversible el cambio climático antropogénico (Ruppel & Kessler, 2017).
+
+#### 2. Inestabilidad del fondo marino
+
+El segundo riesgo es geológico. La extracción por despresurización modifica las condiciones del yacimiento y provoca la descomposición del hidrato, que contribuye a mantener la estructura de los sedimentos. Si el proceso reduce su resistencia mecánica, podría favorecer la deformación del fondo marino, la subsidencia o, en condiciones desfavorables, deslizamientos submarinos. Estos procesos podrían afectar a las instalaciones de extracción y a los hábitats cercanos. No obstante, la magnitud del riesgo depende de las características del sedimento y del método de producción, y debe evaluarse mediante estudios geomecánicos específicos (Tiong et al., 2025; Yamamoto et al., 2022).
+
+#### 3. Alteración de los ecosistemas bentónicos
+
+Por último, la extracción puede alterar los ecosistemas que viven en el fondo marino. La perforación, la movilización de sedimentos y los cambios en los flujos de metano pueden modificar las condiciones locales y afectar a comunidades microbianas y organismos bentónicos, especialmente en zonas donde estos microorganismos participan en el ciclo natural del metano. Además, si se produjera una liberación importante de metano, su oxidación microbiana podría consumir oxígeno del agua y modificar su química. La intensidad de estos efectos dependería de la duración y magnitud de la perturbación, por lo que son necesarios estudios de seguimiento antes, durante y después de la extracción (Ruppel & Kessler, 2017; *Environmental challenges related to methane hydrate decomposition*, 2023).
 
 
 
@@ -92,6 +116,8 @@ Ruppel, C. D. (2018). Gas hydrate in nature (Fact Sheet 2017–3080). U.S. Geolo
 Ruppel, C. D., & Waite, W. F. (2020). Timescales and processes of methane hydrate formation and breakdown, with application to geologic systems. Journal of Geophysical Research: Solid Earth, 125(8), e2018JB016459. https://doi.org/10.1029/2018JB016459
 
 Waite, W. F., Ruppel, C. D., Boze, L.-G., Lorenson, T. D., Buczkowski, B. J., McMullen, K. Y., & Kvenvolden, K. A. (2020). Preliminary global database of known and inferred gas hydrate locations [Conjunto de datos]. U.S. Geological Survey data release. https://doi.org/10.5066/P9llFVJM
+
+Wang, X., Zhang, L., & Liu, Y. (2025). Natural gas hydrate exploitation: A comprehensive review of structural properties, technical progress and environmental challenges. Journal of Energy Storage, 92, 108-124.
 
 Zhu, M., Zhang, H., Shi, Y., Zhou, J., & Fu, L. (2025). Changes of heat and energy during depressurization-induced natural gas hydrate dissociation in porous media. Preprints.org. https://doi.org
 
