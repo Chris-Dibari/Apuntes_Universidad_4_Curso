@@ -31,11 +31,11 @@ Octubre 2026
 
 ### Índice de Contenidos
 
-1. Introducción: 
+1. Introducción: los hidratos de metano.
+2. Principales Técnicas de Explotación.
+3. Posible problemática ambiental asociada a la explotación de hidratos de metano
 
-
-
-### Introducción
+### Introducción los hidratos de metano
 
 Los hidratos de metano son sólidos cristalinos $^1$, similares al hielo (también es un s.c.), formados por moléculas de agua que crean estructuras capaces de atrapar moléculas de metano $^2$. (Ruppel, 2018; Boswell et al., 2020).
 
@@ -58,7 +58,6 @@ Por ello, aunque representan un recurso energético con un potencial revoluciona
 3. **Densidad energética volumétrica:** Cantidad de energía (o gas combustible) almacenada por unidad de volumen de material (elevadísima en HM ya que el gas está comprimido).
 4. **Disociación térmica o descompresión:** Disociación = romper la estructura del clatrato. Se logra inyectándole calor (disociación térmica) o bajando la presión del pozo (descompresión) para que el hielo se vuelva inestable y libere el metano. La descompresión se logra bombeando hacia la superficie el agua y los fluidos acumulados dentro del pozo para reducir la presión hidrostática circundante, forzando el hielo a disociarse.
 5. **Permeabilidad de las matrices sedimentarias finas:** Los hidratos suelen estar mezclados con el barro y la arena del fondo del mar (la matriz sedimentaria). Si el sedimento es arcilloso o muy fino, tiene baja permeabilidad, lo que significa que el metano disociado no puede fluir hacia las tuberías de extracción porque los poros del suelo están bloqueados.
-
 
 <div style="page-break-after: always;"></div>
 
@@ -99,12 +98,20 @@ La extracción de hidratos de metano puede generar impactos ambientales porque r
 En conclusión, la principal preocupación no es que estos impactos vayan a ocurrir necesariamente, sino que la extracción puede alterar simultáneamente el ciclo del metano, la estabilidad del sedimento y los ecosistemas del fondo marino. Como todavía no existe una explotación comercial marina a gran escala que permita evaluar todos estos efectos durante periodos prolongados, la monitorización y la evaluación ambiental son esenciales antes de ampliar esta actividad.
 
 ![alt text](<imagenes-4-curso/captu-T3-oga.png>)
+*Esquema de las fuentes y los sumideros de metano asociados a la descomposición de hidratos. Fuente: Ruppel y Kessler (2017).*
 
-
+El esquema representa las distintas fuentes y los mecanismos que controlan el destino del metano en el sistema océano-atmósfera. Para interpretarlo, conviene seguir el recorrido del gas desde su liberación en los sedimentos marinos hasta su posible llegada a la atmósfera.
+En primer lugar, el metano puede liberarse cuando los hidratos se descomponen y el gas asciende desde los sedimentos hacia el fondo marino. A partir de ahí, una parte puede escapar en forma de burbujas. Mientras estas ascienden por la columna de agua, el metano puede pasar al agua circundante por disolución. Esto significa que el gas liberado en el fondo no llega necesariamente a la superficie.
+En segundo lugar, el metano disuelto puede ser consumido por microorganismos mediante la oxidación microbiana. En presencia de oxígeno, este proceso consume oxígeno y transforma el metano principalmente en dióxido de carbono. También existen mecanismos físicos y químicos que retienen o transforman parte del gas en los sedimentos y el océano. La eficacia de estos procesos depende, entre otros factores, de la profundidad, las corrientes, las concentraciones de metano y la actividad microbiana.
+Por último, solo la fracción que logra llegar a la superficie y transferirse a la atmósfera puede contribuir directamente al efecto invernadero atmosférico como metano. Por eso, la figura no debe interpretarse como una demostración de que los hidratos están provocando grandes emisiones atmosféricas, sino como una representación del balance entre las fuentes de metano y los procesos que limitan su propagación.
 
 ![alt text](<imagenes-4-curso/captu-T4-oga.png>)
+*Resumen gráfico de los métodos de monitorización de los impactos ambientales asociados a los hidratos de gas marinos. Fuente: Liu et al. (2019).*
 
-
+La imagen representa un sistema de explotación de hidratos de gas marinos equipado con pozos de producción y de monitorización ambiental, cuyo objetivo es extraer el gas y controlar los posibles efectos de la operación sobre los sedimentos y el medio marino.
+El pozo central (Production Well) atraviesa los sedimentos hasta alcanzar la zona de hidratos de metano (MH Zone), situada en el esquema a unos 300 m bajo el fondo marino y con un espesor aproximado de 50 m. Mediante el pozo se extrae el gas liberado del yacimiento. A ambos lados se sitúan dos pozos de monitorización (Monitoring Wells), separados aproximadamente 25 m del pozo de producción, que permiten observar cambios en el subsuelo durante la explotación. Estos cambios pueden incluir variaciones de presión y temperatura, migración de gas o alteraciones de las propiedades de los sedimentos.
+Los sistemas de monitorización instalados en el fondo marino registran señales físicas, químicas y geológicas. Los datos se transmiten mediante un cable submarino de telemetría y alimentación eléctrica hasta el buque, que también puede utilizar técnicas acústicas para observar la columna de agua. Además, un vehículo operado remotamente (ROV) permite inspeccionar visualmente el entorno y detectar posibles anomalías.
+La importancia de este diseño es que no se limita a medir cuánto gas se extrae: también permite vigilar si la explotación modifica el entorno. La detección temprana de fugas, cambios en los sedimentos o señales de inestabilidad ayuda a evaluar los riesgos y a decidir si es necesario modificar o detener las operaciones. Liu et al. (2019) destacan precisamente la necesidad de integrar distintas técnicas de monitorización para evaluar los posibles impactos ambientales de la explotación de hidratos marinos.
 
 ### Fuentes Consultadas (Bibliografía y Webgrafía)
 
@@ -112,7 +119,15 @@ Boswell, R., Hancock, S., Yamamoto, K., Collett, T. S., Pratap, M., & Lee, S.-R.
 
 Collett, T. S. (2019). Gas hydrate production testing—Knowledge gained. Offshore Technology Conference. https://doi.org/10.4043/29516-MS
 
+Geomechanical issues in the exploitation of natural gas hydrate. (2020). Gondwana Research, 81, 403–422. https://doi.org/10.1016/j.gr.2019.11.014
+
+Liu, L., Ryu, B., Sun, Z., Wu, N., Cao, H., Geng, W., Zhang, X., Jia, Y., Xu, C., Guo, L., & Wang, L. (2019). Monitoring and research on environmental impacts related to marine natural gas hydrates: Review and future perspective. Journal of Natural Gas Science and Engineering, 65, 82–107. https://doi.org/10.1016/j.jngse.2019.02.007
+
+Ruffine, L., Tang, A. M., O’Neill, N., Toffin, L., Paris, J.-D., Yang, J., Georgiev, V., Fietzek, P., Giustiniani, M., & Tinivella, U. (2023). Environmental challenges related to methane hydrate decomposition from climate change scenario and anthropic activities: State of the art, potential consequences and monitoring solutions. Earth-Science Reviews, 246, Article 104578. https://doi.org/10.1016/j.earscirev.2023.104578
+
 Ruppel, C. D. (2018). Gas hydrate in nature (Fact Sheet 2017–3080). U.S. Geological Survey. https://doi.org/10.3133/fs20173080
+
+Ruppel, C. D., & Kessler, J. D. (2017). The interaction of climate change and methane hydrates. Reviews of Geophysics, 55(1), 126–168. https://doi.org/10.1002/2016RG000534
 
 Ruppel, C. D., & Waite, W. F. (2020). Timescales and processes of methane hydrate formation and breakdown, with application to geologic systems. Journal of Geophysical Research: Solid Earth, 125(8), e2018JB016459. https://doi.org/10.1029/2018JB016459
 
