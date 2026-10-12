@@ -82,28 +82,27 @@ A pesar de que se han completado con éxito pruebas de producción controladas e
 
 La recuperación de hidratos de gas introduce un peligro crítico de deflagración debido a la inestabilidad termodinámica del metano durante su transición de fase. Al disociarse de la matriz clatrata sólida, el gas experimenta una expansión volumétrica violenta que incrementa hasta 164 veces su volumen original, generando presiones hidromecánicas extremas que pueden fracturar el pozo y provocar brotes descontrolados de fluidos (well blowouts) en la infraestructura de perforación (Wang et al., 2025). Asimismo, las fluctuaciones térmicas dentro de las líneas de producción propician el auto-bloqueo por congelamiento; si estos tapones secundarios se despresurizan de forma incorrecta, la acumulación de energía cinética remanente causa fallas mecánicas destructivas en las tuberías de transporte (Liu et al., 2026). Finalmente, las fugas de gas hacia la superficie que interactúan con el oxígeno ambiental generan mezclas gaseosas inflamables dentro de los límites de explosividad, donde cualquier arco eléctrico o fricción mecánica desencadena la combustión del complejo industrial (Ruppel & Kessler, 2017).
 
-### Posible Problemática Ambiental Asociada
+### Posible problemática ambiental asociada a la explotación de hidratos de metano
 
-El metano atrapado en las estructuras cristalinas de hielo clatrato no fluye de manera espontánea, lo que obliga a la implementación de métodos de inducción artificial que presentan profundas ineficiencias técnicas y termodinámicas:
+La extracción de hidratos de metano puede generar impactos ambientales porque requiere modificar las condiciones de presión y temperatura del yacimiento para liberar el gas. Los principales riesgos se relacionan con las emisiones de metano, la estabilidad del fondo marino y los cambios en los ecosistemas y la química del agua.
 
-#### 1. Emisiones de metano y cambio climático
+**En primer lugar, las emisiones de metano y el cambio climático.** Durante la extracción, una parte del gas podría escapar a través del pozo, de fracturas o de vías de migración presentes en los sedimentos. El metano tiene un potencial de calentamiento superior al del CO₂ por unidad de masa, especialmente si se considera un horizonte temporal corto. Sin embargo, es importante distinguir entre liberar metano en el fondo marino y emitirlo a la atmósfera: una parte puede disolverse en el agua y ser oxidada por microorganismos antes de llegar a la superficie. Por tanto, el impacto climático dependerá de la cantidad de gas liberada, de la profundidad y de la eficiencia de los mecanismos naturales que lo retienen o transforman (Ruppel & Kessler, 2017).
 
-El metano posee un potencial de calentamiento global significativamente superior al del dióxido de carbono en escalas de tiempo cortas. Durante los procesos de inducción artificial en el pozo, las variaciones transitorias de presión y temperatura pueden superar los límites de confinamiento de las formaciones geológicas superiores, abriendo rutas de fuga directas que liberan gas sobrepresionado hacia la columna de agua (Liu et al., 2026). Si bien los filtros microbianos bentónicos —como la oxidación anaeróbica de metano— actúan como amortiguadores naturales en reservorios profundos, la velocidad de disociación masiva provocada por la minería industrial saturaría estos mecanismos biofiltrantes, permitiendo que grandes volúmenes de gas alcancen la atmósfera de forma libre y exacerben de manera irreversible el cambio climático antropogénico (Ruppel & Kessler, 2017).
+**En segundo lugar, la inestabilidad del fondo marino.** Los hidratos pueden contribuir a dar resistencia a los sedimentos donde se encuentran. Al descomponerse, esa contribución mecánica disminuye y, junto con los cambios de presión y la generación de gas y fluidos, puede producirse deformación del terreno, compactación, subsidencia o inestabilidad de taludes. También pueden aparecer problemas de producción, como la entrada de arena en los pozos o la creación de nuevas vías de fuga. Estos procesos podrían comprometer las instalaciones y alterar el hábitat del fondo marino. No significa que cada extracción vaya a provocar un deslizamiento: el riesgo depende de la geología, la profundidad, las características del sedimento y el control del proceso (Geomechanical issues in the exploitation of natural gas hydrate, 2020; Yamamoto et al., 2022).
 
-#### 2. Inestabilidad del fondo marino
+**En tercer lugar, los efectos sobre los ecosistemas bentónicos.** La perforación, la deposición o resuspensión de sedimentos y los cambios en el flujo de metano pueden perturbar las comunidades que viven en el fondo marino. Esto es especialmente relevante en los llamados *cold seeps*, zonas donde los fluidos y gases ascienden de forma natural y mantienen comunidades microbianas y organismos adaptados a esas condiciones. Estas comunidades no son simplemente víctimas de la presencia de metano: también participan en su transformación y en el ciclo del carbono. Una perturbación intensa o prolongada podría modificar el equilibrio de estos hábitats y sus comunidades.
 
-El segundo riesgo es geológico. La extracción por despresurización modifica las condiciones del yacimiento y provoca la descomposición del hidrato, que contribuye a mantener la estructura de los sedimentos. Si el proceso reduce su resistencia mecánica, podría favorecer la deformación del fondo marino, la subsidencia o, en condiciones desfavorables, deslizamientos submarinos. Estos procesos podrían afectar a las instalaciones de extracción y a los hábitats cercanos. No obstante, la magnitud del riesgo depende de las características del sedimento y del método de producción, y debe evaluarse mediante estudios geomecánicos específicos (Tiong et al., 2025; Yamamoto et al., 2022).
+**En cuarto lugar, los cambios en la química del agua.** Cuando el metano se oxida, los microorganismos consumen oxígeno y producen carbono inorgánico disuelto, incluido CO₂. Si el proceso es suficientemente intenso y localmente concentrado, puede reducir el oxígeno disponible y modificar el equilibrio químico del agua, contribuyendo a la acidificación local. La importancia de este efecto dependerá del volumen de metano, de la circulación y renovación del agua y de la actividad microbiana; no debe suponerse que cualquier fuga provocará una acidificación generalizada del océano (Liu et al., 2019; Ruffine et al., 2023).
 
-#### 3. Alteración de los ecosistemas bentónicos
+**Por último, existe una dificultad transversal: la detección y el seguimiento de los impactos.** Una fuga puede ser intermitente, desplazarse por fracturas o producirse lejos del pozo. Por eso no basta con medir únicamente el gas extraído: es necesario vigilar también la columna de agua, la química de los sedimentos, la estabilidad del fondo marino y las comunidades biológicas. Los estudios de seguimiento antes, durante y después de las pruebas son fundamentales para diferenciar la variabilidad natural de los cambios asociados a la explotación (Liu et al., 2019).
 
-Por último, la extracción puede alterar los ecosistemas que viven en el fondo marino. La perforación, la movilización de sedimentos y los cambios en los flujos de metano pueden modificar las condiciones locales y afectar a comunidades microbianas y organismos bentónicos, especialmente en zonas donde estos microorganismos participan en el ciclo natural del metano. Además, si se produjera una liberación importante de metano, su oxidación microbiana podría consumir oxígeno del agua y modificar su química. La intensidad de estos efectos dependería de la duración y magnitud de la perturbación, por lo que son necesarios estudios de seguimiento antes, durante y después de la extracción (Ruppel & Kessler, 2017; *Environmental challenges related to methane hydrate decomposition*, 2023).
+En conclusión, la principal preocupación no es que estos impactos vayan a ocurrir necesariamente, sino que la extracción puede alterar simultáneamente el ciclo del metano, la estabilidad del sedimento y los ecosistemas del fondo marino. Como todavía no existe una explotación comercial marina a gran escala que permita evaluar todos estos efectos durante periodos prolongados, la monitorización y la evaluación ambiental son esenciales antes de ampliar esta actividad.
 
-
-
-
+![alt text](<imagenes-4-curso/captu-T3-oga.png>)
 
 
 
+![alt text](<imagenes-4-curso/captu-T4-oga.png>)
 
 
 
@@ -111,9 +110,13 @@ Por último, la extracción puede alterar los ecosistemas que viven en el fondo 
 
 Boswell, R., Hancock, S., Yamamoto, K., Collett, T. S., Pratap, M., & Lee, S.-R. (2020). Natural gas hydrates: Status of potential as an energy resource. En Future energy (3.ª ed., pp. 111–131). Elsevier. https://doi.org/10.1016/B978-0-08-102886-5.00006-2
 
+Collett, T. S. (2019). Gas hydrate production testing—Knowledge gained. Offshore Technology Conference. https://doi.org/10.4043/29516-MS
+
 Ruppel, C. D. (2018). Gas hydrate in nature (Fact Sheet 2017–3080). U.S. Geological Survey. https://doi.org/10.3133/fs20173080
 
 Ruppel, C. D., & Waite, W. F. (2020). Timescales and processes of methane hydrate formation and breakdown, with application to geologic systems. Journal of Geophysical Research: Solid Earth, 125(8), e2018JB016459. https://doi.org/10.1029/2018JB016459
+
+U.S. Geological Survey. (2024). Gas hydrate energy research—2024 update. https://www.usgs.gov/centers/central-energy-resources-science-center/science/gas-hydrate-energy-research-2024-update
 
 Waite, W. F., Ruppel, C. D., Boze, L.-G., Lorenson, T. D., Buczkowski, B. J., McMullen, K. Y., & Kvenvolden, K. A. (2020). Preliminary global database of known and inferred gas hydrate locations [Conjunto de datos]. U.S. Geological Survey data release. https://doi.org/10.5066/P9llFVJM
 
