@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../imagenes/logo_uca.png" width="180">
+<img src="../imagenes/logo-uca-2.png" width="180">
 
 # Posible Problemática Ambiental Ligada a la Explotación de Hidratos de Metano.
 
@@ -13,7 +13,7 @@
 
 #### Asignatura: Oceanografía Geológica Aplicada.
 
-**Profesor:** Nombre del profesor
+**Profesora:** Elizabeth Blázquez Gómez 
 
 <br>
 
@@ -51,6 +51,18 @@ Por ello, aunque representan un recurso energético con un potencial revoluciona
 ![alt text](<imagenes-4-curso/captu-T1-oga.png>)
 *Distribución mundial de hidratos de gas conocidos e inferidos. USGS (Waite et al., 2020) | sciencebase.gov*
 
+Hidratos Conocidos (Puntos Rojos / Known Hydrate): Representan los enclaves geográficos de máxima certidumbre. El símbolo denota sitios donde la existencia de hidratos ha sido ratificada mediante verificación física directa, ya sea por la recuperación mecánica de muestras sólidas en sondeos y testigos de perforación profunda, o por documentación videográfica in situ realizada por vehículos submarinos operados remotamente (ROV) en el fondo marino (Collett et al., 2019; Waite et al., 2020). Visualmente, estos puntos se concentran en provincias con alta intensidad de exploración geológica, como el Golfo de México, el margen de Japón (fosa de Nankai) y el norte de Alaska.
+
+Hidratos Inferidos por Otros Indicadores (Puntos Amarillos / Inferred Hydrate - indicators other than just bottom simulating reflections): Clasifica las regiones donde la presencia del compuesto se deduce mediante anomalías geológicas, térmicas o geoquímicas indirectas de los sedimentos. Dichas evidencias incluyen la detección de plumas de gas metano exhaladas desde el lecho oceánico, anomalías de enfriamiento en núcleos de sedimentos o variaciones anómalas (clorinidad decreciente o desalinización) en el agua intersticial recuperada durante expediciones oceanográficas (Ruppel y Kessler, 2017).
+
+Hidratos Inferidos por Reflectores Sísmicos (Asteriscos Azules / Inferred Hydrate - only bottom simulating reflections): Indica localizaciones identificadas exclusivamente mediante técnicas geofísicas de reflexión sísmica. El marcador señala la presencia inequívoca del BSR (Bottom Simulating Reflector), una traza o reflector acústico anómalo que corre paralelo a la topografía del fondo del mar y que subraya el límite basal de la zona de estabilidad térmica del hidrato, separando mecánicamente los sedimentos densos cementados por clatrato sólido de las capas inferiores saturadas de metano en fase gaseosa libre (Kvenvolden, 1993; Waite et al., 2020).
+
+La imagen ilustra que los hidratos no se sitúan en las extensas cuencas o llanuras abisales centrales del Océano Pacífico, Atlántico o Índico, sino que se concentran en las pendientes de los márgenes continentales (zona de talud y emersión continental).
+
+Se observa una densa franja continua de asteriscos azules e hidratos conocidos a lo largo de todo el margen occidental de América (desde Alaska hasta la Patagonia) y el margen oriental de Asia. Esta disposición coincide visualmente con las zonas de subducción y fallas activas del Cinturón de Fuego del Pacífico, donde el flujo de fluidos tectónicos canaliza la acumulación de metano (Waite et al., 2020).
+
+En el extremo septentrional de la imagen (márgenes del Océano Ártico, norte de Alaska, Canadá y Siberia), los puntos rojos y amarillos se adentran en zonas emergidas continentales. Gráficamente, esto delimita la distribución de los hidratos asociados a las gruesas capas del permafrost ártico circumpolar, el cual actúa como trampa geológica y térmica para la estabilización del gas a profundidades someras (Collett et al., 2019; Ruppel y Kessler, 2017).
+
 ---
 
 1. **Sólidos cristalinos:** material en el que sus átomos, iones o moléculas se ordenan de forma regular y periódica repitiéndose en las tres dimensiones del espacio, lo que da lugar a una estructura interna fija llamada red cristalina.
@@ -59,7 +71,7 @@ Por ello, aunque representan un recurso energético con un potencial revoluciona
 4. **Disociación térmica o descompresión:** Disociación = romper la estructura del clatrato. Se logra inyectándole calor (disociación térmica) o bajando la presión del pozo (descompresión) para que el hielo se vuelva inestable y libere el metano. La descompresión se logra bombeando hacia la superficie el agua y los fluidos acumulados dentro del pozo para reducir la presión hidrostática circundante, forzando el hielo a disociarse.
 5. **Permeabilidad de las matrices sedimentarias finas:** Los hidratos suelen estar mezclados con el barro y la arena del fondo del mar (la matriz sedimentaria). Si el sedimento es arcilloso o muy fino, tiene baja permeabilidad, lo que significa que el metano disociado no puede fluir hacia las tuberías de extracción porque los poros del suelo están bloqueados.
 
-<div style="page-break-after: always;"></div>
+---
 
 ### Principales Técnicas de Explotación
 
@@ -85,7 +97,7 @@ La recuperación de hidratos de gas introduce un peligro crítico de deflagraci�
 
 La extracción de hidratos de metano puede generar impactos ambientales porque requiere modificar las condiciones de presión y temperatura del yacimiento para liberar el gas. Los principales riesgos se relacionan con las emisiones de metano, la estabilidad del fondo marino y los cambios en los ecosistemas y la química del agua.
 
-**En primer lugar, las emisiones de metano y el cambio climático.** Durante la extracción, una parte del gas podría escapar a través del pozo, de fracturas o de vías de migración presentes en los sedimentos. El metano tiene un potencial de calentamiento superior al del CO₂ por unidad de masa, especialmente si se considera un horizonte temporal corto. Sin embargo, es importante distinguir entre liberar metano en el fondo marino y emitirlo a la atmósfera: una parte puede disolverse en el agua y ser oxidada por microorganismos antes de llegar a la superficie. Por tanto, el impacto climático dependerá de la cantidad de gas liberada, de la profundidad y de la eficiencia de los mecanismos naturales que lo retienen o transforman (Ruppel & Kessler, 2017).
+**En primer lugar, las emisiones de metano y el cambio climático.** Durante la extracción, una parte del gas podría escapar a través del pozo, de fracturas o de vías de migración presentes en los sedimentos. El metano tiene un potencial de calentamiento superior al del $CO_2$ por unidad de masa, especialmente si se considera un horizonte temporal corto. Sin embargo, es importante distinguir entre liberar metano en el fondo marino y emitirlo a la atmósfera: una parte puede disolverse en el agua y ser oxidada por microorganismos antes de llegar a la superficie. Por tanto, el impacto climático dependerá de la cantidad de gas liberada, de la profundidad y de la eficiencia de los mecanismos naturales que lo retienen o transforman (Ruppel & Kessler, 2017).
 
 **En segundo lugar, la inestabilidad del fondo marino.** Los hidratos pueden contribuir a dar resistencia a los sedimentos donde se encuentran. Al descomponerse, esa contribución mecánica disminuye y, junto con los cambios de presión y la generación de gas y fluidos, puede producirse deformación del terreno, compactación, subsidencia o inestabilidad de taludes. También pueden aparecer problemas de producción, como la entrada de arena en los pozos o la creación de nuevas vías de fuga. Estos procesos podrían comprometer las instalaciones y alterar el hábitat del fondo marino. No significa que cada extracción vaya a provocar un deslizamiento: el riesgo depende de la geología, la profundidad, las características del sedimento y el control del proceso (Geomechanical issues in the exploitation of natural gas hydrate, 2020; Yamamoto et al., 2022).
 
