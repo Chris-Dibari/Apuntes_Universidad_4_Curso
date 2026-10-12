@@ -29,6 +29,8 @@ Octubre 2026
 
 <div style="page-break-after: always;"></div>
 
+<div style="text-align: justify;">
+
 ### Índice de Contenidos
 
 1. Introducción: los hidratos de metano.
@@ -88,7 +90,7 @@ Debido a las limitaciones individuales de cada técnica, la tendencia científic
 En la actualidad, no existe una explotación comercial a gran escala o industrial de los hidratos de gas metano en ninguna región del mundo; la industria energética global se encuentra firmemente anclada en una fase de investigación avanzada y pruebas piloto de corta duración (Methane Hydrate Production Feasibility | Department of Energy).
 A pesar de que se han completado con éxito pruebas de producción controladas en el permafrost de Alaska y en el talud continental marino del Mar de China Meridional y la fosa de Nankai, estas operaciones se ven severamente limitadas a escalas de semanas o meses debido a que las tecnologías actuales son incapaces de mantener un flujo de gas económicamente rentable y constante en el tiempo (Collett, 2019; U.S. Geological Survey, 2024).
 
-<img src="imagenes-4-curso/captu-T2-oga.png" style="width: 40% !important; height: auto !important;">
+<img src="imagenes-4-curso/captu-T2-oga.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 50% !important; height: auto !important;">
 
 *Principales métodos de explotación y extracción de hidratos de gas. Fuente: Zhu et al. (2025) | preprints.org.*
 
