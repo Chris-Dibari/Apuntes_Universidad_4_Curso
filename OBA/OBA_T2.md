@@ -84,6 +84,4 @@ Es el mayor depredador de las chimeneas hidrotermales. Posee ojos muy reducidos 
 
 La hemoglobina tiene un peso molecular muy superior a las de los seres humanos, con 2 sitios de unión (uno específico para el sulfuro y el otro para el oxígeno). En las branquias recoge sulfuro y oxígeno y lo transporta juntos a las células.
 
-
-
 </div>
