@@ -29,6 +29,26 @@ p, li, div, h2, h3 {
 
 ##  Oceanografía Física Aplicada - TEMA 1. Visualización de datos oceanográficos y atmosféricos.
 
+**Large data sets, data formats and NetCDF.**
+Antigüedad -> grandes atlantes con información.
+Un mes de datos (con frecuencia de cada 6h -> mínima cantidad de valores a lo largo de día que me permite reconstruir el ciclo diurno - ciclo sinoptico). => equivaldría a 30GB. En 100 = 36TB -> una columna de DVD de 11m de alto.
+
+Utilizando dichos datos se pueden llevar a cabo distintos análisis -> visualización de fenómenos, series temporales, climatología...
+
+Los datos se organizan en matrices (arrays) -> Ej. 2D: columnas = longitudes y filas = latitudes.
+Representación en 3D -> la tercera dimensión puede ser profundidad en el océano, altura en la atmósfera o incluso el tiempo.
+Importancia de entender la estructura del conjunto de datos.
+
+Missing value -> valor anómalo (ej: $-9,999e^{-20}$). Valores que a la hora de graficar o realizar cálculos no se tendrá en cuenta por el sistema.
+
+**Principales formatos de datos:**
+
+- Datos ASCII (American standard code for information interchange) -> el procesador entiende un formato binario, dicho codigo le convierte el binario en valores. Es un esquema de codificación de caracteres basado en el alfabeto inglés. Representan el texto en computadora.
+- Datos binario -> en función de la longitud de la palabra que lea mi ordenador, se tienen limitaciones de precisión -> número de bytes. No es lo mismo leer un valor de 16 bits que con 8 bits. Se utiliza dado que son más comprimidos -> un fichero de datos binario ocupa aprox la mitad de un fichero de valores en texto.
+- Datos autodescrito NetCDF (network common data form) -> formato independiente de la arquitectura de la máquina que permite la creación, acceso e intercambio de datos científicos. Tiene un encabezado que permite conocer la descripción del conjunto de datos (dimensiones, autores, nombres variables...) esto permite no solo intercambiando información del fichero sino que también incluye una especie de guía de usuario. Importancia de dimensiones, atributos y variables del fichero.
+
+
+
 
 
 
