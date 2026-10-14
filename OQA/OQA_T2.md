@@ -89,8 +89,11 @@ Ríos y afloramientos son las principales entradas de los elementos.
 
 En la fórmula se sustituye P por los valores que contien, luego se divide en la suma de dos fracciones.
 
+**Balance en aguas superficiales:**
+
 ![alt text](<imagenes-4-curso/captu-2.4-oqa.png>)
 
+![alt text](<imagenes-4-curso/captu-2.5-oqa.png>)
 
 
 
@@ -99,6 +102,9 @@ En la fórmula se sustituye P por los valores que contien, luego se divide en la
 
 
 
+
+
+### 3. Tiempos de residencia.
 
 
 </div>
