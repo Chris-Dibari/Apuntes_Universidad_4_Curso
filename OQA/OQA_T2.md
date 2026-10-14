@@ -93,7 +93,18 @@ En la fórmula se sustituye P por los valores que contien, luego se divide en la
 
 ![alt text](<imagenes-4-curso/captu-2.4-oqa.png>)
 
+Importancia de la coherencia una vez obtenido un resultado, para el caso del P es coherente puesto que tiene caracter biolimitante en aguas superficiales. El 5% restante no se pierde sino que se queda en el compartimiento de las aguas superficialeas.
+
+Hemos relacionado aguas superficiales con aguas profundas, ahora veremos la relación entre aguas profundas y sedimentos. Relación de la P con lo que queda preservado.
+
 ![alt text](<imagenes-4-curso/captu-2.5-oqa.png>)
+
+Se despeja $f$ -> es igual a $(V_{río}*C_{río})/P$
+Se sustituye P y se saca factor común entre los numeradores y denominadores, quedando la fórmula de la imagen.
+
+![alt text](<imagenes-4-curso/captu-2.6-oqa.png>)
+
+
 
 
 
