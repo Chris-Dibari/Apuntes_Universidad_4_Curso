@@ -17,6 +17,50 @@ p, li, div, h2, h3 {
 
 ##  Oceanografía Química Aplicada - TEMA 2. Modelos biogeoquímicos básicos
 
+1. COMPARTIMENTOS AMBIENTALES Y MODELOS BIOGEOQUÍMICOS SIMPLES
+2. MODELOS DE UTILIZACIÓN BIOLÓGICA DE COMPUESTOS
+3. TIEMPOS DE RESIDENCIA
+
+### 1. Compartimientos ambientales y modelos biogeoquímicos simples.
+
+Biogeoquímica marina -> Ciencia interdisciplinar que utiliza la información oceanográfica disponible para modelar el comportamiento de los elementos en el océano. No solamente basta con tener información sobre la química por tanto. El objetivo final es establecer los ciclos biogeoquímicos. Se busca invididuar los compartimientos ambientales, establecer los flujos que ocurren en los mismos e identificar las principales interconversiones.
+
+La formulación es relativamente simple  y no se tienen en cuenta variaciones con la latitud. Debe ser cuanto más homogéneo posible, a pesar de que no cumplan perfectamente con la realidad (son aproximaciones).
+
+Dentro de los compartimientos ambientales independientes se tienen:
+- Continentes -> importancia de la biota como subcompartimiento; El continente en sí es un compartimiento relativamente inactivo, a diferencia de la biota, que es muy activo y en continuo cambio -> problema a la hora de plantear el modelo.
+- Océano -> en contacto con los sedimentos, que es otro compartimiento independiente. Muy amplio y necesidad de distinta información.
+- Sedimentos -> dificultad a la hora de establecer la composición puesto que se habla de testigos de sedimentos a miles de metros de profundidad. 
+- Atmósfera -> compartimiento más homogéneo de todos. Para algunos gases de tipo reactivo sí hay cambio con la latitud, pero en general posee coherencia en su interior.
+
+Se establecen flujos entre todos los compartimientos ambientales -> relaciones entre los compartimientos de intercambio.
+Intentar resolver si nos vale tratar al océano como compartimiento independiente, si es suficiente.
+
+Un elemento X tiene cierta concentración en cierto volumen de agua. La principal llegada de los elementos proviene de los ríos (el caudal). A partir de este primer esquemas se han propuesto distintos modelos:
+
+- Modelo acumulativo -> nos dice que lo que cambia de un elemento en el océano va a ser igual a la cantidad de dicho elemento que entra a partir del caudal del río. Un elemento que tiene mucha concentración en el río se acumula mayormente en el océano y tiene mayor tiempo de residencia. Dicho modelo funciona relativamente bien para los elementos que poseen perfil conservativo (mayoritarios).
+
+- Modelo reactivo -> tiene en cuenta la reactividad de ciertos elementos, Posee la misma basa (la vel de cambio del contenido de un elementos en el océano es igual a lo que entra de dicho elemento por el río), pero añade un termino negativo que es lo que sale del océano por la reactividad de los elementos. La reactividad constituye la desaparición de los elementos del océano. Se considera que la reactividad sigue cinética de 1º orden. En dicho caso, si se calculan los tiempor de residencia, sale que estos son inversamente proporcionales a la reactividad.
+
+- Modelo de control termodinámico -> utilizado mayormente por los geólogos. Se basa en un equilibrio entre fases. Importancia a la hora de combinarlo con otros modelos.
+
+![alt text](<imagenes-4-curso/captu-2.1-oqa.png>)
+
+Tericamente, cuando el sistema está en equilibrio la velocidad 
+
+
+
+
+En común: No permiten reproducir adecuadamente los tiempos de residencia calculados de forma experimental para elementos reactivos. 
+
+
+
+
+
+
+
+
+
 
 
 
