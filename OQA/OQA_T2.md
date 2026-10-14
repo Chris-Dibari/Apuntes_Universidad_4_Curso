@@ -84,6 +84,16 @@ Volumen de mezcla -> volumen que se comparte verticalmente en el océano entre s
 
 ![alt text](<imagenes-4-curso/captu-2.3-oqa.png>)
 
+La P es la cantidad de un elemento que se retira.
+Ríos y afloramientos son las principales entradas de los elementos.
+
+En la fórmula se sustituye P por los valores que contien, luego se divide en la suma de dos fracciones.
+
+![alt text](<imagenes-4-curso/captu-2.4-oqa.png>)
+
+
+
+
 
 
 
@@ -92,4 +102,3 @@ Volumen de mezcla -> volumen que se comparte verticalmente en el océano entre s
 
 
 </div>
-
