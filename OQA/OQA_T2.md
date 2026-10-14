@@ -110,6 +110,8 @@ Se sustituye P y se saca factor común entre los numeradores y denominadores, qu
 
 ![alt text](<imagenes-4-curso/captu-2.8-oqa.png>)
 
+f más grande nos indica que el aterial es más estable.
+
 En cada ciclo de mezcla, un constituyente pasa la mayor parte del tiempo en las aguas profundas frías. El tiempo que permanece en las aguas superficiales se puede estimar a partir de la diferencia de volúmenes y concentraciones en los 2 compartimientos.
 
 - Dividiendo en partes iguales la termoclina, el volumen de las aguas superficiales es 1/10 del volumen de las aguas profundas.
@@ -118,7 +120,7 @@ En cada ciclo de mezcla, un constituyente pasa la mayor parte del tiempo en las 
 
 ![alt text](<imagenes-4-curso/captu-2.9-oqa.png>)
 
-
+![alt text](<imagenes-4-curso/captu-2.10-oqa.png>)
 
 
 
