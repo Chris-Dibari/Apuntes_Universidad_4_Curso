@@ -29,7 +29,16 @@ La convergencia antártica es un frente en el que dicho oceano se encuentra con 
 
 
 
+**Gráfico: Esquema en sección y perspectiva de corrientes atárticas:**
+
+El agua tiene T de algo superior al 0ºC hasta -4ºC.
+Diferencia de T importante -> representa la termoclina permanente.
 
 
 
 
+
+
+
+
+</div>

@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 40% !important; /* Forzamos el tamaño con !important */
-    max-width:40% !important;
+    width: 70% !important; /* Forzamos el tamaño con !important */
+    max-width:70% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -21,13 +21,15 @@ p, li, div, h2, h3 {
 
 ![alt text](<imagenes-4-curso/captu-2.1-oba.png>)
 
-![alt text](<imagenes-4-curso/captu-2.2-oba.png>)
+<img src="imagenes-4-curso/captu-2.2-oba.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 40% !important; height: auto !important;">
 
 ![alt text](<imagenes-4-curso/captu-2.3-oba.png>)
 
 Tabla que compara propiedades del agua cerca de la chimenea y lejos de ella.
 
 ![alt text](<imagenes-4-curso/captu-2.4-oba.png>)
+
+<div style="page-break-after: always;"></div>
 
 **Chimeneas de humo negro y blanco:**
 
@@ -57,7 +59,7 @@ Tomando como ejemplo la primera de las comunidades descubiertas cerca de las Gal
 **Riftia pachyptila:**
 Es un vestimentífero, grupo cercano a los pogonóforos que no tiene boca y presenta un penacho branquial muy irrigado de color rojo. Se trata de gusanos tubicolas de hasta 2 m de alto y su alimentación se basa exclusivamente en la simbiosis con bacterias quimiolitótrofas.
 
-![alt text](<imagenes-4-curso/captu-2.8-oba.png>)
+<img src="imagenes-4-curso/captu-2.8-oba.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 30% !important; height: auto !important;">
 
 Un orgánulo ha intercambiado tanta información (DNA) que ya no puede vivir sin la célula, mientras que un endosimbionte ha intercambiado información pero puede seguir viviendo autonomaménte.
 
