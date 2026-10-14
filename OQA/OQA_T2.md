@@ -62,6 +62,27 @@ Se utiliza aprox el compartimiento 40ºN - 40ºS puesto que es la región en la 
 
 La termoclina hace que los procesos de mezcla vertical en el océano sean muy reducidos -> por lo tanto se considera como fase entre un compartimiento y el otro.
 
+**Aproximaciones:**
+
+Sólo se considera la entrada continental de componentes al océano:
+- Otras fuentes: intercambio con la atmósfera, deposición de polvo atmosférico, actividad hidrotermal, entrada de aguas subterráneas.
+
+“Los océanos adquieren su contenido total de compuestos a través de los ríos en periodos de tiempo comprendidos entre 104 y 106 años (tiempos de residencia típicos)”.
+
+Los componentes reactivos son retirados de aguas superficiales por la actividad biológica e incorporados nuevamente por afloramientos.
+- Mecanismo cíclico muy regular en una escala de tiempos de cientos de años.
+
+Se considera el sistema en estado estacionario (no cambia en el tiempo).
+- La concentración de un constituyente en un compartimento es constante
+- Las velocidades de entrada y salida deben ser iguales en cada compartimento.
+
+Al entrar agua en el río, para que el volumen de agua sea constante debe haber una salida (evaporación neta). PImportancia de los procesos de mezcla vertical.
+
+![alt text](<imagenes-4-curso/captu-2.2-oqa.png>)
+
+Volumen de mezcla -> volumen que se comparte verticalmente en el océano entre sus dos compartimientos. Para que dicho V sea cte el caudal de mezcla debe ser el mismo.
+
+![alt text](<imagenes-4-curso/captu-2.3-oqa.png>)
 
 
 
@@ -70,6 +91,5 @@ La termoclina hace que los procesos de mezcla vertical en el océano sean muy re
 
 
 
-
-
+</div>
 
