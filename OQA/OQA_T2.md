@@ -104,18 +104,16 @@ Se sustituye P y se saca factor común entre los numeradores y denominadores, qu
 
 ![alt text](<imagenes-4-curso/captu-2.6-oqa.png>)
 
-
-
-
-
-
-
-
-
-
-
-
 ### 3. Tiempos de residencia.
+
+![alt text](<imagenes-4-curso/captu-2.7-oqa.png>)
+
+![alt text](<imagenes-4-curso/captu-2.8-oqa.png>)
+
+
+
+
+
 
 
 </div>
