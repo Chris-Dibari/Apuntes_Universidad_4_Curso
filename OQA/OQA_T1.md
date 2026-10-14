@@ -329,6 +329,9 @@ La disminución del pH está asociado a los procesos de calcificación.
 
 No todo el carbonato cálcico se disuelve, hay parte que entra en el sedimento superficial.
 
+En un proceso de formación de carbonato, el eq se desplaza hacia la izquierda y aumenta el pH.
+A medida que va cayendo la MO -> mineralización -> disminución pH.
+
 **Gráfica:** no son perfiles verticales sino concentración en % que tienen los sedimentos superficiales. Analizamos la primera: a menores profundidades, la fase predominante en el sedimento es el carbonato cálcico, pero aumentando la profundidad se hace practicamente cero. Esto se debe a la posición de la lisoclina.
 
 ![alt text](<imagenes-4-curso/captu-43-oqa.png>)
@@ -353,8 +356,7 @@ La variación con la latitud es lo que se denomina segregación horizontal.
 
 Distribución de $SiO_2$, $Ba^{2+}$, $NO_3^-$ y $O_2$ en aguas profundas:
 
-- Orografía de los océanos a 4000 m de profundidad  Océanos divididos 
-en cuencas por las dorsales oceánicas
+- Orografía de los océanos a 4000 m de profundidad -> Océanos divididos en cuencas por las dorsales oceánicas
 - Continentes agrandados (incluyen zonas del océano con profundidades menores a 4000 m)
 - Sin corrección por cambio de longitud con la latitud (océanos polares agrandados respecto a los ecuatoriales)
 - La longitud reducida en un factor de 2 con respecto a la latitud
