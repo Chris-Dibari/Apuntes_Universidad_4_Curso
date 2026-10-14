@@ -46,12 +46,21 @@ Un elemento X tiene cierta concentración en cierto volumen de agua. La principa
 
 ![alt text](<imagenes-4-curso/captu-2.1-oqa.png>)
 
-Tericamente, cuando el sistema está en equilibrio la velocidad 
+En común: No permiten reproducir adecuadamente los tiempos de residencia calculados de forma experimental para elementos reactivos. Considerar el océano como único compartimiento ambiental, por lo tanto, parece no ser suficiente.
 
 
 
+### 2. Modelos de utilización biológica de compuestos.
 
-En común: No permiten reproducir adecuadamente los tiempos de residencia calculados de forma experimental para elementos reactivos. 
+Si un único compartimiento ambiental no funciona para el océano, habrá que considerar más. Se empieza con considerar el segundo caso más simple: dos compartimientos.
+
+- Aguas cálidas -> Lámina de agua superficial cálida de regiones subtropicales y ecuatoriales.
+- Aguas frías -> Zonas profundas del océano y aguas superficiales en regiones polares (sin PP).
+
+Tenemos separados los dos compartimientos mediante la termoclina principal (entre 70 y 2000m).
+Se utiliza aprox el compartimiento 40ºN - 40ºS puesto que es la región en la que la T es mayor que 10Cº.
+
+La termoclina hace que los procesos de mezcla vertical en el océano sean muy reducidos -> por lo tanto se considera como fase entre un compartimiento y el otro.
 
 
 
