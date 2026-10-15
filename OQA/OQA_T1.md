@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 45% !important; /* Forzamos el tamaño con !important */
-    max-width:45% !important;
+    width: 65% !important; /* Forzamos el tamaño con !important */
+    max-width:65% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -92,6 +92,8 @@ Primera diferencia en las aguas oceánicas en los perfiles de elementos regenera
 El silicato ($Si(OH)_4$) = $SiO_2$ -> Los procesos de disolución de la silice son más lentos que los de disolución de MOP, por tanto el máximo se encontrará más profundo comparado con los elementos asociados a la MOP.
 
 ![alt text](<imagenes-4-curso/captu-6-oqa.png>)
+
+<div style="page-break-after: always;"></div>
 
 **Cuestiones:**
 - La concentración en superficie es practicamente cero (condición para que el elemento sea biolimitante). A medida que aumenta la profundidad va aumentando la concentración. Cuando el organismo ha muerto, la MOP empieza a caer y se liberan los compuestos.
@@ -191,7 +193,9 @@ El niquel una vez que se libera participa en distintos procesos (asociación con
 
 - Se: perfil típico -> concentraciones bajas en superficie. Presenta dos especies diferentes con comportamientos distintos: el $Se{4+}$ -> tiene perfil similar al fosfato ($HPO_4^{2-}$) y se asocia a la MOP (regulación del estrés oxidativo). Tiene comportamiento de elemento biolimitante. Además se tiene el $Se^{6+}$ -> perfil similar al $SiO_2$ disuelto y se asocia a la sílice biogénica. Tiene comportamiento de elemento biointermedio.
 
-![alt text](<imagenes-4-curso/captu-28-oqa.png>)
+<img src="imagenes-4-curso/captu-28-oqa.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 45% !important; height: auto !important;">
+
+<div style="page-break-after: always;"></div>
 
 ### 4. Composición química del material detrítico:
 
@@ -232,6 +236,8 @@ Resultado gráfico:
 ![alt text](<imagenes-4-curso/captu-33-oqa.png>)
 
 A medida que aumenta la profundidad aumentan las partículas litogénicas (resultados en %, no aumentan en sí dichas partículas sino que van disminuyendo las demás componentes dado los procesos de disolución). Misma cuestión para el CaCO3 en el Pácifico (es la última componente que se disuelve, por tanto aumenta su porcentaje con la profundidad por desaparición de las demás componentes).
+
+<div style="page-break-after: always;"></div>
 
 **Exportación y disolución de ópalo:**
 
@@ -319,8 +325,7 @@ Hay dos procesos que están relacionados con bicarbonato: fotosíntesis (liberac
 ![alt text](<imagenes-4-curso/captu-42-oqa.png>)
 
 Los equilibrios son de tipo ácido-base.
-Si aumenta la concentración de carbonato (consume protones) y 
-por tanto la disolución tiende a aumentar el pH y viceversa.
+Si aumenta la concentración de carbonato (consume protones) y  por tanto la disolución tiende a aumentar el pH y viceversa.
 
 Hay que tener en cuenta también la MOP -> por cada 4 partícula de MOP hay 1 de carbonato (relación 4:1).
 
@@ -426,15 +431,19 @@ estructuras duras (SiO2 y Ba2+) que para los incluidos en la materia orgánica p
 - Disolución de estructuras duras es más lenta que la oxidación de materia orgánica particulada. En la termoclina hay un máximo de liberación de la MO (ver más).
 - Mayor enriquecimiento de compuestos que forman parte de estructuras duras en aguas profundas del Pacífico con respecto al Atlántico.
 
-![alt text](<imagenes-4-curso/captu-45-oqa.png>)
+<img src="imagenes-4-curso/captu-45-oqa.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 45% !important; height: auto !important;">
 
-Observar la variación en la grñafica. 
+<br>
 
-![alt text](<imagenes-4-curso/captu-46-oqa.png>)
+Observar la variación en la gráfica. 
 
-![alt text](<imagenes-4-curso/captu-47-oqa.png>)
+<img src="imagenes-4-curso/captu-46-oqa.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 45% !important; height: auto !important;">
 
-![alt text](<imagenes-4-curso/captu-48-oqa.png>)
+<br>
+
+<img src="imagenes-4-curso/captu-47-oqa.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 45% !important; height: auto !important;">
+
+<br><br>
 
 Va **disminuyendo**, no aumentando el $NO_3^-$.
 
