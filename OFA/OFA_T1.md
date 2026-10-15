@@ -47,6 +47,27 @@ Missing value -> valor anómalo (ej: $-9,999e^{-20}$). Valores que a la hora de 
 - Datos binario -> en función de la longitud de la palabra que lea mi ordenador, se tienen limitaciones de precisión -> número de bytes. No es lo mismo leer un valor de 16 bits que con 8 bits. Se utiliza dado que son más comprimidos -> un fichero de datos binario ocupa aprox la mitad de un fichero de valores en texto.
 - Datos autodescrito NetCDF (network common data form) -> formato independiente de la arquitectura de la máquina que permite la creación, acceso e intercambio de datos científicos. Tiene un encabezado que permite conocer la descripción del conjunto de datos (dimensiones, autores, nombres variables...) esto permite no solo intercambiando información del fichero sino que también incluye una especie de guía de usuario. Importancia de dimensiones, atributos y variables del fichero.
 
+### Conjunto de datos oceano-meteorológicos
+
+Actualmente hay un sistema de observación muy completo (in situ y remoto). Hacen falta registros largos y fiables para pronósticos, cambio climático...
+**Solución numérica:** Aproximación de la realidad y aplicación de retrosimulación (hindcasting), análisis presente (nowcasting) y futuro (pronóstico, forecasting). 
+Para ejecutar un modelo numerico y resolver las ecuaciones de NS necesito datos de entrada -> Ec. NS en derivadas parciales, necesidad de integrar. Necesidad de condiciones de contorno (condiciones iniciales). Una vez que parto de un estado conocido, conforme va pasando el tiempo el modelo incrementa su eficiencia. Se puede incorporar al modelo nueva información (nuevas informaciones) -> El modelo traslada la información a aquellas zonas en las que no se tiene información directa. Problema sobredefinido -> estoy entregando más información que la necesaria para que la solución se acerque a la realidad lo máximo posible.
+
+Análisis -> Pronostico para present o futuro inmediato en el cual el modelo incorpora observaciones para dar un resultado.
+Re-análisis -> serie temporal del pasado en el cual se incorporan toda la info de calidad existente.
+
+**Se distinguen 5 niveles de procesado de info oceano-meteorológicas:**
+
+- Nivel 0. Datos brutos sin procesado
+- Nivel 1. Datos procesados a las unidades de los sensores
+- Nivel 2. Variables geofísicas derivadas -> empiezo a tener T, S...
+- Nivel 3. Datos georreferenciados (mallados)
+- Nivel 4. Salida de modelo -> tienen en cuenta los maps without gaps.
+
+
+
+
+
 
 
 
