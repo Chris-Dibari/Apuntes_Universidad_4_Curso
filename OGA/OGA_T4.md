@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 35% !important; /* Forzamos el tamaño con !important */
-    max-width:35% !important;
+    width: 65% !important; /* Forzamos el tamaño con !important */
+    max-width:65% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
