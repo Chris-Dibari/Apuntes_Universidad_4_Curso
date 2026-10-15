@@ -48,6 +48,8 @@ p, li, div, h2, h3 {
 - Perfiles de alta penetración
 - Diagrafías en sondeos
 
+<div style="page-break-after: always;"></div>
+
 **Gravimetría:**
 
 Fuente gravimétrica -> debe estar justo en el centro de masa del barco, además debe tener un aislante para no sufrir oscilanciones de ningún tipo. La plataforma giroscópica amortigua las distintas posiciones del barco, limitando los errores. 
@@ -121,6 +123,8 @@ El airgun no tiene un dispositivo de control para mirar el reservorio de aire, p
 ![alt text](<imagenes-4-curso/captu-4.6-oga.png>)
 
 Dichas fuentes no se utilizan en aguas muy profundas.
+
+<div style="page-break-after: always;"></div>
 
 **Receptores sísmicos:**
 
