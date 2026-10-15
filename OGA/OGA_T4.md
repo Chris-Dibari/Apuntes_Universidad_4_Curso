@@ -27,7 +27,26 @@ p, li, div, h2, h3 {
 2. Sondeos Mecánicos
 • Extracción de la columna de rocas
 • Características de los materiales
-• Modelos litológicos y estructurales
+• Modelos litológicos y estructurales.
+
+**Técnicas indirectas:** *Basadas en el estudio de campos naturales*
+- Gravimetría
+- Magnetometría
+- Prospección geotérmica
+- Radiometría
+- Prospección eléctrica y electromagnética
+- Sismicidad natural
+- Teledetección
+
+*Basadas en el estudio de la variación de una propiedad física a partir de una fuente inducida*
+- Prospección eléctrica y electromagnética
+- Refracción sísmica
+- Reflexión sísmica
+- Técnicas superficiales: ecosondas y sonares
+- Técnicas de subsuelo
+- Perfiles de alta resolución
+- Perfiles de alta penetración
+- Diagrafías en sondeos
 
 **Gravimetría:**
 
@@ -77,33 +96,71 @@ Velocidades sísmicas para diversas litologías -> importancia de las ondas. Al 
 importancia del cable porque utiliza alta tensión (hay que aislar el barco y tener cuidado).
 Burbujas => se denomina plasma cuando el sparker colapsa haciendo que aumente la presión alrededor. Se utiliza a partir de 70m -> para limitar el ruido. Se piensa que no hay en la práctica un impacto tan negativo en los cetáceos. Mirar perfil sismico del sparker, representa un volcan de fango, los reflectores se pierden en dicha zona puesto que es el material ascendiendo.
 
-**Sistemas neumáticos:** Generan un tren de ondas esféricas como consecuencia de la repentina descarga de aire comprimido en agua generando de este modo un pulso sísmico corto y de alta energía. Air gun se puede utilizar a distintas profundidades (no tan profundas como el sparker, lo ideal es utilizarlo a profundidades de 70m), tiene muy buena resolución. Se libera una burbuja a 200 atm de presión -> impacto en la fauna cercana.
-**Sistemas de implosión:** 
+![alt text](<imagenes-4-curso/captu-4.3-oga.png>)
+
+![alt text](<imagenes-4-curso/captu-4.4-oga.png>)
+
+Su uso es común en las regiones de plataforma continental, donde la arena dura y los sedimentos semi-consolidados son comunes en el fondo.
+
+**Sistemas neumáticos:** 
+
+Generan un tren de ondas esféricas como consecuencia de la repentina descarga de aire comprimido en agua generando de este modo un pulso sísmico corto y de alta energía. Air gun se puede utilizar a distintas profundidades (no tan profundas como el sparker, lo ideal es utilizarlo a profundidades de 70m), tiene muy buena resolución. Se libera una burbuja a 200 atm de presión -> impacto en la fauna cercana.
+
+![alt text](<imagenes-4-curso/captu-4.5-oga.png>)
+
+La expansión de la burbuja genera una onda acústica que penetra en el subsuelo.
+
+**Sistemas de implosión:**
+
+Fuentes implosivas -> el pulso acústico se genera por el repentino colapso de un volumen de cavitación, es decir se produce un vacío que no puede ser mantenido constantemente y que se colapsará provocando el tren de ondas.
+
 Volumen de cavitación = formación de burbujas de gas/vapor en el seno de un fluido, causada por las variaciones de presión que experimenta. 
 En el momento en que el agua tiende a volverse a poner donde se ha formado el vacío en el instrumento se produce la señal acustica.
 El airgun no tiene un dispositivo de control para mirar el reservorio de aire, por tanto hay que llenar la capacidad completa.
 
-
+![alt text](<imagenes-4-curso/captu-4.6-oga.png>)
 
 Dichas fuentes no se utilizan en aguas muy profundas.
 
 **Receptores sísmicos:**
 
-- Hidrofonos -> funcionan como traductores, cogiendo la señal acustica y convirtiendola en señal electrica. No capta el sonido directamente sino la compresión que genera la onda cuando el sonido viaja por el fluido.
+![alt text](<imagenes-4-curso/captu-4.7-oga.png>)
+
+**Receptores libres:**
+- Sonoboyas
+- Hidrófonos suspendidos
+
+**Hidrófonos remolcados**
+- Hidrófono aislado
+- Sarta de hidrófonos (“Streamers”)
+
+**Receptores en el fondo del mar**
+- OBS (Ocean Bottom Seismograph)
+- OBH (Ocean Bottom Hydrophone)
+- OBC (Ocean Bottom Cable)
+
+- Hidrofonos -> funcionan como transuctores electromecánicos, cogiendo la señal acustica y convirtiendola en señal electrica. No capta el sonido directamente sino la compresión que genera la onda cuando el sonido viaja por el fluido. En el agua, el paso de una onda sísmica compresional está marcado por cambios de presión instantáneos y son recogidos por los Hidrófonos.
 - Sonoboyas -> se tira al mar y despliega un sistema de flotación y un hidrófono. Se utiliza sobre todo para análisis de oleaje (zonas sismicamente activas y que producían cambios en el oleaje).
 - OBC -> cables que se tiran al fondo del océano y posterior espera de la captación de señal (también se pueden remolcar a muy baja velocidad). Se suelen poner en zonas de minería submarina (para prevenir y controlar inestabilidades). Se utilizan para ver el contenido del yacimiento -> profundidades mayores de 3000m.
+Se pueden controlar variaciones en tiempo real de las estructuras que contienen yacimientos y cambios producidos por la extracción de los recursos.
 - OBS -> parecidas a las sonoboyas pero se anclan al fondo. Recoge vibraciones que tenga el terreno (in situ) y transferida al ordenador a tiempo real.
-- Streamer -> un cable muy largo (longitud depende del instrumento y análisis necesario). Tiene secciones de 50m aprox. Posee hidrofonos y recibe señales. Se utiliza mucho combinado con un sparker -> para ver los cambio que el sparker esta sometiendo a la columna de agua y para recibir los impulsos del mismo. Tiene un líquido que le deje flotar, flotación muy parecida a la del agua (neutra) -> el líquido le da impedancia -> resistencia (corriente electrica) mete en comunicación las secciones del instrumento. Utiliza un GPS.
+- Streamer -> un cable muy largo (longitud depende del instrumento y análisis necesario). Tiene secciones de 50m aprox. Posee hidrofonos y recibe señales. Se utiliza mucho combinado con un sparker -> para ver los cambio que el sparker esta sometiendo a la columna de agua y para recibir los impulsos del mismo. Tiene un líquido que le deje flotar, flotación muy parecida a la del agua (neutra) -> el líquido le da impedancia (aceite o queroseno) -> resistencia (corriente electrica) mete en comunicación las secciones del instrumento. Utiliza un GPS.
 
 **Folding:**
 
+La geometría de un sistema sísmico son todos aquellos parámetros de distancia que lo caracteriza: longitud del streamer, número de grupos de hidrófonos (canales), equidistancia entre canales, distancia entre la fuente y el inicio del streamer, distancia entre fuente y canales, distancia de disparo (secuencia de disparo), distancia desde la antena de navegación a la fuente (offset de navegación). La cobertura es el número de registros que se obtiene de un mismo punto, depende de la geometría del sistema sísmico. Se expresa en número de canales o en un tanto por ciento. A mayor cobertura mejor calidad de los datos.
+
 **Adquisición de datos sísmicos:**
 
-4D -> nos permite ver la capacidad de almacenamiento que tiene (volumen) mediante otros dispositivos, en 3D no podemos conocer este dato.
+El procedimiento habitual implica la conversión de los cambios de presión en el agua o de los movimientos del terreno en señales eléctricas, su amplificación, filtrado preliminar y registro.
 
+**Tendencias en prospección sísmica:**
 
+- Sistemas 3D -> Geomorfología sísmica.
+- Análisis de las amplitudes -> Estructura de fluidos.
+- Análisis 4D -> Evolución de un almacén. Nos permite ver la capacidad de almacenamiento que tiene (volumen) mediante otros dispositivos, en 3D no podemos conocer este dato.
+- Análisis de la lámina de agua -> oceanografía.
 
-
-
+![alt text](<imagenes-4-curso/captu-4.8-oga.png>)
 
 </div>
