@@ -142,6 +142,8 @@ Posibilidad de calcular tiempos de residencia a partir de velocidades de salida 
 
 Forma parte de la materia orgánica particulada, precipita como apatito en estuarios y se adsorbe de forma intensa sobre partículas minerales.
 
+![alt text](<imagenes-4-curso/captu-2.12-oqa.png>)
+
 
 
 
