@@ -160,9 +160,8 @@ Entrada desde los ríos y desde la atmósfera (lluvia/polvo y también por fijac
 
 ![alt text](<imagenes-4-curso/captu-2.16-oqa.png>)
 
+![alt text](<imagenes-4-curso/captu-2.17-oqa.png>)
 
-
-
-
+![alt text](<imagenes-4-curso/captu-2.18-oqa.png>)
 
 </div>
