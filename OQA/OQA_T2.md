@@ -124,6 +124,23 @@ En cada ciclo de mezcla, un constituyente pasa la mayor parte del tiempo en las 
 
 ![alt text](<imagenes-4-curso/captu-2.11-oqa.png>)
 
+Limitaciones del cálculo de la entradas a partir de las concentraciones medias en ríos:
+
+1. Fiabilidad de medidas analíticas de elementos traza
+2. Influencia de la actividad humana en la composición química de los ríos
+3. Utilización de concentraciones de especies disueltas (necesidad de incluir detritus orgánico, formas precipitadas en estuarios y adsorbidas a partículas)
+4. Diferencias de composición entre ríos, y dependencia con periodos de lluvia/sequía
+
+El grado de incertidumbre asociado a la estimación de las velocidades de entrada a partir de la composición media de los ríos es de un 20%.
+El cálculo de los tiempos de residencia basados en las velocidades de sedimentación son más precisos que los basados en la entrada a través de los ríos para los elementos afectados por la actividad antrópica.
+
+Posibilidad de calcular tiempos de residencia a partir de velocidades de salida -> Velocidades de acumulación en el sedimento:
+- P: Base de datos de concentraciones en ríos poco fiable
+- Enriquecimiento actual por actividades agrícolas y vertidos urbanos
+
+Forma parte de la materia orgánica particulada, precipita como apatito en estuarios y se adsorbe de forma intensa sobre partículas minerales.
+
+
 
 
 
