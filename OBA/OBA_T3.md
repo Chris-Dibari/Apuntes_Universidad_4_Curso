@@ -96,9 +96,22 @@ Punto y profundidad de compensación = se igualan P y R.
 La profundidad critica es la profundidad a la que se gastan los excedentes de la columna de agua (Ver OB).
 
 El primer diagrama es distancia y el segundo es el tiempo. 
-Isoluma = plano en el que coinciden todos los puntos con misma radiación (luz). Al haber hueco, la isoluma se hunde ya que pasa más luz. La tendencia general es ir profundizando conforme te vas alejando del continente. La isoluma NO marca la profundidad crítica (esta ultima tiene que ver con el balance entre P y R, la isoluma está relacionado pero no es lo mismo, a pesar de tener tendencias parecidas, puesto que la profundidad crítica también depende del suministro de luz).
+
+**Diagrama 1.** Isoluma = plano en el que coinciden todos los puntos con misma radiación (luz). Al haber hueco, la isoluma se hunde ya que pasa más luz. La tendencia general es ir profundizando conforme te vas alejando del continente. La isoluma NO marca la profundidad crítica (esta ultima tiene que ver con el balance entre P y R, la isoluma está relacionado pero no es lo mismo, a pesar de tener tendencias parecidas, puesto que la profundidad crítica también depende del suministro de luz).
 Cerca del hielo, la picnoclina será muy debil, ningun proceso de variación de densidad cerca de la superficie. En cuanto el hielo se empiece a fundir, se forma una haloclina (refreshing, aporte de agua dulce). Debido a esto, en el margen de los hielos aparece un bloom de fitoplancton (sitio muy favorable).
 
+**Diagrama 2.** 
+- Pre-bloom condition -> mucho hielo, no penetra la luz.
+- Bloom fito en el margen de los hielos.
+- Postbloom -> máximo profundo de clorofila.
+- Sedimentación de fitoplancton -> acoplación con el bentos.
+- Deficit de nutrientes en la superficie.
+- Migraciones hacia arriba del zooplancton.
+- Puesta del zooplancton.
+- Crecimiento del zooplancton
+- Alimentación y migración de otros peces y organismos (migraciones generalmente latitudinales, llegan a dichas zonas para alimentarse).
+
+Bajo el hielo se da una comunidad de algas pegadas a la parte inferior de los témpanos (“epóntica”) que consiste sobre todo en diatomeas pennadas, similares a las del bentos. En el AA se llega a concentraciones de hasta 600 µg Chl/L (Nitzschia, Fragilariopsis, Pleurosigma, Amphiprora…) y en el A hasta 120 µg Chl/L (Nitzschia, Navicula, Amphiprora…).
 
 
 
