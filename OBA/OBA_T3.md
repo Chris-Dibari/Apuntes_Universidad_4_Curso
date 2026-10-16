@@ -88,6 +88,19 @@ Esquema estacionalidad y ciclos de producción: En latitudes más templadas se v
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 13.02.52.png>)
 
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 13.05.12.png>)
+
+**Importante: Procesos de fusión de los hielos y producción**
+
+Punto y profundidad de compensación = se igualan P y R.
+La profundidad critica es la profundidad a la que se gastan los excedentes de la columna de agua (Ver OB).
+
+El primer diagrama es distancia y el segundo es el tiempo. 
+Isoluma = plano en el que coinciden todos los puntos con misma radiación (luz). Al haber hueco, la isoluma se hunde ya que pasa más luz. La tendencia general es ir profundizando conforme te vas alejando del continente. La isoluma NO marca la profundidad crítica (esta ultima tiene que ver con el balance entre P y R, la isoluma está relacionado pero no es lo mismo, a pesar de tener tendencias parecidas, puesto que la profundidad crítica también depende del suministro de luz).
+Cerca del hielo, la picnoclina será muy debil, ningun proceso de variación de densidad cerca de la superficie. En cuanto el hielo se empiece a fundir, se forma una haloclina (refreshing, aporte de agua dulce). Debido a esto, en el margen de los hielos aparece un bloom de fitoplancton (sitio muy favorable).
+
+
+
 
 
 
