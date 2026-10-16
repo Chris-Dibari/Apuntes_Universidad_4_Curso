@@ -122,6 +122,7 @@ En cada ciclo de mezcla, un constituyente pasa la mayor parte del tiempo en las 
 
 ![alt text](<imagenes-4-curso/captu-2.10-oqa.png>)
 
+![alt text](<imagenes-4-curso/captu-2.11-oqa.png>)
 
 
 
