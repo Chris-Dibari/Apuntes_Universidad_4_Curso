@@ -64,7 +64,21 @@ Diferencia de T importante -> representa la termoclina permanente.
 
 ---
 
+**La luz:**
 
+El circulo polar se econtraría por debajo de la curva de los 60º (66º 34’). En dicha zona hay un fotoperiodo muy reducido. 
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 12.44.28.png>)
+
+En el Ecuador, la linea del fotoperiodo sería recta (siempre habría 12 horas de luz).
+
+La nieve atenúa mucho la penetración de la luz. 10% de la I incidente en 1m, el 1% en la nieve.
+
+**Disponibilidad de nutrientes inorgánicos:**
+
+Zonas HNLC -> high nutrient but low chlorophyll areas. Hipótesis del hierro como factor limitante.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 12.57.33.png>)
 
 
 
