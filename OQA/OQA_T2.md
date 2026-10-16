@@ -44,6 +44,8 @@ Un elemento X tiene cierta concentración en cierto volumen de agua. La principa
 
 - Modelo de control termodinámico -> utilizado mayormente por los geólogos. Se basa en un equilibrio entre fases. Importancia a la hora de combinarlo con otros modelos.
 
+<div style="page-break-after: always;"></div>
+
 ![alt text](<imagenes-4-curso/captu-2.1-oqa.png>)
 
 En común: No permiten reproducir adecuadamente los tiempos de residencia calculados de forma experimental para elementos reactivos. Considerar el océano como único compartimiento ambiental, por lo tanto, parece no ser suficiente.
