@@ -19,7 +19,9 @@ p, li, div, h2, h3 {
 
 El medio físico: fotoperiodo limitado, condiciones críticas de las aguas y tener en cuenta la cubierta de hielo que produce la atenuación de la luz.
 
-**El Ártico:** Para su representación en cartografía se emplean proyecciones. La zona poco profunda del Ártico tiene elevadísima extensión. La profundidad media del sitio es de 1500m, siendo una media poco representativa puesto que hay mucha heterogeneidad en la profundidad.
+#### El Ártico:
+
+Para su representación en cartografía se emplean proyecciones. La zona poco profunda del Ártico tiene elevadísima extensión. La profundidad media del sitio es de 1500m, siendo una media poco representativa puesto que hay mucha heterogeneidad en la profundidad.
 Mediante el estrecho de Bering, las masas de agua tienen tendencia a entrar y formar un giro anticiclónico (giro de Beaufort).
 
 El océano Ártico se caracteriza por su elevada latitud, su configuración semicerrada, rodeada de continentes, y la presencia de una extensa plataforma continental, especialmente desarrollada en el margen siberiano. El importante aporte de agua dulce de los ríos reduce la salinidad superficial, que presenta valores aproximados de 28–33,5. Además, el hielo marino cubre tradicionalmente la región central durante todo el año, mientras que sus márgenes experimentan una marcada variación estacional, actualmente afectada por el cambio climático.
@@ -44,6 +46,25 @@ El carácter mediterráneo de los mares árticos se manifiesta claramente al exa
 
 ![alt text](<imagenes-4-curso/captu-3.3-oba.png>)
 
+![alt text](<imagenes-4-curso/captu-3.4-oba.png>)
+
+Una cosa que sí sabemos es que el océano transporta hacia los polos aproximadamente la misma cantidad de calor que la atmósfera; pero dado que sus escalas temporales son mucho mayores, el océano posee una gran capacidad para actuar como mecanismo de amortiguación frente a las fluctuaciones rápidas de nuestro clima. A la inversa, gran parte de la variabilidad climática a largo plazo puede estar relacionada con el océano, a medida que este libera lentamente el calor almacenado en cambios climáticos rápidos anteriores. Los detalles topográficos desempeñan un papel fundamental en la determinación de los patrones de transporte de calor oceánico. Este es el punto de interacción entre la oceanografía regional y la dinámica de fluidos geofísicos. Para los estudios teóricos resulta esencial saber hasta qué punto los rasgos oceánicos regionales deben formar parte del proceso de modelización.
+
+#### El Antártico:
+
+Para el que tenga interés en datos topográficos de la Antártida: bedmap.scar.org
+
+![alt text](<imagenes-4-curso/captu-3.5-oba.png>)
+
+La región del océano mundial que bordea la Antártida es única en muchos aspectos. En primer lugar, es la única región donde el flujo de agua puede continuar alrededor de todo el globo casi sin obstáculos y, por lo tanto, la circulación es la que más se acerca a la situación que se da en la atmósfera. En segundo lugar, la termoclina permanente llega a la superficie en la Convergencia Subtropical y no se extiende hacia las regiones polares; las diferencias de temperatura entre la superficie del mar y el fondo oceánico cerca del continente son inferiores a 1 °C y, por lo general, no superan los 5 °C, es decir, el 20 % de la diferencia encontrada en los trópicos.
+
+![alt text](<imagenes-4-curso/captu-3.6-oba.png>)
+
+Condiciones medias estacionales del hielo en la Antártida, basadas en datos de satélite de 1973-1976. (a) Finales del verano (febrero), (b) finales del invierno (octubre). Las áreas negras indican plataformas de hielo (regiones donde el hielo reposa sobre el lecho marino): las plataformas de hielo del mar de Weddell a 50° O, la plataforma de hielo de Ross en la línea de cambio de fecha, y la plataforma de hielo Amery a 70° E. Las líneas continuas, discontinuas y de puntos indican una cobertura de hielo del 15 %, del 50 % y del 85 %.
+
+Hay una tendencia preocupante a la pérdida de cubierta de hielo con el paso del tiempo, ligada a cambios globales, que es especialmente marcada en el Ártico, una de las zonas más sensibles del planeta en ese sentido. Las consecuencias de ésto son múltiples y difíciles de prever en su totalidad.
+
+![alt text](<imagenes-4-curso/captu-3.7-oba.png>)
 
 
 
