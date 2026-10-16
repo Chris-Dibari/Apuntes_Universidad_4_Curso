@@ -80,6 +80,15 @@ Zonas HNLC -> high nutrient but low chlorophyll areas. Hipótesis del hierro com
 
 ![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 12.57.33.png>)
 
+A pesar del descenso, siempre se mantiene una concentración suficiente de nitrato (no desaparece por completo en el Antártico, mientras que sí se agota en el Ártico).
+
+Esquema estacionalidad y ciclos de producción: En latitudes más templadas se ven los dos máximos (primavera y verano). Más arriba aparece la cubierta de hielo. En su extremo hay un bloom de fito (verde oscuro). En verde claro, las algas por debajo de la cubierta de hielo.
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 13.02.39.png>)
+
+![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 13.02.52.png>)
+
+
 
 
 
