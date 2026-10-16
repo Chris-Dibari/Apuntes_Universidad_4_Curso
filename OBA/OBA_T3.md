@@ -62,6 +62,8 @@ El agua tiene T de algo superior al 0ºC hasta -4ºC.
 Diferencia de T importante -> representa la termoclina permanente.
 
 
+---
+
 
 
 
