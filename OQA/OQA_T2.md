@@ -44,13 +44,9 @@ Un elemento X tiene cierta concentración en cierto volumen de agua. La principa
 
 - Modelo de control termodinámico -> utilizado mayormente por los geólogos. Se basa en un equilibrio entre fases. Importancia a la hora de combinarlo con otros modelos.
 
-<div style="page-break-after: always;"></div>
-
 ![alt text](<imagenes-4-curso/captu-2.1-oqa.png>)
 
 En común: No permiten reproducir adecuadamente los tiempos de residencia calculados de forma experimental para elementos reactivos. Considerar el océano como único compartimiento ambiental, por lo tanto, parece no ser suficiente.
-
-
 
 ### 2. Modelos de utilización biológica de compuestos.
 
@@ -143,6 +139,27 @@ Posibilidad de calcular tiempos de residencia a partir de velocidades de salida 
 Forma parte de la materia orgánica particulada, precipita como apatito en estuarios y se adsorbe de forma intensa sobre partículas minerales.
 
 ![alt text](<imagenes-4-curso/captu-2.12-oqa.png>)
+
+**Ciclo del fosforo:**
+
+![alt text](<imagenes-4-curso/captu-2.13-oqa.png>)
+
+![alt text](<imagenes-4-curso/captu-2.14-oqa.png>)
+
+Schematic view of the Si cycle in the modern world ocean (input, output, and biological Si fluxes), and possible balance (total Si inputs=total Si outputs=15.6 Tmol Si yr−1) in reasonable agreement with the individual range of each flux (F); see Tables 1 and 2. The white arrows represent fluxes of net sources of silicic acid (dSi) and/or of dissolvable amorphous silica (aSi) and of dSi recycled fluxes. Orange arrows correspond to sink fluxes of Si (either as biogenic silica or as authigenic silica). Green arrows correspond to biological (pelagic) fluxes. All fluxes are in teramoles of silicon per year (Tmol Si yr−1) (Tréguer et al., 2021)
+
+**Ejemplos ciclo del N:**
+
+Entrada desde los ríos y desde la atmósfera (lluvia/polvo y también por fijación). 
+
+![alt text](<imagenes-4-curso/captu-2.15-oqa.png>)
+
+**Ciclo del C:**
+
+- Ciclo natural e inducido por actividad antopogénica (separación entre estos dos ciclos)
+
+![alt text](<imagenes-4-curso/captu-2.16-oqa.png>)
+
 
 
 
