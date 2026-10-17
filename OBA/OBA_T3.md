@@ -175,8 +175,18 @@ Cerca del hielo, la picnoclina será muy debil, ningun proceso de variación de 
 - Crecimiento del zooplancton
 - Alimentación y migración de otros peces y organismos (migraciones generalmente latitudinales, llegan a dichas zonas para alimentarse).
 
+El modelo conceptual presentado en la Fig. 9.8 sugiere que una floración en el borde del hielo debería producirse antes en los bordes de hielo situados a menores latitudes, lo cual se observa de hecho. En la extensión máxima (y más meridional) del hielo en el mar de Barents, la floración se inicia en abril, bastante antes que en el mar de Noruega —libre de hielo pero turbulento— más al sur (Rey et al., 1987). Las concentraciones aumentadas de fitoplancton no se producen hasta agosto frente a la isla Ellesmere (82° N; Apollonio, 1980). En la Antártida, las floraciones comienzan al menos en noviembre en el límite norte del hielo (aprox. 60° S; Hart, 1934; Nelson et al., 1987) y continúan hasta marzo más al sur, en la plataforma de hielo Filchner (El-Sayed y Taguchi, 1981). Sin embargo, estas tendencias pueden verse muy modificadas por otros procesos: la historia de la masa de agua, las variaciones geográficas en la aportación de agua de deshielo y los efectos advectivos
+
 Bajo el hielo se da una comunidad de algas pegadas a la parte inferior de los témpanos (“epóntica”) que consiste sobre todo en diatomeas pennadas, similares a las del bentos. En el AA se llega a concentraciones de hasta 600 µg Chl/L (Nitzschia, Fragilariopsis, Pleurosigma, Amphiprora…) y en el A hasta 120 µg Chl/L (Nitzschia, Navicula, Amphiprora…).
 
+“Strand community” -> Ej: Algunas diatomeas (Melosiraarcticao Berkeleyaantarctica) que viven encapsuladas en tubos mucilaginosos adheridos al fondo del hielo y tienen más contacto con la columna de agua.
+
+#### Comunidad del hielo: acoplamiento con migraciones de zooplancton
+
+Especies como el Krill aprovechan la producción de las algas del hielo y la existencia de esa comunidad en huecos del hielo laxo donde los organismos nadan libremente en un medio de menor turbulencia y con un microambiente propio.
+El Krill, por ejemplo, sostiene migraciones estacionales pasando el invierno austral en aguas profundas y ascendiendo al margen de los hielos en la estación productiva.
+
+**Migraciones estacionales:**
 
 
 
