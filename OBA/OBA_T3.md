@@ -66,30 +66,49 @@ Hay una tendencia preocupante a la pérdida de cubierta de hielo con el paso del
 
 ![alt text](<imagenes-4-curso/captu-3.7-oba.png>)
 
-
-
-
-
-Diferencia con el Antártico -> este último, a diferencia del primero, no está rodeado por países.
-
-Sistema de corrientes -> la externa y en sentido antihorario es la circulación circumpolar, mientras que la interior y en sentido horario es la polar.
-La convergencia antártica es un frente en el que dicho oceano se encuentra con masas de aguas de otros oceanos -> subducción.
-
-
-
-**Gráfico: Esquema en sección y perspectiva de corrientes atárticas:**
+![alt text](<imagenes-4-curso/captu-3.8-oba.png>)
 
 El agua tiene T de algo superior al 0ºC hasta -4ºC.
 Diferencia de T importante -> representa la termoclina permanente.
 
+Diferencia del Ártico con el Antártico -> este último, a diferencia del primero, no está rodeado por países.
 
----
+Sistema de corrientes -> la externa y en sentido antihorario es la circulación circumpolar, mientras que la interior y en sentido horario es la polar. La convergencia antártica es un frente en el que dicho oceano se encuentra con masas de aguas de otros oceanos -> subducción.
+
+
+
+**Diferentes formaciones de hielo:**
+- Icebergs -> Montañas de hielo (orígen alemán eisberg), cuyo origen es continental: agua dulce que se desprende o fluye desde los glaciares. Pueden ser muy altos y a veces con un tamaño descomunal.
+- Banco o cubierta de hielo (Pack Ice) -> Su origen es la congelación del agua de mar. Es hielo bajo y plano.
+
+#### Características del medio físico
+
+**La temperatura:**
+
+Temperaturas muy bajas -> -1.9 a 4-6 ºC, pero bastante estable en el agua. Problema especialmente cuando el agua está a temperatura por debajo del punto de congelación del agua en los tejidos.
+
+AFECTA a tasas de procesos biológicos, pero…
+- $Q_10$ de la respiración oscila de 2.3 a 12
+- $Q_10$ de la fotosíntesis oscila de 1.4 a 2.2
+
+¿Qué consecuencias tiene esto sobre la Producción Neta?
+
+**La salinidad:**
+
+En el Ártico hay una desviación hacia salinidades más bajas que en el océano debido a los aportes de ríos.
+
+- Salinidad tipica del Ártico oscilaría entre 28 y 33.5
+- El Antártico en cambio tiene una salinidad mucho más constante que oscila alrededor de 34.6-34.7
+- La salinidad del HIELO RECIENTE es mucho más baja (5-10) y la del viejo aun más. RELACIÓN SALINIDAD - Temperatura del punto de congelación.
+- En el agua marina, el punto de congelación no se alcanza a 0 ºC, sino algo por debajo ≈ -1.8 ºC
+
+![alt text](<imagenes-4-curso/captu-3.9-oba.png>)
 
 **La luz:**
 
 El circulo polar se econtraría por debajo de la curva de los 60º (66º 34’). En dicha zona hay un fotoperiodo muy reducido. 
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 12.44.28.png>)
+![alt text](<imagenes-4-curso/captu-3.10-oba.png>)
 
 En el Ecuador, la linea del fotoperiodo sería recta (siempre habría 12 horas de luz).
 
@@ -99,29 +118,53 @@ La nieve atenúa mucho la penetración de la luz. 10% de la I incidente en 1m, e
 
 Zonas HNLC -> high nutrient but low chlorophyll areas. Hipótesis del hierro como factor limitante.
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 12.57.33.png>)
+![alt text](<imagenes-4-curso/captu-3.11-oba.png>)
+
+Fuerte estacionalidad y existencia de periodo productivo y no-productivo.
+
+Etapas:
+- En un mismo punto del mar se pasaría de un momento con gruesa y extensa cubierta de hielo a otro con poco hielo.
+- Hay una etapa en la que comienzan a medrar las algas del hielo, y otro posterior de aparición de la floración o bloom en el agua de algas planctónicas.
 
 A pesar del descenso, siempre se mantiene una concentración suficiente de nitrato (no desaparece por completo en el Antártico, mientras que sí se agota en el Ártico).
 
 Esquema estacionalidad y ciclos de producción: En latitudes más templadas se ven los dos máximos (primavera y verano). Más arriba aparece la cubierta de hielo. En su extremo hay un bloom de fito (verde oscuro). En verde claro, las algas por debajo de la cubierta de hielo.
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 13.02.39.png>)
+![alt text](<imagenes-4-curso/captu-3.12-oba.png>)
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 13.02.52.png>)
+![alt text](<imagenes-4-curso/captu-3.13-oba.png>)
 
-![alt text](<imagenes-4-curso/Captura de pantalla 2026-10-16 a las 13.05.12.png>)
+![alt text](<imagenes-4-curso/captu-3.14-oba.png>)
 
 **Importante: Procesos de fusión de los hielos y producción**
 
 Punto y profundidad de compensación = se igualan P y R.
 La profundidad critica es la profundidad a la que se gastan los excedentes de la columna de agua (Ver OB).
 
+- Acoplamiento Hidrodinámica-procesos biológicos -> Caso similar a efecto Gran-Sverdrup general ya estudiado, pero propiciado por la Fusión del hielo.
+- Producción Alta si hacemos media en verano, pero similar a otros puntos (20-100 g C /m2 año) si se hace promedio anual.
+
+El ámbito pelágico de las regiones polares se caracteriza generalmente por un único pulso de producción «nueva» o floración (bloom). Las condiciones ambientales anteriores a la floración incluyen una mezcla vertical profunda, concentraciones máximas de nutrientes, baja irradiancia incidente y bajos niveles de biomasa fitoplanctónica. Cuando el régimen lumínico se vuelve adecuado (debido a un aumento de la insolación y/o de la estratificación vertical), se produce una producción neta y la biomasa fitoplanctónica aumenta.
+
+La duración de la floración en las regiones polares parece estar controlada por los niveles de nutrientes o por la disponibilidad de luz. Por ejemplo, en el mar de Barents y en la bahía de Baffin se suele formar una picnoclina marcada en los 25 m superiores cerca del borde del hielo, y los nutrientes pueden agotarse dentro de esta región estratificada en dos semanas (Rey y Long, 1985). En la Antártida, la estratificación es menos pronunciada y los nutrientes rara vez se agotan; el crecimiento del fitoplancton se produce durante un periodo de tiempo más prolongado y, al parecer, está limitado por los efectos de la luz. Las concentraciones máximas de clorofila durante una floración oscilan entre 10 y 15 µg/L en el mar de Barents (Rey y Loeng, 1985) y más de 40 µg/L en el mar de Bering (Iverson et al., 1979). Se han observado concentraciones de clorofila superiores a 30 µg/L en el borde del hielo del mar de Weddell (W. O. Smith y Nelson, 1986), pero por lo general las biomasas máximas (standing stocks) son de 10 µg/L o menos (El-Sayed, 1984). Se ha registrado una observación puntual de un nivel de clorofila de 180 µg/L en la superficie (El-Sayed, 1971), pero sin duda representa una acumulación debida a la concentración en el hielo frazil (por ejemplo, Garrison et al., 1983). Los niveles de clorofila posteriores a la floración tanto en el Ártico como en la Antártida son inferiores a 1,0 µg/L, y no es infrecuente encontrar valores inferiores a 0,1 µg/L en ambas regiones.
+
+Las regiones de los océanos polares cubiertas de hielo estacionalmente presentan siempre una zona bien definida donde el océano abierto transiciona hacia el hielo, conocida como la zona marginal de hielo. Estas áreas se conocen desde hace años como lugares de intensa actividad biológica en todos los niveles tróficos. Desde hace tiempo se ha sugerido que el aumento de la productividad en el borde del hielo se debe a una mayor estratificación provocada por el deshielo y numerosos estudios han demostrado la presencia de elevadas biomasas fitoplanctónicas en las inmediaciones del borde del hielo. Investigaciones más detalladas sobre la dinámica temporal y espacial de estos fenómenos han llevado a reconocer que las floraciones en la zona marginal de hielo constituyen un rasgo cuantitativamente significativo tanto en el Ártico como en la Antártida.
+
+Cuando el hielo se derrite, las aguas ricas en nutrientes quedan expuestas a altos niveles de luz, y una fuerte estratificación vertical proporciona las condiciones óptimas para el crecimiento del fitoplancton (Fig. 9.8). A medida que el hielo marino a la deriva (pack ice) retrocede, la floración se inicia cerca del borde del hielo y se disipa a cierta distancia (debido a efectos de luz o nutrientes), de modo que la floración parece ir a la zaga del borde de hielo en retroceso. La extensión espacial (en dirección normal al borde del hielo) depende de la dinámica física de cada borde de hielo, la cual varía considerablemente. Por ejemplo, la floración fitoplanctónica en el mar de Bering se extiende unos 50 km, al igual que las del mar de Barents y el estrecho de Fram, mientras que las de los mares de Ross y Weddell se extienden unos 250 km desde el borde del hielo.
+
+![alt text](<imagenes-4-curso/captu-3.16-oba.png>)
+
 El primer diagrama es distancia y el segundo es el tiempo. 
 
-**Diagrama 1.** Isoluma = plano en el que coinciden todos los puntos con misma radiación (luz). Al haber hueco, la isoluma se hunde ya que pasa más luz. La tendencia general es ir profundizando conforme te vas alejando del continente. La isoluma NO marca la profundidad crítica (esta ultima tiene que ver con el balance entre P y R, la isoluma está relacionado pero no es lo mismo, a pesar de tener tendencias parecidas, puesto que la profundidad crítica también depende del suministro de luz).
+**Diagrama 1.** 
+
+Isoluma = plano en el que coinciden todos los puntos con misma radiación (luz). Al haber hueco, la isoluma se hunde ya que pasa más luz. La tendencia general es ir profundizando conforme te vas alejando del continente. La isoluma NO marca la profundidad crítica (esta ultima tiene que ver con el balance entre P y R, la isoluma está relacionado pero no es lo mismo, a pesar de tener tendencias parecidas, puesto que la profundidad crítica también depende del suministro de luz).
 Cerca del hielo, la picnoclina será muy debil, ningun proceso de variación de densidad cerca de la superficie. En cuanto el hielo se empiece a fundir, se forma una haloclina (refreshing, aporte de agua dulce). Debido a esto, en el margen de los hielos aparece un bloom de fitoplancton (sitio muy favorable).
 
-**Diagrama 2.** 
+![alt text](<imagenes-4-curso/captu-3.15-oba.png>)
+
+**Diagrama 2.**
+
 - Pre-bloom condition -> mucho hielo, no penetra la luz.
 - Bloom fito en el margen de los hielos.
 - Postbloom -> máximo profundo de clorofila.
