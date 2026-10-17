@@ -17,9 +17,10 @@ p, li, div, h2, h3 {
 
 ##  Pesquerías. TEMA 7. Selectividad de los artes de pesca.
 
-![alt text](<imagenes-4-curso/captu-7.1-pesc.png>)
+<img src="imagenes-4-curso/captu-7.1-pesc.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 40% !important; height: auto !important;">
 
-![alt text](<imagenes-4-curso/captu-7.2-pesc.png>)
+<img src="imagenes-4-curso/captu-7.2-pesc.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 40% !important; height: auto !important;">
+
 
 **Lagler, 1968** -> La selectividad de tamaños de una red puede ser definida como la curva determinada por la proporción de cada clase de tamaño que es capturada y retenida sobre el total de la población por una unidad de esfuerzo.
 
