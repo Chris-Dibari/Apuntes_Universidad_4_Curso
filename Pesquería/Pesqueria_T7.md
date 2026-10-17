@@ -81,4 +81,33 @@ Si la curva e¡me sale desplazada hacia la derecha -> estoy capturando ejemplare
 4. DISTANCIA ENTRE BRAZOLADAS
 5. TIPO DE CEBO UTILIZADO.
 
+La eficacia del anzuelo hacia tallas más grandes suele aumentar a medida que el anzuelo es de mayor tamaño, aunque el rango de tamaños capturados es similar.
+
+Desde un punto de vista morfométrico (forma pez), un pez debe ser capaz de engullir el anzuelo. Algunos estudios han relacionado el ancho de la boca con el tamaño del anzuelo.
+Si el tamaño del anzuelo es el único factor que determina la selectividad, la curva de selección debe tomar alguna forma sigmoidea
+
+- $S_{ij}$ es la selectividad para el anzuelo i y la clase de talla j,
+- $b_i$ parámetro que determina la pendiente de la curva de selectividad para el anzuelo i,
+- $l_j$ es la clase de talla j
+- $L50_i$ es la talla con selectividad relativa 0,5 para el anzuelo i en este modelo.
+
+La relación entre el tamaño del pez y el del anzuelo limita la captura de ejemplares pequeños. Si los peces grandes muestran menor interés por un cebo pequeño, la selectividad puede disminuir de nuevo. La curva puede tener forma de campana y ser asimétrica. Su forma debe contrastarse con los datos.
+
+![alt text](<imagenes-4-curso/captu-7.11-pesc.png>)
+
+- La importancia de la preferencia de tamaño de la presa puede ser diferente según la especie.
+- Si la selectividad aumenta y se estabiliza con la talla, puede ajustarse una curva sigmoidea. Puede ser de poca importancia para los depredadores voraces capaces de engullir una presa hasta un 30% de su propia longitud (curva sigmoidea).
+- Pero puede ser crucial para los pequeños depredadores, puede ajustarse una curva en campana (curva normal). El modelo se elige según los datos.
+
+1. Se toman los datos empíricos según el diseño más adecuado.
+2. Se ordenan los datos: TABLAS DE DISTRIBUCIÓN DE FRECUENCIAS DE TAMAÑO.
+3. Se ajustan los datos a la curva de selectividad más adecuada mediante procesos informáticos complejos, normalmente sistemas de varias ecuaciones y múltiple variable.
+4. Se calculan los parámetros del modelo.
+5. Se calcula la selectividad para cada talla aplicando el modelo elegido
+6. Se representa el modelo
+7. Se interpretan los resultados
+8. SE PROPONE UNA ESTRATEGIA DE PESCA.
+
+![alt text](<imagenes-4-curso/captu-7.12-pesc.png>)
+
 </div>
