@@ -52,6 +52,23 @@ Hay que tener en cuenta toda la información disponible para plantear el estudio
 $A^- + H^+ -> HA$ con una cte de disociación aparente que modula el equilibrio. En todas las reacciones del medio marino, puesto que son prevalentemente ácido-base, participan los H^+. Importancia del pH como parámetro oceanográfico.
 El pH ya no se usa como trazador puesto que está afectado por la T.
 
+<div style="page-break-after: always;"></div>
+
 ![alt text](<imagenes-4-curso/captu-3.2-oqa.png>)
+
+Se presentan bajo condiciones específicas las principales especies proteolíticas (especies cargadas con un protón, H). Para tener la K es suficiente con $10^{pK}$.
+Arriba se tienen las especies principales del sw. El ácido sulfurico tiene importancia en condiciones anóxicas (sedimentos, ciertas zonas costeras, mar Negro...), puesto que la mayoría de las sw se encuentran en condiciones óxicas.
+
+Los protones forman relaciones estables con los compuestos en el medio marino.
+
+Resumen: para establecer un ciclo biogeoquímico se parte de un sistema en equilibrio, estudiando las reacciones por separado de forma termodinámica, necesitandose toda la imformación disponible. Importancia del pH como parámetro.
+
+### 2. Escalas de pH y connstantes de disociación
+
+
+
+
+
+
 
 
