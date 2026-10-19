@@ -101,6 +101,28 @@ El océano abierto no es homogéneo ni está dominado de forma universal por pis
 
 ![alt text](<imagenes-4-curso/captu-10.4-pesc.png>)
 
+La disminución de grandes predadores, conduce a un aumento de las especies de forraje, que se traduce en una disminución del zooplancton, por ende al reducirse la presión, el fitoplancton llega a ser más abundante.
+
+**Control botton-up:** la disminución de la abundancia del fitoplancton conduce a una disminución de la abundancia de los depredadores; (el factor de control es una línea continua y las respuestas son líneas discontinuas).
+
+**Control Wasp-Waist (cintura de avispa):**
+
+La disminución de la abundancia de las especies presa conduce a una disminución de la abundancia de los depredadores y del fitoplancton;(el factor de control es una línea continua y las respuestas son líneas discontinuas). La disminución ocurre en especies intermedias en la cadena trófica.
+
+**El nivel trófico (NT):** Posición que ocupa un organismo dentro de la red trófica.
+
+Así, por ejemplo, un boquerón cuya alimentación consiste en:
+- un 50% (0,5)de fitoplancton (NT = 1);
+- un 50% (0,5)de zooplancton herbívoro (NT = 2) tendrá un valor de NT = 2,5
+según la fórmula NT = 1 + el valor medio de los componentes de su alimentación. NT = 1 + (0,5*1 + 0,5*2) = 2,5
+
+Cuanto mayor sea el nivel trófico de la presa, mayor será la posición que ocupe el depredador en la escala.
+
+¿Cuál es el problema? Al aumentar el volumen de capturas de peces con un nivel trófico más bajo, las especies de los niveles superiores se quedan sin el alimento necesario para su reproducción y el mantenimiento de sus poblaciones. Debido a la falta de conocimientos sobre las relaciones tróficas entre las distintas especies, existe la preocupación de que las dimensiones que está alcanzando la pesca mundial puedan alterar gravemente el equilibrio ecológico de los mares, logrado a lo largo de millones de años de evolución, y que la tendencia a pescar cada vez más especies situadas en los niveles bajos de la red trófica sea un indicio del posible colapso de otros caladeros en el futuro.
+
+![alt text](<imagenes-4-curso/captu-10.5-pesc.png>)
+
+
 
 
 
