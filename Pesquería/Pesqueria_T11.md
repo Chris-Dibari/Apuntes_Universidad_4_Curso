@@ -138,4 +138,17 @@ q CAPTURABILIDAD: Coeficiente de proporcionalidad. Expresa cuánto contribuye ca
 
 ![alt text](<imagenes-4-curso/captu-11.5-pesc.png>)
 
+Cuando una población es sometida a pesca, ésta tiene efecto sobre todos los otros factores (compensación densodependiente):
+• Aumenta el reclutamiento
+• Aumenta la tasa de crecimiento
+• Se reduce la mortalidad natural (menos ejemplares de mayor edad)
+
+- En poblaciones no explotadas, se establece una situación de equilibrio en la cual ENTRADAS = SALIDAS. La población crece hasta “ocupar todo el espacio disponible”. 
+- La pesca crea "espacio" para una mayor cantidad de nuevos reclutas.
+- La pesca extrae los peces grandes de crecimiento lento que son reemplazados por peces pequeños de crecimiento rápido, disminuye además la competencia (activa capacidad de crecimiento).
+- La pesca remueve peces antes que estos puedan morir de viejos o por otras causas naturales.
+
+La pesca tiene un efecto estimulante sobre la producción de peces, siempre y cuando se le dé al stock suficiente tiempo para ajustarse a la nueva situación y en tanto, que la presión de pesca no llegue a ser demasiado intensa La "sobrepesca“ afecta las entradas:
+- primero el crecimiento individual de los peces y (sobrepesca de crecimiento).
+- cuando llega a ser muy severa, también al reclutamiento (porque disminuye el stock reproductivo) – (sobrepesca reclutamiento)
 
