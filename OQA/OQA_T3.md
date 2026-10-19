@@ -80,5 +80,5 @@ Tenemos 4 escalas de pH y cada una posee su propia nomenclatura, porque cada una
 - Concentración libre del ion hidrógeno (mol/kg-agua).
 - SWS (mol/kg-SW).
 
-
+Tradicionalmente, el pH se midió con electrodos de referecia. Consiste en una celda galvanica que mide el *potencial de la muestra*. Para pasar de potencial a pH se utiliza la ecuación de Nernst.
 
