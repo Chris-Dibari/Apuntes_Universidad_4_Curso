@@ -81,4 +81,27 @@ La eficiencia real varía entre organismos y ecosistemas. Estos kg no representa
 
 ![alt text](<imagenes-4-curso/captu-10.3-pesc.png>)
 
+**Plataforma continental:**
+
+Se producen distintos fenómenos:
+
+- Desfase temporal: La respuesta de los peces puede seguir al aumento de sus presas. El gráfico ilustra el mecanismo.
+- Biomagnificación: Algunos contaminantes persistentes pueden aumentar de concentración hacia niveles superiores.
+- El arenque en la diete: Los porcentajes de la figura describen su contribución a la dieta de distintos depredadores. No se suman entre especies. Es una presa que no solo soporta a un depredador, sino que para muchos peces el arenque puede suponer hasta el 50% de su dieta, peces que luego explotamos comercialmente (= influencia en la presa).
+
+**Océano abierto:**
+
+- Productividad desigual: Los giros subtropicales suelen ser poco productivos. Frentes, afloramientos y regiones de altas latitudes pueden ser muy productivos.
+- Base de la red: El fitoplancton de la zona iluminada sostiene gran parte de la producción. La red microbiana y el detrito también son importantes.
+- Conexiones en la columna de agua: Corrientes, mezcla y migraciones verticales transportan nutrientes y materia orgánica. Planctívoros y piscívoros conectan rutas diversas.
+
+El océano abierto no es homogéneo ni está dominado de forma universal por piscívoros. Esquemas conceptuales.
+
+**Efecto cascada (ej top-down):**
+
+![alt text](<imagenes-4-curso/captu-10.4-pesc.png>)
+
+
+
+
 
