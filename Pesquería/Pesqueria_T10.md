@@ -122,8 +122,25 @@ Cuanto mayor sea el nivel trófico de la presa, mayor será la posición que ocu
 
 ![alt text](<imagenes-4-curso/captu-10.5-pesc.png>)
 
+≈ 89 % de disminución de biomasa estimada. 
+La reconstrucción de Christensen et al. (2003) estimó una reducción de unas nueve veces a lo largo del siglo XX. Es un resultado de modelos históricos.
 
+**Componentes triangulares de redes alimentarias en ecología marina:**
 
+En un contexto pesquero, cuando el depredador dominante disminuye a causa de la explotación, normalmente se produce un incremento del depredador subdominante con una sustitución (parcial). Esta es una de las razones que explica porque al eliminar los depredadores superiores no se produce extraordinario incremento en los rendimientos de los peces presa tal como podrían predecir los modelos simples de redes alimentarias.
 
+![alt text](<imagenes-4-curso/captu-10.6-pesc.png>)
 
+En el caso del tiburón:
 
+- De no ser capturadas 46.355 t (peso corporal) de tiburones (depredadores, nivel trófico superior) el consumo de otras especies registraría una cantidad de 3.475 t diarias o 1,3 millones de t anuales (los juveniles de tiburón suelen consumir un 10% de su peso corporal cada día, este porcentaje disminuye hasta un 5% a medida que envejecen)
+- Si la protección de la pesca se extiende únicamente a los tiburones, éstos depredarán 1,3 millones de t de gambas, calamares y sepias al año.
+- Además de competir por su alimento con los depredadores humanos, competirán con otros peces depredadores y también entre ellos mismos, desequilibrando el ecosistema marino (Vivekanandan, 2001).
+
+Algunos investigadores consideran que se debe tener en cuenta, además de las interacciones entre especies, el beneficio económico en este tipo de enfoque. En el mar de Irlanda: La cigala (Nephrops norvegicus) y el bacalao (Gadus morhua), son las dos especies más valiosas. Se estima que el bacalao es responsable del 88 % de la depredación total de la cigala, llegándose a la conclusión de que la explotación del bacalao se debía mantener al nivel de máximo rendimiento sostenible, a fin de reducir la depredación de la cigala y obtener un mayor rendimiento económico entre ambas especies.
+
+![alt text](<imagenes-4-curso/captu-10.7-pesc.png>)
+
+![alt text](<imagenes-4-curso/captu-10.8-pesc.png>)
+
+</div>
