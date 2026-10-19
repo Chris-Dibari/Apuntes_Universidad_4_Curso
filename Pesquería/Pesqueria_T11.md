@@ -105,5 +105,37 @@ Factores que pueden también influir: habilidad del patrón, tripulación conjun
 
 ![alt text](<imagenes-4-curso/captu-11.2-pesc.png>)
 
+**1. CAPTURA POR UNIDAD DE ESFUERZO** = OCASIÓN DE PESCA = (CPUE)
+$CPUE = C/f$ o $Y/f$
+Es la captura de ejemplares en número (C) o en peso (Y) realizadas por una unidad de esfuerzo de pesca definido (f).
+
+Ejemplo: 200 kg capturados en 4 horas de arrastre = 50 kg/h.
+
+RENDIMIENTO DE LA ACTIVIDAD
+Expresa cuánto se captura por cada unidad de esfuerzo definida.
+Estima el rendimiento de los barcos y depende de la abundancia del stock (manera indirecta de capturar la abundancia).
+Una CPUE estable puede ocultar una caída del stock si mejora la eficiencia o se concentran los peces.
+
+**2. Capturabilidad (q): coeficiente de capturabilidad o fuerza de mortabilidad pesquera**
+
+- Fracción del stock capturado por una unidad de esfuerzo de pesca definida. Considerada como un constante, sin embargo, es una variable que fluctúa arbitrariamente (selectividad, tecnología, habilidad del patrón, etc).
+- Depende del tipo de caladero, tipo de fondo (rocoso, arenosos, pendiente..), de los procesos de estratificación en la columna de agua, de las agregaciones de peces (tróficas, migratorias...), de factores meteorológicos e incluso del grado de control y vigilancia de las pesquerías.
+- La capturabilidad de una población está más relacionada con la probabilidad de captura de un ejemplar por unidad de área, que por unidad de abundancia de población, ya que los individuos de una población se agrupan en un área determinada, el rastreo y determinación de donde están influirá determinantemente en la capturabilidad (agregaciones, migraciones y distribución espacial).
+
+**3. MORTALIDAD POR PESCA Y ESFUERZO DE PESCA:** La mortalidad por pesca F es función del esfuerzo de pesca f y de la capturabilidad q.
+$F = f * q$
+
+F MORTALIDAD POR PESCA
+Tasa instantánea de mortalidad atribuible a la pesca, normalmente en año⁻¹.
+
+f ESFUERZO PESQUERO: Actividad durante un periodo definido. La unidad depende de la pesquería.
+
+q CAPTURABILIDAD: Coeficiente de proporcionalidad. Expresa cuánto contribuye cada unidad de esfuerzo a la mortalidad por pesca. A igual esfuerzo, una mayor capturabilidad produce una mayor mortalidad por pesca. Sus unidades dependen de como midamos el esfuerzo pesquero F = q × f.
+
+![alt text](<imagenes-4-curso/captu-11.3-pesc.png>)
+
+![alt text](<imagenes-4-curso/captu-11.4-pesc.png>)
+
+![alt text](<imagenes-4-curso/captu-11.5-pesc.png>)
 
 
