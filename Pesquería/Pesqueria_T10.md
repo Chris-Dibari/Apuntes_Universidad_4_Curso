@@ -49,4 +49,36 @@ Cuando se produce un pico de la abundancia de las presas, a continuación se pro
 
 ![alt text](<imagenes-4-curso/captu-10.1-pesc.png>)
 
+Menos individuos pueden disponer de más alimento por individuo. La compensación depende de los recursos y de la densidad.
+
+![alt text](<imagenes-4-curso/captu-10.2-pesc.png>)
+
+Mejor relación => alta cantidad de presas y baja cantidad de depredadores => menos individuos que van a tener mucho alimento. La depredación también es densodependiente (tiene relación directa con la densidad).
+
+A lo largo de la evolución, los depredadores han ido desarrollando adaptaciones para mejorar las capturas (de tipo morfológico y de comportamiento).
+
+Las presas también intentan romper la secuencia de captura (secuencia encuentro-ataque-captura) -> reducción de la probabilidad de:
+
+- Detección: coloración críptica, comportamiento estático...
+- Ataque: reducción de la palatabidad, por venenos, sustancias químicas...
+- Captura: velocidad, espinas, reunirse en cardúmenes, uso de refugios, manchas oceladas...
+- Capacidad de ser comidas: incremento de tamaño.
+
+**Interacciones: la relación cambia con la etapa vital**
+
+Un depredador no siempre comerá para toda la vida la misma presa.
+*Un adulto puede ser depredador* -> Los peces grandes pueden consumir peces pequeños de otra especie.
+*Pero, sus huevos y larvas pueden ser presas* -> Los consumidores de plancton pueden alimentarse de huevos y larvas de especies que los depredan cuando son adultas.
+*También puede haber competencia* -> Larvas, juveniles y adultos pueden compartir alimento en algunas etapas. La relación depende de la talla, la dieta y el hábitat.
+
+**Enfoque ecosistemico:** Los stocks están conectados, La pesca de una especie puede modificar sus presas, sus depredadores y sus competidores.
+La gestión debe considerar todas las conexiones, Integra evaluaciones de stocks, dieta, hábitats, capturas accesorias, clima e indicadores del ecosistema.
+La incertidumbre también se gestiona: Los modelos multiespecíficos permiten explorar escenarios. El seguimiento y la precaución ayudan a ajustar las medidas.
+
+Las redes troficas marinas tienden a estar muy conectadas, con un mayor número de enlaces de cada especie y una mayor proporción de taxones intermedios, omnívoros y caníbales que la mayoría de los sistemas terrestres y de agua dulce (Link, 2002; Dunne et al., 2004 y Cury et al., 2005). Este alto grado de interacción proporciona las redes alimentarias marinas gran resistencia a las tensiones externas, por lo que deberían tener alta capacidad de resistencia a las perturbaciones y resistir la pérdida de especies. La pérdida de biodiversidad puede conducir a la reducción de la resistencia (cambiar poco antes las perturbaciones) y resiliencia del ecosistema (capacidad de recuperación). La pérdida de especies puede alterar ambas.
+
+La eficiencia real varía entre organismos y ecosistemas. Estos kg no representan una equivalencia universal de biomasa (ej. transferencia del 10%). Producción anual (en millones de toneladas) en el Mar del Norte, una de las zonas de pesca más ricas del mundo.
+
+![alt text](<imagenes-4-curso/captu-10.3-pesc.png>)
+
 
