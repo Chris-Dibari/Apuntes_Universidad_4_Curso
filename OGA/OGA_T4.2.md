@@ -41,6 +41,56 @@ Conservación de testigos -> trozos de parafina para sellar y evitar la entrada 
 
 **Secuencia de perforación** -> hay que tener en cuenta que a lo largo de una misma perforación puede darse la posibilidad que se cambie de tipo de perforación -> se produce por partes. Influye la compacidad litologica -> cambios en el suelo. Influencia de la presión de confinamiento.
 
+### Plataformas marinas
+
+Plataforma de perforación marina: profundidad máxima aproximada de operación en el agua. Se trata de la perforación en sí, no en la columna de agua (se habla de hasta 9000m para cualquier equipo).
+
+![alt text](<imagenes-4-curso/captu-4.9-oga.png>)
+
+Importante: conocer en cada sistema (ej aguas someras) que tipo de equipo se utilizaría.
+
+Aspectos a tener en cuenta: parámetros.
+
+- Velocidad de rotación de la sarta y avance.
+- Peso de la sarta sobre el trépano -> evitar problemas técnicos. 
+- Densidad, temperatura y reistividad del lodo -> evitar contaminaciones de las muestras y del pozo.
+- lag time -> debido a su viscosidad del lodo, sabemos el tiempo de fluencia (conocer retrasos) -> ubicar formaciones atravesadas.
+
+**Master log** -> se ponen todas las características y el lodo a utilizar. Importancia del apartado "lodos". Barrenas -> barras metalicas para ejecutar el sondeo.
+
+**Diagrafías:**
+
+Especie de radiografía en profundidad para ver como varían las propiedades físicas a lo largo de un sondeo (siempre en profundidad).
+
+- Diferidas: Realizadas con posterioridad a la perforación del sondeo.
+- Instantáneas: Registro simultáneo con el avance de la herramienta de corte.
+
+Puedo hacer una diferida si quiero ver como varía la propiedad de radiactividad de un material.
+
+Parámetros medibles en una diagrafía:
+
+1. Conductividad natural: edad litologica de la columna.
+2. Resistividad a 8 pulgadas: mido la capacidad o no de resistencia del terreno a un impulso eléctrico enviado a partir del electrodo de la diagrafía. Si el terreno no deja pasar ese impulso con 8 pulgadas, me da información sobre la permeabilidad del terreno.
+3. Resistividad a 16 pulgadas
+4. Resistividad a 32 pulgadas
+5. Resistividad a 64 pulgadas
+6. Resistencia monoelectródica: 2 electrodo, uno en tierra y otro en el fondo del pozo, mido la diferencia de potencial entre un electrodo y otro.
+7. Conductividad del fluido: se utiliza mucho para ver si tengo intrusiones salinas. Se tendrá más conductividad cuantos más poros haya (y más cargados de agua salina) -> medida indirecta de la porosidad.
+8. Temperatura
+9. Densidad
+
+Se usan unas pulgadas u otras dependiendo de la zona que vayamos a estudiar.
+
+Mirar que tipo de terreno se tiene.
+Arcilla -> muy conductoras => llega al 100
+Morrena (mezcla de arcilla, arena..) => tiene bastante conductividad.
+Marmol => no conductividad. Tiene sentido
+
+Para interpretar se utiliza la corregida ya (la tercera derecha).
+
+![alt text](<imagenes-4-curso/captu-4.10-oga.png>)
+
+
 
 
 
