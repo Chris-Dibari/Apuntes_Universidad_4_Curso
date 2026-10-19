@@ -73,6 +73,8 @@ Tenemos 4 escalas de pH y cada una posee su propia nomenclatura, porque cada una
 
 ![alt text](<imagenes-4-curso/captu-3.3-oqa.png>)
 
+<div style="page-break-after: always;"></div>
+
 **Principal diferencia**: disolución de calibración de los pHímetros que se utiliza.
 
 - NBS -> Es la más clasica. Se utiliza un agua destilada (fuerza iónica muy baja). La concentración se expresa en términos actividades, el pH como pH(NBS) y la constante como K'. 
