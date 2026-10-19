@@ -90,11 +90,28 @@ Para interpretar se utiliza la corregida ya (la tercera derecha).
 
 ![alt text](<imagenes-4-curso/captu-4.10-oga.png>)
 
+**Funcionamiento:** se mete el electrodo de la diagrafía en el pozo de perforación. Recogemos las medidas de resistividad que no han sido capaces de atravesar el pozo.
 
+**Clasificación. Tres métodos principales:**
 
+1. Eléctricos:
+- Potencial Espontáneo
+- Resistividad eléctrica
+- Dipmeter
 
+2. Sónicos
 
+3. Nucleares:
+- Gamma-ray
+- Nueutrón
+- Densidad
 
+Tenemos pocas resistividad en la arenisca -> por tanto conduce mucho.
+Se expresa en función de la resistividad, pero realmente se mide si conduce mucho o poco -> se tiene gran conductividad (pico), pero se expresa en Ohm (por resistividad).
 
+Otra forma de verlo: genero un potencial espontaneo (que es el que va a pasar), si tengo mucho (pasa mucho) = conductividad alta. Mucho potencial = poco potencial ha sido absorbido = poca porosidad.
+**Resistividades bajas = poca porosidad (no deja pasar el impulso) = mucha conductividad.**
+
+![alt text](<imagenes-4-curso/captu-4.11-oga.png>)
 
 </div>
