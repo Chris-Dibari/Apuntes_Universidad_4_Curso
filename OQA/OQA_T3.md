@@ -65,10 +65,20 @@ Resumen: para establecer un ciclo biogeoquímico se parte de un sistema en equil
 
 ### 2. Escalas de pH y connstantes de disociación
 
+Aunque se considere el $H^+$ como elemento libre, realmente reacciona en el sw como $HO_3^+ -> HO_q^+$
 
+Dickson (1987) "el estudio de las reacciones de transferencia de protones en el agua de mar constituye uno de los temas más confusos de la química marina".
 
+Tenemos 4 escalas de pH y cada una posee su propia nomenclatura, porque cada una de ellas tiene una constante de disociación diferente. La confusión puede provocar un error importante si se habla de química marina (~0,003).
 
+![alt text](<imagenes-4-curso/captu-3.3-oqa.png>)
 
+**Principal diferencia**: disolución de calibración de los pHímetros que se utiliza.
+
+- NBS -> Es la más clasica. Se utiliza un agua destilada (fuerza iónica muy baja). La concentración se expresa en términos actividades, el pH como pH(NBS) y la constante como K'. 
+- Concentración total del ión hidrógeno (mol/kg-SW). La más antigua. Fuerza iónica similar al sw. Esta y las siguientes son específicas del sw.
+- Concentración libre del ion hidrógeno (mol/kg-agua).
+- SWS (mol/kg-SW).
 
 
 
