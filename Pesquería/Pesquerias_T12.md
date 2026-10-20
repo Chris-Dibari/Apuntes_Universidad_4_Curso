@@ -85,3 +85,22 @@ Esto no se puede aplicar para peces con comportamiento gregario -> el área dism
 
 ![alt text](<imagenes-4-curso/captu-12.4-pesc.png>)
 
+No se detectaría que el cardumen es más pequeño. Las capturas de un año para otro van a ser parecidas (conservación del rendimiento) -> se está ocultando el descenso que hay. No se puede aplicar dicho modelo.
+
+**Modelo de Schaefer:**
+
+**1. Las capturas son función del esfuerzo de pesca, según la relación:**
+
+- PARA UNA ESFUERZO $f=0$ CAPTURAS $C=0$, si no faenan barcos, no se capturan peces.
+- A MEDIDA QUE AUMENTA EL ESFUERZO CAPTURAS CRECEN HASTA UN MÁXIMO, a más barcos más capturas.
+- A PARTIR DE UN PUNTO, AÚN AUMENTANDO EL ESFUERZO: las capturas descienden (la abundancia disminuye), ya no hay suficientes peces que pescar (se reduce el rendimiento a largo plazo).
+
+**2. LA RELACIÓN DE LA CPUE CON EL ESFUERZO ES LINEAL EN EL EQUILIBRIO:**
+
+El rendimiento de los barcos depende de la abundancia del stock. Con la misma capturabilidad, menos peces disponibles significan (menos abundancia) implica menos captura por barco. Así se interpreta la pendiente descendente de la recta.
+
+![alt text](<imagenes-4-curso/captu-12.5-pesc.png>)
+
+**3. LA PARÁBOLA DE PRODUCCIÓN QUE MODELIZA LA CAPTURA, ES LA EXPRESIÓN DE UNA PARÁBOLA SIMÉTRICA QUE PASA POR EL ORIGEN DE ORDENADAS, (la curva tiene un máximo sostenible)**
+
+![alt text](<imagenes-4-curso/captu-12.6-pesc.png>)
