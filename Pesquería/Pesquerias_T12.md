@@ -87,7 +87,7 @@ Esto no se puede aplicar para peces con comportamiento gregario -> el área dism
 
 No se detectaría que el cardumen es más pequeño. Las capturas de un año para otro van a ser parecidas (conservación del rendimiento) -> se está ocultando el descenso que hay. No se puede aplicar dicho modelo.
 
-**Modelo de Schaefer:**
+### Modelo de Schaefer:
 
 **1. Las capturas son función del esfuerzo de pesca, según la relación:**
 
@@ -104,3 +104,47 @@ El rendimiento de los barcos depende de la abundancia del stock. Con la misma ca
 **3. LA PARÁBOLA DE PRODUCCIÓN QUE MODELIZA LA CAPTURA, ES LA EXPRESIÓN DE UNA PARÁBOLA SIMÉTRICA QUE PASA POR EL ORIGEN DE ORDENADAS, (la curva tiene un máximo sostenible)**
 
 ![alt text](<imagenes-4-curso/captu-12.6-pesc.png>)
+
+**Base biológica para el modelo de Schaefer:**
+
+✓ La biomasa total de un stock sin pesca (no explotado), no puede crecer
+más allá de un cierto límite y tiende hacia un nivel de equilibrio.
+✓ El nivel depende de (k):
+- espacio disponible,
+- accesibilidad de alimentos,
+- competencia con otras especies, etc.,
+
+Depende de la capacidad del ecosistema para mantener el stock en el
+que habita. Este límite es denominado Capacidad de Carga, k.
+
+La biomasa total de un recurso pesquero no-explotado tiene tendencia a crecer hasta su capacidad de carga, k, con una tasa, Δ(Bt), que no es constante.
+• Poca BIOMASA: pocos individuos generan poco Δ(Bt)
+• BIOMASA intermedia: la producción neta alcanza su máximo
+• Cerca de k: la competencia limita Δ(Bt)
+
+✓ La biomasa puede sufrir alteraciones, en la naturaleza, el ambiente puede modificar esta evolución. La BIOMASA no aumenta siempre, aunque, en cualquier caso, la tendencia será siempre creciente hasta alcanzar su capacidad de carga.
+
+![alt text](<imagenes-4-curso/captu-12.7-pesc.png>)
+
+### MODELO DE FOX
+
+Según el modelo de Schaefer, la relación entre capturas y esfuerzo expresado como parabola parece indicar que al aumentar el esfuerzo, la captura (y por tanto la abundancia) se hacen 0. Considera que la captura por unidad de esfuerzo al aumentar el esfuerzo, decrece continuamente y se acerca a 0.
+
+![alt text](<imagenes-4-curso/captu-12.8-pesc.png>)
+
+Si el crecimiento en biomasa en el tiempo sigue una función de Gompertz, no simétrica, el crecimiento en peso responde a la expresión.
+
+![alt text](<imagenes-4-curso/captu-12.9-pesc.png>)
+
+La aplicación de este modelo se realiza en el caso de que la relación entre CPUE y f sea una función exponencial. $CPUE=a*e^{-b*f}$.
+
+- CPUE disminuye al aumentar el esfuerzo.
+Captura total => aumento hasta un máximo y después disminuye.
+
+![alt text](<imagenes-4-curso/captu-12.10-pesc.png>)
+
+
+
+
+
+
