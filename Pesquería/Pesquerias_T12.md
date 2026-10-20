@@ -167,3 +167,16 @@ Ejercicio con 16 años de datos (1995–2010): captura anual sobre un stock y n�
 
 ![alt text](<imagenes-4-curso/captu-12.14-pesc.png>)
 
+Al aumentar el esfuerzo, la captura por barco disminuye, es una relación lineal. Probamos el ajuste para ver cuánto cambian los resultados. La relación (CPUE-f) se ajusta mediante una regresión lineal. El resultado es una recta con pendiente negativa:
+
+$C/F=31,4911-0,13271*f$
+
+En este caso: f óptimo = 119 barcos. $C_max$ = 1868 Tm. {12 Años}
+mientras que: f óptimo = 114 barcos. $C_max$ = 1822,5 Tm. {16 Años}.
+
+**Ahora se hace lo mismo pero con el modelo de Fox:**
+
+![alt text](<imagenes-4-curso/captu-12.15-pesc.png>)
+
+![alt text](<imagenes-4-curso/captu-12.16-pesc.png>)
+
