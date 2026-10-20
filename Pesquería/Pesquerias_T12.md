@@ -17,3 +17,16 @@ p, li, div, h2, h3 {
 
 ##  Pesquerías. TEMA 12. Los modelos de producción.
 
+En ausencia de explotación, la biomasa total de una población aumentará hasta un valor límite que vendrá impuesto por la cantidad de espacio y recursos disponibles, por la competencia, etc, por la capacidad de carga del ecosistema.
+
+- CAPTURA = PRODUCCIÓN
+ La biomasa se mantiene.
+- CAPTURA > PRODUCCIÓN
+ La biomasa disminuye.
+- CAPTURA < PRODUCCIÓN
+ La biomasa aumenta.
+
+![alt text](<imagenes-4-curso/captu-12.1-pesc.png>)
+
+
+
