@@ -60,7 +60,7 @@ En el medio ambiente marino esta situación se complica aún más debido a:
 - La existencia de un menor número de barreras topográficas en comparación con las presentes en el medio terrestre, lo cual favorece el contacto entre individuos de la misma especie.
 - La dificultad, inherente al medio marino, para su estudio y observación.
 
-Ejemplos de stock:
+**Ejemplos de stock:**
 
 - Fácilmente reconocibles y por tanto
 fácilmente separados: El bacalao (Gadus morhua). Uno se encuentra en el Ártico y el otro en Islandia.
@@ -152,3 +152,55 @@ La pesca tiene un efecto estimulante sobre la producción de peces, siempre y cu
 - primero el crecimiento individual de los peces y (sobrepesca de crecimiento).
 - cuando llega a ser muy severa, también al reclutamiento (porque disminuye el stock reproductivo) – (sobrepesca reclutamiento)
 
+A densidades próximas a la densidad máxima del stock, se reduce la eficacia de la reproducción y el nº de reclutas es menor que con densidades más bajas.La reducción del stock aumentará el reclutamiento (R mayor). (densodependientes).
+
+Cuando la disponibilidad de alimento es limitada, la conversión de éste en carne es menos eficiente si el stock es grande que si es pequeño. Cada pez de un gran stock obtiene menos alimento por lo tanto la reducción del stock aumentará el crecimiento (C mayor).
+
+Un stock no explotado tiende a tener relativamente más individuos viejos que un stock explotado. Esto da lugar a una disminución de la producción, por lo menos de dos formas:
+
+- Los peces de mayor tamaño tienden a comer presas mayores, por lo que se puede introducir un nuevo estrato en la red trófica, con la consiguiente pérdida de eficiencia en la utilización de la producción básica de alimento.
+- Los peces más viejos convierten en carne una proporción menor del alimento que consumen, ya que los individuos maduros destinan anualmente mucha energía a la maduración y producción de huevos.
+
+La finalidad de la evaluación de stocks es asesorar sobre la
+explotación óptima de recursos pesqueros, que son limitados pero
+renovables. Esa capacidad de renovación es la que hay que aprovechar, capturando solo los “excedentes biológicos”.
+La evaluación de los stocks debe tender a la búsqueda del nivel de explotación que permita obtener, a largo plazo, el rendimiento máximo en peso de una pesquería. (RMS).
+
+**(RMS)**: Máxima captura media que puede mantenerse a largo plazo sin comprometer la renovación del stock. Su valor depende del ambiente y de cómo se realiza la pesca.
+
+**Rendimiento sostenible:** Al aumentar el esfuerzo de pesca se pueden obtener mayores capturas hasta un determinado nivel, pero cuando se supera ese nivel, la renovación del recurso (reproducción y crecimiento corporal) no logra mantener el mismo ritmo que la eliminación causada por la pesca, y el incremento de la explotación provoca una disminución del rendimiento.
+
+![alt text](<imagenes-4-curso/captu-11.6-pesc.png>)
+
+**CAPTURA EN EL EQUILIBRIO (CE ó YE):**
+Captura en número CE ó en peso YE de un stock que se encuentra en equilibrio pescando a una intensidad dada, sin cambiar la abundancia o la biomasa de un año al siguiente. 
+- CAPTURA MÁXIMA SOSTENIBLE
+- CAPTURA SOSTENIBLE
+- CAPTURA MÁXIMA EN EL EQUILIBRIO = RMS 
+ (RMS=Rendimiento Máximo Sostenible)
+
+Es la captura máxima que puede mantenerse en un stock:
+* Sin afectar a su tamaño
+* Durante un periodo de tiempo indefinido
+* En las condiciones ambientales existentes
+
+El nivel RMS se mide “a largo plazo” porque también se puede obtener mucha pesca en un solo año aumentando de golpe el esfuerzo de pesca, pero después habrá años con muy poca pesca porque el recurso se ha explotado en exceso. El RMS busca una forma de pescar que permita obtener siempre la mayor cantidad posible cada año, de manera estable.
+
+**Dinámica de una cohorte:**
+
+Sobre una cohorte o clase de edad vamos a tener dos procesos que hacen variar su biomasa:
+
+1. Un proceso que aumenta la biomasa y que presenta una tendencia decreciente a lo largo del ciclo vital de la cohorte, que es el crecimiento.
+2. Un proceso de disminución de la biomasa, y que en condiciones naturales es un fenómeno de intensidad más o menos constante debido a la mortalidad.
+
+- FASE I: En el momento del reclutamiento, tenemos una clase de edad constituida por numerosos individuos de escaso peso. Al inicio de la fase explotada como el crecimiento es intenso, el dilema se resuelve a favor de un aumento de la biomasa de la cohorte (el crecimiento de los supervivientes compensa pérdidas por mortalidad).
+- FASE II. Este incremento será cada vez menor, hasta llegar al equilibrio, momento en que la biomasa permanece constante (ganancias y pérdidas de BIOMASA se igualan).
+- FASE III. En un último periodo, llega un momento en que el peso total de los peces que mueren cada año es mayor que el peso que ganan los que siguen vivos. Por eso, la biomasa total del grupo empieza a bSi miramos la biomasa a lo largo del tiempo, sube primero (porque los peces crecen) y luego baja (porque cada vez quedan menos). (pérdida biomasa por mortalidad supera la ganancia por crecimiento)
+
+- ABUNDANCIA N -> Disminuye al morir individuos.
+- TALLA Y PESO -> Aumentan con el crecimiento. Talla y peso tienen curvas distintas. 
+- BIOMASA B -> B = N × peso medio. Puede subir y después bajar.
+
+![alt text](<imagenes-4-curso/captu-11.7-pesc.png>)
+
+</div>
