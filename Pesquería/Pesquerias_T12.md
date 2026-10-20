@@ -180,3 +180,43 @@ mientras que: f óptimo = 114 barcos. $C_max$ = 1822,5 Tm. {16 Años}.
 
 ![alt text](<imagenes-4-curso/captu-12.16-pesc.png>)
 
+Con que modelo me quedaría: hay que elegir el modelo más conservador para que se pueda mantener ese desarrollo más sostenible a lo largo del tiempo. Es mejor que yo tenga 114 barco que 135. No solo hay que mirar el mejor ajuste sino que también la práctica.
+Siempre hay que aplicar principio de conservación.
+
+Para todos los años, nos quedaríamos con el modelo de Schaefer (todos los años).
+
+![alt text](<imagenes-4-curso/captu-12.17-pesc.png>)
+
+✓ EL MÁXIMO DEL MODELO ES UNA REFERENCIA: ayuda a valorar la explotación, pero no garantiza por sí solo la conservación del stock.
+
+Los modelos de producción permiten calcular el esfuerzo óptimo.
+La aplicación de este esfuerzo optimo no siempre es la adecuada para el mantenimiento del stock.
+
+✓ LA GESTIÓN DEBE INCORPORAR PRECAUCIÓN: la incertidumbre y una biomasa baja puede exigir reducir el esfuerzo o la captura por debajo de ese máximo.
+
+Se puede conseguir el esfuerzo adecuado reduciendo el esfuerzo óptimo en una proporción subjetiva para evitar los riesgos de sobrepesca debidos a errores de evaluación.
+
+✓ LA REGLA DE LOS DOS TERCIOS: no es universal ni determina automáticamente la cuota de captura.
+
+Se utiliza de manera más general el $f 2/3$, esto es la reducción del esfuerzo recomendado a los 2/3 del esfuerzo óptimo.
+La captura correspondiente a un esfuerzo consistente en los 2/3 del esfuerzo óptimo debe ser considerada la captura máxima admisible.
+
+Limitación modelos = basados en esfuerzo de pesca y capturabilidad que depende de la misma flota.
+￼
+STOS MODELOS ESTAN BASADOS EN LA RELACIÓN $F=q*f$.
+
+**Definición de f**
+
+En algunas artes y pesquerías el esfuerzo pesquero es de difícil definición. El desarrollo de nuevas tecnologías extractivas complica el análisis que supone la aplicación de este tipo de modelos. Uno de los problemas surge cuando f se mide, por ejemplo, en relación al número anual de días - embarcación para una serie de años. En la mayoría de los casos, la eficiencia de las embarcaciones cambia a lo largo del tiempo; tal vez se han vuelto más grandes y están mejor equipadas. Así, 100 días embarcación en 2026, por ejemplo, pueden producir una mortalidad por pesca mayor que 100 días embarcación de 1998.
+
+**Definición de q: capturabilidad:**
+
+La capturabilidad expresa la eficacia del esfuerzo para capturar peces. Puede cambiar con la tecnología, el comportamiento del recurso o el ambiente. Si mejora la eficiencia de los barcos, el mismo esfuerzo puede extraer más peces. Por eso hay que hacer comparables los datos entre años. También puede ocurrir que queden menos peces, pero se concentren en un área menor. La flota localiza los grupos y mantiene capturas parecidas. Una CPUE estable no garantiza que la abundancia total se mantenga.
+
+Otra limitación es que **NO tiene en cuenta la relación de la abundancia** con la densidad Una disminución de la densidad, por efecto de una captura elevada puede ir acompañada secundariamente de una elevación del crecimiento y el reclutamiento, por un aumento en la disponibilidad de los recursos,fundamentalmente alimentarios. En algunas pesquerías de especies pelágicas pequeñas en áreas de surgencia, por ejemplo, en la anchoveta de Chile y Perú, ocurre que los peces se concentran en áreas pequeñas, debido a cambios en las condiciones ambientales. En estos casos, no hay una relación directa entre q, f y F, y de allí que los modelos de producción excedentaria no se puedan aplicar.
+
+Además, **NO DISTINGUEN EXPLÍCITAMENTE LAS COHORTES**. El stock reúne peces de distintas edades. Los más viejos han vivido varios años de pesca, mientras que los jóvenes tienen una historia más corta. La abundancia de la cohorte más anciana vendrá influida por el esfuerzo realizado durante los “n” años que ha estado presente en la pesquería. La abundancia actual depende también de lo ocurrido en años anteriores. La cohorte más joven solo estará influida por el esfuerzo de pesca realizado en el último año. Por lo que se debe tener en cuenta estimar la relación entre CPUE del año i y un valor promedio del esfuerzo fi medio.
+
+![alt text](<imagenes-4-curso/captu-12.18-pesc.png>)
+
+<div>
