@@ -143,8 +143,27 @@ Captura total => aumento hasta un máximo y después disminuye.
 
 ![alt text](<imagenes-4-curso/captu-12.10-pesc.png>)
 
+**MODELO GENRPROD:**
 
+PellayTomllinson(1969):
 
+Se aplica cuando la relación entre CPUE y f no se corresponde con los dos casos anteriores, es un Modelo de Producción Generalizado válido para cualquier tipo de relación entre esos dos parámetros. Modelo más flexible que Schaefer y Fox. Adapta la forma de producción mediante un parámetro, m.
 
+![alt text](<imagenes-4-curso/captu-12.11-pesc.png>)
 
+<br>
+
+![alt text](<imagenes-4-curso/captu-12.12-pesc.png>)
+
+**Ejemplo:**
+
+Ejercicio con 16 años de datos (1995–2010): captura anual sobre un stock y número de barcos. Usamos los barcos como indicador de esfuerzo, suponiendo una actividad comparable.
+
+1. Se comprueba si existe relación entre la captura realizada y el esfuerzo de pesca ejercido.
+2. Se representa la captura (eje Y) frente al esfuerzo de pesca (eje X) y se ve a que se aproxima más.
+3. Se observa que al aumentar el esfuerzo las capturas aumentan hasta un punto, a partir del cual empiezan a descender. La producción máxima parece rondar alrededor de los 100 – 120 barcos. Para analizar la relación que se intuye ya por el gráfico, se calcula una nueva variable (Captura/ esfuerzo = CPUE).
+
+![alt text](<imagenes-4-curso/captu-12.13-pesc.png>)
+
+![alt text](<imagenes-4-curso/captu-12.14-pesc.png>)
 
