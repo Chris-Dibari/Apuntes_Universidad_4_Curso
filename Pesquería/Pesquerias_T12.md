@@ -73,4 +73,15 @@ Así, se pueden evaluar las capturas que se pueden obtener de un stock en funci�
 
 ![alt text](<imagenes-4-curso/captu-12.2-pesc.png>)
 
+En la imagen la E = F.
+
+Imaginemos que tenemos un área en la que aplico un arrastre. Parto de una abundancia de 64 ejemplares, exayendo 10. Volviendo al mismo sitios, ahora tengo 54. Al arrastras, extraigo 8 -> como tengo menor abundancia, extrigo menos a pesar de que el esfuerzo sea el mismo, y asi sucesivamente hasta llegar al caso del 6º año en el que tengo una abundancia de 28 y extraigo 4.
+
+Parto de la premisa que tengo el mismo área y la abundancia es determinada.
+
+![alt text](<imagenes-4-curso/captu-12.3-pesc.png>)
+
+Esto no se puede aplicar para peces con comportamiento gregario -> el área disminuirá puesto que en el cardumen los peces mantienen la misma distancia.
+
+![alt text](<imagenes-4-curso/captu-12.4-pesc.png>)
 
