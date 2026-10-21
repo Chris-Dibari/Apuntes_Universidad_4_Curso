@@ -154,3 +154,6 @@ RITMOS ESTACIONALES: Dependen de la sucesión de las estaciones del año (Tª, a
 
 ![alt text](<imagenes-4-curso/captu-9.6-pesc.png>)
 
+![alt text](<imagenes-4-curso/captu-9.7-pesc.png>)
+
+</div>
