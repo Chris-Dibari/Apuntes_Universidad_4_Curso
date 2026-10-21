@@ -85,3 +85,32 @@ Tenemos 4 escalas de pH y cada una posee su propia nomenclatura, porque cada una
 Tradicionalmente, el pH se midió con electrodos de vidrio, con una disolución muy concentrada y un electrodo de referencia. Consiste en una celda galvanica que mide el *potencial de la muestra*. Para pasar de potencial a pH se utiliza la ecuación de Nernst.
 
 ![alt text](<imagenes-4-curso/captu-3.4-oqa.png>)
+
+El potencial que tiene la muestra va a ser igual al potencial aparente (escala NBS) + RT/F * lna_{H^+}+E_{J(x)} Este último es el potencial de únion líquida. Va a surgir en la zona de contacto entre las dos disoluciones y se debe a la difusión de especies de electrolitos (iones) y su magnitud va a depender de la concentración de la muestra y del intercambio de iones.
+
+El potencial estandar es especifico del electrodo => puedo igualar:
+
+*{Desarrollo fórulas 21/10}*
+
+**ESCALA NBS (National Bureau of Standard):**
+
+- Soluciones de calibración de baja fuerza iónica.
+- Es la escala más utilizada internacionalmente.
+- Las variaciones de los potenciales de unión líquida entre el agua de mar y las soluciones de calibración:
+
+El problema que presenta es que calibras con fuerza ionica muy baja, pero luego se miden muestras con fuerza ionica muy altas -> esto conlleva a diferencias elevadas.
+
+![alt text](<imagenes-4-curso/captu-3.5-oqa.png>)
+
+Otro inconveniente (en sw) es que son poco reproducible (dependiendo a la diferencia).
+
+La expresión es utilizada para pasar de la escala NBS a la escala total (mucha utilidad a la hora de poder comparar datos con otras localizaciones).
+
+Cálculo del coeficiente: coge una solución de calibración de la escala total (disoluciones tamponadas) de la cual conoce el pH. Se mide en el pHimetro de escala NBS y asi se tiene un criterio de comparación. Esto sirve para poder encontrar la forma de comparar datos.
+La escala no es ideal para sw, pero siempre que la utilice se puede pasar a escala total, y también a escala libre.
+
+La escala libre son moles por kg de agua (se expresa en molal por kg de agua). 
+
+![alt text](<imagenes-4-curso/captu-3.6-oqa.png>)
+
+
