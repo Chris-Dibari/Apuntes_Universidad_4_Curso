@@ -188,6 +188,26 @@ El Krill, por ejemplo, sostiene migraciones estacionales pasando el invierno aus
 
 **Migraciones estacionales:**
 
+latitudes de 70º (muy cerca del continente Antártico), aparece la divergencia antártica y por encima de dicha latitud se encuentran aguas subtropicales (fuera del océano Antártico).
+
+![alt text](<imagenes-4-curso/captu-3.17-oba.png>)
+
+Recordar que la divergencia aflora agua profunda que separa las masas de agua, la divergencia subduce por debajo de otras latitudes.
+
+A lo largo de la estación productiva, la cubierta del hielo a fundiendose alejandose del mar y acercandose al continente (se aleja de la divergencia), dichas especies van siguiendola.
+Migración que une lo vertical con lo latitudinal (lejos y cerca del continente).
+
+Las migraciones en el Ártico son estacionales (a pesar de que haya diarias, pero las más importantes son estacionales) ontogenética (tienen que ver con el ciclo vital, cada profundidad y cada epoca del año tiene una distinta fase del ciclo).
+
+![alt text](<imagenes-4-curso/captu-3.18-oba.png>)
+
+Conclusiones: los ciclos de migración del zooplancton de altas latitudes está asociado a la profundidad (migración ontogenética) y suele ser bastante largo debido a la T. El cambio de T en el agua o clima en general afecta de forma directa al desarrollo de estas especies. Cambio climático = reducción del tiempo del ciclo por aumento de las temperaturas.
+
+**Migraciones latitudinales:** aves y mamíferos marinos -> 
+
+
+
+
 
 
 
