@@ -201,12 +201,26 @@ Las migraciones en el Ártico son estacionales (a pesar de que haya diarias, per
 
 ![alt text](<imagenes-4-curso/captu-3.18-oba.png>)
 
-Conclusiones: los ciclos de migración del zooplancton de altas latitudes está asociado a la profundidad (migración ontogenética) y suele ser bastante largo debido a la T. El cambio de T en el agua o clima en general afecta de forma directa al desarrollo de estas especies. Cambio climático = reducción del tiempo del ciclo por aumento de las temperaturas.
+Conclusiones: los ciclos de migración del zooplancton de altas latitudes está asociado a la profundidad (migración ontogenética) y suele ser bastante largo debido a la T. El cambio de T en el agua o clima en general afecta de forma directa al desarrollo de estas especies. Cambio climático = reducción del tiempo del ciclo por aumento de las temperaturas. Hipótesis => agotamiento nutrientes y alteración del comportamiento de los migradores.
 
-**Migraciones latitudinales:** aves y mamíferos marinos -> 
+**Migraciones latitudinales:** aves y mamíferos marinos -> grandes cantidades de km en las migraciones. Ej. Charrán ártico -> migra de verano antártico al verano ártico.
 
+<div style="page-break-after: always;"></div>
 
+**Zooplancton antártico y regiones:**
 
+3 regiones diferenciadas:
+- Norte: Libre de hielo, zona de deriva oceánica circumpolar. Pobre en Biomasa y producción. Dominan copépodos (60% de la biomasa) ej: Calanoides acutus, Calanus propinquus, Rhincalanus gigas, Metridia gerlachei, también Quetognatos (Sagitta gazellae, Eukrohnia hamata), Salpas (Salpa thompsoni), Eufausiáceos pequeños (Thysanoessa spp) y anfípodos (Themisto gaudichaudii)
+- Intermedia: Es la zona de cubierta de hielo estacional, la **más rica en biomasa y más productiva**. Comprende gran parte de la región circumpolar, la rama norte del giro de Weddell y la península Antártica. Domina Euphausia superba (Krill), cuya distribución en verano coincide con zonas cubiertas por el hielo en invierno y siguen el proceso de fusión. Especialmente abundante en el estrecho de Bransfield y en las cercanías de la AAD.
+- Sur: **Cubierta de hielo en su mayor extensión todo el año**. Aguas frías a lo largo de la plataforma, especialmente en Weddell y Ross. Hay una estación productiva muy corta y especialmente ligada a las algas del hielo. La biomasa de zooplancton no es muy alta. La Euphausia crystallorophias (eufausiáceo nerítico pequeño) y los jóvenes del pez Pleurogramma antarcticum (pez de hielo de los Nototenidos) son típicos de esta zona.
+
+![alt text](<imagenes-4-curso/captu-3.19-oba.png>)
+
+Ejemplo campaña -> <1 = R > P (= zona heterotrófica) y viceversa.
+
+### Redes tróficas en altas latitudes
+
+El Krill (fundamentalmente Euphausia superba) Es el nodo principal de la red trófica antártica. Es una especie que forma enjambres o bancos, como lo hacen E. crystallorophias y Thysanoessa macrura más cerca de la plataforma o el copépodo Calanus tonsus. Esto facilita el aprovechamiento por grandes micrófagos como los cetáceos mistacocetos o la foca cangrejera (crabeater seal). Especies similares que no forman enjambres como E. triacantha no forman parte de la dieta de los micrófagos.
 
 
 
