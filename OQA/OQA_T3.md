@@ -94,7 +94,7 @@ El potencial estandar es especifico del electrodo => puedo igualar:
 
 **ESCALA NBS (National Bureau of Standard):**
 
-- Soluciones de calibración de baja fuerza iónica.
+- Soluciones de calibración de baja fuerza iónica (utilizada para agua dulce).
 - Es la escala más utilizada internacionalmente.
 - Las variaciones de los potenciales de unión líquida entre el agua de mar y las soluciones de calibración:
 
@@ -112,5 +112,25 @@ La escala no es ideal para sw, pero siempre que la utilice se puede pasar a esca
 La escala libre son moles por kg de agua (se expresa en molal por kg de agua). 
 
 ![alt text](<imagenes-4-curso/captu-3.6-oqa.png>)
+
+Son escalas específicas para sw. La disolución de calibración tendrá una disolución artificial y una disolución tampón (se utiliza una mezcla equimolecular -mismas concentraciones- de dos sustancias tampones que son TRIS y TRIS-HCl).
+
+Ventajas: la diferencia de los potenciales de unión líquida es practicamente cero puesto que ambos tienen la misma fuerza iónica (me evito el error en la medida del pH).
+
+Diferencia entre las tres escalas: como se prepara el sw artificial para la disolución de calibración.
+
+En el caso de la escala libre, se prepara solo con cloruro sódico y se pesa la cantidad suficiente para que la fuerza iónica se de 0,7 Molal (M).
+
+La total es la que comete el menor error. Se prepara con cloruro sodico y sulfato sodico, para una fuerza ionica final de 0,7 M.
+
+La seawater es la más completa, se prepara con los dos compuestos anteriores y además el NaF. La constante de disociación del ácido fluorhidrico no se conoce con exactitud => cometemos más error utilizando esta escala comparado con la total.
+
+Se definen como sigue:
+
+![alt text](<imagenes-4-curso/captu-3.7-oqa.png>)
+
+**Relación entre las escalas total y libre:**
+
+
 
 
