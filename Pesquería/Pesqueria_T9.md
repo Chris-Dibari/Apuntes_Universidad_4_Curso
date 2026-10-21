@@ -102,4 +102,55 @@ INTESTINO -> En promedio, los herbívoros tienen intestinos relativamente más l
 
 ![alt text](<imagenes-4-curso/captu-9.3-pesc.png>)
 
+¿QUÉ CONDICIONA LA ALIMENTACIÓN? Estado del pez, características de las presas y condiciones ambientales.
+¿CÓMO SE CUANTIFICA LA DIETA? Volumen o masa, número de presas y frecuencia de ocurrencia.
+¿CÓMO SE INTERPRETA? Amplitud de dieta, disponibilidad del recurso y selección.
+
+Objetivo: distinguir lo que un pez consume de lo que tiene disponible en el medio.
+
+**Factores que afectan a la alimentación:**
+
+FACTORES ENDÓGENOS
+- TASA METABÓLICA: A mayor necesidad energética -----> mayor consumo (influida por la Tª)
+- REPRODUCCIÓN: El desarrollo de la gónada puede dejar inoperante el digestivo
+- MIGRACIONES: Aumenta o disminuye según el tipo de migración
+
+FACTORES EXTERNOS BIÓTICOS:
+- DISPONIBILIDAD DE ALIMENTO. A mayor disponibilidad, mayor frecuencia de encuentro con el recurso
+- DISTRIBUCIÓN DE RECURSO: En agregados, dispersa...
+- TAMAÑO DE LAS PRESAS
+- ACTIVIDAD DE LAS PRESAS (ritmos, migraciones...).
+
+FACTORES EXTERNOS ABIOTICOS
+
+- LA LUZ: Fundamental en la periodicidad de los ritmos de alimentación y como sincronizador de los ritmos endógenos.
+- Influencia indirecta en otros factores como fotosíntesis, Oxigeno disuelto, pH...
+- LA TEMPERATURA
+- Regula la actividad alimentaria por su influencia en el metabolismo. Relacionado con la luz
+- LA MAREA. Fundamental en los sistemas intermareales y sublitorales
+- TURBIDEZ DEL AGUA
+
+Existe una sincronía entre la época de mayor abundancia del recurso, la mayor intensidad de alimentación y la reproducción.
+
+**RITMOS DIARIOS:**
+
+Dependen de la sucesión DIA-NOCHE a lo largo de 24 horas
+La alimentación puede ser:
+- Ritmo unimodal: un máximo de actividad en 24 h
+- Ritmo bimodal: dos máximos
+- Arrítmica: rara y pasajera.
+* Condiciones artificiales
+* Latitudes septentrionales
+
+RITMOS ESTACIONALES: Dependen de la sucesión de las estaciones del año (Tª, alimento accesible y ciclo reproductor). Definidos por la abundancia, accesibilidad y tamaño del recurso alimentario. Se acentúan con la latitud, al ser más marcadas las estaciones. Con máximos en verano (aunque no siempre) y mínimos en invierno y fases intermedias según Tª.
+
+**Cuantificación: volumen o masa.**
+
+![alt text](<imagenes-4-curso/captu-9.4-pesc.png>)
+
+**Mñetodo numérico:**
+
+![alt text](<imagenes-4-curso/captu-9.5-pesc.png>)
+
+![alt text](<imagenes-4-curso/captu-9.6-pesc.png>)
 
