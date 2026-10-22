@@ -222,9 +222,27 @@ Ejemplo campaña -> <1 = R > P (= zona heterotrófica) y viceversa.
 
 El Krill (fundamentalmente Euphausia superba) Es el nodo principal de la red trófica antártica. Es una especie que forma enjambres o bancos, como lo hacen E. crystallorophias y Thysanoessa macrura más cerca de la plataforma o el copépodo Calanus tonsus. Esto facilita el aprovechamiento por grandes micrófagos como los cetáceos mistacocetos o la foca cangrejera (crabeater seal). Especies similares que no forman enjambres como E. triacantha no forman parte de la dieta de los micrófagos.
 
+Origen de la cadena trófica centrado en el bacalao -> filtrador de plancton, vive cerca del fondo.
 
+Gremios (guilds) -> Especies que de alguna manera viven asociadas al mismo habitat y comen alimentos parecidos.
 
+**Adaptaciones:**
 
+A la fuerte estacionalidad y las bajas temperaturas
+- Ciclos de vida con migraciones verticales ontogenéticas (en lugar de diarias).
+- Migraciones de los organismos mayores cambiando de latitud con las estaciones.
+- Longevidad, crecimiento lento, metabolismo bajo, gran tamaño
+- Reservas abundantes, grasas, ésteres céricos
+- Comportamiento trófico adaptable. Ej Acartia longiremis (herbívoro en superficie en verano y carroñero-depredador en profundidad en invierno)
 
+En el intermareal el estrés causado por las bajas temperaturas es mucho mayor que en la propia columna de agua, ya que las temperaturas oscilan mucho más. Mientras que en el agua es raro que la temperatura descienda de -2 ºC, en el aire no es raro que se pase a -20 ºC o menos. 
+
+No obstante, algunos organismos, como la lapa Nacella pueden sobrevivir algún tiempo en emersión si la temperatura no desciende mucho. Para ello, Nacella se recubre de una espesa capa de mucus. Esta lapa puede vivir unos 100 años, siendo la longevidad una característica compartida con otros organismos, de lento crecimiento y tardía madurez reproductiva. También es usual encontrar tamaños mayores a especies equivalentes de otra latitud.
+
+En la columna de agua la temperatura varía menos, pero sigue habiendo regiones de aguas con temperatura por debajo del punto de congelación del agua de los tejidos de peces por ejemplo…
+
+**Adaptaciones de peces a la baja temperatura:**
+
+El consumo basal de peces polares es mayor del esperado para es  temperatura debido al gasto energético adicional que representan los mecanismos de adaptación. El peligro principal es el de congelación de los fluidos corporales. La sangre de teleósteos tiene una salinidad de aproximadamente 1/3 de la del agua de mar (recuérdese recta de puntos de congelación respecto a salinidad). Por ello, el agua de mar se congela sobre -1.8 ºC pero la sangre se congelaría tan solo a -0.5 ºC. Una mayor concentración de solutos haría descender el punto de congelación (PC) (p.ej. Cl Na, urea, potasio, glucosa, aminoácidos…) pero esto solo es responsable de un 40% del descenso del P.C. Hay familias de peces especialmente adaptados a la baja temperatura e incluso pueden tocar el hielo sin congelarse (Nototénidos o Peces de hielo) gracias a la acción anticongelante de glucoproteínas u otros péptidos presentes en la sangre. Se piensa que impide la alineación y formación de cristales de hielo. Se sintetizan en el hígado y vienen a ser un 3% de las proteínas presentes en la sangre. Otros peces (como los Caníctidos) presentan muy poca hemoglobina o pigmentos transportadores de oxígeno, las branquias más irrigadas, un mayor porcentaje de respiración cutánea y más volumen sanguíneo. Esto solo es sostenible en aguas frías y, de hecho, los peces más especializados del antártico no pueden sobrevivir a más de 4-5 ºC por lo que la convergencia AA se convierte en una barrera biogeográfica muy eficaz.
 
 </div>
