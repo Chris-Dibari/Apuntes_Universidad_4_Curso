@@ -203,3 +203,13 @@ Grado de disociación puesto que se trabaja con la constante de disociación. Ta
 
 ![alt text](<imagenes-4-curso/captu-3.15-oqa.png>)
 
+$F'_G=a+b*v$
+$F'_G=0 -> v=v_e=-a/b$
+
+**Alcalinidad de carbonato:** 
+
+![alt text](<imagenes-4-curso/captu-3.16-oqa.png>)
+
+$B_T$ aprox 0,43 mM -> La concentración de borato supone un 1% de la alcalinidad total.
+
+### Intercambio de $CO_2$ a través de la interfase atmósfera-océano
