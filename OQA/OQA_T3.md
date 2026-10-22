@@ -163,5 +163,26 @@ Establecer unas pautas que sirva de condiciones generales: se consideran en las 
 
 $A_T$ = [$HCO_3^-$]+ 2[$CO_3^{2-}$]+[$B(OH)_4^-$]+[$HPO_4^{2-}$]+ 2[$PO_4{3-}$] + [$SiO(OH)_3^-$] +[$NH_3$]+[$HS^-$] + 2[$S_2^-$] + [$OH^-$] - [$HSO_4^-$] - [$HF$]-[$H_3PO_4$]-[$H^+$]
 
+Simplificación para el sistema oceánico: la sensibilidad del medio analítico es de más/menos 1 micromolar (precisión del método).
+Las concetraciones analíticas en sw de fosfato, silicato y amonio son < 10-20 micromolar. Además, no se encuentra sulfuro puesto que la mayoría se encuentra en condiciones óxicas. Por tanto la expresión queda simplificada:
 
+$A_T=[HCO_3^-]+2[CO_3^{2-}]+[B(OH)_4^-]$
+
+Alcalinidad orgánica = Contribución a la alcalinidad que tienen las especies orgánica debida a esas especies que se forman en el momento en que añado ácido para la valoración (se resta a la alcalinidad medida para obtener la alcalinidad total).
+
+**Medidas de alcalinidad:** Se coge cierto volumen de sw (cuanto más mejor) y se realiza una valoración potenciométrica (medir el potencial cada vez que se añada ácido a la muestra), concretamente se utiliza la de punto final (se aáde ácido hasta llegar a un punto de potencial final que es cuando se deja de añadir ácido).
+Curva con dos puntos de inflexión: el primero indica la cantidad de ácido que se ha tenido que añadir para que todo el carbonato presente se transforme en bicarbonato. El 2º punto de inflexión es el que interesa para la alcalinidad total -> cantidad de ácido que he tenido que añadir a la muestra para que todo el bicarbonato y carbonato se transformen en $CO_2$, a partir de ese punto todo el ácido añadido está en exceso.
+
+![alt text](<imagenes-4-curso/captu-3.11-oqa.png>)
+
+Se tiene que $A_T*V_0=C_A*V_e$
+
+Yo conozco la cantidad de muestra y el volumen inicial, me falta conseguir el $V_e$
+
+- Método diferencial: representar el delta de potencial / delta del volumen frente al volumen de ácido que se ha añadido. $ΔE/ΔV$ frente a $V_{HCl}$
+- Método de Gran: algoritmo matematico que me sirve para obtener el volumen de equivalencia para cualquier valoración potenciométrica. Se define una función arbitraria (sin unidades) llamada $F'$ que consiste en linearizar la parte ácida de la curva (la que la cantidad de ácido está en exceso). Al representarla frente al volumen de equivalencia tiene un comportamiento lineal y cuando su valor ($F' = 0$) será igual al volumen de equivalencia.
+
+**Obtención de la función de Gran:** 
+
+![alt text](<imagenes-4-curso/captu-3.12-oqa.png>)
 
