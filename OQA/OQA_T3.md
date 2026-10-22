@@ -150,7 +150,18 @@ El otro mecanismo es mucho más intenso (mayor capacidad de regulación del pH) 
 
 ### 4. Concepto de alcalinidad y su determinación experimental
 
-La alcalinidad total es una magnitud experimental, que se define como la cantidad de ácido fuerte necesaria para neutralizar 1 kg de agua de mar hasta un punto final correspondiente a la formación de $CO_2$ a partir del ion bicarbonato. La valoración ácida del agua de mar no es un procedimiento específico para el carbono inorgánico y participan todos los equilibrios ácido-base presentes.
+
+La alcalinidad total es una magnitud experimental, que se define como la cantidad de ácido fuerte **necesaria para neutralizar** 1 kg de agua de mar hasta un punto final correspondiente a la formación de $CO_2$ a partir del ion bicarbonato. La valoración ácida del agua de mar no es un procedimiento específico para el carbono inorgánico y participan todos los equilibrios ácido-base presentes. La alcalinidad es muy fácil de medir. La alcalinidad total se define como:
 
 $A_T$ = [Bases débiles] - [Ácidos débiles protonados] + [$OH^-$] - [$H^+$]
+
+Establecer unas pautas que sirva de condiciones generales: se consideran en las reacciones ácido-base donadores de protones todas las especies cuyas constantes de disociación sean mayores que $K'>10^{-4.5}$. Los aceptores de protones tendrán $K'< 10^{-4.5}$.
+
+![alt text](<imagenes-4-curso/captu-3.10-oqa.png>)
+
+**Definición exacta de la alcalinidad total:**
+
+$A_T$ = [$HCO_3^-$]+ 2[$CO_3^{2-}$]+[$B(OH)_4^-$]+[$HPO_4^{2-}$]+ 2[$PO_4{3-}$] + [$SiO(OH)_3^-$] +[$NH_3$]+[$HS^-$] + 2[$S_2^-$] + [$OH^-$] - [$HSO_4^-$] - [$HF$]-[$H_3PO_4$]-[$H^+$]
+
+
 
