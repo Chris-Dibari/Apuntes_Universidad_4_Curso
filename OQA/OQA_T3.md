@@ -109,7 +109,7 @@ La expresión es utilizada para pasar de la escala NBS a la escala total (mucha 
 Cálculo del coeficiente: coge una solución de calibración de la escala total (disoluciones tamponadas) de la cual conoce el pH. Se mide en el pHimetro de escala NBS y asi se tiene un criterio de comparación. Esto sirve para poder encontrar la forma de comparar datos.
 La escala no es ideal para sw, pero siempre que la utilice se puede pasar a escala total, y también a escala libre.
 
-La escala libre son moles por kg de agua (se expresa en molal por kg de agua). 
+La escala libre son moles por kg de agua (se expresa en molal por kg de agua) Es la única escala que se expresa en molal. 
 
 ![alt text](<imagenes-4-curso/captu-3.6-oqa.png>)
 
@@ -131,6 +131,26 @@ Se definen como sigue:
 
 **Relación entre las escalas total y libre:**
 
+![alt text](<imagenes-4-curso/captu-3.8-oqa.png>)
 
+**pH espectrofotométrico:**
 
+En la obtención de pH por técnicas espectofotométricas los valores del pH son determinados mediante la adición al agua de mar de un indicador coloreado. Generalmente se suelen emplear indicadores como el azul de timol, m-cresol púrpura o el rojo de cresol. La precisión del valor del pH obtenida con esta técnica llega a ser de ± 0.0004 (Clayton y Byrne, 1993), frente a valores típicos de ± 0.003 obtenidos con técnicas potenciométricas (Furhmann y Zirino, 1988).
+
+### 3. Mecanismos de regulación del pH en los océanos
+
+El pH del agua de mar varía entre 7,95-8,35 (muy pequeña) y se considera un pH promedio de 8,15. Por ello se dice que el pH está tamponado. El hecho de que practicamente no varíe a pesar de la gran cantidad de reacciones ácido-base que se tienen se debe a 2 procesos a distintas escala de tiempo:
+
+1. Sistema de pH fluctuante: se produce en la **superficie del océano** y en una **escala de tiempo muy corta**. Se debe a la capacidad de interconversión de las especies del carbónico (cambian de una a otra). En el sw el C_inorg disuelto es de aprox. 2,3 mM y es = [$HCO_3^-$] + [$CO_3^{2-}$] + [$CO_2$]. En el sw la cantidad de tampón que se debería añadir es la cantidad de ácido-base que se añadiría para que el pH varíe de una unidad. También se producen procesos en la interfase océano-atm (intercambio de $CO_2$) y los procesos de disolución de $CACO_3$. Es un mecanismo que permite que no varíe el pH a nivel **local** (ej, entrada de $CO_2$ de la atmósfera, entradas por los ríos...).
+
+2. Sistema de pH estático: se produce en las aguas profundas en contacto directo con el sedimento, tiene escalas largas (hasta siglos). Se debe al interacción de las arcillas con los iones $H^+$ y bicarbonato. Se produce la regulación por dos formas: en las proximidades del sedimento gracias al Na procedente de las arcillas con los iones en disolución (proceso limitado a la superficie del sedimento).
+El otro mecanismo es mucho más intenso (mayor capacidad de regulación del pH) y se debe al cambio de las arcillas de un tipo de mineral a otro -> transformación de las arcillas. Ej. típicos: transformación de a mica en caolinita (va a hacer que el pH aumente puesto que retira protones), formación de la sepiolita a partir de la sílice amorfa de los esqueletos de las diatomeas (libera protones = acidificación del medio).
+
+![alt text](<imagenes-4-curso/captu-3.9-oqa.png>)
+
+### 4. Concepto de alcalinidad y su determinación experimental
+
+La alcalinidad total es una magnitud experimental, que se define como la cantidad de ácido fuerte necesaria para neutralizar 1 kg de agua de mar hasta un punto final correspondiente a la formación de $CO_2$ a partir del ion bicarbonato. La valoración ácida del agua de mar no es un procedimiento específico para el carbono inorgánico y participan todos los equilibrios ácido-base presentes.
+
+$A_T$ = [Bases débiles] - [Ácidos débiles protonados] + [$OH^-$] - [$H^+$]
 
