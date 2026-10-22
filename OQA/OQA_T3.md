@@ -180,9 +180,28 @@ Se tiene que $A_T*V_0=C_A*V_e$
 Yo conozco la cantidad de muestra y el volumen inicial, me falta conseguir el $V_e$
 
 - Método diferencial: representar el delta de potencial / delta del volumen frente al volumen de ácido que se ha añadido. $ΔE/ΔV$ frente a $V_{HCl}$
-- Método de Gran: algoritmo matematico que me sirve para obtener el volumen de equivalencia para cualquier valoración potenciométrica. Se define una función arbitraria (sin unidades) llamada $F'$ que consiste en linearizar la parte ácida de la curva (la que la cantidad de ácido está en exceso). Al representarla frente al volumen de equivalencia tiene un comportamiento lineal y cuando su valor ($F' = 0$) será igual al volumen de equivalencia.
+- Método de Gran: algoritmo matematico que me sirve para obtener el volumen de equivalencia para cualquier valoración potenciométrica. Se define una función arbitraria (sin unidades) llamada $F'$ que consiste en linearizar la parte ácida de la curva (la que la cantidad de ácido está en exceso). Al representarla frente al volumen de de ácido que he ido añadiendo, tiene un comportamiento lineal y cuando su valor será igual al volumen de equivalencia ($F' = 0$).
 
-**Obtención de la función de Gran:** 
+**Obtención de la función de Gran:** se aplican 3 pasos.
+
+1. Reconocimiento de las reacciones principales.
 
 ![alt text](<imagenes-4-curso/captu-3.12-oqa.png>)
+
+En el circulo azul es la zona ácida. El ácido en exceso produce un aumento de concentración de las 3 especies indicadas. 
+
+2. Balance de masa referido a ese volumen de equivalencia. 
+El número de moles que tengo de las tres especies anteriores es igual al exceso de número de moles que tengo de iones $H^+$ (del ácido). La concentración total es la suma de las concentraciones que tenemos de las tres especies. Se obtiene la función de Gran.
+
+![alt text](<imagenes-4-curso/captu-3.13-oqa.png>)
+
+3. Aplicación de la ecuación de Nernst.
+
+![alt text](<imagenes-4-curso/captu-3.14-oqa.png>)
+
+<br>
+
+![alt text](<imagenes-4-curso/captu-3.15-oqa.png>)
+
+
 
