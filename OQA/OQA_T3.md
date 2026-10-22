@@ -199,9 +199,13 @@ El número de moles que tengo de las tres especies anteriores es igual al exceso
 
 ![alt text](<imagenes-4-curso/captu-3.14-oqa.png>)
 
+Grado de disociación puesto que se trabaja con la constante de disociación. También se puede trabajar con la constante de asociación.
+
 <br>
 
 ![alt text](<imagenes-4-curso/captu-3.15-oqa.png>)
+
+
 
 
 
