@@ -176,3 +176,14 @@ RANGO DE CRECIMIENTO: ω es el rango de crecimiento próximo a $t_0$, es un par�
 
 ![alt text](<imagenes-4-curso/captu-13.12-peces.png>)
 
+Existen otras especies animales cuyo crecimiento no presenta un modelo asintótico, sobretodo en el caso de los cefalópodos. Entre las expresiones del crecimiento más usual es en estos casos podemos encontrar: la lineal, la logaritmica, la exponencial, la doble exponencial.
+
+![alt text](<imagenes-4-curso/captu-13.13-peces.png>)
+
+![alt text](<imagenes-4-curso/captu-13.14-peces.png>)
+
+C = la amplitud de la oscilación, generalmente entre 0 y 1.
+- Cuando C= 0 no hay variación estacional y esta expresión se transforma en la expresión general de VB.
+- Cuando C= 1 la tasa de crecimiento en invierno es 0.
+
+
