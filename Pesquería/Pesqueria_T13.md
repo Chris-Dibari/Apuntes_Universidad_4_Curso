@@ -186,4 +186,6 @@ C = la amplitud de la oscilación, generalmente entre 0 y 1.
 - Cuando C= 0 no hay variación estacional y esta expresión se transforma en la expresión general de VB.
 - Cuando C= 1 la tasa de crecimiento en invierno es 0.
 
+![alt text](<imagenes-4-curso/captu-13.15-peces.png>)
 
+</div>
