@@ -146,3 +146,9 @@ En base a esta hipótesis, las poblaciones que se encuentran en hábitats distin
 
 ![alt text](<imagenes-4-curso/captu-13.6-peces.png>)
 
+![alt text](<imagenes-4-curso/captu-13.7-peces.png>)
+
+MODELO DE VON BERTALANFFY: Los valores de k en la naturaleza varían.
+
+![alt text](<imagenes-4-curso/captu-13.8-peces.png>)
+
