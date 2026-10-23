@@ -140,3 +140,9 @@ En base a esta hipótesis, las poblaciones que se encuentran en hábitats distin
 
 ![alt text](<imagenes-4-curso/captu-13.4-peces.png>)
 
+**Modelo de crecimiento anual:**
+
+![alt text](<imagenes-4-curso/captu-13.5-peces.png>)
+
+![alt text](<imagenes-4-curso/captu-13.6-peces.png>)
+
