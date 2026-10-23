@@ -163,3 +163,16 @@ CUANTO MAYOR SEA SU VALOR LA POBLACIÓN CRECE MÁS RÁPIDO, ALCANZA SU TALLA MÁ
 
 ![alt text](<imagenes-4-curso/captu-13.9-peces.png>)
 
+![alt text](<imagenes-4-curso/captu-13.10-peces.png>)
+
+![alt text](<imagenes-4-curso/captu-13.11-peces.png>)
+
+Al efectuar este análisis por separado con cada familia de peces se reduce la varianza, puesto que la mayoría de ellas son, ya sea predominantemente pelágicas o predominantemente demersales. Para la familia Scombridae (caballa y atún).
+
+Las diferencias en el crecimiento entre especies de longevidad diferente pueden ser comparadas mediante los parámetros k, Peso (P), L
+
+Gallucci & Quinn (1979):
+RANGO DE CRECIMIENTO: ω es el rango de crecimiento próximo a $t_0$, es un parámetro estable, más próximo a la distribución normal que j y $L_{inf}$ por separado.
+
+![alt text](<imagenes-4-curso/captu-13.12-peces.png>)
+
