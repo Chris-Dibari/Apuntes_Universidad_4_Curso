@@ -55,5 +55,39 @@ Para estimar la edad se tiene en cuenta también la abundancia por clases de eda
 
 1. Aproximación empírica basada en observación directa -> se captura el pez y se marca, volviendose a liberar y recuperandolo años despues para ver como ha crecido. Esto aporta info adicional sobre los movimientos del pez (desplazamientos) => método de captura-recaptura.
 2. Aproximación estadística (indirecto) -> obtener distribuciones de frecuencias de longitudes => histograma. Este último posee modas que nos pueden indicar las clases de edad (más complicado). Cuando somos capaces de visualizar la distribución normal, tenemos las clases de edad.
-3. Mediante estructuras -> aproximación anatómicas.
+
+Una aproximación estadística basada en distribuciones de frecuencias de longitudes.
+
+![alt text](<imagenes-4-curso/captu-13.1-peces.png>)
+
+La pregunta es ¿es posible separar las distintas cohortes que constituyen una muestra sin utilizar técnicas de determinación de edades por medio de estructuras duras?
+
+- Dependiendo de las características reproductivas y del crecimiento de cada especie, muchos peces se reproducen una vez al año y tienen un periodo de reproducción muy corto, lo cual hace que las cohortes sean de tallas muy similares y bien marcadas.
+- En ciertas condiciones si es posible, excepto en aquellas partes en que las frecuencias de tallas de las diferentes cohortes se superponen demasiado.
+- La sobreposición en la composición de tallas de las cohortes de los peces mas grandes (que equivale a los peces mas viejos) limita claramente el análisis.
+
+Este es un buen método para peces menores de 4 o 5 años. Los componentes modales son difíciles de definir en especies longevas o en aquellas con desove y reclutamiento continuo o prolongado en el año.
+
+No hay escala de tiempo real, las edades son relativas.
+- MÉTODOS DE DETERMINACIÓN DE LA EDAD
+- MÉTODOS ESTADÍSTICOS, POBLACIONALES
+- METODOS DE LAPIZ Y PAPEL
+• Método de PETERSEN
+• Método de HARDING (1949)
+• Método de CASSIE
+• Método de BHATTACHARYA
+• Método de PAULY Y CADDY (1985)
+• Método del Análisis de progresión de clases modales
+• Método Integrado
+- METODOS COMPUTACIONALES
+• NORMSEP (Normal Distribution Separation)
+• ENORMSEP
+• ELEFAN I (Electronic Length Frequency Analysis)
+
+![alt text](<imagenes-4-curso/captu-13.2-peces.png>)
+
+
+
+
+3. Mediante estructuras -> aproximación anatómicas. Una aproximación anatómica basada en datos de peces individuales a partir de sus estructuras duras como ser escamas, otolitos, vértebras, huesos operculares, radios duros de las aletas, espinas. Se basan en que las tallas de los individuos de una determinada clase de edad responde a una distribución normal y por lo tanto, la media mediana y moda coinciden, por lo que un muestreo suficientemente representativo seguirá una distribución multimodal, en la que cada moda se corresponde con una clase de edad.
 
