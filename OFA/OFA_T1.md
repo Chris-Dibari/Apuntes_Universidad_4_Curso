@@ -64,6 +64,16 @@ Re-análisis -> serie temporal del pasado en el cual se incorporan toda la info 
 - Nivel 3. Datos georreferenciados (mallados)
 - Nivel 4. Salida de modelo -> tienen en cuenta los maps without gaps.
 
+Importancia de la resolución (tanto espacial como temporal)
+
+Resolución 2,5ºx2,5º (1 valor de T cada x km) -> 1º = 111km (en términos de meridianos). Los paralelos están afectados por la latitud.
+1 milla nautica = 1 minuto de arco meridiano -> 1º = 60 millas nauticas.
+
+**Climatologías:** estado medio de la atmósfera y el océano y sus variabilidades dominantes. El tiempo es el estado instantáneo (variaciones que pueda haber).
+Normal climática -> promedios temporales computados durante un periodo uniforme y relativamente largo, de al menos 3 decadas consecutivas. Las 3 decadas se debe a que la serie sea lo suficientemente pequeña para que las tendencias sean representativas y suficientemente grande para que las oscilaciones internas del clima no influyan en los estadísticos.
+
+
+
 
 
 
