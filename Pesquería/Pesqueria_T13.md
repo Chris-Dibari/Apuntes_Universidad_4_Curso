@@ -152,3 +152,14 @@ MODELO DE VON BERTALANFFY: Los valores de k en la naturaleza varían.
 
 ![alt text](<imagenes-4-curso/captu-13.8-peces.png>)
 
+**Velocidad de crecimiento:**
+
+- CRECIMIENTO LENTO: BAJOS VALORES DE k INDEPENDIENTEMENTE DE LA TALLA MÁXIMA QUE PUEDA ALCANZAR
+- CRECIMIENTO RÁPIDO: ALTOS VALORES DE k INDEPENDIENTEMENTE DE LA TALLA MÁXIMA QUE PUEDA ALCANZAR.
+
+Merluccius merluccius, tiene un crecimiento lento (k pequeña) pero crece mucho de un año al siguiente. El crecimiento lento supone que tarda en alcanzar su talla máxima pero no supone valor alguno en los incrementos de la magnitud medida de una año a otro.
+
+CUANTO MAYOR SEA SU VALOR LA POBLACIÓN CRECE MÁS RÁPIDO, ALCANZA SU TALLA MÁXIMA ANTES. PERMITE COMPARAR STOCK CON IGUAL $L_{inf}$
+
+![alt text](<imagenes-4-curso/captu-13.9-peces.png>)
+
