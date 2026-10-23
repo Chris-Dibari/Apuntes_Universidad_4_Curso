@@ -131,3 +131,12 @@ En base a esta hipótesis, las poblaciones que se encuentran en hábitats distin
 
 ![alt text](<imagenes-4-curso/captu-13.3-peces.png>)
 
+**Utilización del retrocalculo:**
+
+1. Calcular longitudes a edades en que raramente son observados
+2. Comparar el crecimiento entre sexos
+3. Comparar el crecimiento de distintas cohortes
+4. Comparar el crecimiento de distintas poblaciones.
+
+![alt text](<imagenes-4-curso/captu-13.4-peces.png>)
+
