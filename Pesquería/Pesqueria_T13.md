@@ -86,8 +86,48 @@ No hay escala de tiempo real, las edades son relativas.
 
 ![alt text](<imagenes-4-curso/captu-13.2-peces.png>)
 
+**Método del papel semilogarítmico:**
 
+Consiste en transformar las frecuencias absolutas en frecuencias relativas acumuladas.
+- Permite separar las distintas distribuciones normales dentro de una distribución multimodal, que están separadas gráficamente por puntos de inflexión, puntos donde cambia la tendencia de la pendiente.
+- Cada distribución normal se separa en rectas que al representar permiten obtener el 50% (valor de abcisas al que le corresponde una valor de X, de talla, que se corresponde con la talla media de esa edad).
+- De igual manera se calcula la desviación tipica, con aquellos puntos del eje de abcisas correspondientes a los valores de ordenada de 15,87 y 84,13.
 
+**PROGRESIÓN MODAL** -> Análisis de la variación, del desplazamiento de la moda de la distribución de tallas de las capturas a lo largo del tiempo.
 
 3. Mediante estructuras -> aproximación anatómicas. Una aproximación anatómica basada en datos de peces individuales a partir de sus estructuras duras como ser escamas, otolitos, vértebras, huesos operculares, radios duros de las aletas, espinas. Se basan en que las tallas de los individuos de una determinada clase de edad responde a una distribución normal y por lo tanto, la media mediana y moda coinciden, por lo que un muestreo suficientemente representativo seguirá una distribución multimodal, en la que cada moda se corresponde con una clase de edad.
+
+**Otros métodos de determinación de la edad:**
+
+ANÁLISIS DE MARCAS ANUALES EN ESTRUCTURAS DURAS DE CRECIMIENTO MARGINAL:
+￼
+- En el año 1759 el reverendo Hans Hederström analizó las vértebras de un pez teleósteo.
+- El primer estudio serio fue publicado en escamas de carpas hecho por Hoffbauer en 1898.
+
+Las escamas son estructuras exoesqueléticas, láminas delgadas, que se va incrementando en tamaño por oposición de círculos concéntricos de osificación. Son muy resistentes y flexibles y están dispuestas oblicuamente en el sentido dorsoventral, siguiendo la disposición de la musculatura lateral.
+
+**Otolitos:** Mas densos que el resto del cuerpo, sensibles a:
+Cambios de posición y a la fuerza de gravedad --> EQUILIBRIO
+Las ondas sonoras -> RECEPCIÓN DEL SONIDO
+* En CONDRICTIOS: Pequeños cristales de carbonato cálcico:
+
+Matriz gelatinosa
+* En OSTEICTIOS: Estructura ósea con una matriz proteica
+- MEMBRANA OTOLITICA, gelatinosa
+- EPITELIO SENSORIAL O MACULA.
+
+- El otolito crece a partir de un núcleo central de materia orgánica (primordium) que proporciona un soporte que favorece la nucleación de los cristales de aragonito.
+- En un otolito se distinguen bandas translúcidas, o unidades continuas, alternadas con bandas opacas o discontinuas. Un año de crecimiento está formado por una banda opaca (verano) y otra traslúcida (invierno).
+
+El crecimiento del otolito es cíclico y está sujeto a ritmos circadianos relacionados con el metabolismo, y sincronizados con factores ambientales externos:
+
+• En épocas de crecimiento favorable, la zona hialina es ancha y bien diferenciada, y los microscristales delgados.
+• En periodos de crecimiento lento, el microincremento es más fino y los microcristales más compactos.
+
+- El 1ºanillo bien marcado se deposita a un determinado tiempo comprendido entre la eclosión del huevo y el comienzo de la alimentación activa, dependiendo de la especie. Acompañando al Calcio, existen trazas de metales (Sr, Ba, Mg, Cd, Co, Cu, Zn, Na, K, etc...) y otros no metálicos (Si, P, S, B, etc...).
+- La incorporación está relacionada con los cambios fisiológicos en el desarrollo y con el medio ambiente (cambios de Tª, alimentación, niveles de nutrientes y contaminantes disueltos en agua de mar, etc.). Por ejemplo la relación Sr/Ca parece estar inversamente relacionada con la Tª.
+
+En base a esta hipótesis, las poblaciones que se encuentran en hábitats distintos deben caracterizarse por la diferente composición elemental de los otolitos. Este criterio ha sido utilizado para la discriminación entre distintos "stocks" y trazar la historia medioambiental del pez.
+
+![alt text](<imagenes-4-curso/captu-13.3-peces.png>)
 
