@@ -63,3 +63,8 @@ Hay una enorme cantidad de ríos que vierten agua al Báltico. Tiempo de residen
 
 La zona de salinidad de augas del mar del Norte se ve antes del Darb Sill (estrechos de DInamarca) vemos el cambio de salinidad y una vez que entramos en el Báltico se mantiene por debajo de 10, pero en las zonas más profundas vemos salinidades más elevadas. La haloclina es una estructura bastante sólida, cambia poco en el tiempo, es bastante permanente. Las aguas superficiales son aguas poco saladas que salen luego al mar del Norte y las aguas más saladas del fondo son aguas del mar del Norte que van entrando y se van quedando en zonas más profundas. Por tanto, tendrá mayor tiempo de residencia este agua más salada.
 
+![alt text](<imagenes-4-curso/captu-4.5-oba.png>)
+
+En el Báltico las temperaturas son inferiores a 5ºC en invierno. En invierno la termoclina coincide con la haloclina. La temperatura se mantiene en general entre 5 y 7 ºC. En verano se emborrona mucho la superficie, porque pasa de 4ºC a 17ºC en muy poco espacio, es una termoclina estacional que aparece en verano y se rompe en invierno. En temperatura vemos que en invierno está todo bastante mezclado con temperaturas similares y en verano vemos que tenemos una termoclina estacional a 25 m. La salinidad se mantiene entre invierno y verano muy parecida. El mar Báltico suele estar en estado líquido pero en la Bahía de Botnia se forma una capa de hielo muy importante. También en el golfo de Finlandia y algo en el Mar de Botnia en la zona más altas.
+
+**Estacionalidad mar Báltico:** Marcada por un ciclo de congelación y fusión del hielo en superficie. Marcados cambios de temperatura. Importancia del proceso de formación de hielo en el ciclo estacional del Norte.
