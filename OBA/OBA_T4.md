@@ -55,3 +55,11 @@ Como ejemplos de mares regionales que ayudan a entender estas generalidades se h
 
 Hay una enorme cantidad de ríos que vierten agua al Báltico. Tiempo de residencia del agua profunda: T = V/F = 21000/475 = 44 años. El vertido de aguas del Báltico al salir al mar del Norte suber a lo largo de la costa de Noruega haciéndose cada vez más salado.
 
+![alt text](<imagenes-4-curso/captu-4.3-oba.png>)
+
+**Salinidad en el Mar del Norte:** Vemos que en aguas más o menos superficiales el agua que sale tiene algo más de 30 de salinidad y a medida que sube se saliniza un poco. Vemos que es un agua más dulce que lo que normalmente es en el mar del norte. El agua profunda es más salada y es la que entra en el Báltico desde el mar del Norte.
+
+![alt text](<imagenes-4-curso/captu-4.4-oba.png>)
+
+La zona de salinidad de augas del mar del Norte se ve antes del Darb Sill (estrechos de DInamarca) vemos el cambio de salinidad y una vez que entramos en el Báltico se mantiene por debajo de 10, pero en las zonas más profundas vemos salinidades más elevadas. La haloclina es una estructura bastante sólida, cambia poco en el tiempo, es bastante permanente. Las aguas superficiales son aguas poco saladas que salen luego al mar del Norte y las aguas más saladas del fondo son aguas del mar del Norte que van entrando y se van quedando en zonas más profundas. Por tanto, tendrá mayor tiempo de residencia este agua más salada.
+
