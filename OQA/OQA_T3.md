@@ -213,3 +213,10 @@ $F'_G=0 -> v=v_e=-a/b$
 $B_T$ aprox 0,43 mM -> La concentración de borato supone un 1% de la alcalinidad total.
 
 ### Intercambio de $CO_2$ a través de la interfase atmósfera-océano
+
+Normalmente se supone el sistema en equilibrio, el $CO_2$ en el sw y en la atmósfera siguen un equilibrio dinámico: $[CO_2]_{g} <-> [CO_2]_{ac}$
+En la naturaleza se tienen procesos que pueden romper dicho equilibrio, esto provoca que se produzca un flujo de gas desde mayores concentraciones hasta menores.
+Ejemplos de fenómenos son: intensa actividad fotosintetica, un upwelling de masas de aguas fría ricas en $CO_2$.
+
+![alt text](<imagenes-4-curso/captu-3.17-oqa.png>)
+
