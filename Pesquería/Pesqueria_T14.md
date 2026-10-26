@@ -119,3 +119,25 @@ B. PUESTA EN LUGARES ESPECIALMENTE ELEGIDOS:
 - Machos y/o hembras excavan en el fondo y depositan los huevos fecundados y abandonan la puesta.
 - Se deposita en conchas, hendiduras, agujeros...
 
+**II.- CON CUIDADOS PARENTALES:** Los parentales o progenitores no abandonan la puesta.
+
+Existen distintos niveles en el cuidado
+
+A. Eligen sustratos adecuado pero solo limpian, no construyen estructuras complejas específicas para depositar la puesta. Protegen de la predación.
+A. Constructores de nidos. Construyen estructuras adecuadas para depositar la puesta en:
+• Rocas
+• Arena (peligro de derrumbes)
+• Plantas
+• Otros (Anémonas, etc...)
+
+Estas especies se suelen caracteriza por:
+- Fuerte instinto de territorialidad
+- Cortejos mas o menos complicados
+C.1. Portadores de huevos
+C.2. Externos
+- Llevan los huevos en la boca
+- Tienen una especie de "marsupio"
+C.3 Internos
+- Ovoviviparos (Facultativos/Obligatorios)
+- Viviparos. (El 65 % de los elasmobranquios). Menor fecundidad pero aumenta la supervivencia.
+
