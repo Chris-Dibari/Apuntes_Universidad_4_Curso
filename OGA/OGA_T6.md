@@ -69,3 +69,16 @@ Se producen ácidos que favorecen la alteración de los basaltos y los gabros ->
 Esquemas: minerales que reaccionan transformandose en otros minerales. 
 Las T alcazan 400-500ºC. Se forman anfíboles, talco (filosilicato), actinolita -> formación de minerales secundarios a partir de piroxeno y olivino.
 Conforme las reacciones avanzan el agua se hace mas calcica y menos sodica.
+
+**Tabla 15.6:** los ordenes de magnitud iguales implican que el flujo hidrotermal es de igual importancia que el flujo proveniente de los continentes. 
+
+**Input atmosférico:** es conceptualmente sencilla de entender, hace unos cuantos años se empezó a valorar más. Pluma de polvo => aerosoles naturales que se desplazan. El más importante es el polvo mineral (partículas muy finas provenientes del Sahara). También tienen importancia los aerosoles marinos (importantes en las zonas costeras) y los volcánicos, así como la emisión de partículas y gases de contaminación antrópica (en general provenientes de la biosfera, incluido los incendios por ejemplo).
+
+- Aerosoles primarios = emisiones directas de partículas al atmósfera  
+- Aerosoles secundarios = emisiones indirectas (por transformaciones de aerosoles primarios). Agregación de particulas, disolución en la atmósfera...
+
+Normalmente los tiempos de residencia son inferiores a una semana, luego ocurre deposición (proceso acelerado por lluvia), salvo en los aerosoles volcánicos, esos tiempos pueden ser muy largos y esto conlleva a varias consecuencias.
+
+![alt text](<imagenes-4-curso/captu-6.1-oga.png>)
+
+Importancia de la propagación del polvo en la PP.
