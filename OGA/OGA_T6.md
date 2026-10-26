@@ -87,3 +87,14 @@ Imagen proveniente del visor: https://av01-26-27.uca.es/moodle/mod/url/view.php?
 Depósito de aerosoles: ocurre por gravedad. Tanto de forma húmeda (mediante lluvua) como seca.
 D. Húmedo = partícula entra en contacto con el agua de la lluevia y puede disolvers en la atmósfera como elemento disuelto, puede pasar también que no sea soluble en el agua de lluvia y ser transportada hacia el mar (y ser soluble en dicho medio salino). En este último caso, la lluvia representaría solo el medio de transporte, para conseguir (o no) la disolución de particulas en el medio marino.
 
+Dato importante, conocer cuales son los metales traza de origen atmosférico que representan elevados porcentajes en el medio marino. Importante para conocer para cuales elementos el input atmosférico representa un medio de entrada relevante al medio marino.
+Mensaje: No se puede despreciar el input atmosférico de algunos elementos como entrada al medio marino.
+
+**Comparación de los flujos. Hidrotermal vs fluvial:**
+
+Por encima de la línea 1:1, son elementos que están controlados por los flujos hidrotermales, viceversa por debajo hay control de la fuente fluvial. Ej. Mn, Li, Fe van a tener importancia en los flujos hidrotermales. La línea 1:1 representa una zona visual en la que los input están igualados.
+
+
+
+
+</div>
