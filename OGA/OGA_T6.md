@@ -81,4 +81,9 @@ Normalmente los tiempos de residencia son inferiores a una semana, luego ocurre 
 
 ![alt text](<imagenes-4-curso/captu-6.1-oga.png>)
 
-Importancia de la propagación del polvo en la PP.
+Importancia de la propagación del polvo en la PP. 
+Imagen proveniente del visor: https://av01-26-27.uca.es/moodle/mod/url/view.php?id=16658
+
+Depósito de aerosoles: ocurre por gravedad. Tanto de forma húmeda (mediante lluvua) como seca.
+D. Húmedo = partícula entra en contacto con el agua de la lluevia y puede disolvers en la atmósfera como elemento disuelto, puede pasar también que no sea soluble en el agua de lluvia y ser transportada hacia el mar (y ser soluble en dicho medio salino). En este último caso, la lluvia representaría solo el medio de transporte, para conseguir (o no) la disolución de particulas en el medio marino.
+
