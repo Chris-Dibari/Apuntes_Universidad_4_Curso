@@ -228,3 +228,57 @@ Se verán las diferentes reacciones ácido-base y disolución en las que partici
 
 ![alt text](<imagenes-4-curso/captu-3.18-oqa.png>)
 
+![alt text](<imagenes-4-curso/captu-3.19-oqa.png>)
+
+![alt text](<imagenes-4-curso/captu-3.20-oqa.png>)
+
+El potencial estandar es un potencial químico contenido en una disolución hipotética igual a la unidad en el sw.
+Para un sw estándar (s = 35) vamos a considerar el sistema de referencia asimétrico (coef. actividad tiende a 1).
+Esto es porque su concentración es muy pequeña y las especies estudiadas van a tener error asociado muy pequeño.
+
+Sistema en eq -> potencial químico de los reactivo = potencial químico de los productos.
+
+Como varía la 1º cte de disociación:
+$CO_2+H_2O <-> HCO_3^-+H^+$ con la $K^*$ = 1º cte de disociación
+
+Al suponer que el sistema está en eq: pot.químico iguales (react-prod).
+También se puede despejar y llevar los 4 terminos a un lado e igualarlos a cero. 
+Escribimos cada uno de los potenciales asumiendo ln. 
+
+![alt text](<imagenes-4-curso/captu-3.21-oqa.png>)
+
+Se ha operado para poner a un lado los potenciales quimicos estandares y al otro lado el resto de las variables.
+
+![alt text](<imagenes-4-curso/captu-3.22-oqa.png>)
+
+Derivando el potencial quimico con respecto a la presión se tiene el volumen molar parcial. Cada derivada de los potenciales quimicos será igual a los volumenes molares parciales correspondientes. Seguimos estudiando como varía la cte con la presión:
+
+![alt text](<imagenes-4-curso/captu-3.23-oqa.png>)
+
+Vamos a seguir operando para eliminar los diferenciales: integración.
+Integramos la expresión desde 1 hasta un valor de presión P. Se obtiene la expresión que se suele utilizar para calcular la cte de disociación del carbónico para su variación con la P.
+
+Afecta mayor a la 1º cte de disociación que la segunda => mayor efecto de la P sobre las especies no ionicas como es el caso del $CO_2$.
+
+![alt text](<imagenes-4-curso/captu-3.24-oqa.png>)
+
+Ejemplo variación de la cte con la P (en condiciones determinadas de T, S y pH).
+
+**Especiación del carbono inorgánico**
+
+Se necesitan 2 parámetros experimentales (pH, $A_T$, Cl, $pCO_2$)
+El caso más frecuente es coger pH y $A_T$.
+
+![alt text](<imagenes-4-curso/captu-3.25-oqa.png>)
+
+En la ecuación de la alcalinidad se necesita igualar las cargas, por esto tiene el 2 delante.
+
+![alt text](<imagenes-4-curso/captu-3.26-oqa.png>)
+
+### 7. Precipitación de $CaCO_3$
+
+Hoy en día, debido a los procesos de acidificación y más fenomenos, se les está dando más importancia. 
+
+![alt text](<imagenes-4-curso/captu-3.27-oqa.png>)
+
+Las principales formas son de calcita y aragonito (se diferencian en su estructura pero tienen misma formulación química). 
