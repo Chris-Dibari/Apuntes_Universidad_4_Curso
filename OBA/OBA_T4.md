@@ -68,3 +68,14 @@ La zona de salinidad de augas del mar del Norte se ve antes del Darb Sill (estre
 En el Báltico las temperaturas son inferiores a 5ºC en invierno. En invierno la termoclina coincide con la haloclina. La temperatura se mantiene en general entre 5 y 7 ºC. En verano se emborrona mucho la superficie, porque pasa de 4ºC a 17ºC en muy poco espacio, es una termoclina estacional que aparece en verano y se rompe en invierno. En temperatura vemos que en invierno está todo bastante mezclado con temperaturas similares y en verano vemos que tenemos una termoclina estacional a 25 m. La salinidad se mantiene entre invierno y verano muy parecida. El mar Báltico suele estar en estado líquido pero en la Bahía de Botnia se forma una capa de hielo muy importante. También en el golfo de Finlandia y algo en el Mar de Botnia en la zona más altas.
 
 **Estacionalidad mar Báltico:** Marcada por un ciclo de congelación y fusión del hielo en superficie. Marcados cambios de temperatura. Importancia del proceso de formación de hielo en el ciclo estacional del Norte.
+
+La Bahía de Botnia, el Mar de Aland, los Golfos de Finlandia y Riga y los márgenes costeros del Norte son las zonas que quedan cubiertas de hielo en invierno. En conjunto el hielo llega a cubrir el 40-45% del Báltico, pero hay una gran variabilidad interanual (10-100%).
+El hielo que se forma en el norte no es igual que el del sur. Éste último se forma con agua más salada y es más poroso, soportando además más organismos asociados. Se calcula que por cada grado que aumente la temperatura media invernal, se reduciría en unos 45000 km2 la cubierta de hielo (la extensión mostrada en el gráfico es de unos 157000 $km^2$).
+
+**Relación temperatura-salinidad con puntos de congelación y de máxima densidad:** La temperatura de congelación del agua superficial no es la misma en las cercanías de Dinamarca que en Finlandia debido al cambio de salinidad (y tampoco es igual en un perfil vertical).
+Igualmente, hay que tener en cuenta que el agua más densa se tendría a unos 3° C en zonas más dulces al NE y tendiendo a -1,8 °C en SW (agua de mar).
+
+![alt text](<imagenes-4-curso/captu-4.6-oba.png>)
+
+![alt text](<imagenes-4-curso/captu-4.7-oba.png>)
+
