@@ -95,6 +95,7 @@ Mientras que la haloclina es permanente, la termoclina es estacional y más some
 Igualmente, la cubierta de hielo modifica la dinámica de las plumas de los ríos, disminuyendo su difusión y creando zonas dulces bajo la cubierta de hielo con aportes terrígenos que llevan asociada una comunidad diferenciada.
 
 **Renovación de aguas profundas:** En el Báltico y en otros mares y estuarios especialmente en cuencas con balance hidrológico positivo, se dan problemas de anozia en los fondos profundos. Esos problemas se relacionan con la escasa renovación de aguas profundas.
+Salinidad del Báltico es bastante más baja (salobre) con una s de aprox 8-9. Esto se debe a que hay gran aporte por precipitación y ríos (aguas dulces) y muy poca evaporación -> cuenca muy diluida.
 
 La entrada de aguas salobres de alta salinidad (formada por mezcla en las zonas profundas entre Kattegat y la cuenca principal) es discontinua. Depende de eventos meteorológicos (ej. tormentas con vientos de poniente) y presenta una alta variabilidad interanual.
 
