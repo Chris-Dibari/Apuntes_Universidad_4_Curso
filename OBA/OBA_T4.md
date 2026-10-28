@@ -79,3 +79,24 @@ Igualmente, hay que tener en cuenta que el agua más densa se tendría a unos 3�
 
 ![alt text](<imagenes-4-curso/captu-4.7-oba.png>)
 
+Ejemplo de cuerpo de agua dimictico: se forma hielo en aguas más dulce que la de mar.
+
+- Perfil A: todo comienza con una T = 3-4ºC. T que se mantiene desde superficie hasta al fondo (mezcla completa de la columna de agua). A medida que avanza el año se va calentando. Acumulación de líneas = calentamiento muy rápido -> de 6 a 11 aprox. Aparición de una termoclina, a medida que avanza la primavera la termoclina va profundizando.
+- Perfil B: principio de primavera hasta verano. Profundiza la termoclina.
+- Perfil C: de julio a agosto es el periodo más cálido.
+- Perfil D: desaparece la termoclina y se rompe la estratificación.
+- Perfil E: aparición de la cubierta de hielo (vuelva la estratificación de la columna de agua).
+
+Normalmente un perfil de T tiene T más altas arriba y más frias abajo, este perfil es al revés y se debe a la menor densidad del agua más dulce, que se va enfriando y permanece arriba.
+
+![alt text](<imagenes-4-curso/captu-4.8-oba.png>)
+
+Mientras que la haloclina es permanente, la termoclina es estacional y más somera. Todos los años se forma por encima de la haloclina en primavera y se rompe en otoño. Esta alternancia interviene sobre los ciclos de producción. También las entradas de nutrientes con el agua de ríos o desde la atmósfera fuerzan el funcionamiento del ecosistema. La cubierta de hielo recibe muchos aportes de materiales de la atmósfera que eventualmente podrían transformarse por efecto de la luz y ser luego aportados al agua en la fusión.
+Igualmente, la cubierta de hielo modifica la dinámica de las plumas de los ríos, disminuyendo su difusión y creando zonas dulces bajo la cubierta de hielo con aportes terrígenos que llevan asociada una comunidad diferenciada.
+
+**Renovación de aguas profundas:** En el Báltico y en otros mares y estuarios especialmente en cuencas con balance hidrológico positivo, se dan problemas de anozia en los fondos profundos. Esos problemas se relacionan con la escasa renovación de aguas profundas.
+
+La entrada de aguas salobres de alta salinidad (formada por mezcla en las zonas profundas entre Kattegat y la cuenca principal) es discontinua. Depende de eventos meteorológicos (ej. tormentas con vientos de poniente) y presenta una alta variabilidad interanual.
+
+![alt text](<imagenes-4-curso/captu-4.9-oba.png>)
+
