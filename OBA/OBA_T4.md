@@ -101,3 +101,8 @@ La entrada de aguas salobres de alta salinidad (formada por mezcla en las zonas 
 
 ![alt text](<imagenes-4-curso/captu-4.9-oba.png>)
 
+Cuando los puntos son positivos = representa $O_2$ y cuando son negativos están representando el sulfhidrico. Episodios de entrada de masas de aguas salinas -> curvas de oxígeno coinciden con las de salinidad. Las aguas provenientes de fuera poseen oxígeno. A una profundidad de 200 m hace falta mayor nivel de salinidad (-> densidad) los cambios que se visualizan a 100 m son más marcados. Líneas rojas = marcan aumento repentino de oxígeno y una bajada más lenta -> agua entra rápido (tormenta u otro fenómeno) y el oxígeno poco a poco se va gastando, no sube de repente, por esto la caída es más lenta.
+
+La existencia de una haloclina permanente reduce mucho la difusión turbulenta y la mezcla de aguas profundas y superficiales. Mientras que hay un flujo continuo de materia orgánica que demanda oxígeno hacia aguas profundas, no hay un suministro paralelo de aguas superficiales oxigenadas y la ventilación del fondo depende de las entradas discontinuas de agua salobre de alta salinidad desde la zona de Kattegat, los estrechos de Dinamarca y zona más exterior de la cuenca principal del Báltico.
+
+**Distribución de nutrientes inorgánicos:** 
