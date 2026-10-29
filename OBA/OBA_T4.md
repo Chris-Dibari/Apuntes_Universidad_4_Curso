@@ -140,6 +140,16 @@ El mapa de clorofila total y de los flagelados se parecen mucho en cuanto estos 
 **Principales problemas ambientales en el Mar Báltico:**
 
 1) Expansión de la anoxia de fondos y muerte del bentos.
+
+En casi la mitad del lecho marino de la cuenca principal del Báltico la fauna bentónica ha sido eliminada (unos 100.000 km2). En las zonas más profundas el oxígeno ha desaparecido y ha sido reemplazado por sulfuro tóxico. Incluso en el Kattegat se están empezando a detectar problemas de hipoxia en otoño. La tendencia ha sido la de incremento de áreas hipóxicas y la de consolidación del sulfhídrico en las zonas profundas. Las intrusiones de agua profunda no bastan. Parece que esta expansión está relacionada con la eutrofización.
+
 2) Eutrofización creciente y extensión gradual de grandes blooms.
+
+Los blooms de cianobacterias fijadoras de nitrógeno contribuyen a aumentar la eutrofización (en un mar en el que la anoxia libera fósforo en el fondo, pero el Nitrógeno se pierde a la atmósfera por desnitrificación). Los blooms cada vez mayores han determinado que la biomasa bentónica en fondos someros se haya quintuplicado a lo largo del siglo XX pero, a la vez, desaparezca de fondos profundos. Y contribuye a afianzar el avance de la anoxia. En la década de los 80, la descarga de materia orgánica de origen antrópico fue 50 veces superior a la producida por fotosíntesis. Aunque se ha tratado de remediar, esta carga influye mucho sobre las tendencias de la cuenca.
+
 3) Contaminación (metales pesados, dioxinas, producción de petroleo etc).
+
+**Historia y biología:**
+
+El Báltico como sistema acuático es reciente. Durante la última glaciación estaba cubierto de forma permanente por hielo. Así que el mar que conocemos ha resultado de la paulatina retirada de esa cubierta de hielo. Existe de una forma similar a como es hoy desde hace menos de 10.000 años. Al comienzo de la etapa interglacial comenzó siendo un gran lago de agua dulce, resultante de la fusión del hielo y, con el ascenso del nivel del agua se abrió una comunicación con el Mar del Norte y comenzó gradualmente a salinizarse. La haloclina, de hecho, se va elevando lentamente y durante el siglo XX se elevó unos 10 m. Es un mar con pocas especies y baja diversidad global. Al igual que ocurre en algunos estuarios, el agua es demasiado salada para especies de agua dulce y demasiado dulce para marinas. A partir del momento en que adquirió cierta estabilidad tras la fusión del hielo ha ido colonizándose con nuevas especies, algunas de las cuales aún se expanden. Las especies de origen marino se extienden gradualmente hacia el norte. En cuanto a los problemas que plantea la vida en las aguas del Báltico, hay que sumar a los que ya se comentaron en general para latitudes altas el hecho de la baja salinidad general.
 
