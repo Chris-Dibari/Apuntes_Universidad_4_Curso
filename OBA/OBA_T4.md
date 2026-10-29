@@ -115,3 +115,17 @@ El hecho de que se dé nitrato cero en aguas profundas es debido a la Denitrific
 
 - **Fosfato** -> Ciclo anual: Patrones en etapa de mezcla y en etapa de estratificación La diferencia fundamental con Nitrato es la existencia de altas concentraciones de fosfato en aguas profundas anóxicas debido a la solubilización de complejos férricos en condiciones reductoras. Las aguas profundas son, pues, un almacén de Fósforo soluble que eventualmente se suministraría por mezcla.
 
+A la variabilidad estacional o anual hay que superponer una interanual con tendencias. El aumento se explica por el aumento de la contaminación a medida que aumenta el desarrollo. Porque durante 20 años hay subidas y bajadas pero no sigue la tendencia en aumento: se debe a un mayor control de la contaminación de las aguas.
+
+Los mares regionales de balance hidrológico positivo -> tienden a eutrofizarse de forma natural o no?
+
+![alt text](<imagenes-4-curso/captu-4.11-oba.png>)
+
+Si cuencas es positiva => muchas precipitaciones y gran aporte de ríos, con pocas evaporación (en el caso del negativo sería al revés). El positivo tendría salinidad más alta y el negativo más baja (se evapora mucho y hay poca disolución) hay un deficit de agua que provoca una importación de agua de la cuenca de fuera (entra agua en vez de salir como en el caso de una cuenca positiva). La haloclina de un negativo suele ser más debil que la de uno positivo. En una cuenca positiva se está exportando agua superficial (con menor contenido en nutrientes) e importando aguas profundas (con más nutrientes) por lo tanto SÍ tendería a eutrofizarse naturalmente. Las cuencas negativas tienden a limpiarse debido a que las aguas profundas ricas en nutrientes tienden a exportarse (tendencia a autodepuración).
+
+**Simulación del ciclo anual: modelo ERGOM.**
+
+Visualización de la estacionalidad en el Báltico usando una simulación con el modelo ERGOM. El bloom de fito empieza por el sur y sigue la dinámica del hielo hacia el norte. El N se concentra cerca de la costa donde desembocan ríos. En verano va desapareciendo primero en el sur y luego en el norte también. Hay zonas que siempre tienen N.
+
+**Experimento de reducción de descargas de nutrientes:** Usando el modelo, se estudió qué pasaría si se reducía a la mitad la carga de nutrientes (nitrato y fosfato) haciendo que la entrada de ríos fuera solo el 50% y comparando con los resultados ya vistos (sin la reducción). *¿Por qué las cianobacterias aumentan relativamente su abundancia en algunas zonas?*
+
