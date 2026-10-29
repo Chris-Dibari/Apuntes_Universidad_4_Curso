@@ -18,8 +18,32 @@ p, li, div, h2, h3 {
 
 ##  Oceanografía Geológica Aplicada - TEMA 7. Nódulos Fe-Mn
 
+**Aplicaciones industriales:** 
+- Co, Mn y Ni, dotar al acero de propiedades específicas como dureza, resistencia y prevención de la corrosión. La industria aeroespacial destina entre la cuarta parte y la mitad del consumo de cobalto a la producción de superaleaciones. 
+- Industrias química y de alta tecnología para la fabricación, entre otras cosas, de superconductores, sistemas avanzados de láser, catalizadores células de combustible e imanes de gran potencia, así como de herramientas cortantes.
+- Cu: Aplicaciones industriales (materiales eléctricos, electrónicos, etc)
+- Te: (la mayor acumulación de la Tierra se haya en las costras de Co) necesario para células fotovoltaicas, entre otras aplicaciones dentro del campo de los semiconductores
 
+![alt text](<imagenes-4-curso/captu-7.4-oga.png>)
 
+**Que son los nódulos Fe-Mn:**
+
+- Son pequeños depósitos del fondo oceánico que contienen una cantidad apreciable de metales (Mn, Fe, Ni, Cu y Co). En el pacífico pueden ocupar el 10% del fondo.
+- Fueron descubiertos en 1803 
+- Se forman in situ por el depósito de metales alrededor de un núcleo (canto, dientes, huesos, etc)
+- Crecen lentamente (~mm/millón años) y pueden registrar millones de años capa a capa
+- Son interesantes desde el punto de vista económico por contener grandes cantidades de metales (Co, Ni y Cu)
+
+- El tamaño oscila entre mm y unos 20 cm (media 10-15 cm)
+- Superficies lisas, pero globulosas 
+- Los nódulos yacen parcialmente enterrados o cubiertos de sedimento
+- Interés económico: densidad > 10 kilogramos/ m2 y en zonas de varias decenas de km2. 
+- Pueden encontrarse a cualquier profundidad, pero las concentraciones más elevadas 4.000 y 6.000 m.
+
+![alt text](<imagenes-4-curso/captu-7.5-oga.png>)
+
+- La mayor parte son negros, de grano fino, de baja cristalinidad y mezclados con otras sustancias
+- Su determinación es por Difracción de Rayos X, etc.. 
 
 Importancia para conocer el origen -> forma, composición química, propiedades características.
 
@@ -59,3 +83,7 @@ Analizando tierras raras también es fácil distinguir el origen de los nódulos
 Fuentes de Mn y otros metales: 
 El plancton concentra oligoelementos como el cobre y el níquel. La materia orgánica se convierte en fuente probable de metales de los nódulos. El manganeso presente en el agua de mar procede principalmente de los continentes y de fuentes hidrotermales.
 
+- El ritmo de crecimiento: MUY LENTO (aproximadamente 1-20mm/ millón de años).
+- Media en llanuras abisales: 1 mm/ 1000 años
+- Edad de los nódulos del Pacífico: 2 a 3 millones de años. Se ha informado de rápidas formaciones de cortezas de ferromanganeso cerca de barcos que naufragaron durante la primera guerra mundial.
+- Los hace muestras clave para el estudio de la composición química de los océanos a gran resolución y son perfectos para hacer reconstrucciones paleoceanográficas.
