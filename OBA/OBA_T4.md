@@ -127,5 +127,19 @@ Si cuencas es positiva => muchas precipitaciones y gran aporte de ríos, con poc
 
 Visualización de la estacionalidad en el Báltico usando una simulación con el modelo ERGOM. El bloom de fito empieza por el sur y sigue la dinámica del hielo hacia el norte. El N se concentra cerca de la costa donde desembocan ríos. En verano va desapareciendo primero en el sur y luego en el norte también. Hay zonas que siempre tienen N.
 
-**Experimento de reducción de descargas de nutrientes:** Usando el modelo, se estudió qué pasaría si se reducía a la mitad la carga de nutrientes (nitrato y fosfato) haciendo que la entrada de ríos fuera solo el 50% y comparando con los resultados ya vistos (sin la reducción). *¿Por qué las cianobacterias aumentan relativamente su abundancia en algunas zonas?*
+**Experimento de reducción de descargas de nutrientes:** Usando el modelo, se estudió qué pasaría si se reducía a la mitad la carga de nutrientes (nitrato y fosfato) haciendo que la entrada de ríos fuera solo el 50% y comparando con los resultados ya vistos (sin la reducción).
+
+![alt text](<imagenes-4-curso/captu-4.12-oba.png>)
+
+*¿Por qué las cianobacterias aumentan relativamente su abundancia en algunas zonas?*
+
+Algunos organismos procariotas fijan $N_2$ (mediante nitrogenasas) -> muchas cianobacterias lo hacen y cuando disminuyen (menor competición) aprovechan y ocupan el hábitat cogiendo el N desde la atmósfera. Compiten con éxito cuando el N es el factor limitante puesto que lo fijan de la atmósfera.
+
+El mapa de clorofila total y de los flagelados se parecen mucho en cuanto estos son organismos más pequeños y tienen mayor impacto en el ciclo de la clorofila.
+
+**Principales problemas ambientales en el Mar Báltico:**
+
+1) Expansión de la anoxia de fondos y muerte del bentos.
+2) Eutrofización creciente y extensión gradual de grandes blooms.
+3) Contaminación (metales pesados, dioxinas, producción de petroleo etc).
 
