@@ -106,3 +106,12 @@ Cuando los puntos son positivos = representa $O_2$ y cuando son negativos están
 La existencia de una haloclina permanente reduce mucho la difusión turbulenta y la mezcla de aguas profundas y superficiales. Mientras que hay un flujo continuo de materia orgánica que demanda oxígeno hacia aguas profundas, no hay un suministro paralelo de aguas superficiales oxigenadas y la ventilación del fondo depende de las entradas discontinuas de agua salobre de alta salinidad desde la zona de Kattegat, los estrechos de Dinamarca y zona más exterior de la cuenca principal del Báltico.
 
 **Distribución de nutrientes inorgánicos:** 
+
+- **Nitrato** -> Ciclo anual: Patrones en etapa de mezcla y en etapa de estratificación
+
+El hecho de que se dé nitrato cero en aguas profundas es debido a la Denitrificación, que hace desaparecer el Nitrato una vez desaparecido el oxígeno.
+
+![alt text](<imagenes-4-curso/captu-4.10-oba.png>)
+
+- **Fosfato** -> Ciclo anual: Patrones en etapa de mezcla y en etapa de estratificación La diferencia fundamental con Nitrato es la existencia de altas concentraciones de fosfato en aguas profundas anóxicas debido a la solubilización de complejos férricos en condiciones reductoras. Las aguas profundas son, pues, un almacén de Fósforo soluble que eventualmente se suministraría por mezcla.
+
