@@ -321,5 +321,27 @@ Presión parcial del dióxido de carbono ($pCO_2$) en la atmósfera (línea punt
 
 ![alt text](<imagenes-4-curso/captu-3.32-oqa.png>)
 
+En la gráfica -> la $pCO_2$ aumenta con la T puesto que a menor T el gas es más soluble y tiende a quedarse en el sw, al reves con el aumento de T. En el gráfico se debe a que se están teniendo en cuenta varias variables -> ej degradación de MO se tiene mayor $CO_2$ (casos particulares).
+
 Relación entre la $pCO_2$ en las aguas superficiales del Atlántico y las concentraciones de clorofila, la temperatura y la salinidad. (Adaptado de B. Schneider).
 Sobre todo se mira la pendiente de las curvas.
+
+Tener en cuenta al estudiar la $pCO_2$ -> nos encontramos no solo variaciones latitudinales y longitudinales sino también temporales (ej. estacionales => diferencia en la actividad fotosintética).
+
+Procesos que hacen que la $pCO_2$ aumente en el sw (se rompe el estado de eq entre $pCO_2$ de sw y del aire):
+- Degradación MO;
+- Cambios de solubilidad por T;
+- Disolución de $CaCO_3$;
+- Aumento de $CO_2$ en la atm.
+
+y procesos que hacen que disminuya el $CO_2$:
+- Actividad fotosintética;
+- Precipitación de $CaCO_3$
+- Aumento de T.
+
+Gráfico -> En las aguas superficiales se asumet que hay eq con la atmósfera. Aprox a 1000m se produce un máximo (se debe a la degradación de la MO). Este pico coincide con el mínimo de $O_2$.
+
+![alt text](<imagenes-4-curso/captu-3.33-oqa.png>)
+
+En el Pacífico se debe a una concentración mucho más elevada -> puesto que es mucho más productivo (mayor degradación de MO y mayor cantidad de $CO_2$).
+
