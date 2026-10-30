@@ -317,4 +317,9 @@ Para el Pacífico (segunda gráfica) hay pequeña zona con disminución debido a
 
 ![alt text](<imagenes-4-curso/captu-3.31-oqa.png>)
 
+Presión parcial del dióxido de carbono ($pCO_2$) en la atmósfera (línea punteada) y en las aguas superficiales (línea continua) del océano Pacífico.
 
+![alt text](<imagenes-4-curso/captu-3.32-oqa.png>)
+
+Relación entre la $pCO_2$ en las aguas superficiales del Atlántico y las concentraciones de clorofila, la temperatura y la salinidad. (Adaptado de B. Schneider).
+Sobre todo se mira la pendiente de las curvas.
