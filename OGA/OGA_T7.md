@@ -125,4 +125,21 @@ Diferentes: grandes, irregulares, Mn/Fe de 4.7,  Ni+Cu 2.1% (Thijssen et al. 198
 - Origen: diagenéticos. Max Mn/Fe ratios >50 son Ni y Cu <1.4%. 
 - 10 Å manganato son los principales Ox-Mn fases,  100-200 mm Ma-1. Mn es removilizado por disolución, dando lugar a altas relaciones Mn/Fe y bajos contenidos en Ni y Cu.
 
+### Costras de Mn ricas en Co
+
+- Hay en todos los océanos y a diferencia de los nódulos (que están en los fondos abisales) se relacionan con relieves y otras **estructuras verticales**.
+- Se han hecho mapas y tomas de muestras -> 50000 montes submarinos conocidos del Pacífico. Atlántico e Índico tienen menos montes submairinos => mayor parte de investigación se centra en el Pacífico.
+- Interés de estudio -> económico (bastante ricas en Co -> elemento estratégico para muchas cosas). Poseen también tierras raras y otros minerales importantes.
+- Crecimiento muy lento.
+
+Esquema con distribución: los nódulos se localizan en llanuras y las costras en montes/volcanes/arcos y otras estrucutras verticales. Los depósitos pueden ser hidrogénicos, hidrotermales, las fases a posteriori suelen estar asociadas a un origen hidrogénico. Nos indica que las profundidades van a ser muchos menores => requerimientos para su explotación van a ser muy distintos -> necesidad de equipos de diferente naturaleza comparada con los de los nódulos.
+Generación de impacto ambeiental ligado a resuspensión de sedimento.
+
+Fisicamente son **altamente porosas**, superficie específica muy alta -> procesos de adsorción de metales son muy elevados. Tienen tasas de crecimiento muy bajas. La densidad es muy baja (ligada a la elevada porosidad). Los nódulos son muy compactos en cambio.
+Composición -> fundamentalmente **óxidos de Mn**, **vernadita de Fe**, CFA, plagioclasas, esmectit... => los más comunes.
+
+Edades y crecimiento: entre 1-11mm por millón de años. Espesor característico entre 5 y 40 mm (raramente alcanzan los 80mm).
+Cubren muchos $km^2$ de superficie.
+
+
 </div>
