@@ -115,3 +115,14 @@ Hay dos tipos de nódulos:
 
 ![alt text](<imagenes-4-curso/captu-7.6-oga.png>)
 
+Otra zona interesante es la costa de Perú: aparecen nódulos.
+
+Cuenca de Perú: 3,900-4,300 m cerca de una zona de alta productividad. 
+Diferentes: grandes, irregulares, Mn/Fe de 4.7,  Ni+Cu 2.1% (Thijssen et al. 1985). Contienen fragmentos de huesos de peces como núcleo. >10 kg $m^{-2}$ con máximos de 53 kg $m^{-2}$. 
+- Nodulos <20 mm fragmentos de nódulos mayores. 
+- Nodules 20-60 mm elipsoidales y se observa la posición de la interfase sedimento agua: parte superior mamilada y botrioidal y la inferior suave. 
+- Nodulos >60 mm son esferoidales y botrioidales.
+- Origen: diagenéticos. Max Mn/Fe ratios >50 son Ni y Cu <1.4%. 
+- 10 Å manganato son los principales Ox-Mn fases,  100-200 mm Ma-1. Mn es removilizado por disolución, dando lugar a altas relaciones Mn/Fe y bajos contenidos en Ni y Cu.
+
+</div>
