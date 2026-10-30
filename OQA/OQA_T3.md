@@ -295,4 +295,26 @@ Termodinamicamente son procesos muy favorecidos, sin embargo es un proceso muy l
 ![alt text](<imagenes-4-curso/captu-3.29-oqa.png>)
 
 Cuando omega es > 1 -> el sistema tiende a la sobresaturación, viceversa < 1 tiende a subsaturación. Cuando se iguala a la unidad => saturación.
+Precipitación de $CaCO_3$ -> no es lo común, pero debido a condiciones de T y s puede ocurrir que precipite (visualización como una mancha blanca en el sw).
+En el Atlántico (según estudios) debido a la acidificación oceánica -> la profundidad de saturación (omega = 1) está subiendo.
+La disminución de omega (a nivel general) con la profundidad se debe a:
+
+- Producto de solubilidad es función de T y s (aumenta con bajada de T, subida de s y aumento de P); Aumenta con la presión y disminución con la T;
+- A medida que profundizo, normalmente el pH baja con el aumento de profundidad (= menor concentración del carbonato);
+- A medida que profundizo, las sustancias orgánicas se van degradando (las que ocupaban el espacio de crecimiento) => el $CaCO_3$ se va a ver favorecido (menor MO que interfiere con la precipitación del carbonato cálcico);
+
+La principal forma de retirada de $CaCO_3$ de la superficie de los océanos es la deposición de esqueletos calcáreos de organismos marinos. Rara vez ocurre la precipitación espontánea de $CaCO_3$ (ej. Bahamas).
+
+La disolución de $CaCO_3$ es un proceso controlado cineticamente y depende de la difusión de calcio y carbonato a través de la interfase del sedimento (depende del espesor de la interfase, condiciones fisico-químicas - T,s,P,pH -, forma y tamaño de las partículas...).
+
+### 8. Distribución de especies en el agua de mar
+
+Consideraciones generales -> hay zonas en el océanos que se comportan de forma especial.
+La presión parcial de $CO_2$ => ($pCO_2$). Normalmente se expresa como micro-atm. La zona ecuatorial es más alta en el sw que en el aire (zona con mayor productividad + afloramiento de agua fría = afloramiento). Aprox a -20º y por esa zona se tiene que la presión parcial de $CO_2$ está en eq entre sw y atm. En las zonas polares, el océano se comporta como un sumidero de $CO_2$.
+Para el Pacífico (segunda gráfica) hay pequeña zona con disminución debido a la elevada PP pero por lo general también se comporta como sumidero.
+
+![alt text](<imagenes-4-curso/captu-3.30-oqa.png>)
+
+![alt text](<imagenes-4-curso/captu-3.31-oqa.png>)
+
 
