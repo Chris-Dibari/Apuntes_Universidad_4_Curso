@@ -87,3 +87,31 @@ El plancton concentra oligoelementos como el cobre y el níquel. La materia org�
 - Media en llanuras abisales: 1 mm/ 1000 años
 - Edad de los nódulos del Pacífico: 2 a 3 millones de años. Se ha informado de rápidas formaciones de cortezas de ferromanganeso cerca de barcos que naufragaron durante la primera guerra mundial.
 - Los hace muestras clave para el estudio de la composición química de los océanos a gran resolución y son perfectos para hacer reconstrucciones paleoceanográficas.
+
+**Distribución geográfica:**
+
+- Se han encontrado nódulos en todos los océanos e incluso en lagos. Sin embargo, los nódulos que presentan interés económico están más localizados. 
+- Abundantes en O. Pacífico y menos en el Atlántico (diferentes regímenes sedimentarios e hidrotermales) índico y zonas circumpolares
+- Se han  seleccionado tres zonas a profundidades de 4.000 a 5.000 metros.
+    1. la parte central del Océano Pacífico,
+    2. la cuenca del Perú en el Océano Pacífico sudoriental 
+    3. la parte central del Océano Índico septentrional.
+
+Los buenos nódulos son aquellos que contienen un promedio de 1,25% a 1,5% de níquel y de 1% a 1,4% de cobre, así  como de un 27% a un 30% de manganeso y de un 0,2% a un 0,25% de cobalto.
+Es un área donde está la falla Clarion al Norte y la Clipperton al Sur.
+
+Zonas de exploración de nódulos (ISA):
+- Profundidad del agua varía entre 5,300 m a 4,300 m
+- Zona de alta productividad y gran cantidad de sedimentos siliceos. 
+- La sedimentación está controlada por corrientes de fondo y la zona tiene unas colinas abisales (resaltes).
+
+
+
+Hay una gran cantidad de nódulos y el tipo depende del tipo de sedimentos, la tasa de sedimentación, corrientes, bentos, topografía, tipos de núcleos.
+
+Hay dos tipos de nódulos:
+1. Grandes y maduros: 26 % de los nódulos y el 92% en peso. Tienen una parte superior externa globlosa y un anillo ecuatorial que corresponde a la parte donde se encuenta la interfase sedimento agua.  Los nódulos se vuelven aplastados a medida que crecen y tienen máximos diámetros de 140 mm. Crecen de forma hidrogénica en la parte superior y diagenética en la inferior. 
+2. Pequeños: Se forman en la superficie por crecimiento hidrogenético. El principal mineral es la todorokita.
+
+![alt text](<imagenes-4-curso/captu-7.6-oga.png>)
+
