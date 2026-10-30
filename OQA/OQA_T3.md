@@ -281,4 +281,18 @@ Hoy en día, debido a los procesos de acidificación y más fenomenos, se les es
 
 ![alt text](<imagenes-4-curso/captu-3.27-oqa.png>)
 
-Las principales formas son de calcita y aragonito (se diferencian en su estructura pero tienen misma formulación química). 
+Las principales formas son de calcita y aragonito (se diferencian en su estructura pero tienen misma formulación química).
+Comportamiento típico -> aumento con S y disminuye con T (gráfica).
+El producto de solubilidad también depende de la presión, dependiendo de la profundidad a la que se realiza el estudio.
+
+Asumimos que el producto de solubilidad del carbonato cálcico es igual al del Ca + el del carbonato.
+
+![alt text](<imagenes-4-curso/captu-3.28-oqa.png>)
+
+El producto de solubilidad varía de forma lineal con la T. Es mayor en la calcita que en aragonito, al sustituir en la expresión en amarillo se tiene que la variación del producto de solubilidad con la presión es mayor en la calcita que en aragonito.
+Termodinamicamente son procesos muy favorecidos, sin embargo es un proceso muy lento y regido por la cinética. Es tan lento por la baja velocidad de nucleación del carbonato cálcico (para que se forman las redes cristalinas hace falta un centro de nucleación). Además, el espacio de crecimiento (espacio que queda entre las redes cristalinas) va a ser ocupadas por otras sustancias orgánicas (ej Mg, ácido cítrico) -> esto impide el crecimiento. Finalmente, no siempre coincide el producto de solubilidad ($K_{sp}$) con las concentraciones de Ca y carbonato. Esto se debe a que el proceso es tan lento que hay veces que no se iguala.
+
+![alt text](<imagenes-4-curso/captu-3.29-oqa.png>)
+
+Cuando omega es > 1 -> el sistema tiende a la sobresaturación, viceversa < 1 tiende a subsaturación. Cuando se iguala a la unidad => saturación.
+
