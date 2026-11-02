@@ -279,3 +279,101 @@ Esta tabla compara dos formas fundamentales en que los animales (especialmente p
 
 ![alt text](<imagenes-4-curso/captu-14.12-peces.png>)
 
+La imagen divide el ciclo de vida en dos caminos: Indirecto (izquierda) y Directo (derecha).
+
+1. **Ciclo de Vida Indirecto (Columna Izquierda):** Este es el camino "largo" y complejo. El animal que nace no se parece a sus padres y debe pasar por una transformación drástica. Es típico de muchos peces e insectos.
+- La clave: Existe una fase de Larva (o Alevín en peces) y un proceso de Metamorfosis.
+- El proceso:
+1. Huevo/Embrión: Se desarrolla inicialmente.
+2. Eclosión: Nace, pero a veces sale como un "Embrión de vida libre" (aún no es totalmente autónomo).
+3. Alevín - Larva: El animal empieza a comer por su cuenta (Alimentación oral), pero su forma física es muy distinta a la del adulto.
+4. Metamorfosis: El cambio radical. El cuerpo se transforma para convertirse en un Juvenil (similar al adulto).
+5. Adulto/Senectud: Madura sexualmente, se reproduce y envejece.
+
+2. **Ciclo de Vida Directo (Columna Derecha)**
+Este es el camino "sencillo". El animal que nace es básicamente una versión en miniatura del adulto. Es típico de mamíferos, aves y algunos peces.
+- La clave: No hay larva ni metamorfosis.
+- El proceso:
+1. Huevo/Embrión: Se desarrolla.
+2. Eclosión: Nace.
+3. Juvenil: Desde que sale del huevo, ya tiene la forma definitiva, solo necesita
+crecer.
+4. Adulto/Senectud: Crece hasta madurar y reproducirse.
+
+3. **La columna central: ¿Cómo se alimentan?**
+Entre ambas columnas hay flechas que indican cómo obtiene energía el animal en cada
+fase:
+
+1. Alimentación Endógena (Flechas rojas punteadas):
+- Significa "desde adentro".
+- Ocurre durante las fases de Huevo y Embrión.
+- El animal no come por la boca; se alimenta de las reservas del huevo (el
+vitelo).
+2. Alimentación Exógena (Flechas azules sólidas):
+- Significa "desde afuera".
+- Empieza cuando se forma la boca ("Alimentación oral").
+- El animal debe buscar comida en el medio ambiente para sobrevivir y crecer.
+
+- Especies Vivíparas y Ovovivíparas: (Como mamíferos o algunos tiburones). El embrión crece dentro de la madre. Hay una alta correlación entre embriones y descendientes. Si la madre tiene 3 embriones, probablemente nacerán 3 crías vivas. Están protegidos.
+- Especies Ovíparas: (La mayoría de los peces). El número de descendientes varía enormemente según en lugar de la puesta. La fecundidad no es igual al número de descendientes. Ciclos de vida: en función de la cantidad de vitelo que tenga el huevo tendremos ciclos directos o indirectos. Embrión de vida libre: alimentación endógena, se alimenta del saco vitelino. En las especies ovíparas una alta fecundidad no siempre va a dar lugar a un elevado nº de descendientes, ya que eso va a depender de dónde se pongan los huevos y la presión de los factores ambientales.
+
+**Clasificación de los huevos según su flotabilidad (Sundby, 1996)**
+La diapositiva clasifica los huevos en tres tipos principales según dónde terminan flotando:
+- Huevos Pelágicos (Superficie): Son los más comunes en especies comerciales como sardinas, boquerones, bacalao o caballas. Tienen flotabilidad neutra en la parte alta de la columna de agua. Su flotabilidad medida como salinidad es menor que la del agua superficial, por lo que tienden a ascender verticalmente.
+- Huevos Batipelágicos (Profundidad media/baja): Son más pesados y mucho menos frecuentes. Típicos de especies de aguas profundas o que ponen allí, como el fletán (halibut).
+- Huevos Demersales (Fondo): Son más densos que el agua del fondo, por lo que se hunden. Suelen quedarse pegados o asociados a rocas y sustratos. Ejemplos: el arenque o el capelán.
+¿Qué controla el movimiento vertical de los huevos? Densidad variable: Los cambios en la densidad del huevo son los responsables de que suba o baje en la columna de agua. Factores ambientales: La distribución vertical se ve afectada por la temperatura y la salinidad del agua, así como por las turbulencias (mezclas de agua).
+
+Existen Termoclinas (cambios bruscos de temperatura) y Haloclinas (cambios bruscos de salinidad) que actúan como barreras, impidiendo que los huevos las atraviesen y confinándolos a una zona específica.
+
+**Huevo No Fecundado:** Se distingue una membrana externa llamada Corion. El corion no es completamente hermético; tiene un canal específico llamado Micropilo. Esta es la única vía de acceso por la cual el espermatozoide puede penetrar para fertilizar el huevo.
+**El proceso de Fecundación:** Es externa: Ocurre fuera del cuerpo de la madre (en el agua). Es "Monoespérmica": Esto es crucial. Generalmente, solo un único espermatozoide entra. Una vez que este espermatozoide pasa, ocluye (tapona) el micropilo, cerrando la puerta para que nadie más pueda entrar. Contexto: En puestas pelágicas (en mar abierto), estos huevos flotantes pasan a formar parte del ictioplancton (plancton formado por huevos y larvas de peces). 
+**El Huevo Fecundado o Embrionado:** Una vez fertilizado, el huevo cambia para proteger y desarrollar la nueva vida. El corion, que antes era permeable, se endurece para proteger al embrión que está creciendo dentro. Comienza la división celular (segmentación), que se describe como desigual y meroblástica.
+
+1. **¿Qué es un "Embrión de Vida Libre"?**
+Es el estadio intermedio entre el huevo y la larva capaz de comer. La imagen destaca tres características físicas fundamentales de estos recién nacidos:
+- Tienen Saco Vitelino: Nacen con una bolsa de reserva de alimento colgando de la barriga.
+- Tienen el cuerpo transparente con muy pocos puntos de pigmento. Esto es un mecanismo de defensa para no ser vistos por los depredadores en el agua.
+- Su esqueleto está muy poco desarrollado y aún no está osificado (no es hueso duro todavía).
+
+2. **¿Cómo se alimentan? (Alimentación Endógena):** Este es el punto más crítico. Aunque ya nadan libres, no comen por la boca.
+- El diagrama inferior muestra la "futura boca" y el "futuro ano" , indicando que su sistema digestivo aún no funciona para comer cosas de fuera.
+- Se alimentan exclusivamente de las reservas de energía que traen en su saco vitelino (esa bolsa amarilla/naranja que se ve en la foto del centro).
+- Hasta que no consumen todo ese saco y desarrollan la boca, no pasan a la siguiente fase.
+
+3. **El tiempo es relativo: ¿Cuánto tardan en nacer?** La tabla y el texto explican que el tiempo que pasa desde la fertilización hasta que el huevo eclosiona no es fijo, depende de tres factores:
+
+1. La especie: Genética propia de cada pez.
+2. El tamaño del huevo: Huevos más grandes suelen tardar más.
+3. Condiciones del medio: Especialmente la Temperatura y el Oxígeno.
+
+Ejemplos de la tabla: La tabla compara cuánto tardan diferentes especies en eclosionar y a qué temperatura lo hacen:
+- Bacalao (Gadus morhua): Tarda entre 9 y 25 días en aguas frías (2-12°C).
+- Salmón Atlántico (S. salar): Es el caso extremo. Tarda muchísimo, entre 50 y 160 días en nacer, en aguas muy frías (2-10°C). Esto muestra cómo una especie invierte mucho más tiempo en el desarrollo embrionario seguro dentro del huevo. Si tenemos una temperatura mayor se acorta el periodo de desarrollo embrionario.
+
+La distinción fundamental radica en la presencia o ausencia de una transformación física. El desarrollo indirecto es un proceso complejo que incluye obligatoriamente una fase de larva (o alevín) y una metamorfosis posterior; el animal nace con una forma muy distinta a convertirse en juvenil. En cambio, el desarrollo directo es un camino lineal donde se eliminan la fase larvaria y la metamorfosis: el individuo eclosiona directamente como un juvenil, que ya posee la forma definitiva del adulto y es básicamente una "versión en miniatura" lista para crecer.
+
+Estas estrategias también implican diferencias enormes en el tamaño y la vulnerabilidad al nacer. Las especies con desarrollo indirecto suelen poner huevos pequeños de los que nacen embriones diminutos (apenas entre el 0,3% y el 1,6% del tamaño del adulto) y a menudo transparentes, lo que los hace muy frágiles en sus primeros días. Por el contrario, el desarrollo directo apuesta por una mayor inversión energética por hijo, resultando en huevos grandes o crías que nacen muy desarrolladas y con un tamaño considerable (llegando hasta el 30% del tamaño de la madre en algunos casos), lo que aumenta sus posibilidades de supervivencia inmediata.
+
+Antes: Era un "Embrión de vida libre" que flotaba y consumía su vitelo.
+El proceso: Se reabsorbe el vitelo por completo, se desarrollan las mandíbulas, se abre la boca.
+Ahora: Comienza la Alimentación Exógena (comer cosas de fuera). Su intestino ya funciona, comienza la digestión intestinal.
+- Si es Desarrollo Directo: Ya se le llama Juvenil.
+- Si es Desarrollo Indirecto: Se le llama oficialmente Larva.
+
+Para los peces con desarrollo indirecto (que sufren metamorfosis), los científicos dividen su etapa de larva en dos fases según cómo les crecen las aletas:
+- Fase Protopterygiolarvaria: ("Proto" = primero/antes). Es la etapa inicial. La larva nada, pero sus aletas aún no se han diferenciado (no tienen la forma final).
+- Fase Pterygiolarvaria: ("Pterygio" = aleta). Aquí ya empiezan a cambiar las aletas. Termina cuando las "aletas medias" (las que están en el borde del cuerpo) empiezan a involucionar o tomar su forma definitiva para dejar paso a la forma juvenil.
+
+**¿Qué es exactamente la Metamorfosis?**
+
+El texto la define no solo como crecimiento, sino como una remodelación. El pez tiene que "deshacer" estructuras temporales que le servían como larva y construir las definitivas que usará como adulto.
+
+Los cambios principales listados son:
+- Aletas: Las aletas medias (que a menudo son un pliegue continuo en la larva) degeneran para separarse, y las aletas pares se diferencian y desarrollan.
+- Respiración: Se desarrollan las branquias para el intercambio gaseoso.
+- Piel: Aparecen las escamas y desaparece la pigmentación larvaria (la transparencia) para tomar el color del adulto. Este proceso tiene un coste energético muy alto. El animal es vulnerable porque está gastando mucha energía en cambiar su cuerpo en lugar de solo en crecer o huir.
+
+Las especies que presentan un desarrollo indirecto son mucho más pequeñas al nacer. Cuando hablamos de larva es cuando la especie presenta una metamorfosis como pleuronectiformes o anguilas. Pleuronectiformes: cuando eclosiona es simétrico y es pelágico. Durante la metamorfosis migra uno de los ojos hacia el otro lado del cuerpo, la pigmentación aumenta en uno de los lados y se tumba en el fondo sobre un lado del cuerpo, volviéndose demersal.
+
+</div>
