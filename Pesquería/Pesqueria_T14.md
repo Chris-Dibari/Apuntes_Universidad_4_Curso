@@ -224,3 +224,58 @@ La fecundidad está relacionada con la longitud. A mayor tamaño de la hembra te
 
 ![alt text](<imagenes-4-curso/captu-14.9-peces.png>)
 
+**Relación fecundidad-peso**
+
+es casi lineal -> $F=cP^d$
+donde d es muy próximo a la unidad.
+En esta relación, P = peso eviscerado, por el efecto de distorsión que supone tener en cuenta el peso total, que incluye la gónada.
+
+![alt text](<imagenes-4-curso/captu-14.10-peces.png>)
+
+**Índice gonadosomático:**
+
+El crecimiento reproductivo se manifiesta en el desarrollo del tejido reproductivo, de las gónadas. Los cambios en el tamaño relativo o absoluto de los ovarios a lo largo del ciclo reproductivo refleja el crecimiento de los oocitos que se desarrollan y van acumulando vitelo, aumentando en peso y en tamaño.
+
+![alt text](<imagenes-4-curso/captu-14.11-peces.png>)
+
+Aumento del índice gonadosomático: el aumento de la gónada se produce justo antes del momento de la puesta.
+
+1. "La regresión... debe tener intersección cero": Significa que la relación entre el peso de la gónada y el del cuerpo debe ser Isométrica (lineal pura). Si hicieras una gráfica (X=Peso Cuerpo, Y=Peso Gónada), la línea debe salir del origen (0,0). Si no sale de cero, significa que el porcentaje cambia según el tamaño del pez, y el IGS daría datos falsos al comparar peces grandes con pequeños.
+2. "La correlación... debe ser significativa": Esto es lógico. Debe existir una relación real biológica: a más cuerpo, más gónada. Si los puntos en la gráfica están dispersos sin sentido, no puedes usar este índice.
+3. "El coeficiente de variación... debe ser constante”:Significa que la variabilidad de los datos debe ser igual para peces chicos que para grandes (Homocedasticidad). Si los peces pequeños tienen gónadas muy predecibles, pero los grandes tienen gónadas con pesos loquísimos y muy variables, el IGS no sirve para comparar ambos grupos.
+
+**Estacionalidad de la reproducción**
+
+La reproducción suele tener carácter cíclico debido a que los factores que influyen en las condiciones ambientales tienden a ser cíclicos. Las especies han adaptado sus procesos reproductivos a las fases más favorables de los ciclos ambientales. Los ciclos reproductivos son adaptativos, este carácter impide hacer generalizaciones en base a la taxonomía ni se puede transferir los resultados obtenidos para una especie (no se puede generalizar para una misma especie, ya que dependerá de la zona). El momento de la reproducción conincidirá con el momento que minimice el gasto y maximice la posibilidad de supervivencia de los juveniles, tanto por condiciones abióticas como por la posible competencia o predación. La mayoría de los ciclos reproductivos están basados en ciclos de periodicidad anual.
+- En los habitats en los que las condiciones ambientales son variables los ciclos son regulares, recurrentes y repetitivos, con periodos de puesta cortos y exactos.
+- En los habitat en los que las condiciones ambientales son homogéneas existe una gran variabilidad en la periodicidad de los ciclos reproductivos.
+
+Para que ocurra la maduración sexual y la gametogénesis (formación de óvulos y espermatozoides), interactúan dos fuerzas:
+- Factores Endógenos (Internos): Es el ciclo biológico natural del animal. Imagínalo como que el cuerpo del animal "sabe" que debe desarrollar sus gónadas (órganos reproductores).
+- Factores Exógenos (Externos): Son las señales del medio ambiente. Su función principal es sincronizar el ciclo interno con las condiciones ideales para que las crías sobrevivan.
+
+**Ejemplos prácticos descritos en el texto:**
+
+A. El efecto de la Latitud (Norte vs. Sur) La diapositiva explica que especies que viven en diferentes lugares se reproducen en momentos distintos, aunque sean la misma especie.
+
+1. Ejemplo: El pez Gasterosteus aculeatus (espinoso).
+
+- En el sur (más calor/luz antes): Ponen huevos en primavera.
+- En el norte (tarda más en calentar): Ponen huevos a mediados del verano.
+- Razón: Las poblaciones del norte esperan a que la temperatura y la luz sean
+adecuadas.
+
+B. Diferencia entre Latitudes Altas y Bajas
+- Latitudes Altas (Cerca de los polos): Las señales son muy claras. El cambio drástico de temperatura y horas de luz es lo que dispara la reproducción.
+- Latitudes Bajas (Cerca del ecuador): Como allí la temperatura y la luz no cambian mucho durante el año, los animales se guían por señales más sutiles: cambios
+químicos en el agua, aparición de comida o variaciones leves de temperatura.
+
+C. Estrategias específicas de supervivencia
+- Ponedores de marea (Ciclo Lunar): Algunos peces, como el Leuresthes tenuis (la foto de los peces en la arena a la derecha), coordinan su reproducción con la luna porque esta controla las mareas, permitiéndoles dejar los huevos en la arena húmeda.
+- Peces de arrecife (Ciclo Diario): Muchos ponen sus huevos al atardecer.
+- ¿Por qué? Porque hay menos luz, lo que reduce el riesgo de que los depredadores vean y se coman los huevos recién puestos.
+
+Esta tabla compara dos formas fundamentales en que los animales (especialmente peces y anfibios) crecen y se desarrollan desde que nacen hasta que mueren. Este proceso completo se llama Ontogenia.
+
+![alt text](<imagenes-4-curso/captu-14.12-peces.png>)
+
