@@ -196,3 +196,31 @@ La talla de primera reproducción es la edad a la que el 50% de los individuos d
 
 ![alt text](<imagenes-4-curso/captu-14.6-peces.png>)
 
+SBB: biomasa del stock en reproducción. 
+
+Dorada: conforme va creciendo la población pasa de macho a hembras. Se pone una talla mínima legal que permita que la especie se pueda reproducir. La L50 nos indica cuando el 50% de la población ha realizado la inversión sexual. La talla mínima sería a los 17 días para dejar que haya inversión sexual y se puedan reproducir.
+
+![alt text](<imagenes-4-curso/captu-14.7-peces.png>)
+
+**Fecundidad:**
+
+La fecundidad es el número de ovocitos que van a completar su desarrollo y es expulsado en la freza (puesta).￼La fecundidad se expresa como:
+
+- Fecundidad real o total: número de huevos producidos por una hembra al año. A menudo no se tiene acceso a las puestas o es difícil relacionarla con las hembras correspondientes, por lo que entonces se usa la fecundidad potencial. -> $P = SSB*F*R$
+- Fecundidad potencial o absoluta: número de ovocitos que tiene la hembra antes de la puesta. En especies con puesta fraccionada se calcula la fecundidad por puesta (número de ovocitos con un diámetro en la distribución modal más avanzada) y se multiplica por el número de puestas para calcular la fecundidad total anual.
+- Fecundidad relativa: número de huevos por unidad de peso corporal de la hembra (total, somático o eviscerado).
+
+Sex-ratio: proporción de macho y hembras para que la fecundidad sea exitosa.
+
+Dos tipos de fecundidad:
+- Fecundidad Determinada: Antes de la estación reproductiva, todos los huevos que se van a poner ya están listos (reclutados). La hembra los suelta todos de golpe o en grupos, pero no crea nuevos. El ovario queda vacío tras la puesta. Maduración de tipo sincrónico.
+- Fecundidad Indeterminada: La hembra nunca tiene todos los huevos listos a la vez. Va madurando y poniendo lotes continuamente durante toda la temporada. Es difícil estimar su fecundidad total anual. Maduración de tipo asincrónico.
+
+![alt text](<imagenes-4-curso/captu-14.8-peces.png>)
+
+**Variación intraespecífica de la fecundidad**
+
+La fecundidad está relacionada con la longitud. A mayor tamaño de la hembra tendremos un mayor número de huevos. Tejido conectivo: tejido que forma los sáculos de la gónada. Con la edad hay más tejido conectivo y menos cantidad de huevos.
+
+![alt text](<imagenes-4-curso/captu-14.9-peces.png>)
+
