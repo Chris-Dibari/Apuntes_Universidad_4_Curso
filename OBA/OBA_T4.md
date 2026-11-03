@@ -153,3 +153,15 @@ Los blooms de cianobacterias fijadoras de nitrógeno contribuyen a aumentar la e
 
 El Báltico como sistema acuático es reciente. Durante la última glaciación estaba cubierto de forma permanente por hielo. Así que el mar que conocemos ha resultado de la paulatina retirada de esa cubierta de hielo. Existe de una forma similar a como es hoy desde hace menos de 10.000 años. Al comienzo de la etapa interglacial comenzó siendo un gran lago de agua dulce, resultante de la fusión del hielo y, con el ascenso del nivel del agua se abrió una comunicación con el Mar del Norte y comenzó gradualmente a salinizarse. La haloclina, de hecho, se va elevando lentamente y durante el siglo XX se elevó unos 10 m. Es un mar con pocas especies y baja diversidad global. Al igual que ocurre en algunos estuarios, el agua es demasiado salada para especies de agua dulce y demasiado dulce para marinas. A partir del momento en que adquirió cierta estabilidad tras la fusión del hielo ha ido colonizándose con nuevas especies, algunas de las cuales aún se expanden. Las especies de origen marino se extienden gradualmente hacia el norte. En cuanto a los problemas que plantea la vida en las aguas del Báltico, hay que sumar a los que ya se comentaron en general para latitudes altas el hecho de la baja salinidad general.
 
+**Mar Mediterráneo:**
+
+Mar profundo, mejor comunicado con el océano, con balance hidrológico negativo.
+- Como contraste con el Báltico, la profundidad media del Mediterráneo es de 1500 m y las profundidades máximas en sus diversas cuencas oscilan entre 2500 y 5100 m (en una estrecha fosa al suroeste de Grecia, en el Jónico).
+- Existe una elevación del fondo entre Sicilia y el continente africano que nunca sobrepasa los 400 m y que divide al Mediterráneo en la Gran Cuenca Oriental y la Occidental. La otra conexión entre estas dos cuencas es el Estrecho de Messina entre Sicilia y la Península Italiana que no sobrepasa los 120 m.
+- La comunicación con el Atlántico se produce a través del Estrecho de Gibraltar que tiene menos de 20 km de ancho y un umbral de unos 320 m.
+
+![alt text](<imagenes-4-curso/captu-4.13-oba.png>)
+
+En punto B (al este del estrecho) hay subducción de masas de agua.
+T superficial más fría en el estrecho (imagen térmica con blanco asociado a T inferiores) -> giros anticiclónicos.
+
