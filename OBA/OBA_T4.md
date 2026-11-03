@@ -165,3 +165,18 @@ Mar profundo, mejor comunicado con el océano, con balance hidrológico negativo
 En punto B (al este del estrecho) hay subducción de masas de agua.
 T superficial más fría en el estrecho (imagen térmica con blanco asociado a T inferiores) -> giros anticiclónicos.
 
+Zoom en frente de Almería (zona Algerina) -> frente Almería-Orán.
+Mar de Alborán -> no agua superficial mediterránea (origen atlántica).
+
+**Diap 51:** Sección del gráfico: las zonas rojas indican giros (en un corte aparecerían como "montañas") mientras que las zonas azules hacen referencia a afloramientos (depresiones). Balance de agua fría y caliente entre giros ciclónicos y anticiclónicos (en estos últimos tiende el agua caliente a situarse en el centro del giro).
+
+**Diap 55:** Opuesto al Báltico, relativo al cambio de salinidad de las aguas superficiales. Entra el agua de origen atlántica y va modificando sus propiedades. Va adquiriendo mayor salinidad.
+
+Elevada variabilidad del agua superficial atlántica, las mediterraneas poseen mayor estabilidad (T, s).
+
+![alt text](<imagenes-4-curso/captu-4.15-oba.png>)
+
+
+
+
+</div>
