@@ -176,6 +176,16 @@ Elevada variabilidad del agua superficial atlántica, las mediterraneas poseen m
 
 ![alt text](<imagenes-4-curso/captu-4.15-oba.png>)
 
+Superficie -> aguas más salinas
+
+![alt text](<imagenes-4-curso/captu-4.16-oba.png>)
+
+**Diap 58:** puntos asociados a los giros (anti y ciclónicos), representan áreas de creación de masas de agua profundas.
+Agua profunda de alta latitud está asociada a giros ciclónicos. Las isotermas convergen y en el centro se tiene un núcleo frío. Al haber un forzamiento externo (ej. vientos fríos) => se genera pérdida de calor y disminución de flotabilidad => formación de aguas profundas.
+
+![alt text](<imagenes-4-curso/captu-4.17-oba.png>)
+
+
 
 
 
