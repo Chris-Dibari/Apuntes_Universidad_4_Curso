@@ -224,6 +224,7 @@ El $O_2$ se gasta totalmente aprox a los 200m -> aparición de sulfuro, que va a
 ![alt text](<imagenes-4-curso/captu-4.21-oba.png>)
 
 En que se parece al Báltico? Ocurría que el fosfato se comportaba de la misma forma. El N inorgánico también sigue una tendencia parecida al Báltico.
+La curva del sulfuro va aumentando hacia abajo -> en la reacción no solo hace falta sulfuro, también oxígeno (que oxida el sulfuro a sulfato), puesto que el oxígeno disminue, en dicha interfase es donde se dan los máximos de quimiosíntesis.
 
 **Importante:** comparación de los 3 mares vistos en este tema y comparar.
 
