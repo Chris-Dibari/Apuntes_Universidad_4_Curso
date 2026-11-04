@@ -120,7 +120,7 @@ Otra zona interesante es la costa de Perú: aparecen nódulos.
 Cuenca de Perú: 3,900-4,300 m cerca de una zona de alta productividad. 
 Diferentes: grandes, irregulares, Mn/Fe de 4.7,  Ni+Cu 2.1% (Thijssen et al. 1985). Contienen fragmentos de huesos de peces como núcleo. >10 kg $m^{-2}$ con máximos de 53 kg $m^{-2}$. 
 - Nodulos <20 mm fragmentos de nódulos mayores. 
-- Nodules 20-60 mm elipsoidales y se observa la posición de la interfase sedimento agua: parte superior mamilada y botrioidal y la inferior suave. 
+- Nodulos 20-60 mm elipsoidales y se observa la posición de la interfase sedimento agua: parte superior mamilada y botrioidal y la inferior suave. 
 - Nodulos >60 mm son esferoidales y botrioidales.
 - Origen: diagenéticos. Max Mn/Fe ratios >50 son Ni y Cu <1.4%. 
 - 10 Å manganato son los principales Ox-Mn fases,  100-200 mm Ma-1. Mn es removilizado por disolución, dando lugar a altas relaciones Mn/Fe y bajos contenidos en Ni y Cu.
@@ -140,6 +140,27 @@ Composición -> fundamentalmente **óxidos de Mn**, **vernadita de Fe**, CFA, pl
 
 Edades y crecimiento: entre 1-11mm por millón de años. Espesor característico entre 5 y 40 mm (raramente alcanzan los 80mm).
 Cubren muchos $km^2$ de superficie.
+
+Basandose en el grado, el tonelaje y las condiciones oceanograticas, la región central del Pacífico ecuatorial ofrece el mavor potencial para la explotación minera de las costras, en particular las zonas económicas exclusivas que circundan la isla Johnston y Hawall (Estados Unidos de América), las Islas Marshall, los Estados ederados de Micronesia y las aguas internacionales de la parte central del Pacífico.
+
+**Composición química de las costras:** Además de cobalto, las cortezas son fuente de titanio, manganeso, cerio, niquel, platino, fosforo, talio, teluro, circonio, W, bismuto y molibdeno. Tienen contenido de cobalto de 1,7% mayor que las proporciones de Co en las minas de tierra, 0,1% y el 0,2%.
+REE e Y son muy altos, los elementos de tierras raras trivalentes aumentan de a medida que aumenta la profundidad de la lámina de agua. Enriquecidos en elementos del grupo del Platino (Pt, Paladio, rhodio, rutenio, iridio).
+Tienen minerales como la vernadita (óxido de manganeso) y la ferroxihita (oxido de hierro), pequeñas cantidades de cuarzo y feldespato y cantidades moderadas de fluoropatito.
+
+**Formación de costras de Fe-Mn:**
+
+- Fuentes de metales: fluvial, aporte eólico, hidrotermal. Elementos: forma elemental o compuestos orgánicos e inorgánicos. Estos pasan a coloides.
+- Co, Ni, Zn, Pb, Ca, se retienen en la superficie de óxidos de Mn. Los coloides de Mn y Fe precipitarán en la superficie de las rocas como oxi-hidróxidos amorfos y mediados por procesos bacterianos y autocatalíticos.
+- Co: se enriquece en las costras porque su forma oxidada es poco soluble.
+- Los factores que hacen que tengan uno u otro elemento son la Se era de a superce conte, pas de ocasion del in (mayor estado de oxidación, mayor capacidad de retención de cationes), que depende del contenido de oxígeno en el agua y el pH del agua del mar.
+- Tasas de crecimiento muy bajas: favorecen el enriquecimiento en metales a partir del agua. Hace que tengan las superficies mucho más expuestas al medio y puedan absorber elementos.
+
+Modelo de formación hidrogenético de costras de Mn en montes submarinos mostrando la formación de complejos y fases coloidales y adsorción de metales.
+
+![alt text](<imagenes-4-curso/captu-7.7-oga.png>)
+
+
+
 
 
 </div>
