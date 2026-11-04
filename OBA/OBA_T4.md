@@ -221,11 +221,9 @@ La entrada de agua mediterránea comparada con el volumen de aguas profundas es 
 
 El $O_2$ se gasta totalmente aprox a los 200m -> aparición de sulfuro, que va aumentando hacia abajo.
 
-
+![alt text](<imagenes-4-curso/captu-4.21-oba.png>)
 
 En que se parece al Báltico? Ocurría que el fosfato se comportaba de la misma forma. El N inorgánico también sigue una tendencia parecida al Báltico.
-
-![alt text](<imagenes-4-curso/captu-4.21-oba.png>)
 
 **Importante:** comparación de los 3 mares vistos en este tema y comparar.
 
