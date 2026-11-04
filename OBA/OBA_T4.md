@@ -193,8 +193,15 @@ En 2014 la convección fue debil -> no alcanzó el fondo (limitación intercambi
 2014-2017 -> acumulación de calor y sal, no hubo convección profunda intensa => aumento de la estratificación, dificultando la convección en aguas posteriores.
 
 Consecuencias -> menor ventilación del fondo, disminución de $O_2$, menor aporte de nutrientes (impactos fito) y cambios en ecosistemas bentónicos.
-
 En 2018 se reanudó de forma parcial la convección ≠ no retoma la tendencia.
+
+**Tendencia a oligotrofia:**
+
+![alt text](<imagenes-4-curso/captu-4.18-oba.png>)
+
+![alt text](<imagenes-4-curso/captu-4.19-oba.png>)
+
+
 
 
 </div>
