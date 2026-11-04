@@ -201,7 +201,32 @@ En 2018 se reanudó de forma parcial la convección ≠ no retoma la tendencia.
 
 ![alt text](<imagenes-4-curso/captu-4.19-oba.png>)
 
+Lo último es la masa de agua que entra multiplicado por la concentración de nutrientes -> flujo de entrada = cada seg entran 972 moles de N. 2278 si se cuenta la recirculación, se refiere a que en el estrecho hay mezcla, si la masa de agua iba a salir pero el flujo de agua de entrada la lleva desde el fondo a recircular (la lleva otra vez hacia dentro de la cuenca).
+
+Mediterraneo presenta heterogeneidad en relación a la producción (fito). Aparecen valores de clorofila muy bajos en mar abierto, pero en zonas costeras se concentra mucho. Ej. zona del delta del Ebro, costa correspondiente al golfo de Lion, norte del Adriático (delta del Po).
+
+**Mar Negro**
+
+Subcuenca del Mar Mediterráneo. Tiene una comunicación muy restringida con dicho mar asociado con Istanbul (estrecho de Bósforo). 
+Es un mar bastante profundo (aprox 1300m en promedio) comparado con el Báltico (aprox 500m) y posee balance hidrológico positivo. Tiene un volumen de agua superior al Báltico.
+
+Desembocan varios ríos importantes entre los cuales el Danubio, que aportan un caudal importante. Nos esperamos que la salinidad sea inferior a la del Mediterraneo (mayor aporte de agua dulce).
+
+La entrada de agua mediterránea comparada con el volumen de aguas profundas es muy pequeña. Eso determina una tasa de renovación de aguas profundas muy baja.
+- Entrada de agua dulce: 140+350=490
+- Pérdida de agua dulce por evaporación: 350
+(Balance positivo que se compensa con la exportación de agua superficial al Mediterráneo)
+
+![alt text](<imagenes-4-curso/captu-4.20-oba.png>)
+
+El $O_2$ se gasta totalmente aprox a los 200m -> aparición de sulfuro, que va aumentando hacia abajo.
 
 
+
+En que se parece al Báltico? Ocurría que el fosfato se comportaba de la misma forma. El N inorgánico también sigue una tendencia parecida al Báltico.
+
+![alt text](<imagenes-4-curso/captu-4.21-oba.png>)
+
+**Importante:** comparación de los 3 mares vistos en este tema y comparar.
 
 </div>
