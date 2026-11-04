@@ -159,8 +159,36 @@ Modelo de formación hidrogenético de costras de Mn en montes submarinos mostra
 
 ![alt text](<imagenes-4-curso/captu-7.7-oga.png>)
 
+- Se ha estimado que aproximadamente 6.350.000 kilómetros cuadrados (el 1,7% de los fondos marinos) están cubiertos de cortezas de alto contenido de cobalto, lo que equivale a cerca de 1.000 millones de toneladas de cobalto.
+- Las costras se forman a profundidades de aproximadamente 400 a 4.000 metros (4.000 a 5.000 metros para los nódulos de manganeso). Las costras más gruesas y ricas en cobalto están en montes submarinos, situados a profundidades de 800 a 2.500 metros.
+- Los yacimientos más ricos están a profundidades con mínimo de oxígeno, implica que el enriquecimiento en Co es función del bajo contenido de oxígeno.
 
+**Lugares favorables para la prospección de costras:**
 
+Teledetección: herramienta poderosa en la exploración de las cortezas cubiertas por una delgada capa de sedimento y en la medición del grosor de las cortezas de los montes submarinos.
 
+1. Grandes montes submarinos:
+- a menos de 1.000 a 1.500 metros de profundidad;
+- formados hace más de 20 millones de años;
+- no coronados por atolones ni arrecifes; el se encuentren en zonas de corrientes fuertes y constantes en
+- una zona con baja concentración de oxígeno situada a poca profundidad y bien desarrollada en la columna de agua; 
+-  una zona aislada de las secciones donde confluyen abundantes aportes de los ríos y otros aportes eólicos.
+2. Fondo poco accidentado, ubicado en terrazas, collados y pasos de cumbres, con estabilidad del talud y ausencia de volcanismo local.
+3. Preferirán concentraciones medias de cobalto de por lo menos 0,8% y un espesor medio de la corteza superior a 4 centímetros.
+
+**Recomendaciones para la investigación de las costras:**
+
+- Realizar una cartografía detallada de los montes submarinos
+- Hay que datar perfectamente la edad de las costras
+- Entender las condiciones oceanográficas que dan lugar a las costras grandes
+- Entender bien lo que controla la acumulación de los elementos del grupo del Platino, y los elementos de tierras raras
+- Entender el papel de los microorganismos en el desarrollo de las costras,
+- Hay que estudiar el papel de las corrientes, mareas, zonas de upwelling
+- Hay que realizar estudios medioambientales y ecológicos de las comunidades donde hay costras
+- Hay que desarrollar nuevas tecnologías de extracción y de procesado de la metalurgia submarina
+ 
+**Factores económicos:** Además de que las cortezas tienen un alto contenido de cobalto en comparación con los nódulos de manganeso abisales, la explotación de las cortezas se considera ventajosa debido a que las cortezas de alta ley se encuentran dentro de las zonas económicas exclusivas de los Estados insulares, en las aguas de menor profundidad que están próximas a las instalaciones costeras.
+
+Proyecciones futuras sobre explotaciones: costras de Co de la zona del oeste del Pacífico.
 
 </div>
