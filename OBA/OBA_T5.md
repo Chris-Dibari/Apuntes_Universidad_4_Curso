@@ -17,3 +17,7 @@ p, li, div, h2, h3 {
 
 ## Ecosistemas Marinos. TEMA 5. Estuarios y marismas.
 
+**Tipos de estuarios:**
+
+1. Según el origen: 
+2. Según 
