@@ -389,6 +389,13 @@ No ácido carbonico puesto que su cantidad es relativamente pequeña y desprecia
 
 ![alt text](<imagenes-4-curso/captu-3.38-oqa.png>)
 
+Normalmente R varía hasta un máx de 15,16. En aguas templadas suele tener un valor de 8-10 y es donde suele tener su mayor actividad co efecto tampón. En aguas frías suele tener un valor entorno a 14. Se estima que un aumento del 10% de $CO_2$ en la atmósfera provoca un incremento de C inorgánico de un 1%.
+Por tanto, cuanto más pequeño sea R = mayor capacidad tampón tiene el sistema (= cantidad de ácido o base fuerte que se puede añadir a un sistema o solución tampón antes de que su pH experimente un cambio significativo, normalmente de una unidad).
+
+**Grado de saturación:**
+
+![alt text](<imagenes-4-curso/captu-3.39-oqa.png>)
+
 
 
 
