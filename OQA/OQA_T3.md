@@ -343,5 +343,24 @@ Gráfico -> En las aguas superficiales se asumet que hay eq con la atmósfera. A
 
 ![alt text](<imagenes-4-curso/captu-3.33-oqa.png>)
 
-En el Pacífico se debe a una concentración mucho más elevada -> puesto que es mucho más productivo (mayor degradación de MO y mayor cantidad de $CO_2$).
+En el Pacífico se debe a una concentración mucho más elevada -> puesto que es mucho más productivo (mayor degradación de MO y mayor cantidad de $CO_2$). Se debe a la edad de la cuenca (más antigua).
+
+**Variaciones del pH:**
+
+![alt text](<imagenes-4-curso/captu-3.34-oqa.png>)
+
+En las zonas marinas costeras relativamente confinadas (bahías, manglares,...) el pH presenta importantes variaciones circadianas.
+Existen dos grandes procesos biológicos que afectan de manera considerable: fotosíntesis y respiración.
+
+Durante las horas del día (luz) hay un consumo de $CO_2$ debido a la actividad fotosintética (reacción desplazada hacia la izquierda), se retira por tanto protones del sw con consiguiente aumento del pH. Por otro lado, por la noche debido a la respiración, la reacción se desplaza hacia la derecha (se libera $CO_2$) con consiguiente disminución del pH. Durante el día, baja $CO_2$, aumenta el pH y aumenta también el OD. Por la noche aumenta el $CO_2$, baja pH y OD.
+Las variaciones suelen ser sigmoidales. En océano abierto las variaciones no son tan importantes.
+En la profundidad nos encontramos que los mayores valores de pH se encuentran en aguas superficiales debido a la actividad fotosintética, para ir diminuyendo con el aumento de la profundidad, alcanzando un minimo a los 1000m aprox (debido a oxidación). A continuación hay un aumento debido a la disolución del $CaCO_3$. Por tanto en la columna de agua las variaciones de pH están controladas por oxidación de la MO y disolución de $CaCO_3$.
+
+Parker (1969) propuso una expresión para las variaciones de pH:
+
+![alt text](<imagenes-4-curso/captu-3.35-oqa.png>)
+
+
+
+
 
