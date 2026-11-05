@@ -87,5 +87,10 @@ La climatología de la cuenca y la morfología del estuario, que muchas veces es
 
 ![alt text](<imagenes-4-curso/captu-5.8-oba.png>)
 
+¿Qué ocurre si la mezcla es muy intensa y la columna es homogénea? Todos los aspectos de la tabla abajo se parecería a la capa de arriba.
 
+
+
+
+</div>
 
