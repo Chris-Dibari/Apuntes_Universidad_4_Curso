@@ -49,3 +49,13 @@ La climatología de la cuenca tiene implicaciones sobre la circulación, las ten
 
 ![alt text](<imagenes-4-curso/captu-5.4-oba.png>)
 
+El fiordo proviene de un glaciar que estuvo empujando material hacia la morrena. Hay restricción de la circulación del agua marina. Bastante aporte de agua dulce (estuario positivo). Hay mezcla que se produce en la morrena y el agua que entra normalmente no se mezcla suficiente para producir aguas muy saladas, sobre todo circula la capa intermedia, consiguientes problemas de oxígeno en el fondo y renovación de masas de agua profundas.
+
+![alt text](<imagenes-4-curso/captu-5.5-oba.png>)
+
+Ondulaciones entre fases de agua dulce y salada => puede provocar ondas internas. Es frecuente que en un estuario de cuña salina se aprecien condiciones de ondas internas.
+
+**Factores que favorecen y dificultan la mezcla:**
+
+![alt text](<imagenes-4-curso/captu-5.6-oba.png>)
+
