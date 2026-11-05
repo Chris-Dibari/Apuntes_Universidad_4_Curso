@@ -53,7 +53,7 @@ El fiordo proviene de un glaciar que estuvo empujando material hacia la morrena.
 
 ![alt text](<imagenes-4-curso/captu-5.5-oba.png>)
 
-Ondulaciones entre fases de agua dulce y salada => puede provocar ondas internas. Es frecuente que en un estuario de cuña salina se aprecien condiciones de ondas internas.
+Ondulaciones entre fases de agua dulce y salada => puede provocar ondas internas. Es frecuente que en un estuario de cuña salina se aprecien condiciones de ondas internas. Las ondas internas separan distintas condiciones de densidad de dos masas de agua distintas.
 La recirculación de agua es indicada como la flecha verde, un tamaño más grande indica una mayor mezcla (segundo caso).
 
 **Factores que favorecen y dificultan la mezcla:**
@@ -73,6 +73,19 @@ En el estuario muy mezclado (con 5 estaciones) => hay asimetría en el estuario 
 **Medición de la tendencia a la mezcla:**
 
 ![alt text](<imagenes-4-curso/captu-5.7-oba.png>)
+
+Cuanto más grande es el numerador, más dificil se consigue la mezcla, mientras que cuanto más grande sea el número de abajo, más facil se da la mezcla.
+Con el número de Richardson también se puede estudiar la tendencia a rotura de las ondas internas.
+
+Si el Ri sale muy grande = se tiende a mantener la estratificación, si sale pequeño se tiende a la mezcla. El valor de 0,25 indica el umbral de referencia ($Ri > 0,25$ = la interfase no se llega a romper = estratificación de las masas de agua).
+
+**Implicaciones ecológicas de la circulación y morfología en estuarios:**
+
+La climatología de la cuenca y la morfología del estuario, que muchas veces está ligada a su origen, nos proporcionan indicios para conocer algunas características generales de su funcionamiento. Desde el punto de vista de la Ecología, nos fijaremos en dos puntos interesantes (se hablará de tendencias dejando iguales otros condicionantes):
+- Tendencias del Balance de oxígeno en aguas de profundidad según climatología de la cuenca y morfología.
+- Tendencias del Balance de nutrientes en un estuario según sea positivo o negativo.
+
+![alt text](<imagenes-4-curso/captu-5.8-oba.png>)
 
 
 
