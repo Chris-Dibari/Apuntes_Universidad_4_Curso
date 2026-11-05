@@ -17,7 +17,35 @@ p, li, div, h2, h3 {
 
 ## Ecosistemas Marinos. TEMA 5. Estuarios y marismas.
 
+La morfología y la climatología de la cuenca ya son factores fundamentales explicando las tendencias de funcionamiento del estuario.
+
 **Tipos de estuarios:**
 
-1. Según el origen: 
-2. Según 
+1. Según el origen.
+2. Según la climatología de la cuenca.
+
+![alt text](<imagenes-4-curso/captu-5.1-oba.png>)
+
+Las formas de la línea de costa topográficamente adecuadas para el desarrollo de zonas estuáricas pueden tener orígenes diversos, entre los que destaca la inundación de valles fluviales.
+
+Ejemplo de restricción de circulación debida a morfología (Loch Ailort) y de estuario más abierto (Spencer Gulf):
+
+![alt text](<imagenes-4-curso/captu-5.2-oba.png>)
+
+Si el estuario es negativo debe importar agua a la cuenca, a medida que el agua marina se va metiendo en el estuario se vuelve menos salina.
+
+La climatología de la cuenca tiene implicaciones sobre la circulación, las tendencias a eutrofia u oligotrofia y anoxia.
+
+![alt text](<imagenes-4-curso/captu-5.3-oba.png>)
+
+**Balance hidrológico > 0:** salinidad cerca del mar de 30 que se va haciendo más pequeña conforme se acerca al río. El agua dulce que sale se mezcla y disminuye la salinidad de abajo => se forma un vacío que mete agua marina hacia dentro.
+**Balance hidrológico < 0:** circulación al revés, se importa agua del mar. El agua se va salinizando cada vez más en superficie. Las flechas que bajan indican que el agua que se vuelve más salina se hace más densa y subduce (típico en los meses de invierno). Se obtiene un deficit de agua dulce.
+
+**Grado de mezcla:** 
+
+- **Mayor estratificación:** río aporta bastante agua al estuario, mantiene una salinidad muy baja y hay penetración de sw que forma una especie de cuña salina (wedge) -> agua bastante dulce arriba, discontinuidad fuerte (haloclina marcada) y por debajo aguas marinas.
+- **Estratificación parcial:** tendría haloclina mucho más espesa y menos marcada.
+- **Menor estratificación:** es muy mezclado, la salinidad varía en la superficie y en la horizontal (baja cerca del río y cada vez más salino), pero se mantiene mezclada en toda la columna de agua.
+
+![alt text](<imagenes-4-curso/captu-5.4-oba.png>)
+
