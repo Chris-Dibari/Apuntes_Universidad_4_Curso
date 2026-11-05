@@ -360,6 +360,35 @@ Parker (1969) propuso una expresión para las variaciones de pH:
 
 ![alt text](<imagenes-4-curso/captu-3.35-oqa.png>)
 
+Recordatorio: AOU > 0 = Consumo de $O_2$; < 0 = Producción de $O_2$.
+Donde $AOU = CO_2^* - CO_{2exp}$
+
+**Alcalinidad total:**
+
+Tiene interés elevado en el estudio del C.
+Aguas del Atlántico son más saladas debido a evaporación, por ello presentan concentraciones elevadas de bicarbonato y carbonato.
+Para evitar el efecto de la salinidad sobre la $A_T$ se normaliza. Al igual que se normaliza el valor de pH obtenido a una T concreta y poder comparar (ej $pH_{25}$ = pH a 25 grados).
+
+$A_e$ = forma de normalizar la alcalinidad dividiendo su valor por la clorinidad. La forma más usada es ATN (alcalinidad total normalizada) = se multiplica por 35 y se divide por la salinidad de la misma muestra.
+
+![alt text](<imagenes-4-curso/captu-3.36-oqa.png>)
+
+La ATN se considera conservativa y se usa como trazador en oceanografía, empleada para estudiar la procedencia (caracterización) de las masas de agua que tenemos en una determinada zona del océano.
+
+**Variación en el Pacífico:**
+
+La variación con las altas latitudes se suele atribuir a la mayor proliferación de organismos calcáreos en aguas templadas, por tanto se retira mayor carbonato de las aguas disueltas (una hipótesis).
+
+**Carbono inorgánico disuelto:**
+
+![alt text](<imagenes-4-curso/captu-3.37-oqa.png>)
+
+No ácido carbonico puesto que su cantidad es relativamente pequeña y despreciable. El asterisco en la gráfica indica que es una medida normalizada.
+
+**Factor de Revelle:** nos informa sobre la capacidad que tienen los océanos de absorber $CO_2$ sin que apenas varie el contenido total de carbono total disuelto (CID) en el agua, sin embargo, sí puede variar la proporción de cada especie y por lo tanto tener un cambio de pH. Se obtiene a partir de una expresión (R).
+
+![alt text](<imagenes-4-curso/captu-3.38-oqa.png>)
+
 
 
 
