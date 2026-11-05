@@ -54,8 +54,25 @@ El fiordo proviene de un glaciar que estuvo empujando material hacia la morrena.
 ![alt text](<imagenes-4-curso/captu-5.5-oba.png>)
 
 Ondulaciones entre fases de agua dulce y salada => puede provocar ondas internas. Es frecuente que en un estuario de cuña salina se aprecien condiciones de ondas internas.
+La recirculación de agua es indicada como la flecha verde, un tamaño más grande indica una mayor mezcla (segundo caso).
 
 **Factores que favorecen y dificultan la mezcla:**
 
 ![alt text](<imagenes-4-curso/captu-5.6-oba.png>)
+
+Mayor aporte de agua dulce del río = mayor tendencia del estuario a estratificarse. Es importante de todas forma estudiar la importancia relativa de todo los factores.
+
+En el estuario hay 3 - 5 estaciones de muestreo => representan los perfiles de salinidad en todas las estaciones.
+
+1. salinidad muy baja y constante (en el estuario de cuña salina)
+2. Haloclina muy marcada.
+3. Haloclina más cerca de la superficie.
+
+En el estuario muy mezclado (con 5 estaciones) => hay asimetría en el estuario (el orden de las estaciones). El pto 3 es más salino que el punto 5. Se intuye como el agua marina entra en la zona correspondiente al pto 4 y el agua más dulce sale por la otra parte del estuario, asociado al pto 5, por ello este último punto es menos salino.
+
+**Medición de la tendencia a la mezcla:**
+
+![alt text](<imagenes-4-curso/captu-5.7-oba.png>)
+
+
 
