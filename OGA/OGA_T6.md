@@ -113,13 +113,10 @@ El **oro** es uno de los minerales que más se concentra en los depósitos de ti
 
 **Medios sedimentarios en los que se forman los placeres:**
 
-- Fluviales -> yacimiento de primera y segunda generación;
+- Fluviales -> yacimiento de primera y segunda generación; -> meandros de los ríos.
 - Desiertos -> el viento concentra los minerales más pesados;
 - Glaciares;
 - Deltas;
 - Playas.
-
-
-
 
 </div>
