@@ -15,7 +15,7 @@ p, li, div, h2, h3 {
 <!-- Usamos el atributo 'align' que es el único que la vista previa y el PDF respetan a la vez -->
 <div align="justify">
 
-##  Oceanografía Geológica Aplicada - TEMA 6. Balance geoquímico de los elementos traza en el medio marino.
+##  Oceanografía Geológica Aplicada - TEMA 6. Balance geoquímico de los elementos traza en el medio marino y depósitos tipo placer.
 
 En el medio marino se tienen entradas de elementos -> aporte fluvial y continental, atmósfera (input eólico, fundamental para algunos elementos). Importancia en el balance neto entre lo que entra y lo que sale (intercambios atm-océano poco importante en este caso puesto que provoca redistribución y no aporte o salida).
 Tenemos 80 mil km de dorsales oceánicas -> cantidad elevadísima de aporte de elementos.
@@ -93,6 +93,31 @@ Mensaje: No se puede despreciar el input atmosférico de algunos elementos como 
 **Comparación de los flujos. Hidrotermal vs fluvial:**
 
 Por encima de la línea 1:1, son elementos que están controlados por los flujos hidrotermales, viceversa por debajo hay control de la fuente fluvial. Ej. Mn, Li, Fe van a tener importancia en los flujos hidrotermales. La línea 1:1 representa una zona visual en la que los input están igualados.
+
+### Depósitos tipo placer
+
+Necesidad de que el material no tenga solubilidad elevada, para permitir su acumulación en el medio dinámico.
+Son minerales pesados que se concentran en un medio sedimentarios, importantes economicamente por el contenido de Au, diamantes, óxidos de Ti (pinturas, cremas solares...). Puede haber metálicos y no metálicos.
+En el medio marino se encuentran principalmente en ZEE. El 80% del total de la producción de rutilo (óxido de Ti) provienen de placeres marinos.
+
+Son depósitos de baja ley (no tienen mucha riqueza), de relativamente fácil extracción. Se encuentran en materiales sueltos superficiales (muchos se obtienen con dragas), algunos de gran volumen (0,1 - 100 tm).
+Tienen bajo coste de producción (no exigen preparaciones costosas para su explotación y tratamiento). Conlleva bajo impacto ambiental su explotación, el tiempo de rehabilitación tras su explotación es relativamente corto.
+La operativa de las explotaciones es muy flexible, permite trabajar a distintos ritmos (no hace falta montar estructuras y maquinarias coplejas). Con 4 gramos de oro por tonelada de roca es rentable explotar dicha reserva -> ley de corte muy baja. Por tanto con muy poca cantidad de material explotable ya resulta rentable su explotación.
+
+**Los minerales que forman estos depósitos son:**
+
+- Resistatos: minerales que son resistentes a erosión química y física, presentan 3 categorías: los no reactivos (relativamente inertes), maleables (tienden a doblarse y no quebrarse) y aquellos que tienen gran dureza.
+- Metales pesados: minerales que tienen elevado peso específico.
+
+El **oro** es uno de los minerales que más se concentra en los depósitos de tipo placer. Además otros minerales son la **ilmenita** (fuente de Ti y Fe) y el **rutilo** (óxido de Ti, tiene muchas aplicaciones industriales). Los minerales pesados se concentran en las zonas de los ripples. Otros: **estaurolita**, **granate** (utilizado mucho como abrasivo), **casiterita**, **circón** (aplicaciones industriales, gemas, es muy resistentes, aguanta varios ciclos de Wilson).
+
+**Medios sedimentarios en los que se forman los placeres:**
+
+- Fluviales -> yacimiento de primera y segunda generación;
+- Desiertos -> el viento concentra los minerales más pesados;
+- Glaciares;
+- Deltas;
+- Playas.
 
 
 
