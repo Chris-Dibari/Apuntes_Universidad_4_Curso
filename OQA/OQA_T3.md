@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 45% !important; /* Forzamos el tamaño con !important */
-    max-width:45% !important;
+    width: 50% !important; /* Forzamos el tamaño con !important */
+    max-width:50% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -63,7 +63,7 @@ Los protones forman relaciones estables con los compuestos en el medio marino.
 
 Resumen: para establecer un ciclo biogeoquímico se parte de un sistema en equilibrio, estudiando las reacciones por separado de forma termodinámica, necesitandose toda la imformación disponible. Importancia del pH como parámetro.
 
-### 2. Escalas de pH y connstantes de disociación
+### 2. Escalas de pH y constantes de disociación
 
 Aunque se considere el $H^+$ como elemento libre, realmente reacciona en el sw como $HO_3^+ -> HO_q^+$
 
@@ -90,7 +90,7 @@ El potencial que tiene la muestra va a ser igual al potencial aparente (escala N
 
 El potencial estandar es especifico del electrodo => puedo igualar:
 
-*{Desarrollo fórulas 21/10}*
+*{Desarrollo fórmulas 21/10}*
 
 **ESCALA NBS (National Bureau of Standard):**
 
