@@ -89,8 +89,22 @@ La climatología de la cuenca y la morfología del estuario, que muchas veces es
 
 ¿Qué ocurre si la mezcla es muy intensa y la columna es homogénea? Todos los aspectos de la tabla abajo se parecería a la capa de arriba.
 
+Eutrofización = consecuencia que hace que aumente el grado de anoxia (caso similar al Báltico). 
+
+![alt text](<imagenes-4-curso/captu-5.9-oba.png>)
+
+La PP tiene dos picos (a principio de verano - bloom de primavera y a principio de otoño). Si hay mucha PP (mucha fotosíntesis) => porque la curva de OD es alta en invierno y disminuye mucho en primavera y vuelve a subir en otoño -> fotosíntesis libera oxígeno, pero es sobre todo producción de biomasa => donde hay mucha PP es posible que haya mucho $O_2$ en la superficie, pero con la profundidad disminuye.
+
+El gráfico de la derecha: tendencia a aumentar a pesar de las caídas. Las bajadas representan la entrada de volumen importante de sw a las zonas profundas. Cuando se producen eventos de esos, se da una bajada brusca de cantidad de agua que tiene poco $O_2$, puesto que entra agua enriquecida en $O_2$.
+
+En el estrecho y mar de Alborán, cuando sopla levante, el afloramiento se corta, cuando sopla poniente se activa mucho, puesto que en el HN la tendencia por Coriolis es separar las masas de agua de la costa, produciendo un bombeo (la superficie del mar se eleva).
+
+Cada vez que las mareas actuan, se resuministran nutrientes en la capa superior. Cada dos semanas = mareas vivas = mezcla intensa.
+
+
+
+
 
 
 
 </div>
-
