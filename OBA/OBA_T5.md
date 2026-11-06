@@ -101,6 +101,29 @@ En el estrecho y mar de Alborán, cuando sopla levante, el afloramiento se corta
 
 Cada vez que las mareas actuan, se resuministran nutrientes en la capa superior. Cada dos semanas = mareas vivas = mezcla intensa.
 
+### Factores y variables del medio físico estuárico relevantes desde el punto de vista de los procesos biológicos y adaptaciones de organismos.
+
+Los estuarios son ecosistemas peculiares puesto que representan zonas en las que las variables físico químicas varían de forma especial.
+Parámetros que cabe destacar: salinidad, OD, turbidez. También es relevante tener en cuenta las fluctuaciones de dichas variables.
+
+**Fluctuaciones y periodicidad de valores de las variables ambientales:**
+
+![alt text](<imagenes-4-curso/captu-5.10-oba.png>)
+
+Por tanto, una de las adaptaciones es vivir en el interior del sedimento en lugar de encima (infauna).
+
+**Adaptaciones a la salinidad: ormorreguladores.**
+
+![alt text](<imagenes-4-curso/captu-5.11-oba.png>)
+
+Cambio de peso en los poliquetos -> se transfieren a un bote con una disminución de la salinidad. Ej. se transfiere a un bote con un 20% de sw y el resto agua dulce -> por tanto s = 7.
+Conforme va pasando el tiempo, el peso va aumentando => osmorregulación. El poliqueto pesa más en cuanto posee más agua en su interior. Sin embargo, es capaz de expulsar dicha agua.
+El segundo gráfico explica el comportamiento de la composición salina en los tejidos -> eje x = salinidad exterior, eje y = salinidad en los tejidos. La linea dibujada es la de osmoconformidad, la linea azul es el comportamiento del poliqueto. A partir de 15-20, la curva se va separando de la línea de osmoconformidad y se hace más salino el interior de los tejidos de lo esperado => mecanismo osmorregulador.
+La salinidad de los tejidos humanos está por alrededor de 9.
+
+**Anoxia:**
+
+
 
 
 
