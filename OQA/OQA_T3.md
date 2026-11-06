@@ -294,7 +294,7 @@ Termodinamicamente son procesos muy favorecidos, sin embargo es un proceso muy l
 
 ![alt text](<imagenes-4-curso/captu-3.29-oqa.png>)
 
-Cuando omega es > 1 -> el sistema tiende a la sobresaturación, viceversa < 1 tiende a subsaturación. Cuando se iguala a la unidad => saturación.
+Cuando omega es > 1 -> el sistema tiende a la sobresaturación. Cineticamente es muy desfavorecido (lento, no suele darse espontaneamente). Viceversa < 1 tiende a subsaturación. Cuando se iguala a la unidad => saturación.
 Precipitación de $CaCO_3$ -> no es lo común, pero debido a condiciones de T y s puede ocurrir que precipite (visualización como una mancha blanca en el sw).
 En el Atlántico (según estudios) debido a la acidificación oceánica -> la profundidad de saturación (omega = 1) está subiendo.
 La disminución de omega (a nivel general) con la profundidad se debe a:
@@ -396,7 +396,32 @@ Por tanto, cuanto más pequeño sea R = mayor capacidad tampón tiene el sistema
 
 ![alt text](<imagenes-4-curso/captu-3.39-oqa.png>)
 
+El aragonito es mucho más soluble que la calcita. Por ello su grado de saturación es menor que el de la calcita.
+El de la calcita se situa alrededor de 4-5, y va disminuyendo con la profundidad. Se iguala a 1 en el Pacífico alrededor de 750m, mientras que en el Atlántico ocurre a unos 4300m. Elevada variabilidad, el tiempo mínimo es de unos 10 años para estudiar la variabilidad real del comportamiento de la profundidad de compensación.
 
+En el Pacifico se tienen valores de profundidades de compensación menores -> mayor producción primaria = mayor degradación de MO y pH más elevados. Las aguas más profundas del Pacifico tienen mayor contenido en carbonato (mayor edad de la cuenca). En aguas profundas se aproximan los valores = oxigenación de las aguas profundas.
 
+### 9. Ciclo del carbono inorgánico
 
+Ciclo biogeoquímico -> recoge toda la información disponible o estimable sobre un sistema determinado.
 
+![alt text](<imagenes-4-curso/captu-3.40-oqa.png>)
+
+Las cantidades que aparcen están multiplicadas por $10^{15}$ y los flujos también. Se consideran 3 compartimientos: atmósfera, océano y sedimento. En el océano se consideran la superficie del océano calida, fría y las aguas intermedias y profundas.
+El principal reservorio de C inorgánico del planeta lo tenemos en las aguas intermedias y profundas.
+Dentro de la tierra se tiene la biota y el detritus (suelo), se tiene un elevado reservorio de C inorgánico disuelto (rocas carbonatadas) pero no aportan al ciclo debido a ser muy pequeña en proporción.
+La atmósfera recibe C inorgánico disuelto ($CO_2$) procedente de los continentes (deforestación, quema de combustibles fósiles) y también aporta parte de dicho $CO_2$ al océano.
+Haciendo un balance, en las aguas superficiales frías reciben 35 y exportan 22 a la atm. El agua cálida tiende a aportar (fuente de $CO_2$). 
+El agua fría superficial adquiere densidad y hundiendose aporta C inorgánico disuelto a las aguas profundas.
+Haciendo un balance global, está aumentando el $CO_2$ en la atmósfera, que llega al océano aumentando la alcalinidad y el C inorgánico disuelto. Los océanos retiran aprox un 40% de las emisiones antropogénicas a la atmósfera. Importancia del estudio detallado del ciclo del CI a escala global para: prever efectos a largo plazo y búsqueda de posibles soluciones.
+
+![alt text](<imagenes-4-curso/captu-3.41-oqa.png>)
+
+Bombas que nos informan de los mecanismos de regulación de los océanos con el C inorgánico con la atmósfera. Las 3 bombas se producen al mismo tiempo.
+
+- **Bomba física (o de solubilidad):** mecanismo físico-químico por el cual el $CO_2$ entra principalmente por solubilidad al océano. Se distribuye a lo largo de la columna de agua mediante circulación oceánica: por tanto tienen interés tanto la solubilidad como la circulación, que permite que el exceso de $CO_2$ de la atmósfera penetre en el océano.
+- **Bombas biológicas:**
+1. De carbono orgánico: al realizar la fotosíntesis se retira $CO_2$ -> en dichas zonas se favorece por tanto la entrada de $CO_2$. Participan fundamentalmente mecanismos biogeoquímicos, el C inorgánico se retira del medio mediante actividad biológica y sedimenta pudiendo alcanzar los sedimento.
+2. Contrabomba de carbonato: sobre todo en aguas templadas hay organismos que forman esqueletos calrcáreos (foraminíferos...) que retiran $CO_2$ del agua. Al precipitar $CaCO_3$ se libera $CO_2$. El Ca reacciona con el bicarbonato presente, se forma carbonato calcico pero se libera también $CO_2$ (de ahi el nombre contrabomba). Produce un cambio en la alcalinidad. Disolución = aumenta pH (eq desplazado a la derecha) según: $$CO_2 + H_2O <-> HCO_3^- + H^+$$
+
+</div>
