@@ -31,8 +31,8 @@ Variable experimentales de partida: CTD
 - Oxígeno disuelto.
 
 1. Identificación de masas de agua -> diagramas T-S y gráfica de perfiles verticales.
-2. 
-3. Identificación de clorofila.
+2. Interpretación biogeoquímica de la sección.
+3. Análisis de clorofila.
 
 **Parte I:** Se utiliza un perfil vertical:
 
@@ -53,6 +53,14 @@ Calculamos la T (K), luego calculamos el LN mediante la ecuación de Weiss y seg
 La AOU se calcula como la solubilidad ($C^*$) - oxígeno.
 Copiamos la columna de AOU y pegamos como valaores, de esta forma podemos eliminar las columnas de T, $C^*$ puesto que solo nos sirve la. AOU.
 Se procede exportando el archivo en txt para importarlo en ODV.
+
+En ODV: File > New > Seleccionar archivo.txt (no hace falta cambiar nada de las opciones por defecto).
+Una vez obtenido el mapa: import > ODV Spreadsheet > Seleccionamos el archivo y miremos que las variables estén bien acopladas.
+
+---
+
+**Parte II:** utilizando la sección:
+
 
 
 
