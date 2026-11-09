@@ -21,6 +21,8 @@ p, li, div, h2, h3 {
 
 3300 millas con 15 estaciones.
 
+### Ocean Data View
+
 Variable experimentales de partida: CTD 
 - t, s, fluorescencia y P
 - Nutrientes;
@@ -38,9 +40,19 @@ Variable experimentales de partida: CTD
 
 - Calcule la AOU utilizando la ecuación de Weiss:
 
-
+![alt text](<imagenes-4-curso/captu-oqa-6.3.png>)
 
 - Represente y explique las variaciones verticales de la temperatura, salinidad, concentración deoxígeno, AOU, flourescencia y turbidez.
 - Calcule la temperatura potencial y realice un diagrama T-S en esta estación. Identifique y marque sobre el diagrama las 4 principales masas de agua que observe.
 
-### Ocean Data View
+---
+
+Vamos a abrir el fichero "CTD 8 ODV.xls" con ODV.
+
+Calculamos la T (K), luego calculamos el LN mediante la ecuación de Weiss y seguidamente la $C^*$ aplicando exponencial.
+La AOU se calcula como la solubilidad ($C^*$) - oxígeno.
+Copiamos la columna de AOU y pegamos como valaores, de esta forma podemos eliminar las columnas de T, $C^*$ puesto que solo nos sirve la. AOU.
+Se procede exportando el archivo en txt para importarlo en ODV.
+
+
+
