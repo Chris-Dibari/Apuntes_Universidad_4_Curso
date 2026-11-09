@@ -123,8 +123,28 @@ La salinidad de los tejidos humanos está por alrededor de 9.
 
 **Anoxia:**
 
+Forma de adaptarse a la falta de oxígeno puede ser aumentar la cantidad de los pigmentos respiratorios (elevada cantidad de emoglobina). Pueden llegar a unos 20cm por debajo de la superficie -> aparece elevado sulfuro, potencial redox muy negativo. Otra adaptación son los sifones extremadamente largos -> se comunica con el exterior con agua que posee más oxígeno, no se alimentan del sedimento que les rodea.
+Los poliquetos crean galerías para que se de circulación del agua para aumentar el potencial redox y el aumento de oxígeno. El sedimento estuarico se oxigena y cambia sus propiedades => bioturbación.
+La razón por la cual estos organismos se entierran es la interacción entre depredador-presa: los grandes depredadores de ambientes estuaricos tienen nichos alimentarios parecidos (= gremio) y se alimentan de las presas que se quedan en la superficie. Aumentar la profundidad implica huir de dichos depredadores (pequeñas aves).
 
+**Turbidez (atenuación de la luz):**
 
+Imaginemos un estuario positivo en el que hay aporte de agua superficial hacia el mar (menos densa) y más salada entrando al estuario. Entre ellas se crean una haloclina. La turbidez dificulta mucho la producción. La turbidez está más localizadas en los estuarios de cuña salina (más estratificados) y más extendida en los que tienen más mezcla. Se dan corrientes contrapuestas que aportan materiales, las partículas tenderán a depositarse donde la velocidad de las corrientes se van haciendo cero.
+
+El agua de río suele transportar gran cantidad de material fino en la capa superficial que comienza a sedimentar según su tamaño al entrar en el estuario (también interviene el proceso de floculación, inducido por cambios en la carga electrostática de las partículas al encontrar un ambiente de agua más salada). Las partículas y agregados entran en la fase profunda, con una tendencia a circular hacia dentro del estuario. Los efectos del transporte del río hacia el mar en superficie y el contrapuesto de vuelta en profundidad encuentran una zona de equilibrio en la que se acumula mucho sedimento en suspensión. Esta es la zona del máximo de turbidez , que puede desplazarse con la mareas. Generalmente se encuentra donde se produce el encuentro mar-río en el extremo de la cuña salina, donde la salinidad cambia mucho y se hace baja, siendo indicio de este equilibrio.
+
+La situación de mezcla y fuerte influencia de mareas puede incrementar la extensión del área con problemas de turbidez. Estuarios muy mezclados suelen ser más turbios.
+En la figura, situación de la estación de lluvias (arriba) y la seca en el caso concreto del estuario del Mekong (Vietnam).
+
+![alt text](<imagenes-4-curso/captu-5.12-oba.png>)
+
+La turbidez se mide, por ej, filtrado el sedimento en suspensión (mg/L), otra forma se basa en la transmisión de la luz (esferómetro que mide el % de luz que pasa). En la zona más marina la turbidez es inferior a 10 mg/L (agua más transparente) y a medida que nos metemos en el estuario, va duplicando la turbidez.
+
+![alt text](<imagenes-4-curso/captu-5.13-oba.png>)
+
+La PP se ha medido en g de C por $m^2$ y por año. No hay falta de nutrientes, pero la luz limita la producción. La media de producción de carbono es de aprox 50-60 gC/$m^2$ por año (idea general).
+
+La clorofila nos da una idea estimada de la biomasa del fitoplancton más que de producción: en la zona más cercana al río (muy turbia) hay poca clorofila, a continuación va aumentando y llega a una zona intermedia en la que alcanza >4 mg/$m^3$.
 
 
 
