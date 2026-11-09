@@ -146,6 +146,12 @@ La PP se ha medido en g de C por $m^2$ y por año. No hay falta de nutrientes, p
 
 La clorofila nos da una idea estimada de la biomasa del fitoplancton más que de producción: en la zona más cercana al río (muy turbia) hay poca clorofila, a continuación va aumentando y llega a una zona intermedia en la que alcanza >4 mg/$m^3$.
 
+**Consecuencias de la alta turbidez:**
+
+La existencia de zonas de acumulación en suspensión de materiales finos, determina una gran atenuación de la luz. La $D_{cr}$ se hace muy somera y es esperable que se den problemas de limitación de la producción primaria por falta de luz. Estuarios excesivamente mezclados y turbios mantienen niveles de producción bajos. El Severn en UK (ver gráficos pasados) es un ejemplo. El Rio Zaire es un ejemplo claro de estuario con aguas poco productivas en el que la producción anual puede llegar a oscilar tan solo entre 3,7 y 37 g $C/m^2$ año. Estos estuarios frecuentemente presentan un efecto de fertilización costera en su desembocadura y pluma. Por el contrario, estuarios con mezclas marginales pero una estratificación marcada suelen ser muy productivos, ya que los nutrientes añadidos por aporte fluvial y los aportados por mezclas eventuales desde abajo se empaquetan en una capa superficial bien iluminada. Esta es la particularidad del efecto Sverdrup en zonas estuáricas. Muchos estuarios, sobre todo los mezclados, presentan una producción LIMITADA por LUZ.
+
+**Orígenes de la biota estuárica**
+
 
 
 
