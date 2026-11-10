@@ -49,6 +49,8 @@ En el medio marino nos encontramos con 3 grandes fracciones del P:
 - P orgánico disuelto (POD);
 - P particulado (PP).
 
+**Fósforo inorgánico disuelto:**
+
 Podemos llevar a cabo la especiación del PD:
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.2.png>)
@@ -61,6 +63,24 @@ Al realizar la especiación con los distintos pares iónicos se tiene que:
 ![alt text](<imagenes-4-curso/captu-oqa-4.4.png>)
 
 A medida que aumenta la carga es mayor la tendencia de reaccionar con las especies disueltas en sw.
+
+La cte de disociación ($K_i$) aumenta al aumentar la presión (= profundidad). A medida que aumenta la profundidad, aumenta la K y se produce una disminución de las especies menos disociadas = a medida que aumenta P, aumenta K y por tanto la concentración de los productos (numerador) > concentración de los reactivos (numeradores).
+
+![alt text](<imagenes-4-curso/captu-oqa-4.5.png>)
+
+Los polifosfatos o fosfatos condensados son moleculas formadas por 2 o más grupos de fosfatos unidos por enlace del tipo P-O-P, formando cadenas o incluso compuestos cíclicos en algunos casos. La proporción es pequeña en el medio marino debido a su origen biológico, puesto que se forman debido fundamentalmente a la excreción de fitoplancton. Sí nos encontramos mayor proporción cuando ocurren blooms de fito.
+
+**Fósforo  inorgánico particulado (PIP):** se sabe poco en el agua de mar, se suele encontrar en 3 vías principales de formación:
+La primera forma es por precipitación de $Ca_3(PO_4)_2$, en el medio marino la concentración de Ca suele estar entorno a 10 mM, en el eq no suele ser muy alta (aprox 2mM), el proceso es cineticamente muy lento, por ello se encuentra en muy pocas cantidades.
+Otra forma de encontrarlo es formando fosfato de Fe ($FePO_4$), tampoco es muy abundante en el medio marino puesto que a pH promedio del sw no es muy estable, y el Fe a esas condiciones tiende a formar $Fe(OH)_3$.
+Finalmente, también se encuentra por adsorción sobre arcillas y el material detrítico.
+
+**Fósforo orgánico:**
+
+Las formas de P orgánico disuelto no están bien determinadas.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.6.png>)
+
 
 
 
