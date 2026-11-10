@@ -44,6 +44,8 @@ Difiere de los otros elementos biogeoquímicos importantes del medio marino (C, 
 A su vez, casi todas las formas de P disueltas y particuladas que encontramos en sw son formas combinadas o acomplejadas del P.
 Finalmente, solo domina un isótopo estable del P, el 31P.
 
+#### Química del P en el agua de mar
+
 En el medio marino nos encontramos con 3 grandes fracciones del P:
 - P inorgánico disuelto (PD) -> el más estudiado y conocido;
 - P orgánico disuelto (POD);
@@ -70,10 +72,9 @@ La cte de disociación ($K_i$) aumenta al aumentar la presión (= profundidad). 
 
 Los polifosfatos o fosfatos condensados son moleculas formadas por 2 o más grupos de fosfatos unidos por enlace del tipo P-O-P, formando cadenas o incluso compuestos cíclicos en algunos casos. La proporción es pequeña en el medio marino debido a su origen biológico, puesto que se forman debido fundamentalmente a la excreción de fitoplancton. Sí nos encontramos mayor proporción cuando ocurren blooms de fito.
 
-**Fósforo  inorgánico particulado (PIP):** se sabe poco en el agua de mar, se suele encontrar en 3 vías principales de formación:
-La primera forma es por precipitación de $Ca_3(PO_4)_2$, en el medio marino la concentración de Ca suele estar entorno a 10 mM, en el eq no suele ser muy alta (aprox 2mM), el proceso es cineticamente muy lento, por ello se encuentra en muy pocas cantidades.
-Otra forma de encontrarlo es formando fosfato de Fe ($FePO_4$), tampoco es muy abundante en el medio marino puesto que a pH promedio del sw no es muy estable, y el Fe a esas condiciones tiende a formar $Fe(OH)_3$.
-Finalmente, también se encuentra por adsorción sobre arcillas y el material detrítico.
+**Fósforo inorgánico particulado:**
+
+Se sabe poco en el agua de mar, se suele encontrar en 3 vías principales de formación: la primera forma es por precipitación de $Ca_3(PO_4)_2$, en el medio marino la concentración de Ca suele estar entorno a 10 mM, en el eq no suele ser muy alta (aprox 2mM), el proceso es cineticamente muy lento, por ello se encuentra en muy pocas cantidades. Otra forma de encontrarlo es formando fosfato de Fe ($FePO_4$), tampoco es muy abundante en el medio marino puesto que a pH promedio del sw no es muy estable, y el Fe a esas condiciones tiende a formar $Fe(OH)_3$. Finalmente, también se encuentra por adsorción sobre arcillas y el material detrítico.
 
 **Fósforo orgánico:**
 
@@ -83,7 +84,7 @@ Las formas de P orgánico disuelto no están bien determinadas.
 
 El P orgánico particulado la gran mayoría está en forma de fosfoésteres.
 
-**Distribución espacial y temporal de fosfatos:**
+#### Distribución espacial y temporal de fosfatos
 
 Las concentraciones más bajas se encuentran en superficie debido a la actividad fotosintética que retira fosfato para realizar funciones vitales.
 
@@ -94,4 +95,16 @@ Estos procesos están relacionados: cuando hay alta concentraciones de fitoplanc
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.8.png>)
 
+En general, los valores siguen el movimiento de las principales masas de agua. Las concentraciones en aguas profundas aumentan desde el Atlántico Norte hasta el Pacífico Norte y el Índico.
 
+**Diap 16:** Las concentraciones de $HPO_4^{2-}$ están intimamente relacionadas con la actividad biológica -> importantes variaciones estacioneales, especialmente importantes en sistemas litorales.
+
+### Nitrógeno
+
+
+
+
+
+
+
+</div>
