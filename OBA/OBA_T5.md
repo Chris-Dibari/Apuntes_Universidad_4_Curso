@@ -150,7 +150,22 @@ La clorofila nos da una idea estimada de la biomasa del fitoplancton más que de
 
 La existencia de zonas de acumulación en suspensión de materiales finos, determina una gran atenuación de la luz. La $D_{cr}$ se hace muy somera y es esperable que se den problemas de limitación de la producción primaria por falta de luz. Estuarios excesivamente mezclados y turbios mantienen niveles de producción bajos. El Severn en UK (ver gráficos pasados) es un ejemplo. El Rio Zaire es un ejemplo claro de estuario con aguas poco productivas en el que la producción anual puede llegar a oscilar tan solo entre 3,7 y 37 g $C/m^2$ año. Estos estuarios frecuentemente presentan un efecto de fertilización costera en su desembocadura y pluma. Por el contrario, estuarios con mezclas marginales pero una estratificación marcada suelen ser muy productivos, ya que los nutrientes añadidos por aporte fluvial y los aportados por mezclas eventuales desde abajo se empaquetan en una capa superficial bien iluminada. Esta es la particularidad del efecto Sverdrup en zonas estuáricas. Muchos estuarios, sobre todo los mezclados, presentan una producción LIMITADA por LUZ.
 
+**Estudio Golfo de Nicoya:** las isohalinas aparecen en la epoca seca más verticales y en la epoca lluviosa aparecen tumbadas (horizontales). Esto tiene que ver con el aporte de agua dulce. En la epoca lluviosa se tienen salinidades más bajas cerca del río. La diferencia entre las características entre epoca lluviosa y seca hace que el estuario adopte dos comportamientos de estratificación distintos. A nivel de T, en la estación seca se rompe la termoclina y hay una columna de agua homogénea en la vertical (condición de mezcla).
+
+**Estudio en Santa Catarina:** isohalina muy fuerte sobre todo en pleamar. Estuario bastante estratificado. Separación importante entre agua más dulce y salada. Zona azul-verde = elevada mezcla, por debajo zona muy estratificada (diferencia entre azul oscuro y rojo).
+
+**Nutriente limitante** -> Ley del Mínimo Liebig. Solo un nutriente actúa como limitante, si hay poco de todo habrá uno que proporcionalmente limitará el crecimiento. Índice de Redfield -> C:N:P = 106:16:1 presentes en promedio en la MO. Los "tejidos" que componen las celulas necesita en media dicha proporción de moléculas. Esto es útil para conocer el nutriente limitante.
+DIN = N inorgánico disuelto. SRP = P soluble reactivo. Viendo las concentraciones (diap 44) el P es limitante puesto que está por debajo del valor de 1 que establece la relación de Redfield.
+
+La constante de afinidad ($K_s$) (también denominada constante de saturación) es un parámetro crítico que mide la fuerza de interacción o afinidad entre un organismo/enzima y su sustrato. Un valor bajo de ($K_s$) indica una alta afinidad por el sustrato, lo que significa que el sistema puede trabajar de forma eficiente incluso a concentraciones de alimento extremadamente bajas.
+Concentración de nutrientes a la cual se obtiene la mitad del crecimiento máximo -> $K_s=0,77 uM$ indica el valor al cual los organismos obtienen la mitad del crecimiento.
+
 **Orígenes de la biota estuárica**
+
+![alt text](<imagenes-4-curso/captu-5.14-oba.png>)
+
+En el eje Y = numero de especie o diversidad y en el eje X = salinidad.
+Las especies que son comunes con agua dulce y que tienen ancestros evolutivos en aguas dulces/continentales, se encuentran en la zona del estuarios entre 0-5 (salinidad). Parece que las especies de agua dulce son estenohalinas (no toleran aguas saladas). Las especies de aguas salada no toleran entrar dentro del estuario (estenohalinas) Las eurihalinas son las que colonizan el estuario. Hay especies que pueden llegar hasta sw pero hay desplazamiento por competencia (nicho competitivo en el interior del estuario) -> Ej. de OB de los cirrípedos y el concepto de nicho competitivo (tamalus-varanus).
 
 
 
