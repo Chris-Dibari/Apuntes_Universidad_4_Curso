@@ -81,8 +81,17 @@ Las formas de P orgánico disuelto no están bien determinadas.
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.6.png>)
 
+El P orgánico particulado la gran mayoría está en forma de fosfoésteres.
 
+**Distribución espacial y temporal de fosfatos:**
 
+Las concentraciones más bajas se encuentran en superficie debido a la actividad fotosintética que retira fosfato para realizar funciones vitales.
 
+![alt text](<imagenes-4-curso/captu-oqa-4.7.png>)
+
+Aparición de P con la profundidad -> La liberación de P a partir de fito que se ha muerto y a partir de las heces del zooplancton.
+Estos procesos están relacionados: cuando hay alta concentraciones de fitoplancton en el sw el zooplancton libera menos P debido a que utiliza ese P para la formación de huevos (la descendencia va a tener alimento y retengo P para reproducirme). Por el contrario cuando hay poco fito, el zooplancton libera más P para que aumente la liberación de fitoplancton.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.8.png>)
 
 
