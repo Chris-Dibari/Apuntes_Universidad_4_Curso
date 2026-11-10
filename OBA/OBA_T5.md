@@ -165,7 +165,11 @@ Concentración de nutrientes a la cual se obtiene la mitad del crecimiento máxi
 ![alt text](<imagenes-4-curso/captu-5.14-oba.png>)
 
 En el eje Y = numero de especie o diversidad y en el eje X = salinidad.
-Las especies que son comunes con agua dulce y que tienen ancestros evolutivos en aguas dulces/continentales, se encuentran en la zona del estuarios entre 0-5 (salinidad). Parece que las especies de agua dulce son estenohalinas (no toleran aguas saladas). Las especies de aguas salada no toleran entrar dentro del estuario (estenohalinas) Las eurihalinas son las que colonizan el estuario. Hay especies que pueden llegar hasta sw pero hay desplazamiento por competencia (nicho competitivo en el interior del estuario) -> Ej. de OB de los cirrípedos y el concepto de nicho competitivo (tamalus-varanus).
+Las especies que son comunes con agua dulce y que tienen ancestros evolutivos en aguas dulces/continentales, se encuentran en la zona del estuarios entre 0-5 (salinidad). Parece que las especies de agua dulce son estenohalinas (no toleran aguas saladas). Las especies de aguas salada no toleran entrar dentro del estuario (estenohalinas) Las eurihalinas son las que colonizan el estuario. Hay especies que pueden llegar hasta sw pero hay desplazamiento por competencia (nicho competitivo en el interior del estuario) -> Ej. de OB de los cirrípedos y el concepto de nicho competitivo (tamalus-varanus). Importante recordar especies ≠ biomasa, puede haber muchisima biomasa pero con tan solo 3 especies.
+
+**Distribución de especies en el estuario: especies congenéricas.**
+
+
 
 
 
