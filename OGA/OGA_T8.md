@@ -32,3 +32,13 @@ Las fosforitas se presentan de muchisimas maneras: pellets, restos orgánicos, n
 
 Las fosforitas se distribuyen casi siempre en las plataformas (forman parte de las ZEE), suelen ser abundantes en montes submarinos asociados conc arbonatos y rocas volcánicas. Casi siempre asociadas a zonas de upwelling (agua fría rica en nutrientes). Otras fuentes de P son los guanos: excrementos de los pájaros y en menor medida de los murciélagos, pueden acumularse formando grandes costras en ciertas islas oceánicas, por ejemplo en el Pacífico oriental.
 
+
+
+
+
+### Depósitos evaporíticos
+
+Sedimentos químicos originados por concentración evaporativa de aguas marinas o continentales. Para que se formen es esencial que el ritmo de evaporación exceda al de los aportes de agua (precipitaciones). Estas rocas se pueden acumular en ambientes marinos marginales y continentales. La mayoría de los depósitos antiguos de mayor desarrollo se han formado en cuencas marinas. Se encuentran en todo el registro geológico.
+
+Importancia de las evaporitas:
+- Económica: usos industriales de sus minerales (alimentación, industria, piedra ornamental, jabones, lejías);
