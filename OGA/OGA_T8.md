@@ -15,7 +15,6 @@ p, li, div, h2, h3 {
 <!-- Usamos el atributo 'align' que es el único que la vista previa y el PDF respetan a la vez -->
 <div align="justify">
 
-
 ##  Oceanografía Geológica Aplicada - TEMA 8. Fosforitas y evaporitas
 
 Las fosforitas también pueden acumular tierras raras, los minerales estratégicos de los que dependemos.
