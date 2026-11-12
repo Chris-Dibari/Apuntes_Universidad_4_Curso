@@ -159,9 +159,15 @@ El N entra al medio marino por vía fluvial (principalmente mediante actividad a
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.13.png>)
 
+Perfil típico de nutriente: concentraciones nulas en superficie por incorporación al fito y aumento en profundidad por reincorporación al medio marino. La mayor cantidad se debe a la mayor edad geológica sobre todo en aguas profundas, además se tiene PP más intensa (mayor degradación en aguas superficiales).
 
+![alt text](<imagenes-4-curso/captu-oqa-4.14.png>)
 
+Perfiles de nitrito y amonio. El max de amonio se encuentra a una profundidad por encima de el del nitrito. Más abajo aún se da el máx de nitrato. 
 
+Generalmente el max de nitrito va a estar a una profunidad variable, pero siempre el max está por debajo de la profundidad de compensación fotosintética (profundidad en la que la fotosísntesis es igual a la respiración en lo que respecta al consumo y respiración de oxígeno) y también por debajo del max de clorofila. El max de nitrito debe estar a una profunidad a la cual se haya producido la degradación de la MO y haya amonio -> se tiene condiciones de $O_2$ y se produciría más abajo donde no haya.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.15.png>)
 
 
 
