@@ -169,6 +169,20 @@ Generalmente el max de nitrito va a estar a una profunidad variable, pero siempr
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.15.png>)
 
+![alt text](<imagenes-4-curso/captu-oqa-4.16.png>)
+
+Para que se produzca la oxidación de amonio se necesita $O_2$. La línea azul señala el máximo de deflexión.
+
+En condiciones subóxica ocurre la aparición de un segundo pico (desnitrificación):
+
+![alt text](<imagenes-4-curso/captu-oqa-4.17.png>)
+
+
+
+
+
+
+
 
 
 
