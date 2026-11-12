@@ -173,15 +173,21 @@ Generalmente el max de nitrito va a estar a una profunidad variable, pero siempr
 
 Para que se produzca la oxidación de amonio se necesita $O_2$. La línea azul señala el máximo de deflexión.
 
-En condiciones subóxica ocurre la aparición de un segundo pico (desnitrificación):
+En condiciones subóxica ocurre la aparición de un segundo pico de nitrito (desnitrificación):
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.17.png>)
 
+**Variaciones estacionales:** son más intensas en las zonas costeras. Van a tener un comportamiento directamente ligado a la actividad biológica en la columna de agua.
 
+![alt text](<imagenes-4-curso/captu-oqa-4.18.png>)
 
+A medida que sube la T y se tiene el bloom de fito -> la concentración de esos nutrientes baja muchisimo, sobre todo en las aguas sperficiales debido a la incorporación al fito. Terminado el verano vuelve a aumentar la concentración de los nutrientes.
 
+### Ciclos biogeoquímicos del N y P
 
-
+Consideraciones previas:
+- La productividad primaria está limitada por la [nutrientes]
+- 
 
 
 
