@@ -26,3 +26,9 @@ Los minerales del grupo del apatito de origen sedimentario son microcristalinos 
 - La francolita es estructural y químicamente compleja. El grupo puede ser representado por la fórmula simplificada $Ca_{10}[(PO_4)_{6-x}(CO_3)_x] F_{2+x}$
 - El valor x es variable entre 0,39-1,36 con un promedio de 0.75 y puede exceder, en ocasiones, 1,90.
 
+**Extracción de fósforo:** se atacan las fosforitas con ácido sulfúrico, liberandose 7H2SO4 y 7CaSO4·2H2O.
+Los fosfoyesos sonr residuos derivados de la producción de fósforo.
+Las fosforitas se presentan de muchisimas maneras: pellets, restos orgánicos, nódulos fosfáticos...
+
+Las fosforitas se distribuyen casi siempre en las plataformas (forman parte de las ZEE), suelen ser abundantes en montes submarinos asociados conc arbonatos y rocas volcánicas. Casi siempre asociadas a zonas de upwelling (agua fría rica en nutrientes). Otras fuentes de P son los guanos: excrementos de los pájaros y en menor medida de los murciélagos, pueden acumularse formando grandes costras en ciertas islas oceánicas, por ejemplo en el Pacífico oriental.
+
