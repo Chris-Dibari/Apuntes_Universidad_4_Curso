@@ -101,6 +101,43 @@ En general, los valores siguen el movimiento de las principales masas de agua. L
 
 ### Nitrógeno
 
+Complejidad en el estudio:
+- N inorgánico -> 9 estados de oxidación (-3 -> +5);
+- Presencia de numerosos compuestos inorgánicos de N en sw;
+
+
+
+
+La condición limitante de [N inorgánico] < 0,7 micromolar
+Se da la inhibición de la división celular (deficiencia de N).
+
+**Procesos biogeoquímicos en los que intervienen compuestos de N:**
+
+- **Nitrificación:** es la oxidación del $NH_4^+$ a $NO_3^-$. Este proceso produce NO2- como intermediario y es llevado a cabo por bacterias en la columna de agua y en los sedimentos. Las bacterias también son capaces de reducir el $NO_3^-$ a $NO_2^-$. Se pensaba que esta reducción se producía en aguas con altos niveles orgánicos, pero ahora se cree que ocurre en aguas con bajo nivel de oxígeno.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.9.png>)
+
+**Desnitrificación:** El $NO_3^-$ se utiliza como aceptor de electrones en lugar del $O_2$ en la oxidación de la materia orgánica. Este proceso también puede ocurrir en aguas con O2 inferior a 2 μM.
+Se produce donde la concentación de $O_2$ es muy muy baja, donde la columna de agua alcanza una profundidad de aprox 1000m. También se produce en el sedimento y en microambientes anóxicos sobre el material particulado.
+
+**Nitratorreducción:** La reducción del nitrato ($NO_3$ -> $NH_4^+$) se produce por bacterias en zonas del océano con baja concentración de oxígeno. La reducción se detiene en $NH_4^+$. El amonio generado puede ayudar al proceso anammox.
+
+Se produce una reducción del N: en la desnitrificación (principalmente en los océanos, aunque también en los sedimento) puede conllevar a óxido nitroso como subproducto.
+En la nitratorreducción (dominante en sistemas litorales) puede conllevar a $N_2$ como subproducto.
+
+**Anamox:** El nitrito y el amonio reaccionan para dar lugar a $N_2$.
+El proceso Anammox se ha añadido recientemente al ciclo del nitrógeno en aguas oceánicas superficiales con bajas concentraciones de O2. Consiste en la reacción del nitrito y el amonio para formar nitrógeno.
+
+**Fijación de nitrógeno:** La fijación del nitrógeno es la conversión del gas nitrógeno en amonio ($N_2$ -> $NH_4^+$). En los océanos, las algas verdeazuladas, o más correctamente las cianobacterias, son las principales fijadoras de nitrógeno.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.10.png>)
+
+*NOTA*: El color naranja se refiere o óxido nitroso ($N_2O$) y se da como producto intermedio.
+
+
+
+
+
 
 
 
