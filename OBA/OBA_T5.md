@@ -169,7 +169,39 @@ Las especies que son comunes con agua dulce y que tienen ancestros evolutivos en
 
 **Distribución de especies en el estuario: especies congenéricas.**
 
+### Gradiente de salinidad y distribución de organismos
 
+El Calanus solo vive en salinidades altas, Centropages está en toda la parte exterior del estuario llegando a una salinidad de 32, Acartia se encuentra más adentro del estuario en la parte en la que cambia mucho la salinidad y Eurytemora está limitada en la zona interna donde la salinidad es baja y no varía tanto.
+
+Acartia es una especie de estuario típica en todo el mundo. Siempre hay acartia clausi fuera y una Acartia pequeñita dentro de otra especie.
+
+¿Por qué en las zonas estuáricas tenemos pocas especies y pocos géneros? Porque adaptarse a los estuarios es difícil para los organismos marinos y cuando una especie lo consigue se producen especiaciones restringidas. 
+
+El género gammarus tiene varias especies en las zonas estuáricas y cada una abunda con unos valores de salinidad determinados. Gammarus duebeni tiene un máximo en zonas de agua dulce, es una especie de agua dulce que tolera cierta salinidad. Gammarus zaddachi, salinus y locusta son especies estuáricas, tienen un máximo cerrado en el estuario. La curva abierta de gammarus oceanicus nos indica que es capaz de meterse algo en el estuario pero que es una especie oceánica que abunda en el océano.
+
+### Marismas
+
+Las marismas están en zonas templadas y los manglares en tropicales.
+
+La duna formada por granos finos y bien clasificados. El abanico de desbordamiento. Bosque y pradera de hierba es un sistema terrestre. La marisma está colonizada por plantas terrestres. Sand flat realmente no es arena son sedimentos más finos. Luego tenemos el caño mareal.
+
+La marisma de la costa atlántica americana, las espartinas de la zona cerca del caño mareal son muy altas y luego se hacen cada vez más pequeñas. ¿Por qué? ¿Es la misma especie? Trasplantaron plantas de la zona en la que eran muy bajitas a la zona en la que eran muy altas y estas crecieron muchísimo, por lo que no eran genéticamente diferente, eran factores ambientales lo que determinaba su altura. ¿Qué factor puede explicar esto? En el high marsh hay un estrés muy grande de variación de salinidad y en el caño mareal hay estrés debido a la salinidad elevada. Como son plantas terrestres tienen raíces, los nutrientes en la parte más cerca del caño se renuevan más gracias a la marea y en la zona alejada hay menos renovación de nutrientes. El oxígeno disuelto desaparece muy deprisa en el sedimento de las marismas. Cuando se acaba el oxígeno aparece el sulfuro que es tóxico. El oxígeno disuelto de las primeras capas de sedimento se renueva más en las zonas cercanas al caño que en las zonas estancadas. Al añadir nitrato se añaden nutrientes y además cambia el potencial redox, haciendo que el potencial cerca de las raíces sea algo más positivo, lo que es beneficioso. La zona que está algo más elevada (Levee) es donde mejor crece ya que se renueva más el oxígeno.
+
+### Adaptaciones fisiológicas determinan estas tolerancias y distribuciones:
+
+Para los taxones de plantas con ancestros evolutivos terrestres, la inundación periódica con agua salada representa un problema: se crea un estrés hídrico a pesar de la abundancia de agua debido a su salinidad, que determina que el potencial hídrico externo sea negativo. Esto fuerza, para que se pueda producir incorporación de agua, que se contrarreste con un descenso de potencial propiciado por aumentos en la concentración de solutos internos. La planta puede **sintetizar solutos orgánicos** e **incorporar sales para lograrlo**. Otro problema frecuente en suelos encharcados es la baja tensión de oxígeno y anoxia que requiere también adaptaciones específicas.
+
+Desventaja de incorporar solutos: muy caro energeticamente para la planta (le resta competitividad). La ventaja es que los solutos orgánicos son compatibles con el funcionamiento de la planta. Con las sales ocurre al revés, es muy facil incorporar sales, la desventaja es que se da desnaturalización de las proteínas en caso de altas concentraciones (dificulta el comportamiento enzimatico de las plantas).
+
+La diferencia principal entre las plantas C3 y C4 está en cómo fijan el dióxido de carbono ($CO_2$) durante la fotosíntesis y en cómo responden al calor y a la falta de agua.
+
+Plantas C3 = más frecuentes plantas terrestres, forman primero una molécula de 3 carbonos directamente mediante el ciclo de Calvin y pierden energía por fotorrespiración en climas cálidos.
+Plantas C4 = capturan primero el CO₂ en una molécula de 4 carbonos para concentrarlo y reducir esa pérdida en ambientes cálidos y soleados.
+
+**Adaptación a la anoxia en plantas de suelos encharcados: Spartina**
+
+a. Aerénquima-Transporte de oxígeno-Reducción de demanda de oxígeno celular (En condiciones continuadas de anoxia esto no basta y se da metabolismo anaerobio de fermentación, pero entonces es necesario evitar toxicidad por acumulación de productos como los alcoholes, p.ej eliminándolos con facilidad) 
+b. Neutralización de la toxicidad del sulfuro y otras sustancias por oxidación cuando se restablece la emersión y difunde el oxígeno. Se estudia también si se da simbiosis con Beggiatoa (que metaboliza sulfuro a azufre) y necesita catalasas como se ha demostrado en el arroz.
 
 
 
