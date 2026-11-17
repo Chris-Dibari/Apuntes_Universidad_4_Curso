@@ -65,4 +65,22 @@ Una misma especie puede tener distintas tasas de mortalidad natural:
 
 ![alt text](<imagenes-4-curso/captu-peces-15.10.png>)
 
+- PRODUCIÓN ANUAL = La cantidad de tejido elaborado por una comunidad en un tiempo t.
+- PRODUCCIÓN ESTACIONAL = La cantidad de tejido elaborado por una comunidad en intervalos de tiempo estacionales, no anuales.
+- PRODUCCIÓN DISPONIBLE, (PA) = Es la producción que queda al pasar un año. Esta Producción disponible puede ser expresada como: PA= P elaborada - P que se pierde por mortalidad.
+
+La producción que se pierde por mortalidad puede ser calculada como la P inicial del año siguiente, sin la carga del reclutamiento de ese año en cuestión. Ricker expresa la Producción como el producto de la tasa de crecimiento en peso G por la biomasa media: $$P_r = G·B_{media}$$
+Donde G es facilmente calculable.
+
+![alt text](<imagenes-4-curso/captu-peces-15.11.png>)
+
+![alt text](<imagenes-4-curso/captu-peces-15.12.png>)
+
+![alt text](<imagenes-4-curso/captu-peces-15.13.png>)
+
+![alt text](<imagenes-4-curso/captu-peces-15.14.png>)
+
+
+
+
 
