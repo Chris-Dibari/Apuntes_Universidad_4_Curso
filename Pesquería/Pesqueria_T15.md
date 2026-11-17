@@ -88,7 +88,41 @@ Siguiendo con el ejemplo utilizado para determinar Z. Si la explotación de una 
 
 ![alt text](<imagenes-4-curso/captu-peces-15.16.png>)
 
+MÉTODOS DE DETERMINACIÓN DE M INDEPENDIENTEMENTE DE Z:
 
+La mortalidad natural está relacionada con la biología de la especie.
+• Existe relación entre longevidad y mortalidad natural.
+• El parámetro k de von Bertalanffy está relacionado con la longevidad de los peces y la longevidad está relacionada con la mortalidad.
+- Las especies ícticas con un valor de k alto tienen igualmente un valor alto de M,
+- Las especies con un valor de k bajo tienen una mortalidad natural baja ya que una especie de crecimiento lento no puede soportar una mortalidad natural alta, pues se extinguiría rápidamente.
 
+La mortalidad natural está relacionada con la biología de la especie.
 
+- M también debe estar relacionada con L o con W, ya que los peces grandes tienen menos depredadores que los pequeños.
+- Se ha sugerido que, para ciertos grupos de animales, M se puede predecir a partir del tamaño corporal.
+-  En general los peces con M alta maduran precozmente, compensando así la M alta con un inicio temprano de la fase reproductiva.
+- También puede existir una relación entre M y la razón del peso de las gónadas al peso somático. Esto resulta razonable, porque los peces pueden compensar una mortalidad alta produciendo más huevos.
 
+![alt text](<imagenes-4-curso/captu-peces-15.17.png>)
+
+![alt text](<imagenes-4-curso/captu-peces-15.18.png>)
+
+RELACIÓN DE M CON PARÁMETROS DE CRECIMIENTO: PUNTUALIZACIONES A LA PROPUESTA DE PAULY.
+
+- Cuando no se dispone de ninguna otra información sobre M, que es el caso más frecuente, no se debería dudar en aplicarla.
+- La fórmula se basa en datos sobre poblaciones de peces solamente y el resultado depende de cómo se mida la talla (longitud total, furcal o estandar). Sin embargo, como la ecuación de Pauly sólo da una estimación aproximada de M, se puede prescindir de este detalle.
+- No se debe emplear para crustáceos, moluscos, cefalópodos, o cualquier otro animal que no sean peces, ya que la fórmula no abarca a esos grupos.
+
+**Métodos de determinación de M independientemente de Z: Relación de M con parámetros de crecimiento.**
+
+- Hay que tener presente que para llegar a esta expresión Pauly tuvo que utilizar "observaciones“ de M, que son difíciles de obtener. Cualquier valor de M empleado para la estimación de la ecuación, resulta discutible. Por lo tanto, se recomienda usar sólo un decimal al presentar el resultado.
+- La fórmula indica que: Los peces pequeños tienen una mortalidad natural alta. Las especies de crecimiento rápido tienen una mortalidad natural alta. Mientras más cálida sea el agua, más alta será la 
+mortalidad natural.
+
+Cualquier otro aspecto que pueda influir en M se considera "ruido aleatorio entorno a la línea de regresión“. Los otros aspectos son, por ejemplo, el comportamiento (cardúmenes, pelágicos / demersales), la fisiología de la reproducción, el ecosistema (abundancia de depredadores). Pauly posteriormente sugiere que en la ecuación se tenga en cuenta estos aspectos. Por ejemplo, en especies que forman cardúmenes la estimación será un 20 % menor; por esta razón el resultado se debe multiplicar por 0.8. Así la ecuación queda de la siguiente manera: $$M=0.8*exp[-0.0152-0.279*ln Linf +0.6543*ln K+0.463*ln T]$$
+
+![alt text](<imagenes-4-curso/captu-peces-15.19.png>)
+
+![alt text](<imagenes-4-curso/captu-peces-15.20.png>)
+
+</div>
