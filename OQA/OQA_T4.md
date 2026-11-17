@@ -227,8 +227,12 @@ Se cree que este ciclo está en estado estacionario y esto se debe a la desnitri
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.21.png>)
 
+No hay intercambio gaseoso entre aguas superficiales y atmósfera y por tanto este compartimiento no se incluye en dicho modelo.
+Entra P por parte de los ríos, pero en su camino hacia las aguas costeras parte del P precipita (normalmente fosfato calcico) y se adsorbe (pasa de disuelto a material particulado) -> en el esquema, lo que realmente llega es 9 y no 21.
 
+En las aguas superficiales se tiene un ciclo en el que por un lado el fito va a incorporar P y nuevamente va a estar disponible tras la remineralización (practicamente > 90%).
 
+Al sumar entradas y salida, el sistema no cuadra (estado no estacionario) sobre todo se atribuye a que no se conoce bien la cantidad de P que se preserva en los sedimentos. Se cree que el ciclo está igualmente en estado estacionario puesto que no hay entradas signifcativamente altas, aunque los flujos no cuadren por la cantidad que se preserva.
 
 
 </div>
