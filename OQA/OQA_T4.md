@@ -205,7 +205,17 @@ Elemento básicos de cálculo en el estudio de los ciclos de nutrientes: **Relac
 El 10^{12} se refiere a picogramos.
 
 Suministro de nutrientes por mezcla vertical: 50% por difusión y 50% por afloramientos.
-El 90% de los requerimientos nutricionales del fitoplancton se da por regeneración en aguas superficiales (aumento de la termoclina).
+El 90% de los requerimientos nutricionales del fitoplancton en aguas superficiales se da por regeneración en aguas superficiales (las aguas superficiales se consideran las que están por encima de la termoclina).
+
+Diap 43: El hecho de que la pendiente en la parte final de la recta se ajuste menos se debe a desnitrificación de la MO. El nitrato se convierte en N gaseoso y se escapa hacia la atmósfera. Por ello hay menos nitrato en la parte final de la gráfica. 
+
+**Modelos de balances de masas de N y P:**
+
+- Constituyen la base del estudio de los ciclos biogeoquímico;
+- 3 compartimientos: aguas superficiales (tiempo de residencia de aprox 20-30 días), aguas intermedias y profundas (500 años) y sedimento.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.20.png>)
+
 
 
 
