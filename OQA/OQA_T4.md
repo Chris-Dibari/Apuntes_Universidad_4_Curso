@@ -186,8 +186,29 @@ A medida que sube la T y se tiene el bloom de fito -> la concentración de esos 
 ### Ciclos biogeoquímicos del N y P
 
 Consideraciones previas:
-- La productividad primaria está limitada por la [nutrientes]
-- 
+- La productividad primaria está limitada por la [nutrientes];
+- Los nutrientes son continuamente retirados de las aguas superficiales formando parte de MOP (organismos muertos + heces);
+- Los nutrientes se regeneran en aguas más profundas -> aumento de la concentración con la profundidad.
+
+Elemento básicos de cálculo en el estudio de los ciclos de nutrientes: **Relación de Redfield**.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.19.png>)
+
+| Flujo $(g·año^-1)$ | $C·10^{12}$ | $N·10^{12}$ | $P·10^{12}$ |
+|---|---|---|---|
+| NPP | 45000 | 6500 | 1000 |
+| Cantidades suministradas por: | | | |
+| Ríos | | 36 | 21 |
+| Mezcla vertical | | 542 | 71 |
+| Regeneración superficial (diferencia) | | 5922 | 908 |
+
+El 10^{12} se refiere a picogramos.
+
+Suministro de nutrientes por mezcla vertical: 50% por difusión y 50% por afloramientos.
+El 90% de los requerimientos nutricionales del fitoplancton se da por regeneración en aguas superficiales (aumento de la termoclina).
+
+
+
 
 
 
