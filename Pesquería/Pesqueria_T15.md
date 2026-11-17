@@ -80,6 +80,14 @@ Donde G es facilmente calculable.
 
 ![alt text](<imagenes-4-curso/captu-peces-15.14.png>)
 
+La medida de la mortalidad natural es difícil de evaluar, y se puede calcular por diferencia entre la mortalidad total y la mortalidad por pesca. Para ello se utilizan las tasas instantáneas de mortalidad. Lo que generalmente se realiza es la determinación de un rango de posibles valores de M.
+
+![alt text](<imagenes-4-curso/captu-peces-15.15.png>)
+
+Siguiendo con el ejemplo utilizado para determinar Z. Si la explotación de una pesquería se realiza sobre las edades 2+ a 6+. Y tenemos datos de 3 años consecutivos, tanto de las CPUE como del esfuerzo ejercido cada año.
+
+![alt text](<imagenes-4-curso/captu-peces-15.16.png>)
+
 
 
 
