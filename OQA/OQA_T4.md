@@ -216,9 +216,16 @@ Diap 43: El hecho de que la pendiente en la parte final de la recta se ajuste me
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.20.png>)
 
+Por un lado se producen entradas (numeros rojos se multiplican por 10^{12} y tienen unidades de g·año^{-1}). Las aguas superficiales reciben amonio y nitrato procedentes de las lluvias y vía atmosférica. Por otro lado también hay organismos que fijan dichos compuestos, además hay desnitrificación (aguas intermedias-profundas).
+En las aguas superficiales se tiene también un ciclo interno (organismo fotosintético incorporan N orgánico que a continuación se remineraliza y vuelve a circular), constituen los ciclos más significativos de todo el sistema. También hay deposición en aguas profundas (parte se mineraliza por desnitrificación, que libera $N_2$ y $N_2O$). Parte alcanza los sedimentos, aquí parte del N se remineraliza por desnitrificación, liberando por tanto los mismos productos también en este compartimiento. Por difusión, puede realcanzar las aguas intermedias de vuelta del sedimento.
 
+No todo el N inorgánico se va a remineralizar, hay parte (desconocido el valor exacto) que se queda preservado. Muy refractaria (dificilmente viene decompuesta por las bacterias).
 
+EL N se degrada mucho más rápido que el C => por tanto la proporción se hace más grande. Uno de los motivos por las cuales las entradas no son iguales a las salidas es que no se tiene gran conocimiento de algunos procesos (se basa en estimaciones).
 
+Se cree que este ciclo está en estado estacionario y esto se debe a la desnitrificación, gracias a la cual el N en exceso es liberada al atmósfera. De lo contrario, en el agua se tendría siempre más nitrato y en la atmósfera menos $N_2$.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.21.png>)
 
 
 
