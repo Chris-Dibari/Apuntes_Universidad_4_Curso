@@ -63,6 +63,6 @@ Una misma especie puede tener distintas tasas de mortalidad natural:
 
 ![alt text](<imagenes-4-curso/captu-peces-15.9.png>)
 
-
+![alt text](<imagenes-4-curso/captu-peces-15.10.png>)
 
 
