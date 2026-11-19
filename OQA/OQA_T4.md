@@ -258,6 +258,33 @@ Tienen gran capacidad de adsorción y de intercambio iónico -> control sobre la
 
 **Distribución espacial y temporal de silicatos:**
 
+Es un elemento nutriente y presenta un perfil típico de nutriente. Se tienen máximos en aguas intermedias y profundas. A diferencia del fosfato y N inorgánico NO participa en los procesos de degradación de la MO, sino que participa en procesos de disolución condicionados por parametros físicos-químicos como la T, s, pH, ...
+
+![alt text](<imagenes-4-curso/captu-oqa-4.24.png>)
+
+Bajas concentraciones en aguas superficiales debido a que viene asimilado por organismos que forman sus esqueletos con $SiO_2$ (forma parte del mat. partículado). Se libera en la columna de agua en valores más profundos.
+
+Atlántico => valor máx a 1000 m y Pacífico a 2000m => condiciones fisico-quimicas diferentes (generalidades).
+
+Del Atlántico N su concentración va aumentando conforme nos desplazamos hacia el Pacifico e Índico -> transporte por masas de aguas profundas como por los demás nutrientes.
+Por un lado hay gran proliferación de diatomeas (que mueren y se disuelve = fondo enriquecido en silicatos) además se produce difusión de silicatos de sedimento hacia aguas superiores. Otro factor que hay que tener en cuenta es el calentamiento que produce el deshielo en las zonas árticas.
+
+**Variaciones estacionales:**
+
+![alt text](<imagenes-4-curso/captu-oqa-4.25.png>)
+
+Las variaciones estacionales destacarán mayormente en las zonas litorales. En invierno (cantidad de diatomeas inferior) se tienen mayores concentraciones. En los meses va disminuyendo cuando se produce el bloom de primavera y en verano destaca más el gradiente de concentración. También condiciona mucho la termoclina.
+
+#### Ciclo biogeoquímico del silicio
+
+Se desconoce todavía mucho. Se consideran los 3 grandes compartimientos como en los casos anteriores. En las aguas superficiales hay un ciclo interno, por un lado el silicato se incorpora por los organismos (formando opalo) que a continuación se disuelve y libera silicatos. Sin embargo, no se tienen informaciones cuantitativas (cuanto se disuelve, cuanto se incorpora...). Parte del opalo que pasa a través de aguas intermedias y profundas llega al sedimento, aprox $6,1·10^{14}$ de silice al año.
+
+Se estima que la preservación es del 46% (de todo lo que cae) y un 41% en el Ártico.
+
+![alt text](<imagenes-4-curso/captu-oqa-4.26.png>)
+
+
+
 
 
 
