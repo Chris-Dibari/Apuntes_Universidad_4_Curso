@@ -204,6 +204,19 @@ a. Aerénquima-Transporte de oxígeno-Reducción de demanda de oxígeno celular 
 b. Neutralización de la toxicidad del sulfuro y otras sustancias por oxidación cuando se restablece la emersión y difunde el oxígeno. Se estudia también si se da simbiosis con Beggiatoa (que metaboliza sulfuro a azufre) y necesita catalasas como se ha demostrado en el arroz.
 
 
+---
+
+
+![alt text](<imagenes-4-curso/captu-5.16-oba.png>)
+
+Diapo 84. Cuanto más negativo es el ratio de isotopo de C, menos asimilan el C.
+Delta = 0 -> al organismo que fija C le da igual si es isotopo 12 o 13.
+
+![alt text](<imagenes-4-curso/captu-5.15-oba.png>)
+
+
+
+
 
 
 
