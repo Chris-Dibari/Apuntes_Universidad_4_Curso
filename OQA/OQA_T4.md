@@ -283,12 +283,19 @@ Se estima que la preservación es del 46% (de todo lo que cae) y un 41% en el Á
 
 ![alt text](<imagenes-4-curso/captu-oqa-4.26.png>)
 
+Se estima que el ciclo está en estado estacionario (4,2 + 1,9 coincide con el 6,1).
 
+- Como en el P, en el ciclo del Si no hay un reservorio atmosférico;
+- Al igual que con el P y metales bivalentes (Ca y Mg) el ciclo del Si tiene un componente abiótico significativo.
+- Es el segundo elemento más abundante en la litosfera (28%; el Fe representa el 35%).
+- Fundamentalmente consiste en dos partes: una terrestre o de aguas continentales y otra marina, alimentándose la última de la primera.
 
+En los estuarios también se deposita material particulado. Se dan procesos de precipitación de Si disuelto en contacto con sw. A lo largo de su recorrido hacia el río, parte de la Si precipita con otros compuestos, como el Mg, para dar lugar a sepiolita.
 
+![alt text](<imagenes-4-curso/captu-oqa-4.27.png>)
 
+![alt text](<imagenes-4-curso/captu-oqa-4.28.png>)
 
-
-
+La mayor parte de la degradación ocurre antes de los 1000m (a nivel general, muchas veces antes del fin de la zona fótica).
 
 </div>
