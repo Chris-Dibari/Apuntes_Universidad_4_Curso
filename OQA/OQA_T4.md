@@ -234,5 +234,34 @@ En las aguas superficiales se tiene un ciclo en el que por un lado el fito va a 
 
 Al sumar entradas y salida, el sistema no cuadra (estado no estacionario) sobre todo se atribuye a que no se conoce bien la cantidad de P que se preserva en los sedimentos. Se cree que el ciclo está igualmente en estado estacionario puesto que no hay entradas signifcativamente altas, aunque los flujos no cuadren por la cantidad que se preserva.
 
+### Silicio
+
+El Si en sw se encuentra como disuelto y particulado, naturaleza inorgánica.
+En sw, la especia más abundante de Si disuelto es la sílice disuelta, cuya forma más abundante es la $SiO_2$ biogénica ($SiO_2$ amorfa).
+
+Las aguas marinas van a estar subsaturadas
+
+![alt text](<imagenes-4-curso/captu-oqa-4.22.png>)
+
+En sw para condiciones estandar se tiene:
+
+![alt text](<imagenes-4-curso/captu-oqa-4.23.png>)
+
+Tanto el ácido Si como sus especies disociadas tienden mucho a formar polimeros.
+
+**1. Si particulado:**
+Por un lado se encuentra SiO biogénica que proviene de diatomeas, radiolarios, silicoflagelados, que forman sus esqueleto a partir de la $SiO_2$, en forma de opalo (forma amorfa -no cristalina- de la $SiO_2$ hidratada). Tienen particularidad de ser estables en medio marino cuando los organismos están vivos, y se estima que es debido a la acción de algunos metales (Al, Fe..) y compuestos orgánicos. Sin embargo, cuando el organismo muere se disuelven. Constituye el 50% del peso seco de las diatomeas.
+
+**2. Partículas minerales:**
+Producidas por ruptura de rocas y transportado al mar por ríos o viento. Ej: cuarzo, feldespatos, materiales arcillosos... Son partículas muy finas: 70-99% con tamaño de grano inferior a 10 micras, esto implica que sean estables en disolución (tiempo de residencia de años).
+Tienen gran capacidad de adsorción y de intercambio iónico -> control sobre la distribución de metales trazas y compuestos orgánicos.
+
+**Distribución espacial y temporal de silicatos:**
+
+
+
+
+
+
 
 </div>
