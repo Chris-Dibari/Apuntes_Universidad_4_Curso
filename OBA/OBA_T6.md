@@ -16,3 +16,13 @@ p, li, div, h2, h3 {
 <div align="justify">
 
 ## Ecosistemas Marinos. TEMA 6. Zonas húmedas someras: lagunas hipersalinas y salinas.
+
+![alt text](<imagenes-4-curso/captu-oba-6.1.png>)
+
+Lagunas endorréicas => flujo hacia dentro
+Lagunas exorréicas => flujo hacia fuera.
+Lagunas arréica => no existe flujo
+
+Las cuencas endorréicas del planeta son abundantes alrededor de 30-20º en ambos hemisferios. Hay muchas más cuencas endorréicas en el planeta que exorréica, aunque tienen menos superficie pues que hay déficit de agua en ellas.
+Los lagos salinos se consideran buenos indicadores de cambios climáticos, ya que son muy sensibles al balance hidrológico.
+
