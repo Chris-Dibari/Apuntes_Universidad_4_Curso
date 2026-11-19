@@ -1,7 +1,7 @@
 <style>
 img {
-    width: 50% !important; /* Forzamos el tamaño con !important */
-    max-width:50% !important;
+    width: 70% !important; /* Forzamos el tamaño con !important */
+    max-width:70% !important;
     display: block;
     margin: 0 auto !important; /* Centrado obligatorio */
 }
@@ -33,7 +33,7 @@ Teniendo en cuenta esto, otros elementos podrían participar tales como elemento
 
 El factor de concentración de un elemento A = concentración de A que tenemos en un organismo entre la concentración de A en el sw. En la tabla se representa el factor de conversión ($f$).
 
-![alt text](<imagenes-4-curso/captu-oqa-4.1.png>)
+<img src="imagenes-4-curso/captu-oqa-4.1.png" style="display: block !important; margin-left: auto !important; margin-right: auto !important; width: 40% !important; height: auto !important;">
 
 Salvo para los elementos mayoritarios, para todos los demás es >> 1 (mucho más concentrado en el organismo que en el medio marino).
 Los metales trazas tienen una distribución afectada por factores geoquímicos. Elementos como Al, Ba, Hg, Cd tienen distribución relacionada con dinámica de poblaciones del fitoplancton (incorporación pasiva). Participan en la vida de ciertos organismos y de ahi que su distribución esté condicionada por ellos.
