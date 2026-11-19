@@ -203,9 +203,19 @@ Plantas C4 = capturan primero el CO₂ en una molécula de 4 carbonos para conce
 a. Aerénquima-Transporte de oxígeno-Reducción de demanda de oxígeno celular (En condiciones continuadas de anoxia esto no basta y se da metabolismo anaerobio de fermentación, pero entonces es necesario evitar toxicidad por acumulación de productos como los alcoholes, p.ej eliminándolos con facilidad) 
 b. Neutralización de la toxicidad del sulfuro y otras sustancias por oxidación cuando se restablece la emersión y difunde el oxígeno. Se estudia también si se da simbiosis con Beggiatoa (que metaboliza sulfuro a azufre) y necesita catalasas como se ha demostrado en el arroz.
 
+¿Por qué produce más la planta con amplitudes de marea mayores?
 
----
+![alt text](<imagenes-4-curso/captu-5.18-oba.png>)
 
+Una serie de factores ambientales complejos e interrelacionados actúan explicando la extensión y composición de las manchas de plantas. A pesar de que se pueden añadir muchos factores, es notable como se pueden ir simplificando en elementos que reúnen varios (ej. inundación mareal, balances de agua dulce… ) de manera que se consiga explicar gran parte de este control con pocos factores, agregados y más o menos fáciles de determinar. Ej ¿de qué depende la salinidad de un punto? ¿y  la aireación?
+
+Los estuarios se han considerado sistemas muy productivos. Eso se debe en gran parte a que confluyen cadenas tróficas alimentadas por microfitobentos, fanerógamas acuáticas, marismas y fitoplancton. Las MARISMAS son subsistemas especialmente productivos. Además, especialmente en los positivos, se pueden dar condiciones idóneas para una alta producción primaria (aporte de nutrientes y estabilización de la capa superficial), aunque una mezcla intensa (ej macromareales) no la favorecería debido a la turbidez y limitación por luz. Ya vimos que entonces se dan maximos de producción en la cabecera y boca pero no en la zona intermedia turbia.
+
+![alt text](<imagenes-4-curso/captu-5.19-oba.png>)
+
+El modelo de simulación dinámica de Narragansett Bay, un clásico de la Ecología, fue desarrollado finalmente para simular el flujo de energía en el sistema planctónico, al ser un estuario en el que esta fracción domina.
+
+Al igual que en las marismas, una gran parte del flujo de energía de manglares se canaliza por la vía detrítica. En este caso, los restos de hojas van degradándose alimentando a toda una serie de organismos detritívoros de pequeño tamaño (bacterias, hongos, micro y meiofauna) que a su vez contribuyen al valor nutritivo de esos restos orgánicos. La macrofauna (crustáceos) puede contribuir al desmenuzamiento progresivo de los detritus.
 
 ![alt text](<imagenes-4-curso/captu-5.16-oba.png>)
 
@@ -214,10 +224,8 @@ Delta = 0 -> al organismo que fija C le da igual si es isotopo 12 o 13.
 
 ![alt text](<imagenes-4-curso/captu-5.15-oba.png>)
 
+![alt text](<imagenes-4-curso/captu-5.17-oba.png>)
 
-
-
-
-
+A medida que nos vamos hacia fuera -> agua más enriquecida en plancton y menos proporción de Spartina. En el interior (1,2,3,4) hay más proporción de Spartina. El trabajo concluye que la hipótesis del outwelling (que es que la marisma exporta mucho C hacia fuera y enriquece el ambiente costero) no se cumple mucho en este caso (outwelling limitado).
 
 </div>
