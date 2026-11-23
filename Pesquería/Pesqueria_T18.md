@@ -68,7 +68,17 @@ Se determina el crecimiento anual. EL modelo de crecimiento anual es diferente p
 
 ![alt text](<imagenes-4-curso/peces.18.4.png>)
 
-![alt text](<imagenes-4-curso/peces18.5.png>)
+TELEMETRÍA:
+Permite el seguimiento de los ejemplares marcados, bien desde embarcaciones o por satélite. La telemetría tiene dos categorías:
+1. Marcadores que emiten ondas radiales
+2. Marcas de ultrasonido: emiten pulsos de ondas sonoras de alta frecuencia y gran energía que son registrados por un receptor localizado en la embarcación que sigue sus movimientos.
+Los marcadores de archivo, pueden registrar y archivar electrónicamente datos, por espacio de hasta siete años, como:
+- T° corporal
+- Cambios de temperatura externa
+- Intensidad de luz
+- Cambios de profundidad
+- Localización
+La recuperación de este tipo de marca puede llegar a tener recompensas de $100.000.
 
 ![alt text](<imagenes-4-curso/peces18.6.png>)
 
@@ -86,8 +96,6 @@ Algunos organismos implicados:
 - CEPTFA, Council of the Eastern Pacific Tuna Fishing Agreement
 - CCSBT , Commissionfor the Conservation of Southern Bluefin Tuna
 - IATTC, Comisión Interamericana del Atún Tropical
-- ICCAT, Comisión Internacional para la Conservación del atún del Atlántico
-- IOTC, Indian Ocean Tuna Commission.
 
 Pesquería específica idealizada de una especie altamente migratoria que cruza tres jurisdicciones durante su ciclo de vida.
 - El tamaño de primer reclutamiento a la pesquería, lrocurre en la jurisdicción 1;
