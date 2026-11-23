@@ -149,6 +149,37 @@ El error puede hacerse muy grande: cuando $F_i$ es pequeña. El error será meno
 
 ![alt text](<imagenes-4-curso/peces.17.11.png>)
 
+Análisis de la población virtual multiespecífico: El APV multiespecífico estima de forma explícita la mortalidad por depredación. En el APV monoespecífico básico, M se fija como dato de entrada (M se considera cte). El MSVPA es una extensión del APV monoespecífico:
 
+El APV multiespecífico combina las capturas con información sobre qué comen los depredadores y cuánto consumen.
 
+$M = M_1 + M_2$
+$M_1$: otras causas naturales. 
+$M_2$: depredación.
+$Z = F + M_1 + M_2$
 
+![alt text](<imagenes-4-curso/peces.17.12.png>)
+
+Presas que mueren por depredación:
+
+Lo que necesitamos estimar -> Cuántos depredadores hay, cuánto come cada uno y qué presas componen su dieta.
+Cómo se calcula la pérdida de cada presa -> Sumamos los peces de esa especie y edad consumidos por los distintos depredadores.
+Cómo se relaciona con $M_2$ -> Muertes por depredación = $M_2$ × abundancia media de presas × duración del intervalo.
+
+Los depredadores no incluidos explícitamente también deben contemplarse si su consumo es importante.
+
+No toda la biomasa es alimento accesible: 
+
+Disponibilidad -> la abundancia y el peso medio indican cuanta biomasa hay de cada presa.
+Adecuación de la presa -> el tamaño, hábitat y dieta determinan que parte accesible a cada depredador.
+Datos de alimentación -> los contenidos estomacales informan de que come. La ración estima cuanto consume durante el intervalo.
+
+El modelo combina biomasa y adecuación. Incluye otro alimento para las presas que no modeliza por separado.
+
+![alt text](<imagenes-4-curso/peces.17.13.png>)
+
+Incluir la depredación cambia la mortalidad natural estimada y puede modificar las referencias de gestión. Este gráfico, por sí solo, no determina cuánto debe cambiar Bpa.
+
+Diferencias mayores entre ambos modelos Arenque - en este ejemplo las estimaciones. Difieren en muchas edades. Ser una presa frecuente ayuda a entender por qué la depredación importa.
+
+</div>
