@@ -76,6 +76,9 @@ Supuestos de la versión clásica:
 
 ![alt text](<imagenes-4-curso/peces.17.5.png>)
 
+$N_1$ = primer año.
+Se supone entrada ya en la fase explotada.
+
 La suma de las capturas de una cohorte indica un mínimo de individuos que tuvo que existir. El tamaño inicial también incluye las muertes naturales y los supervivientes. Es denominada stock utilizado o población virtual.
 
 El APV, considera a las poblaciones desde una perspectiva histórica. El APV reconstruye el pasado de la población con series de capturas por edad.
@@ -94,6 +97,57 @@ Los "análisis de población virtual (APV)“ son métodos que miran hacia el pa
 
 ![alt text](<imagenes-4-curso/peces.17.8.png>)
 
+Información necesaria:
+
+La tasa instantánea de mortalidad natural a la que está sometida una cohorte. En APV monoespecífico se considera constante.
+
+- La CAPTURA TOTAL (en número por edad y año) es un dato que puede ser suministrado por diversos organismos oficiales, administrativos.
+- Una estimación de M. En los ejemplos básicos se toma constante, aunque puede variar por edad.
+- Una F (mortalidad por pesca) o abundancia terminal para comenzar la reconstrucción.
+También se puede determinar mediante MUESTRAS REPRESENTATIVAS (edad o talla):
+➢ grupos de edad (métodos basados en la edad)
+➢ grupos de tallas (métodos basados en las tallas)
+Los desembarques totales pueden no incluir todas las capturas: hay que considerar descartes y otras extracciones relevantes.
+
+El APV analiza las capturas logradas por la pesca comercial, obtenidas a través de estadísticas pesqueras, con información detallada sobre la contribución de cada cohorte a la captura total, la cual se obtiene por medio de programas de muestreo y lecturas de edad.
+
+DE LA MUESTRA A LAS CAPTURAS POR EDAD
+1. Tomamos muestras representativas de la pesquería.
+2. Medimos tallas y estimamos edades.
+3. Elevamos la composición de la muestra a las capturas totales.
+
+Estructuras utilizadas según la especie:
+- Peces: otolitos, escamas, radios u otras estructuras validadas.
+- Cefalópodos: estatolitos y, en algunos casos, picos.
+- Bivalvos: marcas de crecimiento en las valvas.
+- Crustáceos: la muda dificulta la estimación de edad.
+
+La periodicidad de las marcas debe validarse. Las distribuciones de tallas también aportan información sobre las cohortes.
+
+Se deben preparar tablas que contengan el desembarque total en número de individuos, por edad o tallas, por año o por mes, antes de comenzar el análisis.
+
+Esta información se obtiene a partir de:
+• Datos de capturas de años sucesivos
+• Distribución las capturas en edades a partir de distribuciones de tallas, de escamas, etc.
+
+Las capturas en número de ejemplares sobre la cohorte en cada intervalo (el intervalo suele tener una duración de 1 año).
+Esta información se obtine de la distribución de tallas en la captura y los estudios de crecimiento y edad.
+
+![alt text](<imagenes-4-curso/peces.17.9.png>)
+
+![alt text](<imagenes-4-curso/peces.17.10.png>)
+
+De que depende la fiabilidad de los modelos:
+
+El error causado por la introducción de un valor incorrecto de F o N para laúltima clase de edad se irá reduciendo durante la recurrencia, de manera proporcional a la exponencial del sumatorio de las tasas instantáneas de mortalidad por pesca por clase de edad. (Al retroceder, suele disminuir su influencia, especialmente si las capturas acumuladas representan una parte importante de la cohorte).
+
+ASÍ, EL APV CONVERGE HACIA EL VERDADERO VALOR DE F Y N SEGÚN NOS DESPLAZAMOS HACIA ATRÁS, ESTO ES NOS CAPACITA MÁS PARA HACER UN ANÁLISIS RETROSPECTIVO DEL PASADO DINÁMICO DEL STOCK. Un error sistemático en M provocará un error en F de signo contrario.
+
+MORTALIDAD NATURAL. Con la misma pérdida total, atribuir más mortalidad a M deja menos para F.
+
+El error puede hacerse muy grande: cuando $F_i$ es pequeña. El error será menor cuando se subestime M a cuando se sobrestime.
+
+![alt text](<imagenes-4-curso/peces.17.11.png>)
 
 
 
