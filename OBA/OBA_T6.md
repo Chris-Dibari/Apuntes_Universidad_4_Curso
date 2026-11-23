@@ -79,5 +79,17 @@ Por filtrado, evaporación de un volumen conocido y volver a pesar el total de s
 
 ![alt text](<imagenes-4-curso/captu-oba-6.5.png>)
 
+**Diferencias de un año "normal" a uno lluvioso:**
+
+![alt text](<imagenes-4-curso/captu-oba-6.6.png>)
+
+Los valores de salinidad promedio del agua y su evolución son un buen indicio de la gran variabilidad interanual en este tipo de sistemas. Aquí vemos la evolución de valores de Salinidad en la Laguna de Fuente de Piedra (Málaga) durante los ciclos hidrológicos de 1987-88 (lluvias moderadas) y de 1989-90 (muy lluvioso).
+
+Escasa profundidad y gran extensión relativa: La escasa profundidad combinada con la acción relativamente impredictible del viento, convierte la acción del viento en un factor clave explicando singularidades de este tipo de Ecosistemas.
 
 
+
+
+
+
+</div>
