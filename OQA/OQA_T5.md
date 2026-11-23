@@ -17,6 +17,8 @@ p, li, div, h2, h3 {
 
 ##  Oceanografía Química Aplicada - TEMA 5. Trazadores químicos en oceanografía.
 
+### Introducción a los trazadores químicos
+
 Trazador = sustancias que o ya están presentes en el medio (T, s) o son introducidas en él y nos sirve para estudiar la evolución temporal y/o espacial de determinados procesos químicos, físicos, biológicos o industriales a través de su detección o medición.
 El 25% aprox de los elementos de la tabla periódica suelen ser utilizados como trazadores en oceanografía.
 Para el estudio del océano: trazadores de origen natural y artificial:
@@ -73,6 +75,26 @@ Una vez introducido en el océano, su concentración cambia con el tiempo debido
 - Clorofluorocarbonos (CFC), han estado en la atmósfera durante muy poco tiempo.
 - Tritio, su difusión en el océano ha esclarecido algunos ritmos de circulación oceánica y la magnitud de las mezclas.
 - Hexafluoruro de azufre (SF6), se utiliza como trazador en oceanografía debido a su alta densidad y baja solubilidad en agua. Se ha utilizado para estudiar el intercambio de gases entre el aire y el mar y para investigar el transporte y las mezclas.
+
+### 2. Uso de los CFCs como trazadores en oceanografía
+
+Los CLOROFLUOROCARBONOS (CFCs), son metanos halogenados sintéticos (freones)
+
+![alt text](<imagenes-4-curso/captu-oqa-5.3.png>)
+
+- Se empiezan a utilizar hacia 1931, pero su mayor acumulación es posterior a la II
+Guerra Mundial.
+- No resultan tóxicos para el hombre
+- Producidos a costes relativamente bajos
+- Inicialmente, no detectaron que podrían causar problemas ambientales: químicamente estables, biológicamente inertes,...
+- Desde la firma del Protocolo de Montreal en 1987, el uso de CFC se reguló y eliminó progresivamente la producción y el consumo de CFC.
+- Las concentraciones atmosféricas han comenzado a disminuir. (Persistencia en la atmósfera, de 51 -> 200 años).
+
+Se considera, por tanto, trazadores artificiales, ambientales, no conservativos y transitorios.
+
+![alt text](<imagenes-4-curso/captu-oqa-5.4.png>)
+
+Abundancias promedio globales de los principales gases de efecto invernadero de larga duración, bien mezclados (dióxido de carbono, metano, óxido nitroso, CFC-12 y CFC-11) de la red global de muestreo de aire de la NOAA desde principios de 1979. Estos cinco gases representan aproximadamente el 96 % del forzamiento radiativo directo de los gases de efecto invernadero de larga duración desde 1750. El 4 % restante lo aportan otros 15 gases halogenados, incluidos el HCFC-22 y el HFC-134a, para los cuales también se muestran aquí las observaciones de la NOAA . Fuente: Laboratorio de Monitoreo Global de la NOAA.
 
 
 
