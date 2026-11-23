@@ -65,9 +65,19 @@ Empieza con una bomba que mete sw a $35-36 gL^{-1}$
 
 Los distintos dominio se llamana así en base a lo que precipita en el suero de las salinas.
 
+Importante: serie de precipitación de las sales.
 
+![alt text](<imagenes-4-curso/captu-oba-6.4.png>)
 
+Los primeros en precipitar son los menos solubles (carbonatos Ca, Mg,..).
 
+*Proporciones iónicas:* Las aguas naturales de muchos lagos salados se clasifican según estas proporciones.
+
+**Mediciones de la salinidad:**
+
+Por filtrado, evaporación de un volumen conocido y volver a pesar el total de sólidos disueltos. Hay métodos basados en conductividad (a mayor sales mayor conductividad). 
+
+![alt text](<imagenes-4-curso/captu-oba-6.5.png>)
 
 
 
