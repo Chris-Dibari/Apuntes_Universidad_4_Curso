@@ -49,7 +49,42 @@ Todo esto lo recoge el modelo de Beverton y Holt:
 
 ![alt text](<imagenes-4-curso/peces.17.4.png>)
 
+Y/R se considera una función de F (mortalidad por peca) y Tc (tiempo de primera captura). Frecuentemente se verá graficado Y/R contra F(o el esfuerzo). El modelo permite comparar dos decisiones: ¿Cuánto pescar? F resume la mortalidad por pesca. Si la capturabilidad se mantiene constante, F es proporcional al esfuerzo. ¿Desde qué edad capturar? La selectividad del arte influye en t꜀. El crecimiento permite relacionarla con una talla. Los parámetros F y Tc son aquellos que pueden ser controlados por los administradores, porque:
 
+1) F es proporcional al esfuerzo de pesca
+2) Tc es una función de selectividad del arte
+
+La ordenación pesquera según este modelo se puede dirigir a:
+
+- MODIFICAR LA MORTALIDAD POR PESCA
+- CAMBIAR LA TALLA DE 1ª CAPTURA
+- CAMBIAR AMBAS COSAS
+
+Se generan diferentes valores de F y Tc (edad primera captura) para evaluar su efecto sobre el rendimiento por recluta.
+
+La supervivencia combina dos pérdidas: mortalidad natural y mortalidad por pesca. 
+
+Supuestos de la versión clásica:
+- Reclutamiento constante para interpretar el rendimiento de equilibrio.
+- Los peces de una cohorte nacen en la misma fecha y se incorporan al stock a una edad común. La selectividad cambia de forma brusca en t꜀.
+- M es constante. F es constante en la fase explotada.
+- Los individuos se mezclan dentro del stock.
+- El crecimiento sigue Von Bertalanffy y la relación talla-peso supone W = aL³ (isométrica).
+- Los parámetros se mantienen constantes al comparar escenarios. El modelo no predice la respuesta del reclutamiento a la pérdida de reproductores.
+
+**Análisis de la población virtual: APV.**
+
+![alt text](<imagenes-4-curso/peces.17.5.png>)
+
+La suma de las capturas de una cohorte indica un mínimo de individuos que tuvo que existir. El tamaño inicial también incluye las muertes naturales y los supervivientes. Es denominada stock utilizado o población virtual.
+
+El APV, considera a las poblaciones desde una perspectiva histórica. El APV reconstruye el pasado de la población con series de capturas por edad.
+Esa reconstrucción sirve de punto de partida para proyectar escenarios. Predecir capturas futuras exige supuestos sobre reclutamiento, mortalidad y pesca.
+EL APV ha permitido recurrir a las series históricas de abundancia de muchos stocks marinos explotados boreales y templados, de los que existían series de tiempo relativamente largas de capturas y muestreos de esas capturas que permitieron determinar las clases de edad o tamaño.
+
+El APV sí incorpora M. La incertidumbre surge al estimar M, las capturas por edad y la abundancia o F del intervalo terminal.
+
+![alt text](<imagenes-4-curso/peces.17.6.png>)
 
 
 
