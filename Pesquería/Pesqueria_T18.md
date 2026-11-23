@@ -68,4 +68,28 @@ Se determina el crecimiento anual. EL modelo de crecimiento anual es diferente p
 
 ![alt text](<imagenes-4-curso/peces.18.4.png>)
 
+![alt text](<imagenes-4-curso/peces18.5.png>)
 
+![alt text](<imagenes-4-curso/peces18.6.png>)
+
+Caddy (1982) clasifica los recursos marinos respecto de sus desplazamientos en relación con las ZEE (zonas económicas exclusivas) en cinco categorías:
+1. Poblaciones que se encuentran casi por completo dentro de una sola jurisdicción nacional.
+2. Recursos no migratorios que abarcan dos zonas adyacentes y que están continuamente disponibles en ambas zonas.
+3. Especies migratorias que atraviesan las fronteras, pero sólo están disponibles en una u otra zona según la estación.
+4. Poblaciones de alta mar que sólo se encuentran ocasional y parcialmente en las zonas nacionales.
+5. Poblaciones que se encuentran exclusivamente en alta mar.
+
+Sobre todo en el caso de las categorías 3 y 4, la identificación de las poblaciones es un requisito indispensable para la gestión inteligente de las poblaciones compartidas.
+La identificación y la evaluación de las poblaciones tienen que basarse en el conocimiento de sus rutas de migración.
+
+Algunos organismos implicados:
+- CEPTFA, Council of the Eastern Pacific Tuna Fishing Agreement
+- CCSBT , Commissionfor the Conservation of Southern Bluefin Tuna
+- IATTC, Comisión Interamericana del Atún Tropical
+- ICCAT, Comisión Internacional para la Conservación del atún del Atlántico
+- IOTC, Indian Ocean Tuna Commission.
+
+Pesquería específica idealizada de una especie altamente migratoria que cruza tres jurisdicciones durante su ciclo de vida.
+- El tamaño de primer reclutamiento a la pesquería, lrocurre en la jurisdicción 1;
+- El tamaño óptimo de primera captura (lcópt) que produce el máximo rendimiento por recluta ocurre en la jurisdicción 2.
+- El desove ocurre en la jurisdicción 3. ¿Cómo y quien gestiona?
