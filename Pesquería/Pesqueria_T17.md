@@ -86,6 +86,15 @@ El APV sí incorpora M. La incertidumbre surge al estimar M, las capturas por ed
 
 ![alt text](<imagenes-4-curso/peces.17.6.png>)
 
+EJEMPLO EN EQUILIBRIO: las cohortes entran con igual número de reclutas (Reclutamiento constante) y siguen las mismas tasas de mortalidad. Es una simplificación del ejemplo, no un requisito general del APV.
+
+![alt text](<imagenes-4-curso/peces.17.7.png>)
+
+Los "análisis de población virtual (APV)“ son métodos que miran hacia el pasado, usando datos "históricos", y que consisten en la Estimación de las tasas instantáneas de mortalidades por pesca y abundancias por clases de edad a partir de la estructura demográfica de las capturas.
+
+![alt text](<imagenes-4-curso/peces.17.8.png>)
+
+
 
 
 
