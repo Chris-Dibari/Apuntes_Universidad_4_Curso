@@ -170,8 +170,18 @@ Tanto plantas terrestre como organismos fotosintéticos del sw prefieren el 12 (
 
 ![alt text](<imagenes-4-curso/captu-oqa-5.7.png>)
 
+Normalmente, en las fórmulas, el isótopo ligero no lleva el índice.
+Valores negativos => el isótopo ligero es más "usado" frente al pesado.
+
 ![alt text](<imagenes-4-curso/captu-oqa-5.8.png>)
 
+Debido a la actividad fotosintética se está retirando 12C => la relación entre los isótopos se hace más grande. Superficie del agua -> delta 13C ligeramente positivo (+4 ‰ -> productividad es intensa).
+
+En las aguas profundas, debido a la degradación de la MO => liberación al agua de 12C, por tanto, la relación se hace más pequeña. Agua profunda -> delta 13C es nulo o ligeramente negativo.
+
+Mayor diferencia isotópica = mayor productividad en la zona (puesto que se retira 12C)
+
+![alt text](<imagenes-4-curso/captu-oqa-5.9.png>)
 
 
 
@@ -179,3 +189,7 @@ Tanto plantas terrestre como organismos fotosintéticos del sw prefieren el 12 (
 
 
 
+
+
+
+</div>
