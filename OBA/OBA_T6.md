@@ -113,6 +113,9 @@ Son cambios equivalentes los que se dan en:
 
 ![alt text](<imagenes-4-curso/captu-oba-6.7.png>)
 
+**Comunidades de salinas y lagunas hipersalinas:** en fondos marinos eran de tipo k (ahorro energético) => pocos huevos. En estos ambientes ocurre al revés, son de tipo r-strategas. Las condiciones son muy impredecibles (en fondos marinos eran muy constantes) => ciclos de vida muy rápidos, adaptación a los cambios, se invierte mucha energía en reproducción.
+Se tendrá control físico (más que biológico) de la comunidad. Habrá flexibilidad trófica más que gran selectividad. Baja diversidad pero esto no significa baja biomasa (hay mucha biomasa).
+
 
 
 
