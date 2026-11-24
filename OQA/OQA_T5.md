@@ -96,6 +96,86 @@ Se considera, por tanto, trazadores artificiales, ambientales, no conservativos 
 
 Abundancias promedio globales de los principales gases de efecto invernadero de larga duración, bien mezclados (dióxido de carbono, metano, óxido nitroso, CFC-12 y CFC-11) de la red global de muestreo de aire de la NOAA desde principios de 1979. Estos cinco gases representan aproximadamente el 96 % del forzamiento radiativo directo de los gases de efecto invernadero de larga duración desde 1750. El 4 % restante lo aportan otros 15 gases halogenados, incluidos el HCFC-22 y el HFC-134a, para los cuales también se muestran aquí las observaciones de la NOAA . Fuente: Laboratorio de Monitoreo Global de la NOAA.
 
+**Problemática ambiental asociada:** Cuando es liberado, los CFC son gases que tienen dos sumideros: la ATMÓSFERA (TROPOSFERA), y en menor medida, de los OCÉANOS. Sin embargo, algunos escapan a la ESTRATOSFERA, donde son una amenaza para la capa de ozono, ya que la alcanzan químicamente inalterados y el Cl actúa como un catalizador.
+
+Ozone Depleting Subtances (ODS ) = Sustancias que empobrecen la capa de Ozono
+
+1. CFC: clorofluorocarbonos, Cl, F y C
+2. HCFC: hidroclorofluorocarbonos: Cl, F, C y H
+3. Clorofluorocarbonos bromurados completamente halogenados (Halones): CCl4, BrCH3,...
+4. Clorofluorocarbonos parcialmente halogenados (HBFC)
+
+Se estima que un átomo de cloro puede transformar en oxígeno 40000 moléculas de ozono -> actúa como **catalizador**.
+
+**CFCs en oceanografía:**
+
+Entran en el océano a través de la atmósfera (intercambio aire-mar) de mayor concentración a menor (sw). Correlación directa entre la tasa de intercambio de gases y veloc. del viento, y la dirección del flujo de gas entre el aire y el océano es de alta a baja concentración. El flujo se calcularía como: $$F = k(C_W - C_{atm})$$
+
+donde: k es función de $u_{10}$ y $S_c$.
+
+Las concentraciones de CFC disuelto en la capa superficial del océano depende de la solubilidad, la concentración atmosférica y otros factores físicos. Los compuestos de CFC-11 y CFC-12 se midieron por primera vez en los océanos a finales de los años 70 (s. XX).
+Generalmente, las concentraciones disminuyen a medida que aumenta la profundidad del océano. Una excepción es el Atlántico norte occidental: los CFC pueden llegar al fondo, debido a la proximidad a la fuente de aguas profundas y corto tiempo de circulación.
+
+En el Atlántico N sí se aprecian concentraciones de CFCs en zonas profundas (actúa como sumidero de gases dicha zona).
+
+**Aplicaciones en oceanografía:**
+
+1. Medición de Circulación Oceánica: Al analizar las concentraciones de CFC en diferentes profundidades, se puede determinar la velocidad y la dirección de las corrientes oceánicas.
+2. Estudio de Mezcla de Aguas: Los CFC ayudan a comprender cómo se mezclan las aguas superficiales y profundas, revelando información sobre la ventilación del océano.
+3. Determinar Edades de las Aguas: Las concentraciones de CFC permiten calcular el tiempo que ha transcurrido desde que una masa de agua estuvo en contacto con la atmósfera, proporcionando datos sobre el tiempo de tránsito y renovación de las aguas oceánicas.
+
+**Ventajas como trazadores:**
+
+- Son muy estables;
+- Biológicamente inertes;
+- Las concentraciones de CFC aumentan con la disminución de T y S;
+- Latitudes altas -> baja T y baja S -> Alta tasa de solubilidad de CFC + alta tasa de intercambio aire-agua : áreas con las mayores probabilidades de entrada de CFC al océano;
+- Poseen un papel más relevante como trazadores que el 3H.
+
+**Cálculo de la edad aparente de las masas de agua:**
+
+- Aparente = Edad que tendría la masa de agua a partir de la medición de la [CFC] ==> Diferencia entre el “año en el que la pCFC de una masa de agua corresponde al valor atmosférico”- “año de recogida de la muestra“.
+- Masa de agua: volumen de agua de una región oceánica que mantiene estable su relación T-S.
+- Cuando se produce el máximo contacto con la atmósfera → equilibrio océano-atmósfera adyacente.
+- Edad aparente ($τ_{CFC}$): se calcula comparando pCFC vs historia temporal de la atmósfera.
+- Presión parcial (pCFC): fracción molar de CFC (aire seco) que habría a la solubilidad de equilibrio con la [CFC] medida.
+
+En el equilibrio la $[CFC]_{disuelto}$ depende de: [CFC] en la atmósfera “sobrenadante”, S y T. 
+Edad -> comparación pCFC vs historia temporal de la atmósfera.
+
+Otro método de cálculo : Relación entre CFC-11 y CFC-12.
+La edad se aplica a la introducción del contaminante en el agua, no al agua en si misma.
+
+![alt text](<imagenes-4-curso/captu-oqa-5.5.png>)
+
+### 3, Isótopos del carbono como trazadores:
+
+Todos son de carbono inorgánico:
+
+![alt text](<imagenes-4-curso/captu-oqa-5.6.png>)
+
+En la naturaleza: 15 isótopos del C (núcleos contienen el mismo número de protones (6), pero un número diferente de neutrones (2-16) -> tienen propiedades químicas semejantes y masa atómica diferente (8-22)).
+Sólo 12C y 13C son estables y el 14C es el de mayor vida de los isótopos radiactivos (5730 ± 40 años frente a <20.3 minutos del resto).
+
+Se establecen distintos modelos puesto que es complicado establecer que parte del C se debe a origen antrópico y que no.
+
+- $98,89$% 12C
+- $1,11$% 13C
+- $10^{-10}$% 14C
+
+**Carbono 13:**
+
+Se analiza por medio de espectrometría de masas acelerada (AMS).
+Tanto plantas terrestre como organismos fotosintéticos del sw prefieren el 12 (ligero) al 13. Por tanto, el C orgánico del plancton marino será rico en 12C y pobre en 13C. Enriquecimiento en los organismos y disminución en el medio marino del isótopo 12. Dicha preferencia es variable según los organismos. Lo que se mide es la delta el isótopo (relación del isótopo pesado entre la concentración del ligero, relacionando dicho cociente con un estándar). Los deltas se multiplican por 1000 puesto que normalmente la proporción del isótopo pesado es mucho más elevada que el ligero (número más comodo a la hora de trabajar).
+
+![alt text](<imagenes-4-curso/captu-oqa-5.7.png>)
+
+![alt text](<imagenes-4-curso/captu-oqa-5.8.png>)
+
+
+
+
+
 
 
 
