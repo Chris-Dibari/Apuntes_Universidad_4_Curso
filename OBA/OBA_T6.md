@@ -118,6 +118,10 @@ Se tendrá control físico (más que biológico) de la comunidad. Habrá flexibi
 
 Producción nueva = aporte de nutriente nuevo a la columna de agua (mezclas/afloramientos). La regenerada es la que ya está presente en la columna de agua.
 
+Tapetes microbianos: Las comunidades microbianas ligadas a los tapetes microbianos, sean de Microcoleus y otras cianobacterias filamentosas o de Aphanotece, son dominantes en una fase sucesional o bien (en el espacio) en unas cubetas determinadas (80 a 150 pej.). Son unas de las comunidades bentónicas de más interés en este tipo de enclaves hipersalinos.
+
+
+
 
 
 
