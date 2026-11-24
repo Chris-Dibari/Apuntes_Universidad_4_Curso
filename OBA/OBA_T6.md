@@ -87,6 +87,34 @@ Los valores de salinidad promedio del agua y su evolución son un buen indicio d
 
 Escasa profundidad y gran extensión relativa: La escasa profundidad combinada con la acción relativamente impredictible del viento, convierte la acción del viento en un factor clave explicando singularidades de este tipo de Ecosistemas.
 
+Valores muy variables. Desde irradiancia tan fuerte que puede provocar fotoinhibición (ej 1100 en el fondo) hasta atenuaciones muy acentuadas con el resultado de que NO hay luz en el fondo para hacer fotosíntesis, incluso cuando éste está solo a unos pocos cm. Las FLUCTUACIONES destacan de nuevo.
+
+**¿Qué colectivo de organismos preexistente es el colonizador natural de este tipo de ambientes artificiales?**
+
+- Organismos de zonas húmedas hipersalinas, presentes en la historia evolutiva en zonas áridas y subáridas. Ha habido periodos geológicos en los que los sistemas evaporíticos de alta salinidad abundaban. Hoy día, hay una gran cantidad de lagos con tendencias a concentrar la sal. Son los enclavados en “cuencas endorreicas” con fuerte relación con la zona climática y latitud.
+- En cubetas de menor salinidad: organismos “estuáricos”, en su mayoría especies de origen marino con características eurihalinas. Los de cubetas de alta salinidad son, en cambio, de origen continental.
+- Hay una tendencia al cosmopolitismo, tanto más acentuado cuanto más salino sea el medio. El conjunto de taxones especializados a la vida en aguas hipersalinas y fluctuantes estaba más extendido probablemente a finales del terciario. Hoy en día, los taxones presentes en nuestra fauna y flora son similares a los del norte de África y estepas asiáticas.
+
+**Organización en el espacio:**
+
+- Evaporadores: Ruppia domina el fondo como productor primario, mayor diversidad. Otros: Cladophora, peces, poliquetos, moluscos y crustáceos “estuáricos”.
+- Calentadores: Tapetes microbianos (Microcoleus, Oscillatoria… los veremos. Desaparece gradualmente mucha macrofauna bentónica).
+- Concentradores: La comunidad se especializa mucho y la diversidad decrece Gana importancia el zooplancton sobre zoobentos. No hay mucho más que Artemia (refugio competitivo). Tapetes de Aphanotece.
+- Dominio halítico o cristalizadores: Sólo medran especies muy halotolerantes o halófilas, como Dunaliella o Halobacterium.
+
+El reemplazo de colectivos de organismos diferenciados, p.ej. de acuerdo con su tolerancia a la salinidad, se da típicamente en el ESPACIO en una salina y en el TIEMPO en una laguna natural.
+
+Son cambios equivalentes los que se dan en: 
+- Una salina desde el mar al concentrador y cristalizador (espacio)
+- En una laguna costera se da desde la entrada de agua con los temporales o las mareas equinocciales a su desecación en verano (tiempo)
+- En una laguna endorreica del interior se da desde la estación de lluvias al verano (tiempo).
+
+**Comunidades de sistemas hipersalinos y Redes tróficas:** La diversidad y otros atributos de la comunidad están fuertemente relacionados con la salinidad como agente forzante.
+
+![alt text](<imagenes-4-curso/captu-oba-6.7.png>)
+
+
+
 
 
 
