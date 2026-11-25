@@ -40,5 +40,38 @@ Las fosforitas se distribuyen casi siempre en las plataformas (forman parte de l
 
 Sedimentos químicos originados por concentración evaporativa de aguas marinas o continentales. Para que se formen es esencial que el ritmo de evaporación exceda al de los aportes de agua (precipitaciones). Estas rocas se pueden acumular en ambientes marinos marginales y continentales. La mayoría de los depósitos antiguos de mayor desarrollo se han formado en cuencas marinas. Se encuentran en todo el registro geológico.
 
-Importancia de las evaporitas:
+**Importancia de las evaporitas:**
+
 - Económica: usos industriales de sus minerales (alimentación, industria, piedra ornamental, jabones, lejías);
+- Propiedades físicas: formaciones adecuadas para el almacenamiento de gases y residuos (nuclear). Rocas de cierre en trampas de petróleo.
+- Geológicas: reconstrucciones paleogeográficas y paleoclimáticas.
+
+Diap. Formaciones salinas como almacén de residuos radiactivos y de almacén de gas natural.
+
+**Minerales evaporíticos:**
+
+Tabla con principales minerales de las evaporitas:
+
+[Imagen]
+
+Rift que se está abriendo en Africa (ver más).
+
+**Halita:** Su tonalidad es clara (blanca), aunque suele ser más oscura cuando posee inclusiones de anhidrita.
+Importancia de la halita en cuanto es capaz de poseer inclusiones líquidas (gotitas de agua) pertenecientes a océanos antiguos.
+
+Precipitación de sales de K y Mg => amargas -> cuidado con que no precipite.
+
+Artemia salina -> posee carotenoides -> color rojo de las salinas.
+
+**Procesado y formas comerciales:**
+
+Las sales secas:
+- Las sales que se suelen yodar son las de tipo 1 y 2, que son aquellas destinadas al consumo humano.
+- 
+
+
+
+
+
+
+</div>
