@@ -79,6 +79,8 @@ Bromo:
 
 Karst: paisaje derivado de la disolución de carbonato cálcicos.
 
+**Mar Muerto:**
+Punto más bajo topograficamente de la Tierra -> paisaje resultante de una falla transformante. 350 por 1000 de salinidad -> ver más info.
 
 
 
