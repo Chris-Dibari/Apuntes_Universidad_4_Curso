@@ -118,7 +118,49 @@ Se tendrá control físico (más que biológico) de la comunidad. Habrá flexibi
 
 Producción nueva = aporte de nutriente nuevo a la columna de agua (mezclas/afloramientos). La regenerada es la que ya está presente en la columna de agua.
 
-Tapetes microbianos: Las comunidades microbianas ligadas a los tapetes microbianos, sean de Microcoleus y otras cianobacterias filamentosas o de Aphanotece, son dominantes en una fase sucesional o bien (en el espacio) en unas cubetas determinadas (80 a 150 pej.). Son unas de las comunidades bentónicas de más interés en este tipo de enclaves hipersalinos.
+**Tapetes microbianos:** Las comunidades microbianas ligadas a los tapetes microbianos, sean de Microcoleus y otras cianobacterias filamentosas o de Aphanotece, son dominantes en una fase sucesional o bien (en el espacio) en unas cubetas determinadas (80 a 150 pej.). Son unas de las comunidades bentónicas de más interés en este tipo de enclaves hipersalinos.
+
+![alt text](<imagenes-4-curso/captu-oba-6.8.png>)
+
+En 1 mm se está dando la mayor parte de la fotosíntesis.
+
+![alt text](<imagenes-4-curso/captu-oba-6.9.png>)
+
+Diap. 51: Montaje para las distintas capas (comparación). 
+*Hydrobia* -> caracol (gasteropoda) que aparecía en el tema de estuarios.
+En la 2º capa aparecen diatomeas variadas (banda naranja).
+Banda verde: tapete más denso de bacterias filamentosas, muy compactos.
+Por debajo hay cianobacterias filamentosas (siempre en banda verde), Spirulina...
+En la capa en la que empieza a aparecer el sulfuro hay bacterias del azufre (sigue habiendo $O_2$ aunque ya muy poco). Por debajo del todo aparece Beggiatoa (bacteria quimiolitotrofa).
+
+Fase neustónica -> ligada a la superficie (límite con la atmósfera). Aparecen cianobacterias que tienen vacuolas de gas. En la foto (diap. 52) el viento soplando rompió el tapete, mostrando la anoxia completa de la parte de la columna debajo del tapete microbiano (zona negra).
+
+Diap. 54: fitoplancton típico de la zona. 
+- Anostráceos. Ej Artemia parthenogenetica, A. salina, A. franciscana (estas 3 primeras son especies de alta salinidad, reproductoras por partenogenesis) la Artemia franciscana es una especie invasora Branchinella spinosa, Branchinectella media, etc. Hoy en día están restringidos a refugios competitivos (zonas que otras especies no pueden colonizar).
+- Copépodos harpacticoides y calanoides (2 de los 3 ordenes de copepodos, los mas típicos son los calanoides): Ej Cletocamptus retrogressus, Arctodiaptomus salinus.
+- Ostrácodos: Ej Eucypris mareotica.
+- Cladóceros: Ej Moina salina, Ctenodaphnia mediterranea.
+
+**Invertebrados de aguas talásicas:** Con mucha mayor afinidad estuárica”, especialmente a salinidades moderadas.
+
+**Modelos tróficos: Lago Nakuru (Vareschi):**
+
+Tiene carbonato sódico y una salinidad más baja de la que se suele ver en otras lagunas costeras.
+
+![alt text](<imagenes-4-curso/captu-oba-6.10.png>)
+
+Resulta que hay muchos vertebrados que se alimentan de dicha bacteria (Spirulina platensis => ahora Arthrospira) (ej. flamenco menor) -> consume muchisimas cianobacterias de este tipo, es un microfago que coge agua y filtra partículas. Es un consumidor directo. El aguila es un depredador de flamenco.
+Otro vertebrado que se alimenta directamente de Spirulina es la tilapia (Sarotherodon alcalicus, aunque ahora bajo otro nombre).
+Las flechas discontinuas se deben a que no se saben con exactitud los numeros (cuantificación).
+
+**Adaptaciones de los organismos:**
+
+- Halotolerante: puede sobrevivir a diferentes rangos de salinidad, toleran varias salinidades. 
+- Halófilos: organismos que no pueden vivir a baja salinidad (dependen de un rango de salinidad fijo).
+
+*Ejemplo de organismos halófilos:* Halobacterias (Arqueobacterias) Halobacterium salinarum. Diversos pigmentos de mucho interés, como la bacteriorodopsina que se relaciona con la membrana púrpura y un curioso fenómeno de bombeo de protones. Sin embargo es el carotenoide fotoprotector Bacterioruberina el responsable del color dominante de las acumulaciones de la bacteria. Proteinas resistentes al ambiente hipersalino. Incluso necesitan agua muy salada para estabilizar su estructura.
+
+
 
 
 
