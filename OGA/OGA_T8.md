@@ -74,6 +74,13 @@ yodo: importancia para las tiroides (ver más).
 
 **Salinas de la bahía de Cádiz:**
 
+Bromo:
+- Gas halógeno, usado antiguamente como anestésico (hoy en día no) y se explota desde la década de 1940. También se usaba como sales de bromuro para aplacar el apetito sexual (en ciertas etapas hormonales) -> comprobar fuentes.
+
+Karst: paisaje derivado de la disolución de carbonato cálcicos.
+
+
+
 
 
 
