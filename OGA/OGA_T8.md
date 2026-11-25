@@ -69,7 +69,10 @@ Las sales secas:
 - Las sales que se suelen yodar son las de tipo 1 y 2, que son aquellas destinadas al consumo humano.
 - 
 
+yodo: importancia para las tiroides (ver más).
 
+
+**Salinas de la bahía de Cádiz:**
 
 
 
