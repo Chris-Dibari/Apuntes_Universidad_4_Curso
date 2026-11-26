@@ -188,6 +188,49 @@ Mayor diferencia isotópica = mayor productividad en la zona (puesto que se reti
 
 
 
+En las aguas templadas tenemos más cantidad de organismos calcáreos y, además, siendo zonas más productivas se retiran nutrientes y sube la alcalinidad. El primer aspecto tiene mayor impacto que el segundo.
+
+![alt text](<imagenes-4-curso/captu-oqa-5.15.png>)
+
+ATN en las aguas superficiales de los océanos:
+- cte en las aguas templadas en latitudes bajas y medias. Los bajos valores de ATN en aguas templadas se deben a dos procesos biológicos que compiten entre si : la producción de carbonato cálcico y el consumo fotosintético de nutrientes
+- Bajada en las áreas donde el upwelling ecuatorial se produce
+- Subida en las aguas frías en latitudes altas debido al afloramiento de aguas subsuperficiales.
+
+![alt text](<imagenes-4-curso/captu-oqa-5.16.png>)
+
+Que ocurre en la columna de agua:
+- NTA apenas varia con el tiempo.
+- O. Atlántico y O. Pacífico las máximas desviaciones son de +- 2 umol kg-1 en un periodo de 20 años
+
+La distribución de la ATN sugiere que las cuencas oceánicas de los principales océanos pueden ser divididas en 6 regiones con diferentes tendencias de la ATN.
+
+**Otros trazadores del carbono:**
+
+- $pCO_2$: No es conservativo. Se mide por medio de un analizador de gases IR no dispersivo (IRGA).
+- CID o $TCO_2$: No es conservativo. Se mide por medio de técnicas culumbimétricas.
+
+### Modelos para estimar el carbono antropogénico
+
+Hay muchos modelos para esta finalidad. Objetivo: tener idea de como se han ido desarrollando y en que se basan.
+
+Idea: capacidad del mar de captar $CO_2$ de la atmósfera. Hay trabajos que afirman que ciertas zonas del océano ya no son capaces de captar carbono.
+
+La comunidad científica está realizando un gran esfuerzo para poder predecir cuanto $CO_2$ pueden captar los océanos y la biosfera terrestre en distintos escenarios futuros, y así mitigar el cambio climático. Se sabe que existen 2 mecanismos que sigue el océano a la hora de relacionarse con el $CO_2$.
+
+![alt text](<imagenes-4-curso/captu-oqa-5.17.png>)
+
+**Lentitud de los procesos de mezcla vertical:** sólo un 8 % del volumen total de los océanos se encuentra en equilibrio con la atmósfera, equivalente a los 350 m más superficiales. Requiere cientos de años.
+
+![alt text](<imagenes-4-curso/captu-oqa-5.18.png>)
+
+Requiere miles de años. En función del tamaño de la perturbación antropogénica, este mecanismo podría asimilar entre un 10 y un 15 % del $CO_2$ que entra en los océanos (estimación).
+Aunque la capacidad de captación de CO2 por los océanos es elevada, existe un desajuste importante entre las escalas de tiempo con se producen las emisiones a la atmósfera y el tiempo de respuesta de los océanos para asimilarlas.
+
+
+
+
+
 
 
 
