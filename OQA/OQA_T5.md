@@ -227,6 +227,40 @@ La comunidad científica está realizando un gran esfuerzo para poder predecir c
 Requiere miles de años. En función del tamaño de la perturbación antropogénica, este mecanismo podría asimilar entre un 10 y un 15 % del $CO_2$ que entra en los océanos (estimación).
 Aunque la capacidad de captación de CO2 por los océanos es elevada, existe un desajuste importante entre las escalas de tiempo con se producen las emisiones a la atmósfera y el tiempo de respuesta de los océanos para asimilarlas.
 
+![alt text](<imagenes-4-curso/captu-oqa-5.19.png>)
+
+Gran sumidero en los polos del planeta (T inferiores de las aguas favorece la solubilidad de los gases).
+
+**Modelos para estimar el carbono antropogénico ($C_{ant}$)**
+
+**Efecto Suess:** gran parte del C que está entrando debido a la actividad humana por la quema de combustibles fósiles, muchos de los cuales proceden de MO (ricos en 12C) => el 14C que pudiera tener ya no los contienen. Por tanto, la atm se está enriqueciendo de 12C -> el mismo que está entrando en la sw, por tanto la relación de este isótopo con el 13C está bajando. == Disminución en la proporción de isótopos pesados de carbono (como el ¹⁴C o ¹³C) en la atmósfera de la Tierra, causada por la emisión masiva de dióxido de carbono (CO₂) procedente de la quema de combustibles fósiles.
+
+El $C_{ant}$ puede ser medido directamente, de ahí que se usen distintos modelos que nos permitan separar el $TCO_2$ antropogénico del $TCO_2$ total presente en el océano. La estimación de Cant en los océanos ha sido realizada por diferentes métodos empíricos a partir de los siguientes trazadores e hipótesis:
+
+1. Disminución de 13C en la columna de agua. Se considera el efecto de Suess (Quay et al., 1992).
+2. Transferencia de CO2 a través de la interfase atmósfera-océano (Takahashi et al., 2009).
+3. Inferencia de los valores de Cant a partir de relaciones de O2/CO2 en la atmósfera (Battle et al., 2000).
+4. Empleando medidas de CT (TCO2) en función del tiempo. (método “eMLR”;
+Wallace et al., 2001; Tanhua et al., 2005).
+5. Penetración de CFCs en el océano. Métodos“pCFC-age” o “Shortcut” (Thomas and Ittekkot, 2001; McNeil et al., 2003) y el “TTD” (Waugh et al., 2006)
+6. Métodos de “retro-cálculo”: a la concentración de CT (TCO2) actual se le corrige el efecto de la regeneración de la materia orgánica y la disolución o precipitación de carbonato cálcico.
+7. Modelos teóricos. Permiten realizar reproducciones del estado biogeoquímico actual, pasado y futuro del océano (Xu et al., 2000; Orr et al., 2001).
+8. Penetración de CFCs en el océano. Métodos“pCFC-age” o “Shortcut” (Thomas and Ittekkot, 2001; McNeil et al., 2003) y el “TTD” (Waugh et al., 2006)
+9. Métodos de “retro-cálculo”: a la concentración de CT (TCO2) actual se le corrige el efecto de la regeneración de la materia orgánica y la disolución o precipitación de carbonato cálcico. Son los más empleados hoy en día.
+10. Modelos teóricos. Permiten realizar reproducciones del estado biogeoquímico actual, pasado y futuro del océano (Xu et al., 2000; Orr et al., 2001).
+
+El 14C, 13C y CFCs no son trazadores ideales para reconstruir la invasión del CO2 en el océano -> tiempos medios de equilibración aire-agua no son del mismo orden que el del $CO_2$.
+
+- El 14C se equilibra 2 veces más rápido que el $CO_2$
+- CFCs hasta 10 veces más rápido que el $CO_2$
+
+El uso de los CFCs como trazadores de Cant tienen una validez caduca.
+
+**Modelos que usan técnicas de retroceso:**
+
+Se basan en retrocálculos en los que a la concentración de CID ($TCO_2$) actual se le corrige el efecto de la regeneración de la materia orgánica y la disolución o precipitación de carbonato cálcico.
+
+![alt text](<imagenes-4-curso/captu-oqa-5.20.png>)
 
 
 
