@@ -264,7 +264,7 @@ Se basan en retrocálculos en los que a la concentración de CID ($TCO_2$) actua
 
 ![alt text](<imagenes-4-curso/captu-oqa-5.21.png>)
 
-Los modelos se pueden clasificar en dos grandes grupos:
+Los modelos de retrocálculo se pueden clasificar en dos grandes grupos:
 
 1. Transient-Tracer-Method (TTD) -> Usan trazadores transitorios (CFCs) como proxys para estimar $C_{ant}$.
 2. Carbon-based methods -> Requieren medidas de $TCO_2$, AT, $O_2$, T y eventualmente S y algunos nutrientes.
