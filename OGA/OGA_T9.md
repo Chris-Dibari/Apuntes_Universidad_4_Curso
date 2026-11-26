@@ -17,3 +17,11 @@ p, li, div, h2, h3 {
 
 ##  Oceanografía Geológica Aplicada - TEMA 9. Exploración y explotación de recursos minerales marinos
 
+Que partes debe tener un informe de impacto ambiental:
+
+Impactos en:
+- tipo biológico
+- en la columna de agua
+- compactación del sedimento
+- etc
+
