@@ -159,14 +159,26 @@ Las flechas discontinuas se deben a que no se saben con exactitud los numeros (c
 - Halófilos: organismos que no pueden vivir a baja salinidad (dependen de un rango de salinidad fijo).
 
 *Ejemplo de organismos halófilos:* Halobacterias (Arqueobacterias) Halobacterium salinarum. Diversos pigmentos de mucho interés, como la bacteriorodopsina que se relaciona con la membrana púrpura y un curioso fenómeno de bombeo de protones. Sin embargo es el carotenoide fotoprotector Bacterioruberina el responsable del color dominante de las acumulaciones de la bacteria. Proteinas resistentes al ambiente hipersalino. Incluso necesitan agua muy salada para estabilizar su estructura.
+El color rojo que se asocia a dicha bacteria en el campo se debe a carotenoides (en mayor cantidad => rojo dominante). Son halófilos estrictos -> al aumentar mucho la salinidad en las células se desnaturalizan las proteínas.
 
+**Ejemplo de Halotolerante: Dunaliella** Dunaliella es una clorofícea, que muchos autores incluyen en el orden Volvocales (o bien en uno aparte Dunaliellales, debido a que no tienen pared celular rígida). Hay varias especies, aunque, quizás de forma práctica, las más frecuentes son D. salina y D. viridis que se distinguen por el tamaño y el contenido en carotenoides. Acumulación elevada de glicerol en las células -> evitan que el agua se salga fuera de las mismas. Se trata de un soluto compatible = a pesar de las altas concentraciones no daña las enzimas.
 
+Dunaliella salina en la naturaleza acumula tantos carotenoides que enmascara la visión del cloroplasto y otros orgánulos, apareciendo completamente roja-anaranjada.
 
+Dunaliella viridis es más delgada y pequeña que D salina y no acumula grandes cantidades de beta-carotenos por lo que el color verde de la clorofila en su cloroplasto en forma de copa es claramente visible.
 
+Productos de Dunaliella y "biotecnología”: 
 
+- Glicerol: Soluto compatible que sintetizan para contrarrestar la presión osmótica externa.
+- b-Caroteno: pigmento auxiliar que se piensa tiene papel fotoprotector. Le confiere el color anaranjado a Dunaliella salina.
 
+![alt text](<imagenes-4-curso/captu-oba-6.11.png>)
 
+La necesidad de alta salinidad e iluminación fuerte lleva a cultivarlas en salinas al aire libre mejor que en laboratorio. Hay un punto de equilibrio entre crecimiento de biomasa y contenido por célula que representa el óptimo de explotación.
 
+**Artemia:**
 
+El anostráceo Artemia (A. salina, A. parthenogenetica, etc) puede sobrevivir a salinidades muy altas, llegando a encontrarse incluso por encima de 300 g/L. Es el animal con una mayor tolerancia a salinidades altas y cambiantes. Mantiene una presión osmótica más o menos constante en su medio interno cuando la variación en el exterior va de 50 a 300 g/L ya que es una magnífica OSMORREGULADORA.
+Los mecanismos de osmorregulación son complejos. El tegumento es impermeable al agua y a los iones. Artemia bebe agua del medio externo, lo que mantiene la presión osmótica de su fluido intestinal superior a la de su hemolinfa. El Cloro y el Sodio son eliminados de su intestino gracias a la actividad del epitelio de sus branquias y a la actividad de una glándula especial “órgano del cuello” (neck-organ) situada en la parte dorsal del cuerpo.
 
 </div>
